@@ -6,26 +6,16 @@ fields:
       collapse: false
       previews: true
       sets:
+        hero_home:
+          display: 'Hero Home'
+          fields:
+            -
+              import: hero_home
         image_with_text:
           display: 'Bild mit Text'
           fields:
             -
               import: component_image_with_text
-        cards:
-          display: Cards
-          fields:
-            -
-              import: component_cards
-        hero_home:
-          display: 'Home Hero'
-          fields:
-            -
-              import: hero_home
-        link_cards:
-          display: 'Schnellzugriffe Karten'
-          fields:
-            -
-              import: component_link_cards
         contact_card:
           display: 'Kontakt Karte'
           fields:
@@ -81,11 +71,6 @@ fields:
                 instructions_position: above
                 visibility: visible
                 always_save: false
-        search:
-          display: Suche
-          fields:
-            -
-              import: search
         custom_form:
           display: Formular
           fields:
