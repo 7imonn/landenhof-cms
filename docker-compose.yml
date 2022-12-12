@@ -1,0 +1,114 @@
+# For more information: https://laravel.com/docs/sail
+version: '3'
+services:
+    laravel.test:
+        build:
+            context: ./vendor/laravel/sail/runtimes/8.1
+            dockerfile: Dockerfile
+            args:
+                WWWGROUP: '${WWWGROUP}'
+        image: sail-8.1/app
+        extra_hosts:
+            - 'host.docker.internal:host-gateway'
+        ports:
+            - '80'
+        environment:
+            VIRTUAL_HOST: statamic-skeleton-cms.novu.io
+            WWWUSER: '${WWWUSER}'
+            LARAVEL_SAIL: 1
+            XDEBUG_MODE: '${SAIL_XDEBUG_MODE:-off}'
+            XDEBUG_CONFIG: '${SAIL_XDEBUG_CONFIG:-client_host=host.docker.internal}'
+        volumes:
+            - '.:/var/www/html'
+        networks:
+            api:
+                aliases:
+                    - statamic-skeleton-cms.novu.io
+            sail:
+        depends_on:
+            - mysql
+            - redis
+            - nginx-proxy
+    mysql:
+        image: 'mysql/mysql-server:8.0'
+        ports:
+            - '${FORWARD_DB_PORT:-3306}:3306'
+        environment:
+            MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+            MYSQL_ROOT_HOST: "%"
+            MYSQL_DATABASE: '${DB_DATABASE}'
+            MYSQL_USER: '${DB_USERNAME}'
+            MYSQL_PASSWORD: '${DB_PASSWORD}'
+            MYSQL_ALLOW_EMPTY_PASSWORD: 1
+        volumes:
+            - 'sail-mysql:/var/lib/mysql'
+        networks:
+            - sail
+        healthcheck:
+            test: ["CMD", "mysqladmin", "ping", "-p${DB_PASSWORD}"]
+            retries: 3
+            timeout: 5s
+    redis:
+        image: 'redis:alpine'
+        ports:
+            - '${FORWARD_REDIS_PORT:-6379}:6379'
+        volumes:
+            - 'sail-redis:/data'
+        networks:
+            - sail
+        healthcheck:
+            test: ["CMD", "redis-cli", "ping"]
+            retries: 3
+            timeout: 5s
+    mailhog:
+        image: 'mailhog/mailhog:latest'
+        ports:
+            - '${FORWARD_MAILHOG_PORT:-1025}:1025'
+            - '${FORWARD_MAILHOG_DASHBOARD_PORT:-8025}:8025'
+        environment:
+            VIRTUAL_HOST: mailhog.novu.io
+            VIRTUAL_PORT: ${FORWARD_MAILHOG_DASHBOARD_PORT:-8025}
+        depends_on:
+            - nginx-proxy
+        networks:
+            - sail
+            - api
+#    web:
+#        image: node:14
+#        working_dir: /app
+#        command: /bin/bash -c "yarn install && yarn dev"
+#        volumes:
+#            - ../statamic-skeleton-web:/app
+#        extra_hosts:
+#            - 'host.docker.internal:host-gateway'
+#        ports:
+#            - '3000'
+#        environment:
+#            VIRTUAL_HOST: statamic-skeleton-web.novu.io
+#            HOST: 0.0.0.0
+#            APP_URL: ${FRONTEND_URL}
+#            BACKEND_URL: ${APP_URL}
+#            API_URL: ${APP_URL}/api
+#            API_GRAPHQL_URL: ${APP_URL}/graphql
+#        depends_on:
+#            - nginx-proxy
+#        networks:
+#            - api
+    nginx-proxy:
+        image: nginxproxy/nginx-proxy
+        ports:
+            - '80:80'
+        volumes:
+            - /var/run/docker.sock:/tmp/docker.sock:ro
+        networks:
+            - api
+networks:
+    api:
+        driver: bridge
+    sail:
+        driver: bridge
+volumes:
+    sail-mysql:
+        driver: local
+    sail-redis:
+        driver: local

@@ -1,0 +1,41 @@
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          localizable: true
+          validate:
+            - required
+      -
+        handle: publication_time
+        field:
+          mode: single
+          time_enabled: true
+          time_seconds_enabled: false
+          full_width: true
+          inline: false
+          columns: 1
+          rows: 1
+          display: 'Veröffentlichungs Zeit'
+          type: date
+          icon: date
+          localizable: true
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: media_releases_text
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+title: Medienmitteilungen

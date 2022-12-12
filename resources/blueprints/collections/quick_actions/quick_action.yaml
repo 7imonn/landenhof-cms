@@ -1,0 +1,118 @@
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          localizable: true
+          validate:
+            - required
+          display: Titel
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
+      -
+        handle: link
+        field:
+          display: Link
+          type: link
+          icon: link
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          localizable: true
+      -
+        handle: subtitle
+        field:
+          input_type: text
+          antlers: false
+          display: Untertitel
+          type: text
+          icon: text
+          localizable: true
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          width: 50
+      -
+        import: icon_collection
+      -
+        handle: show_in_navigation
+        field:
+          default: false
+          display: 'In der Navigation einblenden'
+          type: toggle
+          icon: toggle
+          instructions: 'Wenn aktiviert, wird dieser Schnellzugriff im Navigationsmenü angezeigt.'
+          localizable: true
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: angaben_section
+        field:
+          display: Angaben
+          type: section
+          icon: section
+          instructions: 'Ein Schnellzugriff kann eine TelefonNr. ODER eine E-Mail Adresse hinterlegt haben.'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: phone
+        field:
+          input_type: text
+          antlers: false
+          display: Telefon
+          type: text
+          icon: text
+          localizable: true
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          width: 50
+      -
+        handle: email
+        field:
+          input_type: email
+          antlers: false
+          display: E-Mail
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          validate:
+            - email
+          localizable: true
+          width: 50
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - quick_actions
+          max_items: 1
+          listable: false
+          localizable: true
+title: Schnellzugriffe

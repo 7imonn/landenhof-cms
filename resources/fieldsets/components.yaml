@@ -1,0 +1,101 @@
+title: 'Replicator Components'
+fields:
+  -
+    handle: components
+    field:
+      collapse: false
+      previews: true
+      sets:
+        image_with_text:
+          display: 'Bild mit Text'
+          fields:
+            -
+              import: component_image_with_text
+        cards:
+          display: Cards
+          fields:
+            -
+              import: component_cards
+        hero_home:
+          display: 'Home Hero'
+          fields:
+            -
+              import: hero_home
+        link_cards:
+          display: 'Schnellzugriffe Karten'
+          fields:
+            -
+              import: component_link_cards
+        contact_card:
+          display: 'Kontakt Karte'
+          fields:
+            -
+              handle: contact_card
+              field:
+                max_items: 1
+                mode: default
+                create: true
+                collections:
+                  - cards
+                display: 'Kontakt Karte'
+                type: entries
+                icon: entries
+                listable: hidden
+                instructions_position: above
+                visibility: visible
+                always_save: false
+        text:
+          display: Text
+          fields:
+            -
+              handle: text
+              field:
+                collapse: false
+                always_show_set_button: false
+                previews: true
+                buttons:
+                  - h2
+                  - h3
+                  - bold
+                  - italic
+                  - unorderedlist
+                  - orderedlist
+                  - removeformat
+                  - anchor
+                save_html: false
+                toolbar_mode: fixed
+                link_noopener: false
+                link_noreferrer: false
+                target_blank: false
+                reading_time: false
+                fullscreen: true
+                allow_source: true
+                enable_input_rules: true
+                enable_paste_rules: true
+                antlers: false
+                remove_empty_nodes: false
+                display: Text
+                type: bard
+                icon: bard
+                listable: hidden
+                instructions_position: above
+                visibility: visible
+                always_save: false
+        search:
+          display: Suche
+          fields:
+            -
+              import: search
+        custom_form:
+          display: Formular
+          fields:
+            -
+              import: component_custom_form
+      display: Komponenten
+      type: replicator
+      icon: replicator
+      localizable: true
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

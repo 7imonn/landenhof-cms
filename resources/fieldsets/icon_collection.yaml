@@ -1,0 +1,37 @@
+title: 'Icon Sammlung'
+fields:
+  -
+    handle: icon_name
+    field:
+      options:
+        gavel: gavel
+        glass_broken: null
+        calculator: calculator
+        bell_desk: null
+        location_pin: null
+        mail_electronic: null
+        bow_tie: null
+        placeholder: null
+        office_building: null
+        phone: null
+        smartphone_portrait: null
+        scale: null
+        search: null
+        store: null
+        user: null
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      display: Icon
+      type: select
+      icon: select
+      instructions: 'Wähle ein Icon aus. Falls die Seite bereits ein Icon definiert hat, wird diese überschrieben.'
+      listable: hidden
+      instructions_position: below
+      visibility: visible
+      always_save: false
+      width: 50
+      localizable: true

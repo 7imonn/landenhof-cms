@@ -1,0 +1,64 @@
+title: 'Component Quick Accesses Cards'
+fields:
+  -
+    handle: title
+    field:
+      input_type: text
+      antlers: false
+      display: Titel
+      type: text
+      icon: text
+      localizable: true
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      validate:
+        - required
+  -
+    handle: text
+    field:
+      collapse: false
+      always_show_set_button: false
+      previews: true
+      buttons:
+        - bold
+        - italic
+        - removeformat
+        - quote
+        - anchor
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: false
+      remove_empty_nodes: false
+      display: Text
+      type: bard
+      icon: bard
+      localizable: true
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: quick_actions
+    field:
+      mode: default
+      create: true
+      collections:
+        - quick_actions
+      display: Schnellzugriffe
+      type: entries
+      icon: entries
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      localizable: true

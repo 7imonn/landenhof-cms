@@ -1,0 +1,32 @@
+title: Link
+fields:
+  -
+    handle: link_text
+    field:
+      input_type: text
+      antlers: false
+      display: 'Link Text'
+      type: text
+      icon: text
+      localizable: true
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      unless:
+        hasBtn: 'equals false'
+  -
+    handle: link
+    field:
+      display: Link
+      type: link
+      icon: link
+      localizable: true
+      width: 66
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      unless:
+        hasBtn: 'equals false'

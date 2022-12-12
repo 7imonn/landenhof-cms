@@ -1,0 +1,24 @@
+name: 'Nattha Khamso'
+super: true
+id: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
+password_hash: $2y$10$q6TFeBnzaGh6JkCY2p2nDuWsDB3gRL9U.g3ROHLvpPO5iZYdUZn/e
+preferences:
+  collections:
+    pages:
+      after_save: create_another
+    media_releases:
+      columns:
+        - title
+        - site
+        - slug
+        - publication_time
+  forms:
+    kontakt:
+      columns:
+        - datestamp
+        - vorname
+        - nachname
+        - firma
+        - email
+        - telefon
+        - bemerkung

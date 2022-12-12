@@ -1,0 +1,16 @@
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: link
+        field:
+          display: 'Kundenlogin Link'
+          type: link
+          icon: link
+          localizable: true
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          instructions: 'Wird in der Navigation verwendet.'
