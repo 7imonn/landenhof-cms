@@ -1,8 +1,6 @@
 title: Seiten
 sites:
   - de
-  - fr
-  - it
 propagate: true
 template: default
 layout: layout
