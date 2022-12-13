@@ -18,7 +18,17 @@ sections:
           input_type: text
           antlers: false
       -
-        import: heros
+        handle: hero_section
+        field:
+          display: Hero
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: hero_home
       -
         handle: content_section
         field:
