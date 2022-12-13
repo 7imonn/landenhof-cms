@@ -6,11 +6,6 @@ fields:
       collapse: false
       previews: true
       sets:
-        hero_home:
-          display: 'Hero Home'
-          fields:
-            -
-              import: hero_home
         image_with_text:
           display: 'Bild mit Text'
           fields:

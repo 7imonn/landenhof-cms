@@ -1,0 +1,28 @@
+title: 'Replicator Heros'
+fields:
+  -
+    handle: heros
+    field:
+      collapse: false
+      previews: true
+      max_sets: 1
+      sets:
+        hero_home:
+          display: Startseite
+          fields:
+            -
+              import: hero_home
+        hero_default:
+          display: Standard
+          fields:
+            -
+              import: hero_default
+      display: Hero
+      type: replicator
+      icon: replicator
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      validate:
+        - required

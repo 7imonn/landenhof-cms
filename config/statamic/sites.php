@@ -15,23 +15,11 @@ return [
 
     'sites' => [
 
-        'de' => [
-            'name' => 'Deutsch',
+        'default' => [
+            'name' => config('app.name'),
             'lang' => 'de',
             'locale' => 'de',
-            'url' => env('FRONTEND_URL'),
-        ],
-
-        'fr' => [
-            'name' => 'Französisch',
-            'locale' => 'fr',
-            'url' => env('FRONTEND_URL').'/fr/',
-        ],
-
-        'it' => [
-            'name' => 'Italienisch',
-            'locale' => 'it',
-            'url' => env('FRONTEND_URL').'/it/',
+            'url' => config('app.frontend_url'),
         ],
 
     ],
