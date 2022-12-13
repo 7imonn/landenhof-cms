@@ -18,6 +18,19 @@ fields:
       visibility: visible
       always_save: false
   -
+    handle: subtitle
+    field:
+      input_type: text
+      antlers: false
+      display: Untertitel
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50
+  -
     handle: heading
     field:
       input_type: text
@@ -32,35 +45,5 @@ fields:
       always_save: false
       validate:
         - required
-  -
-    handle: text
-    field:
-      collapse: false
-      always_show_set_button: false
-      previews: true
-      buttons:
-        - bold
-        - italic
-        - anchor
-      save_html: false
-      toolbar_mode: fixed
-      link_noopener: false
-      link_noreferrer: false
-      target_blank: false
-      reading_time: false
-      fullscreen: true
-      allow_source: true
-      enable_input_rules: true
-      enable_paste_rules: true
-      antlers: false
-      remove_empty_nodes: false
-      display: Text
-      type: bard
-      icon: bard
-      localizable: true
-      listable: hidden
-      instructions_position: above
-      visibility: visible
-      always_save: false
   -
     import: link
