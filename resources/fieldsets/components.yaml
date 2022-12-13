@@ -6,29 +6,6 @@ fields:
       collapse: false
       previews: true
       sets:
-        image_with_text:
-          display: 'Bild mit Text'
-          fields:
-            -
-              import: component_image_with_text
-        contact_card:
-          display: 'Kontakt Karte'
-          fields:
-            -
-              handle: contact_card
-              field:
-                max_items: 1
-                mode: default
-                create: true
-                collections:
-                  - cards
-                display: 'Kontakt Karte'
-                type: entries
-                icon: entries
-                listable: hidden
-                instructions_position: above
-                visibility: visible
-                always_save: false
         text:
           display: Text
           fields:
@@ -66,6 +43,11 @@ fields:
                 instructions_position: above
                 visibility: visible
                 always_save: false
+        image_with_text:
+          display: 'Bild mit Text'
+          fields:
+            -
+              import: component_image_with_text
         custom_form:
           display: Formular
           fields:
