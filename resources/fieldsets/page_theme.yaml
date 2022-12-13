@@ -9,7 +9,7 @@ fields:
       taggable: false
       push_tags: false
       cast_booleans: false
-      display: 'Seiten Farbe (Bereich)'
+      display: Bereich
       type: select
       icon: select
       listable: hidden
