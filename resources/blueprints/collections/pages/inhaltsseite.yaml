@@ -58,3 +58,5 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        import: page_theme
