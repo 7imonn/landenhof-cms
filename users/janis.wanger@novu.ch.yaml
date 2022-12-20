@@ -2,3 +2,10 @@ name: 'Janis Wanger'
 super: true
 id: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
 password_hash: $2y$10$Awly2ThGEi1SK.dImRg1eexoJcrlnd.Rx4eUHwJ/lFQZxm1oBV/5.
+preferences:
+  collections:
+    team:
+      columns:
+        - title
+        - email
+        - job_function

@@ -58,7 +58,6 @@ sections:
           visibility: visible
           always_save: false
   sidebar:
-    display: Sidebar
     fields:
       -
         handle: slug
