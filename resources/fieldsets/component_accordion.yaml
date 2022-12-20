@@ -1,0 +1,62 @@
+title: 'Component Accordion'
+fields:
+  -
+    handle: accordion_group
+    field:
+      fields:
+        -
+          handle: heading
+          field:
+            input_type: text
+            antlers: false
+            display: Titel
+            type: text
+            icon: text
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
+          handle: text
+          field:
+            collapse: false
+            always_show_set_button: false
+            previews: true
+            buttons:
+              - bold
+              - italic
+              - unorderedlist
+              - orderedlist
+              - removeformat
+              - quote
+              - anchor
+              - image
+            save_html: false
+            toolbar_mode: fixed
+            link_noopener: false
+            link_noreferrer: false
+            target_blank: false
+            reading_time: false
+            fullscreen: true
+            allow_source: true
+            enable_input_rules: true
+            enable_paste_rules: true
+            antlers: false
+            remove_empty_nodes: false
+            display: text
+            type: bard
+            icon: bard
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: stacked
+      min_rows: 1
+      reorderable: true
+      display: 'Akordeon Gruppe'
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

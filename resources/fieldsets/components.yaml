@@ -53,6 +53,11 @@ fields:
           fields:
             -
               import: component_custom_form
+        accordion_group:
+          display: 'Akordeon Gruppe'
+          fields:
+            -
+              import: component_accordion
       display: Komponenten
       type: replicator
       icon: replicator
