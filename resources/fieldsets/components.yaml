@@ -63,6 +63,11 @@ fields:
           fields:
             -
               import: component_contact_teaser
+        partner_logos:
+          display: Partnerlogos
+          fields:
+            -
+              import: component_partner_logos
       display: Komponenten
       type: replicator
       icon: replicator

@@ -1,0 +1,55 @@
+title: 'Component Partnerlogos'
+fields:
+  -
+    handle: heading
+    field:
+      input_type: text
+      antlers: false
+      display: Titel
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: partner
+    field:
+      fields:
+        -
+          handle: logo
+          field:
+            mode: list
+            container: assets
+            folder: partnerlogos
+            restrict: false
+            allow_uploads: true
+            show_filename: true
+            max_files: 1
+            display: Logo
+            type: assets
+            icon: assets
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
+          handle: link
+          field:
+            display: Link
+            type: link
+            icon: link
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: stacked
+      min_rows: 1
+      reorderable: true
+      display: Partner
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
