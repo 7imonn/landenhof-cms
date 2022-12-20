@@ -57,7 +57,20 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+      -
+        handle: tel_number
+        field:
+          input_type: text
+          antlers: false
+          display: 'Telefon Nummer'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
   sidebar:
+    display: Sidebar
     fields:
       -
         handle: slug

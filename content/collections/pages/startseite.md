@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1671442632
+updated_at: 1671532399
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -114,6 +114,28 @@ components:
                 text: 'haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
     type: accordion_group
     enabled: true
+  -
+    id: lbw32fvg
+    heading: 'Haben Sie Fragen?'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    type: contact_teaser
+    enabled: true
+    person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'

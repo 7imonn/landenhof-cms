@@ -58,6 +58,11 @@ fields:
           fields:
             -
               import: component_accordion
+        contact_teaser:
+          display: 'Kontakt Teaser / CTA'
+          fields:
+            -
+              import: component_contact_teaser
       display: Komponenten
       type: replicator
       icon: replicator
