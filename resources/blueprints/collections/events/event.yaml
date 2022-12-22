@@ -119,4 +119,6 @@ sections:
         field:
           type: slug
           localizable: true
+      -
+        import: page_theme
 title: Event
