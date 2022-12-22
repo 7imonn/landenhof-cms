@@ -1,0 +1,122 @@
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: has_page
+        field:
+          default: false
+          display: 'Eigene Seite'
+          type: toggle
+          icon: toggle
+          instructions: 'Definiert ob dieser event eine eigene Unterseite besitzt oder nicht.'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: true
+          width: 50
+      -
+        handle: is_accordion
+        field:
+          default: false
+          display: 'Als Akordeon darstellen'
+          type: toggle
+          icon: toggle
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: true
+      -
+        handle: location
+        field:
+          input_type: text
+          antlers: false
+          display: Ort
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: time
+        field:
+          input_type: text
+          antlers: false
+          display: Zeit
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: datum
+        field:
+          mode: single
+          time_enabled: false
+          time_seconds_enabled: false
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          display: Datum
+          type: date
+          icon: date
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+      -
+        handle: bard_text
+        field:
+          collapse: false
+          always_show_set_button: false
+          previews: true
+          buttons:
+            - h2
+            - h3
+            - bold
+            - italic
+            - unorderedlist
+            - orderedlist
+            - removeformat
+            - quote
+            - anchor
+            - image
+          save_html: false
+          toolbar_mode: fixed
+          link_noopener: false
+          link_noreferrer: false
+          target_blank: false
+          reading_time: false
+          fullscreen: true
+          allow_source: true
+          enable_input_rules: true
+          enable_paste_rules: true
+          antlers: false
+          remove_empty_nodes: false
+          display: Text
+          type: bard
+          icon: bard
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+title: Event
