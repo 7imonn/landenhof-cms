@@ -68,6 +68,11 @@ fields:
           fields:
             -
               import: component_partner_logos
+        event_cards:
+          display: 'Event Karten'
+          fields:
+            -
+              import: component_event_cards
       display: Komponenten
       type: replicator
       icon: replicator

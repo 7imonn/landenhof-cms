@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1671540672
+updated_at: 1671705316
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -163,6 +163,17 @@ components:
         logo: telefunken_fubk_test_pattern.svg.png
     type: partner_logos
     enabled: true
+  -
+    id: lbyxvpy5
+    heading: Events
+    hasFilter: false
+    show_all_events: false
+    type: event_cards
+    enabled: true
+    events:
+      - 19662efc-0d51-44d4-8b59-eae9e59a8653
+      - d4ef331d-fa31-4db0-9f8b-bbd6f5cb0b32
+      - db360939-dbdd-4f08-a191-ff6608a1a425
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'

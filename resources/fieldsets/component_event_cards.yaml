@@ -1,0 +1,54 @@
+title: 'Component Event Karten'
+fields:
+  -
+    handle: heading
+    field:
+      input_type: text
+      antlers: false
+      display: Titel
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: hasFilter
+    field:
+      default: false
+      display: 'Filter Anzeigen'
+      type: toggle
+      icon: toggle
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: true
+      width: 50
+  -
+    handle: show_all_events
+    field:
+      default: true
+      display: 'Alle Events Anzeigen'
+      type: toggle
+      icon: toggle
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: true
+      width: 50
+  -
+    handle: events
+    field:
+      mode: default
+      create: true
+      display: Events
+      type: entries
+      icon: entries
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      if:
+        show_all_events: 'equals false'
+      collections:
+        - events
