@@ -3,7 +3,7 @@ sections:
     display: Hauptteil
     fields:
       -
-        handle: contact
+        handle: address
         field:
           collapse: false
           always_show_set_button: false
@@ -20,9 +20,45 @@ sections:
           enable_paste_rules: true
           antlers: false
           remove_empty_nodes: false
-          display: Kontakt
+          display: Adresse
           type: bard
           icon: bard
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          buttons:
+            - h2
+            - h3
+            - bold
+            - italic
+            - unorderedlist
+            - orderedlist
+            - removeformat
+            - quote
+            - anchor
+            - image
+            - table
+      -
+        handle: phone
+        field:
+          input_type: text
+          antlers: false
+          display: 'Telefon Nummer'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: email
+        field:
+          input_type: text
+          antlers: false
+          display: Email
+          type: text
+          icon: text
           listable: hidden
           instructions_position: above
           visibility: visible
