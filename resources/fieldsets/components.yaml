@@ -73,6 +73,11 @@ fields:
           fields:
             -
               import: component_event_cards
+        teaser_large_slider:
+          display: 'Component Teaser gross (Slider)'
+          fields:
+            -
+              import: component_teaser_large_slider
       display: Komponenten
       type: replicator
       icon: replicator
