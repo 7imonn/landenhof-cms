@@ -31,6 +31,20 @@ fields:
             visibility: visible
             always_save: false
         -
+          handle: positioning
+          field:
+            options:
+              imageIsRight: 'Bild rechts und Text links'
+              imageIsLeft: 'Bild links und Text rechts'
+            default: imageIsRight
+            display: Positionieren
+            type: button_group
+            icon: button_group
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
           handle: heading
           field:
             input_type: text

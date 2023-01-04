@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1672179382
+updated_at: 1672832014
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -190,6 +190,7 @@ components:
         link_text: 'Mehr erfahren'
         link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
         image: telefunken_fubk_test_pattern.svg.png
+        positioning: imageIsRight
       -
         id: lc6see6o
         heading: 'Zentrum für Hören  und Sehen'
@@ -202,6 +203,7 @@ components:
                 text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
         link_text: 'Mehr erfahren'
         image: telefunken_fubk_test_pattern.svg.png
+        positioning: imageIsLeft
     type: teaser_large_slider
     enabled: true
 subtitle: 'Führendes Kompetenzzentrum'
