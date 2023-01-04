@@ -1,0 +1,8 @@
+name: 'Kyle Werner'
+super: true
+id: fb21535d-3bc5-408c-88ff-093eb3462715
+password_hash: $2y$10$52Kk4xhHnHWqmdJAaAPsD.ZGOvcdvFOsy1/4OLdl8Y9P5kqbRi48a
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing

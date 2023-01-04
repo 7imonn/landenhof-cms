@@ -38,7 +38,18 @@ return [
     */
 
     'widgets' => [
-        'getting_started',
+        [
+            'type' => 'images_missing_alt', // Required
+            'container' => 'assets', // Default: "assets" – The container to search through. Can also be an array to include multiple containers.
+            'limit' => 50, // Default: 5 – The number of images to display in the widget.
+            'width' => 100, // Default: 100 – The size of the widget.
+        ],
+        [
+            'type' => 'unused-assets', // Required
+            'limit' => 500, // Default: 5 – The number of images to display in the widget.
+            'width' => 100, // Default: 100 – The size of the widget.
+            'excluded_paths' => ['assets/application_form/'], // Example: ['assets/myFolder/'] - Default: [] – The paths to exclude from the search.
+        ],
     ],
 
     /*

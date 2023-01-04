@@ -38,7 +38,8 @@
         "statamic/cms": "3.3.54.*",
         "teamnovu/laravel-novu-auth": "^6.0",
         "teamnovu/statamic-images-missing-alt": "^0.4.0",
-        "teamnovu/statamic-redirect-entry-uri": "^0.1"
+        "teamnovu/statamic-redirect-entry-uri": "^0.1",
+        "teamnovu/statamic-unused-assets": "^1.0"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.12",
