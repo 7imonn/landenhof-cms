@@ -2,8 +2,8 @@
 id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1672834226
+updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
+updated_at: 1672917193
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -150,7 +150,6 @@ components:
         logo: partnerlogos/happy-owl.jpg
       -
         id: lbw7d8q3
-        logo: telefunken_fubk_test_pattern.svg.png
       -
         id: lbw7dcfu
         logo: telefunken_fubk_test_pattern.svg.png

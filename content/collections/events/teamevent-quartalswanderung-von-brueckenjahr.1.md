@@ -14,5 +14,9 @@ bard_text:
         type: text
         text: 'Hier kann ein informativer Text, mit Informationen zum Event aufgeführt werden. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1671705209
+updated_at: 1672918268
+is_accordion: false
+page_theme: blue
+event_filter:
+  - medienbericht
 ---

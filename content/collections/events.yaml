@@ -1,4 +1,6 @@
 title: Events
+taxonomies:
+  - event_filter
 revisions: false
 date_behavior:
   past: public
