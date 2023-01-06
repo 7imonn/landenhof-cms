@@ -2,8 +2,8 @@
 id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
-updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1672917193
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1672994865
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -235,7 +235,7 @@ components:
     enabled: true
   -
     id: lchpfyr1
-    video_url: 'https://www.youtube.com/watch?v=r9PeYPHdpNo'
+    video_url: 'https://www.youtube.com/watch?v=rX40mBb8bkU'
     caption: 'Mein Text'
     overlay_image: deer.jpg
     type: video_default
