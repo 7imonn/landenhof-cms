@@ -7,6 +7,34 @@ updated_at: 1672917193
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
+    id: lck78318
+    heading: 'DOWNLOAD 1'
+    files:
+      -
+        id: lck787r8
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: false
+        name: 'Teamevent Quartalswanderung von Brückenjahr'
+      -
+        id: lck7pz2x
+        name: sadgfasdfasdf
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: true
+      -
+        id: lck905by
+        name: 'Link zu datei'
+        open_in_tab: false
+        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
+        file_type: PDF
+        file_size: '20 kb'
+      -
+        id: lck90a8p
+        name: 'Link zu datei 2'
+        open_in_tab: true
+        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
+    type: downloads
+    enabled: true
+  -
     id: lbm8yaak
     text:
       -
@@ -204,6 +232,13 @@ components:
         image: telefunken_fubk_test_pattern.svg.png
         positioning: imageIsLeft
     type: teaser_large_slider
+    enabled: true
+  -
+    id: lchpfyr1
+    video_url: 'https://www.youtube.com/watch?v=r9PeYPHdpNo'
+    caption: 'Mein Text'
+    overlay_image: deer.jpg
+    type: video_default
     enabled: true
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
