@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1672996932
+updated_at: 1673009362
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -241,27 +241,38 @@ components:
     type: video_default
     enabled: true
   -
-    id: lckac0kr
+    id: lckbnu7j
     images:
       -
-        id: XpXiIYq1
-        image: fox.jpg
-        text: 'Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco. Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco.'
-    type: Images
+        id: DgLjJonZ
+        image: elephants.jpg
+        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
+    type: images
     enabled: true
   -
-    id: lckacwui
+    id: lckbo319
     images:
       -
-        id: XpXiIYq1
+        id: DgLjJonZ
         image: fox.jpg
-        text: 'Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco.'
+        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
       -
-        id: lckad2tm
+        id: lckbo5u2
         image: deer.jpg
-        text: 'Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco.Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco.Quis exercitation quis anim eiusmod sint enim sint reprehenderit aliqua ullamco.'
-    type: Images
+        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
+    type: images
     enabled: true
+  -
+    id: lckbon6m
+    images:
+      - elephants.jpg
+      - deer.jpg
+      - fox.jpg
+      - happy-owl.jpg
+      - cows.jpg
+    type: gallery
+    enabled: true
+    loop: true
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'

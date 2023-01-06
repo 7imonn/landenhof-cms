@@ -88,11 +88,16 @@ fields:
           fields:
             -
               import: component_downloads
-        Images:
+        images:
           display: Bilder
           fields:
             -
               import: component_images
+        gallery:
+          display: Galerie
+          fields:
+            -
+              import: component_gallery
       display: Komponenten
       type: replicator
       icon: replicator
