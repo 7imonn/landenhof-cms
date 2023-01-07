@@ -16,3 +16,5 @@ sections:
           visibility: visible
           always_save: false
           instructions: 'Seitentitel kann hier überschrieben werden.'
+      -
+        import: page_theme

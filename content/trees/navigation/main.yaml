@@ -1,1 +1,37 @@
-{  }
+tree:
+  -
+    id: c56cc2c8-bd7f-4132-bb94-912c7ce82c57
+    title: Hören
+    data:
+      page_theme: green
+    children:
+      -
+        id: c5b26492-03a7-4cef-a24b-d7fc7676ef4a
+        title: Info
+        children:
+          -
+            id: da412981-d214-4760-b62b-a828dde3ad0b
+            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
+      -
+        id: ff702c54-e453-42a0-b955-061e6498b34b
+        title: Abklären
+      -
+        id: db9cddbc-050a-43fc-ad3d-aadd95924825
+        title: Beraten
+      -
+        id: 8298e5cb-66f0-4da7-9a36-2f2ac96ba824
+        title: Schule
+      -
+        id: cf100486-51c4-432d-8dbb-9d14fc948504
+        title: Hilfsmittel
+  -
+    id: f669aede-67d9-4f76-b3dd-90cfa26f67c2
+    title: Sehen
+    data:
+      page_theme: pink
+  -
+    id: 1b5dce6f-ae65-4e34-b43f-01c22edb49d2
+    title: 'Über den Landenhof'
+  -
+    id: 053a6147-71ff-489c-afdb-4bd869d9153a
+    title: 'Jobs & Karriere'
