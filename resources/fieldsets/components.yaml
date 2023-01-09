@@ -98,6 +98,11 @@ fields:
           fields:
             -
               import: component_gallery
+        job_cards:
+          display: 'Job Karten'
+          fields:
+            -
+              import: component_job_cards
       display: Komponenten
       type: replicator
       icon: replicator
