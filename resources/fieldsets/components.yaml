@@ -103,6 +103,11 @@ fields:
           fields:
             -
               import: component_job_cards
+        google_maps:
+          display: Google.Maps
+          fields:
+            -
+              import: google_maps
       display: Komponenten
       type: replicator
       icon: replicator

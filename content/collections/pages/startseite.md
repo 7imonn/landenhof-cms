@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673251425
+updated_at: 1673257604
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -280,6 +280,10 @@ components:
     button_text: 'Zur Übersicht'
     button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
     type: job_cards
+    enabled: true
+  -
+    id: lcomdgzs
+    type: google_maps
     enabled: true
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'

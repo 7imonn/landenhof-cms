@@ -1,0 +1,13 @@
+title: 'Google Maps'
+fields:
+  -
+    handle: google_maps
+    field:
+      display: 'Google Maps'
+      type: section
+      icon: section
+      instructions: 'Die Adresse welche auf google maps angezeigt wird wird in den Globalen Inhalte definiert'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

@@ -40,6 +40,34 @@ sections:
             - image
             - table
       -
+        handle: latitude
+        field:
+          input_type: text
+          antlers: false
+          default: '47.3748152404601,'
+          display: Breitengrad
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: longitude
+        field:
+          input_type: text
+          antlers: false
+          default: '8.04445145346212'
+          display: Längengrad
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
         handle: phone
         field:
           input_type: text
@@ -57,6 +85,18 @@ sections:
           input_type: text
           antlers: false
           display: Email
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: pc_account
+        field:
+          input_type: text
+          antlers: false
+          display: PC-Konto
           type: text
           icon: text
           listable: hidden
