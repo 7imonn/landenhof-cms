@@ -1,0 +1,50 @@
+title: 'Component Images as Shapes'
+fields:
+  -
+    handle: images
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 3
+      display: Bilder
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: overlap_top
+    field:
+      options:
+        0: Nein
+        small: 'Ein Wenig'
+        medium: Mittel
+      default: '0'
+      display: 'Überlappen oben'
+      type: button_group
+      icon: button_group
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50
+  -
+    handle: overlap_bottom
+    field:
+      options:
+        0: Nein
+        small: 'Ein Wenig'
+        medium: Mittel
+      default: '0'
+      display: 'Überlappen unten'
+      type: button_group
+      icon: button_group
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50

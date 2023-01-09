@@ -3,7 +3,7 @@ fields:
   -
     handle: components
     field:
-      collapse: false
+      collapse: true
       previews: true
       sets:
         text:
@@ -108,6 +108,11 @@ fields:
           fields:
             -
               import: google_maps
+        images_as_shapes:
+          display: 'Bilder in Formen'
+          fields:
+            -
+              import: component_images_as_shapes
       display: Komponenten
       type: replicator
       icon: replicator

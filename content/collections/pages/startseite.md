@@ -3,37 +3,9 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673257604
+updated_at: 1673272633
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
-  -
-    id: lck78318
-    heading: 'DOWNLOAD 1'
-    files:
-      -
-        id: lck787r8
-        file: downloads/lernstand-jw6umq-(4).pdf
-        open_in_tab: false
-        name: 'Teamevent Quartalswanderung von Brückenjahr'
-      -
-        id: lck7pz2x
-        name: sadgfasdfasdf
-        file: downloads/lernstand-jw6umq-(4).pdf
-        open_in_tab: true
-      -
-        id: lck905by
-        name: 'Link zu datei'
-        open_in_tab: false
-        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
-        file_type: PDF
-        file_size: '20 kb'
-      -
-        id: lck90a8p
-        name: 'Link zu datei 2'
-        open_in_tab: true
-        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
-    type: downloads
-    enabled: true
   -
     id: lbm8yaak
     text:
@@ -88,6 +60,44 @@ components:
             type: text
             text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
     type: text
+    enabled: true
+  -
+    id: lcoohkf4
+    images:
+      - fox.jpg
+      - elephants.jpg
+      - deer.jpg
+    type: images_as_shapes
+    enabled: true
+    overlap_top: small
+    overlap_bottom: small
+  -
+    id: lck78318
+    heading: 'DOWNLOAD 1'
+    files:
+      -
+        id: lck787r8
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: false
+        name: 'Teamevent Quartalswanderung von Brückenjahr'
+      -
+        id: lck7pz2x
+        name: sadgfasdfasdf
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: true
+      -
+        id: lck905by
+        name: 'Link zu datei'
+        open_in_tab: false
+        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
+        file_type: PDF
+        file_size: '20 kb'
+      -
+        id: lck90a8p
+        name: 'Link zu datei 2'
+        open_in_tab: true
+        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
+    type: downloads
     enabled: true
   -
     id: lbullglg
