@@ -42,6 +42,10 @@ tree:
         title: Info
         data:
           page_theme: pink
+        children:
+          -
+            id: dcd0b332-54f7-4e10-a972-d0c32e9080c1
+            entry: 4b723536-a2c8-413d-961b-b0dc99e0f19f
       -
         id: 3841091c-1f25-4ad4-b765-0787fe4bb712
         title: Abklären
