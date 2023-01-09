@@ -113,6 +113,11 @@ fields:
           fields:
             -
               import: component_images_as_shapes
+        icon_cards:
+          display: 'Icon Karten'
+          fields:
+            -
+              import: component_icon_cards
       display: Komponenten
       type: replicator
       icon: replicator

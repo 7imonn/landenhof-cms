@@ -3,9 +3,54 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673272633
+updated_at: 1673277423
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
+  -
+    id: lcovy82x
+    icon_cards:
+      -
+        id: MnHbXaWH
+        color: green
+        title: Hören
+        text: 'Erfahren Sie mehr über unsere Angebote für hörbeeinträchtigte Kinder und Jugendliche'
+        links:
+          -
+            id: lcovyjzw
+            link_title: Hörabklärung
+            link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
+          -
+            id: lcovz5nz
+            link_title: 'Tagesschule für Hörbeeinträchtigte'
+            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+        icon: icons/ear-icon.svg
+      -
+        id: lcovzgdx
+        color: pink
+        title: Sehen
+        text: 'Erfahren Sie mehr über unsere Angebote für sehbeeinträchtigte Kinder und Jugendliche'
+        links:
+          -
+            id: lcow04lv
+            link_title: 'Low Vision Abklärung'
+            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+          -
+            id: lcow05d8
+            link_title: 'Heilpädagogische Früherziehung'
+            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+        icon: icons/eye-icon.svg
+    type: icon_cards
+    enabled: true
+  -
+    id: lcoohkf4
+    images:
+      - fox.jpg
+      - elephants.jpg
+      - deer.jpg
+    type: images_as_shapes
+    enabled: true
+    overlap_top: medium
+    overlap_bottom: small
   -
     id: lbm8yaak
     text:
@@ -61,16 +106,6 @@ components:
             text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
     type: text
     enabled: true
-  -
-    id: lcoohkf4
-    images:
-      - fox.jpg
-      - elephants.jpg
-      - deer.jpg
-    type: images_as_shapes
-    enabled: true
-    overlap_top: small
-    overlap_bottom: small
   -
     id: lck78318
     heading: 'DOWNLOAD 1'
