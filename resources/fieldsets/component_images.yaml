@@ -35,7 +35,7 @@ fields:
       mode: stacked
       min_rows: 1
       reorderable: true
-      display: Images
+      display: Bilder
       type: grid
       icon: grid
       listable: hidden

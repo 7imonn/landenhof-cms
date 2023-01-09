@@ -16,7 +16,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Caption
+      display: Beschriftung
       type: text
       icon: text
       instructions: 'Wird dem Video als Beschreibungstext hinterlegt (das Video äquivalent zum alt Text bei Bilder)'
