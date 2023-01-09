@@ -42,10 +42,6 @@ tree:
         title: Info
         data:
           page_theme: pink
-        children:
-          -
-            id: dcd0b332-54f7-4e10-a972-d0c32e9080c1
-            entry: 4b723536-a2c8-413d-961b-b0dc99e0f19f
       -
         id: 3841091c-1f25-4ad4-b765-0787fe4bb712
         title: Abklären
@@ -56,6 +52,10 @@ tree:
       -
         id: fc525699-558d-4a7c-a73f-b87278f9c4a4
         title: Beraten
+        children:
+          -
+            id: dcd0b332-54f7-4e10-a972-d0c32e9080c1
+            entry: 4b723536-a2c8-413d-961b-b0dc99e0f19f
       -
         id: af4c0e24-cfda-4eb8-9773-440de8be503b
         title: Schule
