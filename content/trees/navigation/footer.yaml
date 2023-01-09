@@ -1,1 +1,21 @@
-{  }
+tree:
+  -
+    id: d1ade7d2-3a00-49cc-85cf-145bad1e1e37
+    title: Karriere
+    children:
+      -
+        id: 3b367378-bdbd-4365-bea8-5f63cd8c22a4
+        entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
+      -
+        id: 0393f087-350b-4082-b6fd-2f0506f89443
+        entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
+  -
+    id: 4c2bc88a-ec5a-4a95-b2ea-cdd82efc7f0c
+    title: Services
+    children:
+      -
+        id: a13c15c2-b34b-4d67-9460-048715006e38
+        entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
+      -
+        id: aa6f0d9d-6984-43b4-b04a-809aa6c62a47
+        entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51

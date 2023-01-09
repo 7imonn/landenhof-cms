@@ -13,9 +13,6 @@ tree:
             id: da412981-d214-4760-b62b-a828dde3ad0b
             entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
           -
-            id: 3f65fbf3-7b67-4cfe-b13e-63e0ba780811
-            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
-          -
             id: eeb0e0e3-67ea-4d2d-ab53-54d0828c857e
             entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
       -
@@ -48,6 +45,10 @@ tree:
       -
         id: 3841091c-1f25-4ad4-b765-0787fe4bb712
         title: Abklären
+        children:
+          -
+            id: 3f65fbf3-7b67-4cfe-b13e-63e0ba780811
+            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
       -
         id: fc525699-558d-4a7c-a73f-b87278f9c4a4
         title: Beraten
