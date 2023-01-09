@@ -12,9 +12,19 @@ tree:
           -
             id: da412981-d214-4760-b62b-a828dde3ad0b
             entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
+          -
+            id: 3f65fbf3-7b67-4cfe-b13e-63e0ba780811
+            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
+          -
+            id: eeb0e0e3-67ea-4d2d-ab53-54d0828c857e
+            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
       -
         id: ff702c54-e453-42a0-b955-061e6498b34b
         title: Abklären
+        children:
+          -
+            id: e926d62a-5b54-4132-a9ff-060452e310ac
+            entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
       -
         id: db9cddbc-050a-43fc-ad3d-aadd95924825
         title: Beraten
@@ -29,9 +39,37 @@ tree:
     title: Sehen
     data:
       page_theme: pink
+    children:
+      -
+        id: 64493551-bd2f-4357-be5b-23ae1ebda921
+        title: Info
+        data:
+          page_theme: pink
+      -
+        id: 3841091c-1f25-4ad4-b765-0787fe4bb712
+        title: Abklären
+      -
+        id: fc525699-558d-4a7c-a73f-b87278f9c4a4
+        title: Beraten
+      -
+        id: af4c0e24-cfda-4eb8-9773-440de8be503b
+        title: Schule
+      -
+        id: 922e9abc-40f3-4256-b020-e339ef0a7a97
+        title: Hilfsmittel
   -
     id: 1b5dce6f-ae65-4e34-b43f-01c22edb49d2
     title: 'Über den Landenhof'
+    children:
+      -
+        id: 4876b306-8064-4dd7-a1b2-f0a1b6adc7dc
+        title: 'Über uns'
+      -
+        id: a1e9aeeb-5c98-46ed-9340-2340be26909e
+        title: Organisation
+      -
+        id: be540fce-ceaa-42bb-9bf1-4890fc3bd9bc
+        title: Strategie
   -
     id: 053a6147-71ff-489c-afdb-4bd869d9153a
     title: 'Jobs & Karriere'
