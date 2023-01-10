@@ -336,4 +336,5 @@ subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
 color_theme: green
+lottie: lottie/home.json
 ---
