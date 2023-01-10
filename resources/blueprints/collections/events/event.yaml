@@ -120,5 +120,5 @@ sections:
           type: slug
           localizable: true
       -
-        import: page_theme
+        import: color_theme
 title: Event

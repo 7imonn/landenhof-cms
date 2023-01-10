@@ -16,7 +16,7 @@ bard_text:
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
 updated_at: 1672918268
 is_accordion: false
-page_theme: blue
+color_theme: blue
 event_filter:
   - medienbericht
 ---

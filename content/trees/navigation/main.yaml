@@ -3,7 +3,7 @@ tree:
     id: c56cc2c8-bd7f-4132-bb94-912c7ce82c57
     title: Hören
     data:
-      page_theme: green
+      color_theme: green
     children:
       -
         id: c5b26492-03a7-4cef-a24b-d7fc7676ef4a
@@ -35,13 +35,13 @@ tree:
     id: f669aede-67d9-4f76-b3dd-90cfa26f67c2
     title: Sehen
     data:
-      page_theme: pink
+      color_theme: pink
     children:
       -
         id: 64493551-bd2f-4357-be5b-23ae1ebda921
         title: Info
         data:
-          page_theme: pink
+          color_theme: pink
       -
         id: 3841091c-1f25-4ad4-b765-0787fe4bb712
         title: Abklären

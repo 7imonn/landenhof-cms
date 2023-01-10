@@ -18,5 +18,5 @@ heros:
     type: hero_default
     enabled: true
 sammlungen_feld: events
-page_theme: blue
+color_theme: blue
 ---

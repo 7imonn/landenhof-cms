@@ -8,7 +8,7 @@ title: 'Berufsinfo-Messe  BIM 2022'
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
 updated_at: 1672918250
 is_accordion: true
-page_theme: green
+color_theme: green
 bard_text:
   -
     type: paragraph

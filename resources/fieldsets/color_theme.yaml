@@ -1,7 +1,7 @@
-title: 'Page Theme'
+title: 'Color Theme'
 fields:
   -
-    handle: page_theme
+    handle: color_theme
     field:
       multiple: false
       clearable: false
@@ -9,7 +9,7 @@ fields:
       taggable: false
       push_tags: false
       cast_booleans: false
-      display: Bereich
+      display: Farbe
       type: select
       icon: select
       listable: hidden
