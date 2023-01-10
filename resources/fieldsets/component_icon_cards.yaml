@@ -5,20 +5,7 @@ fields:
     field:
       fields:
         -
-          handle: color
-          field:
-            options:
-              blue: Blau
-              green: Grün
-              pink: Rosa
-            default: blue
-            display: Farbe
-            type: button_group
-            icon: button_group
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
+          import: color_theme
         -
           handle: icon
           field:

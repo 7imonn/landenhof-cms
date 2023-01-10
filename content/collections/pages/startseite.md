@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673353332
+updated_at: 1673354035
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -11,7 +11,6 @@ components:
     icon_cards:
       -
         id: MnHbXaWH
-        color: green
         title: Hören
         text: 'Erfahren Sie mehr über unsere Angebote für hörbeeinträchtigte Kinder und Jugendliche'
         links:
@@ -24,9 +23,9 @@ components:
             link_title: 'Tagesschule für Hörbeeinträchtigte'
             link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
         icon: icons/ear.svg
+        color_theme: green
       -
         id: lcovzgdx
-        color: pink
         title: Sehen
         text: 'Erfahren Sie mehr über unsere Angebote für sehbeeinträchtigte Kinder und Jugendliche'
         links:
@@ -39,6 +38,7 @@ components:
             link_title: 'Heilpädagogische Früherziehung'
             link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
         icon: icons/eye.svg
+        color_theme: pink
     type: icon_cards
     enabled: true
   -
