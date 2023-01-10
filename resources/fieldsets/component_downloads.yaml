@@ -107,3 +107,28 @@ fields:
         - required
       visibility: visible
       always_save: false
+  -
+    handle: button_text
+    field:
+      input_type: text
+      antlers: false
+      display: 'Button Text'
+      type: text
+      icon: text
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      default: 'Mehr anzeigen'
+  -
+    handle: link
+    field:
+      display: Link
+      type: link
+      icon: link
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

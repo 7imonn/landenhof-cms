@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673277423
+updated_at: 1673338912
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -134,6 +134,8 @@ components:
         link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
     type: downloads
     enabled: true
+    button_text: 'Mehr anzeigen'
+    link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
   -
     id: lbullglg
     accordion_group:
