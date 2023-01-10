@@ -3,6 +3,19 @@ sections:
     display: Hauptteil
     fields:
       -
+        handle: address_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Adresse Titel'
+          type: text
+          icon: text
+          instructions: 'Wird für die Maps Komponente verwendet'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
         handle: address
         field:
           collapse: false
@@ -99,6 +112,100 @@ sections:
           display: PC-Konto
           type: text
           icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: public_transport_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Öffentlicher Verkehr Titel'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: public_transport_text
+        field:
+          antlers: false
+          display: 'Öffentlicher Verkehr Text'
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: public_transport_link_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Öffentlicher Verkehr  Link Titel'
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: public_transport_link
+        field:
+          display: 'Öffentlicher Verkehr  Link'
+          type: link
+          icon: link
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: private_transport_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Private Anreise'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: private_transport_text
+        field:
+          antlers: false
+          display: 'Private Anreise'
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: private_transport_link_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Private Anreise Link Titel'
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: private_transport_link
+        field:
+          display: 'Private Anreise Link'
+          type: link
+          icon: link
+          width: 50
           listable: hidden
           instructions_position: above
           visibility: visible
