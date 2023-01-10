@@ -1,4 +1,4 @@
-title: 'Bereich / Kategorie'
+title: Bereich
 sections:
   main:
     display: Hauptteil
@@ -11,12 +11,12 @@ sections:
           validate:
             - required
       -
-        handle: level_1_or_level_2
+        handle: level_1
         field:
-          display: 'Bereich oder Kategorie'
+          display: Bereich
           type: section
           icon: section
-          instructions: 'Dieser Blueprint dient der Strukturierung von Seiten in Bereiche oder Kategorien. Kategorien sind Untergruppen von Bereichen. Hier kann kein Inhalt erfasst werden.'
+          instructions: 'Dieser Blueprint dient der Strukturierung von Seiten in Bereiche. Hier kann kein Inhalt erfasst werden.'
           listable: hidden
           instructions_position: above
           visibility: visible

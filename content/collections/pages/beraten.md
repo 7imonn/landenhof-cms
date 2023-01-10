@@ -1,8 +1,9 @@
 ---
-id: 37da5f02-5bd9-47f9-90ad-4c87e4740e55
-blueprint: bereich
+id: 567053cb-7857-42bf-8eb6-e1a4a2692863
+blueprint: content_page
 title: Beraten
-parent: 1f903e41-a055-4e02-ab16-ede65fe42156
+heading: Beraten
+page_theme: blue
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673307628
+updated_at: 1673354613
 ---
