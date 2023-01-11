@@ -7,8 +7,8 @@ location: |-
   Artherstrasse 2, 6300 Zug
 event_date: '2022-09-13'
 title: 'Berufsinfo-Messe  BIM 2022'
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673451428
+updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
+updated_at: 1673477629
 is_accordion: true
 color_theme: green
 bard_text:
@@ -22,7 +22,6 @@ categories:
   - medienbericht
   - corona
 time: '10:30 – 11:30 Uhr'
-file: lottie/rz1_lh_lottie_event-horen.json
 description:
   -
     type: paragraph
@@ -85,6 +84,7 @@ components:
     type: text
     enabled: true
 person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
+file: lottie/rz2_lh_lottie_event-horen.json
 content:
   -
     type: paragraph

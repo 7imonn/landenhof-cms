@@ -6,7 +6,6 @@ heros:
   -
     id: lcrueffv
     heading: asdfasdf
-    file: lottie/rz1_lh_lottie_default-blue.json
     type: hero_default
     enabled: true
 heading:

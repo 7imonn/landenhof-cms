@@ -10,7 +10,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      instructions: 'Hier werden alle Blogs die in der Blog Sammlung erfasst sind chronologisch angezeigt. Die Filter werden darüber angezeigt.'
+      instructions: 'Hier werden alle Blogbeiträge, aus der Blog-Sammlung chronologisch angezeigt. Der Blog-Filter wird automatisch angezeigt.'
   -
     handle: heading
     field:
