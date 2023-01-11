@@ -28,13 +28,25 @@ sections:
           visibility: visible
           always_save: true
       -
-        handle: location
+        handle: title
         field:
-          input_type: text
-          antlers: false
-          display: Ort
           type: text
-          icon: text
+          required: true
+          validate:
+            - required
+      -
+        handle: event_date
+        field:
+          mode: single
+          time_enabled: false
+          time_seconds_enabled: false
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          display: Datum
+          type: date
+          icon: date
           listable: hidden
           instructions_position: above
           visibility: visible
@@ -52,46 +64,52 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: datum
+        handle: location
         field:
-          mode: single
-          time_enabled: false
-          time_seconds_enabled: false
-          full_width: false
-          inline: false
-          columns: 1
-          rows: 1
-          display: Datum
-          type: date
-          icon: date
+          antlers: false
+          display: Ort
+          type: textarea
+          icon: textarea
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
       -
-        handle: title
+        handle: image
         field:
-          type: text
-          required: true
-          validate:
-            - required
+          mode: list
+          container: assets
+          restrict: false
+          allow_uploads: true
+          show_filename: true
+          max_files: 1
+          display: Bild
+          type: assets
+          icon: assets
+          instructions: 'Bild, SVG, oder LottieFile. Für Events wird dieser Inhalt oben rechts dargestellt. Für Jobs wird dieser Inhalt unten in der Mitte angezeigt'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
       -
-        handle: bard_text
+        handle: content_section
+        field:
+          display: Inhalt
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: description
         field:
           collapse: false
           always_show_set_button: false
           previews: true
           buttons:
-            - h2
-            - h3
             - bold
             - italic
-            - unorderedlist
-            - orderedlist
-            - removeformat
-            - quote
-            - anchor
-            - image
           save_html: false
           toolbar_mode: fixed
           link_noopener: false
@@ -104,13 +122,16 @@ sections:
           enable_paste_rules: true
           antlers: false
           remove_empty_nodes: false
-          display: Text
+          display: Beschreibung
           type: bard
           icon: bard
+          instructions: 'Einleitungstext. Wird am Anfang der Seite angezeigt'
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
+      -
+        import: components
   sidebar:
     display: Sidebar
     fields:
@@ -121,4 +142,17 @@ sections:
           localizable: true
       -
         import: color_theme
+      -
+        handle: categories
+        field:
+          type: terms
+          taxonomies:
+            - categories
+          display: Kategorien
+          mode: select
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          create: true
 title: Event

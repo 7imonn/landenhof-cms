@@ -4,7 +4,7 @@ blueprint: event
 has_page: false
 location: 'Theater Casino Zug - Kleiner Casinosaal , Artherstrasse 2, 6300 Zug'
 time: '10:30 – 11:30 Uhr'
-datum: '2022-12-22'
+event_date: '2022-12-22'
 title: 'Teamevent Quartalswanderung von Brückenjahr'
 bard_text:
   -
@@ -17,6 +17,6 @@ updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
 updated_at: 1672918268
 is_accordion: false
 color_theme: blue
-event_filter:
+categories:
   - medienbericht
 ---

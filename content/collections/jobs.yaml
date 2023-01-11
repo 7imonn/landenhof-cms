@@ -1,4 +1,6 @@
 title: Jobs
+taxonomies:
+  - categories
 revisions: false
 date_behavior:
   past: public
