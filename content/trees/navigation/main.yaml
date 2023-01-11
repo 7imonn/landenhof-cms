@@ -52,10 +52,6 @@ tree:
       -
         id: fc525699-558d-4a7c-a73f-b87278f9c4a4
         title: Beraten
-        children:
-          -
-            id: dcd0b332-54f7-4e10-a972-d0c32e9080c1
-            entry: 4b723536-a2c8-413d-961b-b0dc99e0f19f
       -
         id: af4c0e24-cfda-4eb8-9773-440de8be503b
         title: Schule
@@ -76,5 +72,6 @@ tree:
         id: be540fce-ceaa-42bb-9bf1-4890fc3bd9bc
         title: Strategie
   -
-    id: 053a6147-71ff-489c-afdb-4bd869d9153a
+    id: 852ab286-7217-4398-9d62-bba00d3b0f27
+    entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
     title: 'Jobs & Karriere'

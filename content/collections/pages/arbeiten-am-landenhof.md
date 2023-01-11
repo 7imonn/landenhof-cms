@@ -9,9 +9,10 @@ heros:
     file: lottie/rz2_lh_lottie_default-white-1673455554.json
     type: hero_small
     enabled: true
+    is_white: true
 color_theme: blue
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673475069
+updated_at: 1673476274
 components:
   -
     id: lcs7uhu7
