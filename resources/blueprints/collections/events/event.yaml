@@ -75,22 +75,7 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: image
-        field:
-          mode: list
-          container: assets
-          restrict: false
-          allow_uploads: true
-          show_filename: true
-          max_files: 1
-          display: Bild
-          type: assets
-          icon: assets
-          instructions: 'Bild, SVG, oder LottieFile. Für Events wird dieser Inhalt oben rechts dargestellt. Für Jobs wird dieser Inhalt unten in der Mitte angezeigt'
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
+        import: file
       -
         handle: content_section
         field:
