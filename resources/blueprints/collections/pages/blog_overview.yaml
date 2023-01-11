@@ -1,4 +1,4 @@
-title: overview
+title: Blogübersicht
 sections:
   main:
     display: Hauptteil
@@ -10,6 +10,12 @@ sections:
           required: true
           validate:
             - required
+      -
+        import: heros
+      -
+        import: blog_overview
+      -
+        import: components
   sidebar:
     display: Sidebar
     fields:
@@ -18,6 +24,8 @@ sections:
         field:
           type: slug
           localizable: true
+      -
+        import: color_theme
       -
         handle: parent
         field:

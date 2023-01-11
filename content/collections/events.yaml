@@ -1,10 +1,11 @@
-title: 'Events'
+title: Events
 template: default
 layout: layout
+mount: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
 taxonomies:
   - categories
 revisions: false
-route: '/{parent}/{slug}'
+route: '/{mount}/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
