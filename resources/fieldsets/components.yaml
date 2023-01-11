@@ -43,11 +43,6 @@ fields:
                 instructions_position: above
                 visibility: visible
                 always_save: false
-        image_with_text:
-          display: 'Bild mit Text'
-          fields:
-            -
-              import: component_image_with_text
         custom_form:
           display: Formular
           fields:
