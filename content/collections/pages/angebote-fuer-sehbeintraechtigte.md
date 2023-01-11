@@ -1,23 +1,16 @@
 ---
-id: 4b723536-a2c8-413d-961b-b0dc99e0f19f
+id: 7fff6eb1-13fb-41b8-8f33-481db64651fd
 blueprint: content_page
 title: 'Angebote für Sehbeinträchtigte'
-heading: 'Angebote für Sehbeinträchtigte'
+heros:
+  -
+    id: snsWB7Vv
+    type: hero_default
+    heading: 'Angebote für Sehbeinträchtigte'
+    file: lottie/home.json
+    enabled: true
+parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 color_theme: pink
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673368353
-file: lottie/home.json
-components:
-  -
-    id: lcqgah06
-    heading: Downloads
-    files:
-      -
-        id: lcqgancb
-        name: 'Datei 1'
-        file: downloads/lernstand-jw6umq-(4).pdf
-        open_in_tab: false
-    button_text: 'Mehr anzeigen'
-    type: downloads
-    enabled: true
+updated_at: 1673439839
 ---

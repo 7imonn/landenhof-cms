@@ -30,7 +30,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      instructions: 'Es kann entweder eine Lottie (.json) oder Bild Datei hochgeladen werden.'
+      instructions: 'Es kann entweder eine Lottie Animation (.json) oder Bild Datei hochgeladen werden.'
       validate:
         - required
   -

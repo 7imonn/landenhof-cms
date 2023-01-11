@@ -18,17 +18,7 @@ sections:
           input_type: text
           antlers: false
       -
-        handle: hero_section
-        field:
-          display: Hero
-          type: section
-          icon: section
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
-        import: hero_default
+        import: heros
       -
         handle: content_section
         field:
