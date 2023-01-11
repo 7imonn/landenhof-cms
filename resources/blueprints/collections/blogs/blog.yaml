@@ -1,0 +1,121 @@
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+      -
+        handle: blog_date
+        field:
+          mode: single
+          time_enabled: false
+          time_seconds_enabled: false
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          display: Datum
+          type: date
+          icon: date
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: author
+        field:
+          input_type: text
+          antlers: false
+          display: 'Autor:In'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: image
+        field:
+          mode: list
+          container: assets
+          restrict: false
+          allow_uploads: true
+          show_filename: true
+          max_files: 1
+          display: Bild
+          type: assets
+          icon: assets
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: content_section
+        field:
+          display: Inhalt
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: description
+        field:
+          collapse: false
+          always_show_set_button: false
+          previews: true
+          buttons:
+            - bold
+            - italic
+          save_html: false
+          toolbar_mode: fixed
+          link_noopener: false
+          link_noreferrer: false
+          target_blank: false
+          reading_time: false
+          fullscreen: true
+          allow_source: true
+          enable_input_rules: true
+          enable_paste_rules: true
+          antlers: false
+          remove_empty_nodes: false
+          display: Beschreibung
+          type: bard
+          icon: bard
+          instructions: 'Einleitungstext. Wird am Anfang der Seite angezeigt'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: components
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        import: color_theme
+      -
+        handle: categories
+        field:
+          type: terms
+          taxonomies:
+            - categories
+          display: Kategorien
+          mode: select
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          create: true
+title: Blog
