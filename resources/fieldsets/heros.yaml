@@ -12,8 +12,14 @@ fields:
           fields:
             -
               import: hero_default
+        hero_small:
+          display: Klein
+          fields:
+            -
+              import: hero_small
       default:
-        - type: hero_default
+        -
+          type: hero_default
       display: Hero
       type: replicator
       icon: replicator

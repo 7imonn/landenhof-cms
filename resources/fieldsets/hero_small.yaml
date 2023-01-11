@@ -1,0 +1,37 @@
+title: 'Hero Small'
+fields:
+  -
+    handle: heading
+    field:
+      input_type: text
+      antlers: false
+      display: Titel
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      validate:
+        - required
+  -
+    handle: file
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 1
+      display: 'Lottie Animation / Bild'
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      instructions: 'Es kann entweder eine Lottie Animation (.json) oder Bild Datei hochgeladen werden.'
+      validate:
+        - required
+  -
+    import: link
