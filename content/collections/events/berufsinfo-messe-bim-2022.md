@@ -8,7 +8,7 @@ location: |-
 event_date: '2022-09-13'
 title: 'Berufsinfo-Messe  BIM 2022'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673448511
+updated_at: 1673451428
 is_accordion: true
 color_theme: green
 bard_text:
@@ -22,7 +22,7 @@ categories:
   - medienbericht
   - corona
 time: '10:30 – 11:30 Uhr'
-file: icons/multiple_ears.svg
+file: lottie/rz1_lh_lottie_event-horen.json
 description:
   -
     type: paragraph
