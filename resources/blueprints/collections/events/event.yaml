@@ -117,6 +117,18 @@ sections:
           always_save: false
       -
         import: components
+      -
+        handle: contact_teaser
+        field:
+          display: 'Kontakt Teaser'
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: component_contact_teaser
   sidebar:
     display: Sidebar
     fields:
