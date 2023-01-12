@@ -2,6 +2,8 @@ title: Team
 template: default
 layout: layout
 mount: f6bcab1b-725d-4004-8126-a5dc29e57696
+taxonomies:
+  - functions
 revisions: false
 route: '{mount}/{slug}'
 sort_dir: asc
