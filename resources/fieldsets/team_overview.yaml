@@ -1,0 +1,15 @@
+title: 'Team Overview'
+fields:
+  -
+    handle: team_overview
+    field:
+      display: 'Team Übersicht'
+      type: section
+      icon: section
+      instructions: 'Hier werden alle Teammitglieder, aus der Teams-Sammlung chronologisch angezeigt. Der Team-Filter wird automatisch angezeigt.'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    import: lead

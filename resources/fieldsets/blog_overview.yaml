@@ -12,32 +12,4 @@ fields:
       always_save: false
       instructions: 'Hier werden alle Blogbeiträge, aus der Blog-Sammlung chronologisch angezeigt. Der Blog-Filter wird automatisch angezeigt.'
   -
-    handle: heading
-    field:
-      collapse: false
-      always_show_set_button: false
-      previews: true
-      buttons:
-        - bold
-        - italic
-      save_html: false
-      toolbar_mode: fixed
-      link_noopener: false
-      link_noreferrer: false
-      target_blank: false
-      reading_time: false
-      fullscreen: true
-      allow_source: true
-      enable_input_rules: true
-      enable_paste_rules: true
-      antlers: false
-      remove_empty_nodes: false
-      display: Titel
-      type: bard
-      icon: bard
-      listable: hidden
-      instructions_position: above
-      visibility: visible
-      always_save: false
-      validate:
-        - required
+    import: lead

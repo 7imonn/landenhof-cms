@@ -11,6 +11,16 @@ sections:
           validate:
             - required
       -
+        handle: hero_section
+        field:
+          display: Hero
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
         import: hero_small
       -
         import: blog_overview

@@ -18,7 +18,7 @@ sections:
           input_type: text
           antlers: false
       -
-        handle: hero_section
+        handle: hero
         field:
           display: Hero
           type: section
@@ -30,16 +30,7 @@ sections:
       -
         import: hero_small
       -
-        handle: team_section
-        field:
-          display: 'Team Übersicht'
-          type: section
-          icon: section
-          instructions: 'Alle Team Mitglieder werden inkl. Filter hier automatisch angezeigt. Die Mitglieder können in der Sammlung "Team" verwaltet werden.'
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
+        import: team_overview
   sidebar:
     display: Sidebar
     fields:

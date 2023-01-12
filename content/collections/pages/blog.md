@@ -18,8 +18,15 @@ heading:
         type: text
         text: 'Blog Erfahrungen teilen und vermehren'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673526461
+updated_at: 1673530068
 color_theme: blue
 file: lottie/rz2_lh_lottie_stufe1-sehen.json
 is_white: true
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.'
 ---
