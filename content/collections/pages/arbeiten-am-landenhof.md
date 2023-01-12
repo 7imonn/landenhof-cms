@@ -18,15 +18,15 @@ heros:
     file: lottie/rz2_lh_lottie_default-white.json
 color_theme: blue
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673532442
+updated_at: 1673539888
 components:
   -
     id: lct5o5od
-    Heading: 'Offene Stellen'
-    job:
+    heading: 'Offene Stellen'
+    jobs:
       - e7267d7f-a8b6-458c-811b-22f36fb2be25
     button_text: 'Zur Übersicht'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+    button_link: 'entry::dd03c268-f866-42f1-97a0-4f8b9de479f7'
     type: job_cards
     enabled: true
   -

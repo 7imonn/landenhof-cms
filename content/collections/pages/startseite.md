@@ -323,7 +323,7 @@ components:
     loop: true
   -
     id: lcoioi8t
-    Heading: 'Job Karten'
+    heading: 'Job Karten'
     button_text: 'Zur Übersicht'
     button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
     type: job_cards

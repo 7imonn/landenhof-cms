@@ -1,7 +1,7 @@
 title: 'Component Job Cards'
 fields:
   -
-    handle: Heading
+    handle: heading
     field:
       input_type: text
       antlers: false
@@ -13,13 +13,13 @@ fields:
       visibility: visible
       always_save: false
   -
-    handle: job
+    handle: jobs
     field:
       mode: default
       create: true
       collections:
         - jobs
-      display: Job
+      display: Jobs
       type: entries
       icon: entries
       listable: hidden
@@ -51,4 +51,4 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      default: entry::c0a53f6a-b1db-4743-8846-000e71cc87a1
+      default: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
