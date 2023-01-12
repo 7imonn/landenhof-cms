@@ -9,7 +9,7 @@ heading:
       -
         type: text
         text: 'Arbeitsstelle Bezeichnung 80 - 100%'
-file: lottie/rz2_lh_lottie_stufe1-sehen.json
+file: lottie/rz2_lh_lottie_default-blue.json
 link_text: 'Jobs & Karriere'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
 is_white: false
@@ -42,5 +42,22 @@ components:
     enabled: true
 color_theme: blue
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673531658
+updated_at: 1673533951
+categories:
+  - medienbericht
+person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Non labore Lorem ipsum minim incididunt nostrud duis est velit excepteur ullamco culpa duis quis ad. Id proident culpa ut adipisicing magna quis do deserunt et enim quis duis excepteur. Pariatur et aute proident consectetur do irure. Enim deserunt id culpa commodo voluptate non do dolor irure consequat quis laboris id. Mollit quis deserunt id irure commodo pariatur dolor anim deserunt et ea pariatur aute exercitation. Nisi ad ea amet mollit anim ut exercitation ut.'
+content:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Duis officia dolor ipsum sunt aliqua dolor. '
 ---

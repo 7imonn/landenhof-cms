@@ -18,7 +18,7 @@ heros:
     file: lottie/rz2_lh_lottie_default-white.json
 color_theme: blue
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673531986
+updated_at: 1673532442
 components:
   -
     id: lct5o5od
