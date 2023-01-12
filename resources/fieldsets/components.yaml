@@ -36,11 +36,6 @@ fields:
           fields:
             -
               import: component_event_cards
-        custom_form:
-          display: Formular
-          fields:
-            -
-              import: component_custom_form
         gallery:
           display: Galerie
           fields:
