@@ -46,21 +46,6 @@ class Sitemap
                 $sitemap->add($url);
             });
 
-        $this->publishedTerms()
-            ->each(function (Term $term) use ($sitemap) {
-                $url = Url::create($term->absoluteUrl())
-                    ->setLastModificationDate(Carbon::createFromTimestamp($term->value('updated_at')))
-                    ->setChangeFrequency('')
-                    ->setPriority(0);
-
-                $term->sites()
-                    ->map(fn ($site) => $term->in($site))
-                    ->filter(fn (Term|null $t) => $t && $this->shouldBeIndexed($t) && $t->locale() !== $term->locale())
-                    ->each(fn (Term $t) => $url->addAlternate($t->absoluteUrl()));
-
-                $sitemap->add($url);
-            });
-
         $sitemap->writeToFile(public_path('sitemap.xml'));
 
         $this->sitemap = $sitemap;

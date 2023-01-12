@@ -18,9 +18,6 @@ class GenerateSitemap implements ShouldQueue
 
     public function handle()
     {
-        Sitemap::make(
-            excludeCollections: [],
-            excludeTaxonomies: [],
-        );
+        Sitemap::make();
     }
 }
