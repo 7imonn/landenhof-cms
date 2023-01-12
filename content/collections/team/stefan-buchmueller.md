@@ -1,6 +1,6 @@
 ---
 id: b0011baa-4e09-44da-b6af-6f9e7ad9a272
-blueprint: team
+blueprint: team_member
 title: 'Stefan Buchmüller'
 job_title: Geschäftsführer
 email: stefan.buchmueller@landenhof.ch

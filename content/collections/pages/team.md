@@ -8,9 +8,15 @@ heading:
     content:
       -
         type: text
-        text: 'Unsere Mitarbeitende Basis des Erfolgs'
+        text: 'Unsere Mitarbeitende '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Basis des Erfolgs'
 file: lottie/rz2_lh_lottie_default-blue.json
-is_white: false
+is_white: true
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673519685
+updated_at: 1673528692
 ---

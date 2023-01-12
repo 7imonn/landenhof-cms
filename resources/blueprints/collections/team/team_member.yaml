@@ -3,6 +3,20 @@ sections:
     display: Hauptteil
     fields:
       -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+          display: Name
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
+      -
         handle: portrait
         field:
           mode: list
@@ -19,21 +33,6 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
-      -
-        handle: title
-        field:
-          type: text
-          required: true
-          validate:
-            - required
-          display: Name
-          instructions_position: above
-          listable: hidden
-          visibility: visible
-          always_save: false
-          input_type: text
-          antlers: false
-          width: 50
       -
         handle: job_title
         field:
@@ -83,4 +82,4 @@ sections:
         field:
           type: slug
           localizable: true
-title: Team
+title: 'Team Mitglied'
