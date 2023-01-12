@@ -4,9 +4,11 @@ blueprint: blog_overview
 title: 'Blog Erfahrungen teilen und vermehren'
 heros:
   -
-    id: lcrueffv
-    heading: asdfasdf
-    type: hero_default
+    id: lcstpdt7
+    heading: 'Blog Erfahrungen teilen und vermehren'
+    file: lottie/rz2_lh_lottie_stufe1-sehen.json
+    is_white: true
+    type: hero_small
     enabled: true
 heading:
   -
@@ -14,7 +16,10 @@ heading:
     content:
       -
         type: text
-        text: 'At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.'
+        text: 'Blog Erfahrungen teilen und vermehren'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673452498
+updated_at: 1673512165
+color_theme: blue
+file: lottie/rz2_lh_lottie_stufe1-sehen.json
+is_white: true
 ---
