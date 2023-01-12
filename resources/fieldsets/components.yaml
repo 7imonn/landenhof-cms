@@ -6,6 +6,71 @@ fields:
       collapse: true
       previews: true
       sets:
+        accordion_group:
+          display: 'Akordeon Gruppe'
+          fields:
+            -
+              import: component_accordion
+        images:
+          display: Bilder
+          fields:
+            -
+              import: component_images
+        images_as_shapes:
+          display: 'Bilder in Formen'
+          fields:
+            -
+              import: component_images_as_shapes
+        teaser_large_slider:
+          display: 'Component Teaser gross (Slider)'
+          fields:
+            -
+              import: component_teaser_large_slider
+        downloads:
+          display: Downloads
+          fields:
+            -
+              import: component_downloads
+        event_cards:
+          display: 'Event Karten'
+          fields:
+            -
+              import: component_event_cards
+        custom_form:
+          display: Formular
+          fields:
+            -
+              import: component_custom_form
+        gallery:
+          display: Galerie
+          fields:
+            -
+              import: component_gallery
+        google_maps:
+          display: Google.Maps
+          fields:
+            -
+              import: google_maps
+        icon_cards:
+          display: 'Icon Karten'
+          fields:
+            -
+              import: component_icon_cards
+        job_cards:
+          display: 'Job Karten'
+          fields:
+            -
+              import: component_job_cards
+        contact_teaser:
+          display: 'Kontakt Teaser / CTA'
+          fields:
+            -
+              import: component_contact_teaser
+        partner_logos:
+          display: Partnerlogos
+          fields:
+            -
+              import: component_partner_logos
         text:
           display: Text
           fields:
@@ -43,76 +108,11 @@ fields:
                 instructions_position: above
                 visibility: visible
                 always_save: false
-        custom_form:
-          display: Formular
-          fields:
-            -
-              import: component_custom_form
-        accordion_group:
-          display: 'Akordeon Gruppe'
-          fields:
-            -
-              import: component_accordion
-        contact_teaser:
-          display: 'Kontakt Teaser / CTA'
-          fields:
-            -
-              import: component_contact_teaser
-        partner_logos:
-          display: Partnerlogos
-          fields:
-            -
-              import: component_partner_logos
-        event_cards:
-          display: 'Event Karten'
-          fields:
-            -
-              import: component_event_cards
-        teaser_large_slider:
-          display: 'Component Teaser gross (Slider)'
-          fields:
-            -
-              import: component_teaser_large_slider
         video_default:
           display: Video
           fields:
             -
               import: component_video
-        downloads:
-          display: Downloads
-          fields:
-            -
-              import: component_downloads
-        images:
-          display: Bilder
-          fields:
-            -
-              import: component_images
-        gallery:
-          display: Galerie
-          fields:
-            -
-              import: component_gallery
-        job_cards:
-          display: 'Job Karten'
-          fields:
-            -
-              import: component_job_cards
-        google_maps:
-          display: Google.Maps
-          fields:
-            -
-              import: google_maps
-        images_as_shapes:
-          display: 'Bilder in Formen'
-          fields:
-            -
-              import: component_images_as_shapes
-        icon_cards:
-          display: 'Icon Karten'
-          fields:
-            -
-              import: component_icon_cards
       display: Komponenten
       type: replicator
       icon: replicator
