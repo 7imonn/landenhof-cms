@@ -7,12 +7,12 @@ heros:
     id: snsWB7Vv
     type: hero_default
     heading: 'Angebote für Sehbeinträchtigte'
-    file: lottie/home.json
+    file: lottie/rz2_lh_lottie_stufe1-sehen.json
     enabled: true
 parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 color_theme: pink
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673533398
+updated_at: 1673534430
 lead:
   -
     type: paragraph
