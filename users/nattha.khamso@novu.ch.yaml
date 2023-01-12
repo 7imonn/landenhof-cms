@@ -12,6 +12,14 @@ preferences:
         - site
         - slug
         - publication_time
+    team:
+      columns:
+        - portrait
+        - title
+        - job_title
+        - email
+        - phone
+        - slug
   forms:
     kontakt:
       columns:

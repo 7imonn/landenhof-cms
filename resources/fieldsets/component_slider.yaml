@@ -1,0 +1,47 @@
+title: 'Component Slider'
+fields:
+  -
+    handle: title
+    field:
+      input_type: text
+      antlers: false
+      display: Title
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    import: link
+  -
+    handle: load_automatically
+    field:
+      default: false
+      display: load_automatically
+      type: toggle
+      icon: toggle
+      instructions: 'Wenn aktiviert, werden die Einträge automatisch geladen.'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: entries
+    field:
+      max_items: 6
+      mode: default
+      create: true
+      collections:
+        - blog
+      display: Einträge
+      type: entries
+      icon: entries
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      validate:
+        - required
+      if:
+        load_automatically: 'equals true'

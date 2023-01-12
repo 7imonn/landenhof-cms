@@ -8,4 +8,4 @@ preferences:
       columns:
         - title
         - email
-        - job_function
+        - job_title

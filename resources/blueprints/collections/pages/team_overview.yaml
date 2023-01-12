@@ -1,0 +1,59 @@
+title: 'Team Übersicht'
+sections:
+  main:
+    display: Hauptteil
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+          display: Seitentitel
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
+      -
+        handle: hero
+        field:
+          display: Hero
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: hero_small
+      -
+        handle: team_section
+        field:
+          display: 'Team Übersicht'
+          type: section
+          icon: section
+          instructions: 'Alle Team Mitglieder werden inkl. Filter hier automatisch angezeigt. Die Mitglieder können in der Sammlung "Team" verwaltet werden.'
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true

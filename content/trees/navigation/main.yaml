@@ -59,18 +59,12 @@ tree:
         id: 922e9abc-40f3-4256-b020-e339ef0a7a97
         title: Hilfsmittel
   -
-    id: 1b5dce6f-ae65-4e34-b43f-01c22edb49d2
-    title: 'Über den Landenhof'
+    id: ea64f9e3-c58e-4fbc-913f-f63bfe87f03b
+    entry: 473865f0-aeac-4d91-9b26-63598ae6c401
     children:
       -
-        id: 4876b306-8064-4dd7-a1b2-f0a1b6adc7dc
-        title: 'Über uns'
-      -
-        id: a1e9aeeb-5c98-46ed-9340-2340be26909e
-        title: Organisation
-      -
-        id: be540fce-ceaa-42bb-9bf1-4890fc3bd9bc
-        title: Strategie
+        id: b3651807-b8a0-4d6d-85c7-4941bf2b021c
+        entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
   -
     id: 852ab286-7217-4398-9d62-bba00d3b0f27
     entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8

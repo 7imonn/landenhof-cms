@@ -5,14 +5,20 @@ title: 'Arbeiten  am Landenhof'
 heros:
   -
     id: lcrrj9nz
-    heading: 'Arbeiten  am Landenhof'
+    heading:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Arbeiten  am Landenhof'
     type: hero_small
     enabled: true
     is_white: false
     file: lottie/rz2_lh_lottie_default-white.json
 color_theme: blue
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673477541
+updated_at: 1673519419
 components:
   -
     id: lcs7uhu7

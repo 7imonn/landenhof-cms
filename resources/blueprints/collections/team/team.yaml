@@ -12,7 +12,7 @@ sections:
           allow_uploads: true
           show_filename: true
           max_files: 1
-          display: 'Portrait Bild'
+          display: Portrait
           type: assets
           icon: assets
           listable: hidden
@@ -33,42 +33,48 @@ sections:
           always_save: false
           input_type: text
           antlers: false
+          width: 50
       -
-        handle: job_function
+        handle: job_title
         field:
           input_type: text
           antlers: false
-          display: 'Job Funktion'
+          display: Funktion
           type: text
           icon: text
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
+          validate:
+            - required
+          width: 50
       -
         handle: email
         field:
           input_type: text
           antlers: false
-          display: Email
+          display: E-Mail
           type: text
           icon: text
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
+          width: 50
       -
-        handle: tel_number
+        handle: phone
         field:
           input_type: text
           antlers: false
-          display: 'Telefon Nummer'
+          display: Telefon
           type: text
           icon: text
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
+          width: 50
   sidebar:
     display: Sidebar
     fields:
