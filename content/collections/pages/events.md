@@ -9,8 +9,8 @@ heading:
       -
         type: text
         text: 'Wo ist was los? Schaffen Sie sich einen Überblick über anstehende Veranstaltungen.'
-updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1672918940
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1673527016
 heros:
   -
     id: lcj0qq3h
@@ -19,4 +19,6 @@ heros:
     enabled: true
 sammlungen_feld: events
 color_theme: blue
+file: lottie/rz2_lh_lottie_stufe1-sehen.json
+is_white: true
 ---

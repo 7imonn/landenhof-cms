@@ -11,7 +11,7 @@ sections:
           validate:
             - required
       -
-        import: heros
+        import: hero_small
       -
         import: event_overview
       -

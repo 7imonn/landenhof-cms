@@ -18,7 +18,7 @@ heading:
         type: text
         text: 'Blog Erfahrungen teilen und vermehren'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673512165
+updated_at: 1673526461
 color_theme: blue
 file: lottie/rz2_lh_lottie_stufe1-sehen.json
 is_white: true

@@ -1,9 +1,9 @@
-title: Blog_overview
+title: 'Blog Overview'
 fields:
   -
-    handle: abschnitt_feld
+    handle: section_blog_overview
     field:
-      display: Eventübersicht
+      display: 'Blog Übersicht'
       type: section
       icon: section
       listable: hidden
@@ -41,4 +41,3 @@ fields:
       always_save: false
       validate:
         - required
-
