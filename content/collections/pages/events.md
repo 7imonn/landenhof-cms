@@ -10,7 +10,7 @@ heading:
         type: text
         text: 'Wo ist was los? Schaffen Sie sich einen Überblick über anstehende Veranstaltungen'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673530043
+updated_at: 1673530758
 heros:
   -
     id: lcj0qq3h

@@ -87,34 +87,7 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: description
-        field:
-          collapse: false
-          always_show_set_button: false
-          previews: true
-          buttons:
-            - bold
-            - italic
-          save_html: false
-          toolbar_mode: fixed
-          link_noopener: false
-          link_noreferrer: false
-          target_blank: false
-          reading_time: false
-          fullscreen: true
-          allow_source: true
-          enable_input_rules: true
-          enable_paste_rules: true
-          antlers: false
-          remove_empty_nodes: false
-          display: Beschreibung
-          type: bard
-          icon: bard
-          instructions: 'Einleitungstext. Wird am Anfang der Seite angezeigt'
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
+        import: lead
       -
         import: components
       -

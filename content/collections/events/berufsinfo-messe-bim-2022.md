@@ -22,7 +22,7 @@ categories:
   - medienbericht
   - corona
 time: '10:30 – 11:30 Uhr'
-description:
+lead:
   -
     type: paragraph
     content:
