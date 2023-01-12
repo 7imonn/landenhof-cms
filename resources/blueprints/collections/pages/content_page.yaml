@@ -30,6 +30,8 @@ sections:
           visibility: visible
           always_save: false
       -
+        import: lead
+      -
         import: components
   sidebar:
     display: Sidebar

@@ -17,24 +17,47 @@ heros:
     is_white: false
     file: lottie/rz2_lh_lottie_default-white.json
 color_theme: blue
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673519419
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1673531986
 components:
   -
-    id: lcs7uhu7
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Über 130 Mitarbeiterinnen und Mitarbeiter sind an der Schwerhörigenschule Landenhof angestellt. Von der Primarlehrerin über sozialpädagogische Fachleute bis zur Köchin sind rund 40 Berufe vertreten.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Sie suchen ein positives Arbeitsumfeld mit vielseitigen und verantwortungsvollen Aufgaben und möchten des Landenhofs mitgestalten? Dann bewerben Sie sich noch heute – wir prüfen Ihr Dossier gerne, auch wenn wir aktuell vielleicht keine offene Stelle haben.'
-    type: text
+    id: lct5o5od
+    Heading: 'Offene Stellen'
+    job:
+      - e7267d7f-a8b6-458c-811b-22f36fb2be25
+    button_text: 'Zur Übersicht'
+    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+    type: job_cards
     enabled: true
+  -
+    id: lct5oqhp
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
+    type: contact_teaser
+    enabled: true
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Über 130 Mitarbeiterinnen und Mitarbeiter sind an der Schwerhörigenschule Landenhof angestellt. Von der Primarlehrerin über sozialpädagogische Fachleute bis zur Köchin sind rund 40 Berufe vertreten.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sie suchen ein positives Arbeitsumfeld mit vielseitigen und verantwortungsvollen Aufgaben und möchten des Landenhofs mitgestalten? Dann bewerben Sie sich noch heute – wir prüfen Ihr Dossier gerne, auch wenn wir aktuell vielleicht keine offene Stelle haben.'
 ---
