@@ -17,6 +17,13 @@ heading:
         text: 'Basis des Erfolgs'
 file: lottie/rz2_lh_lottie_default-blue.json
 is_white: true
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673528692
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1673617856
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Der Erfolg des Landenhofs basiert auf engagierten und gut ausgebildeten Mitarbeiterinnen und Mitarbeitern.'
 ---

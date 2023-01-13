@@ -11,7 +11,7 @@ sections:
             - required
           display: Name
           instructions_position: above
-          listable: hidden
+          listable: true
           visibility: visible
           always_save: false
           input_type: text
@@ -33,21 +33,6 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
-      -
-        handle: job_title
-        field:
-          input_type: text
-          antlers: false
-          display: Funktion
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-          validate:
-            - required
-          width: 50
       -
         handle: email
         field:
@@ -82,4 +67,17 @@ sections:
         field:
           type: slug
           localizable: true
+      -
+        handle: functions
+        field:
+          type: terms
+          taxonomies:
+            - functions
+          display: Funktionen
+          mode: select
+          instructions_position: above
+          listable: true
+          visibility: visible
+          always_save: false
+          create: true
 title: 'Team Mitglied'
