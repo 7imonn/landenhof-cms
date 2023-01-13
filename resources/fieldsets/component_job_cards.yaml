@@ -13,6 +13,18 @@ fields:
       visibility: visible
       always_save: false
   -
+    handle: manual
+    field:
+      default: false
+      display: 'Von Hand auswählen'
+      type: toggle
+      icon: toggle
+      instructions: 'Wenn aktiviert werden nur die selektierten Stellen angezeigt andernfalls werden automatisch alle offenen Stellen angezeigt'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
     handle: jobs
     field:
       mode: default
@@ -26,6 +38,8 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      if:
+        manual: 'equals true'
   -
     handle: button_text
     field:
