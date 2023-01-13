@@ -317,7 +317,6 @@ components:
       - cows.jpg
       - fox.jpg
       - happy-owl.jpg
-      - cows-1673012932.jpg
     type: gallery
     enabled: true
     loop: true
