@@ -16,9 +16,11 @@ heros:
     enabled: true
     is_white: false
     file: lottie/rz2_lh_lottie_default-white.json
+    link_text: 'Floater Text'
+    link: 'entry::e7267d7f-a8b6-458c-811b-22f36fb2be25'
 color_theme: blue
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673615391
+updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
+updated_at: 1673616536
 components:
   -
     id: lct5o5od

@@ -50,4 +50,4 @@ fields:
       validate:
         - required
   -
-    import: link
+    import: link_floater

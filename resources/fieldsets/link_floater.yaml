@@ -1,0 +1,28 @@
+title: 'Link Floater'
+fields:
+  -
+    handle: link_text
+    field:
+      input_type: text
+      character_limit: 32
+      antlers: false
+      display: 'Link Text'
+      type: text
+      icon: text
+      instructions: 'Text der im Floater verwendet wird.'
+      listable: hidden
+      instructions_position: below
+      visibility: visible
+      always_save: false
+      width: 50
+  -
+    handle: link
+    field:
+      display: Link
+      type: link
+      icon: link
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50

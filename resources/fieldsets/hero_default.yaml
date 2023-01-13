@@ -17,4 +17,4 @@ fields:
   -
     import: file
   -
-    import: link
+    import: link_floater

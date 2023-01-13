@@ -52,7 +52,7 @@ fields:
         - 'mimes:json'
       folder: lottie
   -
-    import: link
+    import: link_floater
   -
     handle: is_white
     field:
