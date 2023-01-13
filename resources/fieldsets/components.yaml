@@ -42,7 +42,7 @@ fields:
             -
               import: component_gallery
         google_maps:
-          display: Google.Maps
+          display: 'Google Maps'
           fields:
             -
               import: google_maps
