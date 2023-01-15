@@ -21,11 +21,6 @@ fields:
           fields:
             -
               import: component_images_as_shapes
-        teaser_large_slider:
-          display: 'Component Teaser gross (Slider)'
-          fields:
-            -
-              import: component_teaser_large_slider
         downloads:
           display: Downloads
           fields:
@@ -66,6 +61,11 @@ fields:
           fields:
             -
               import: component_partner_logos
+        teaser_large_slider:
+          display: 'Teaser Slider'
+          fields:
+            -
+              import: component_teaser_large_slider
         text:
           display: Text
           fields:
