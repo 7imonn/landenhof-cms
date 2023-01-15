@@ -1,19 +1,17 @@
 title: 'Component Slider'
 fields:
   -
-    handle: title
+    handle: heading
     field:
       input_type: text
       antlers: false
-      display: Title
+      display: Titel
       type: text
       icon: text
       listable: hidden
       instructions_position: above
       visibility: visible
       always_save: false
-  -
-    import: link
   -
     handle: load_automatically
     field:
@@ -41,7 +39,6 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      validate:
-        - required
+      instructions: 'Wähle die Blog Artikel aus, die im Slider angezeigt werden sollen.'
       if:
         load_automatically: 'equals false'
