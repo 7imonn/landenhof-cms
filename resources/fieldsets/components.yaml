@@ -66,6 +66,11 @@ fields:
           fields:
             -
               import: component_teaser_large_slider
+        blog_slider:
+          display: 'Blog Slider'
+          fields:
+            -
+              import: component_slider
         text:
           display: Text
           fields:

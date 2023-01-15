@@ -17,11 +17,11 @@ fields:
   -
     handle: load_automatically
     field:
-      default: false
-      display: load_automatically
+      default: true
+      display: 'Neuste Artikel automatisch anzeigen'
       type: toggle
       icon: toggle
-      instructions: 'Wenn aktiviert, werden die Einträge automatisch geladen.'
+      instructions: 'Neuste Blog Artikel werden automatisch angezeigt. Wenn deaktiviert, können Einträge manuell selektiert werden.'
       listable: hidden
       instructions_position: above
       visibility: visible
@@ -44,4 +44,4 @@ fields:
       validate:
         - required
       if:
-        load_automatically: 'equals true'
+        load_automatically: 'equals false'
