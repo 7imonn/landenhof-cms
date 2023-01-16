@@ -18,7 +18,7 @@ heading:
 file: lottie/rz2_lh_lottie_default-blue.json
 is_white: true
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673617856
+updated_at: 1673858202
 lead:
   -
     type: paragraph
@@ -26,4 +26,5 @@ lead:
       -
         type: text
         text: 'Der Erfolg des Landenhofs basiert auf engagierten und gut ausgebildeten Mitarbeiterinnen und Mitarbeitern.'
+with_filter: true
 ---

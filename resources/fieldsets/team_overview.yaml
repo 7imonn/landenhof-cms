@@ -6,10 +6,24 @@ fields:
       display: 'Team Übersicht'
       type: section
       icon: section
-      instructions: 'Hier werden alle Teammitglieder, aus der Teams-Sammlung chronologisch angezeigt. Der Team-Filter wird automatisch angezeigt.'
+      instructions: 'Hier werden alle Teammitglieder, aus der Teams-Sammlung chronologisch angezeigt.'
       listable: hidden
       instructions_position: above
       visibility: visible
       always_save: false
+      width: 66
+  -
+    handle: with_filter
+    field:
+      default: true
+      display: 'Mit Filter'
+      type: toggle
+      icon: toggle
+      instructions: 'Wenn aktiviert wird die Filterfunktion angezeigt'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 33
   -
     import: lead
