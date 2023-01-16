@@ -1,0 +1,4 @@
+title: 'Meta Footer'
+collections:
+  - pages
+max_depth: 1
