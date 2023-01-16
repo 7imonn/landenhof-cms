@@ -43,6 +43,8 @@ fields:
       always_save: false
       if:
         load_automatically: 'equals true'
+      validate:
+        - 'min:1'
   -
     handle: blog_posts
     field:
