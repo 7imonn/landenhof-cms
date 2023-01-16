@@ -1,7 +1,7 @@
 title: 'Event Overview'
 fields:
   -
-    handle: abschnitt_feld
+    handle: section_event_overview
     field:
       display: Eventübersicht
       type: section

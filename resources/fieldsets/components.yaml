@@ -70,7 +70,7 @@ fields:
           display: 'Blog Slider'
           fields:
             -
-              import: component_slider
+              import: component_blog_slider
         text:
           display: Text
           fields:

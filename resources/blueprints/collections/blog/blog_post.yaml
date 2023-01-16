@@ -68,6 +68,30 @@ sections:
         import: lead
       -
         import: components
+      -
+        handle: section_blog_slider
+        field:
+          display: 'Blog Slider'
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: show_blog_slider
+        field:
+          default: true
+          display: 'Blog Slider anzeigen'
+          type: toggle
+          icon: toggle
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        import: component_blog_slider
+        prefix: slider_
   sidebar:
     display: Sidebar
     fields:

@@ -8,3 +8,5 @@ preferences:
       after_save: continue_editing
     events:
       after_save: continue_editing
+    blog:
+      after_save: create_another
