@@ -2,10 +2,23 @@
 id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673620188
+updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
+updated_at: 1673970673
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
+  -
+    id: lcy0x6vb
+    title: 'Weitere Blogbeiträge'
+    load_automatically: false
+    type: blog_slider
+    enabled: true
+    heading: 'Weitere Blogbeiträge'
+    entries:
+      - b50edce4-c5fd-4d42-8474-d8c034a4886c
+      - 2ab3dcc2-4b73-470e-b1af-c173306cfd45
+      - 5b1867f7-4743-4a11-8a14-55869b50720e
+    button_text: 'Zur Übersicht'
+    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
   -
     id: lcovy82x
     icon_cards:
@@ -335,6 +348,6 @@ components:
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
-color_theme: green
+color_theme: blue
 lottie: lottie/home.json
 ---

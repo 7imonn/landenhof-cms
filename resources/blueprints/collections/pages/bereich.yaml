@@ -1,4 +1,4 @@
-title: Bereich
+title: 'Bereich / Untergruppe'
 sections:
   main:
     display: Hauptteil
@@ -13,10 +13,10 @@ sections:
       -
         handle: level_1
         field:
-          display: Bereich
+          display: 'Bereich oder Untergruppe'
           type: section
           icon: section
-          instructions: 'Dieser Blueprint dient der Strukturierung von Seiten in Bereiche. Hier kann kein Inhalt erfasst werden.'
+          instructions: 'Dieser Blueprint dient der Strukturierung von Seiten in bestimmte Bereiche oder Untergruppen. Hier kann kein Inhalt erfasst werden.'
           listable: hidden
           instructions_position: above
           visibility: visible
@@ -38,3 +38,11 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        handle: categories
+        field:
+          type: terms
+          taxonomies:
+            - categories
+          display: Kategorien
+          mode: select
