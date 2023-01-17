@@ -27,7 +27,7 @@ fields:
             -
               import: component_downloads
         event_cards:
-          display: 'Event Karten'
+          display: 'Event Cards'
           fields:
             -
               import: component_event_cards
@@ -42,17 +42,17 @@ fields:
             -
               import: google_maps
         icon_cards:
-          display: 'Icon Karten'
+          display: 'Icon Cards'
           fields:
             -
               import: component_icon_cards
         job_cards:
-          display: 'Job Karten'
+          display: 'Job Cards'
           fields:
             -
               import: component_job_cards
         contact_teaser:
-          display: 'Kontakt Teaser / CTA'
+          display: 'Kontakt Card'
           fields:
             -
               import: component_contact_teaser

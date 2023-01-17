@@ -43,7 +43,7 @@ fields:
             enable_paste_rules: true
             antlers: false
             remove_empty_nodes: false
-            display: text
+            display: Text
             type: bard
             icon: bard
             listable: hidden

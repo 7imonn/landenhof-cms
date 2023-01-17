@@ -7,22 +7,37 @@ heros:
     id: snsWB7Vv
     type: hero_default
     heading: 'Angebote für Sehbeinträchtigte'
-    file: lottie/rz2_lh_lottie_stufe1-sehen.json
+    file: cdc-gdokeynofne-unsplash.jpg
     enabled: true
 parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 color_theme: pink
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673534430
+updated_at: 1673999883
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.'
+        text: 'Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
 components:
   -
-    id: lct6jyeg
+    id: ld0vqx7k
+    heading: 'Unser Netzwerk'
+    partner:
+      -
+        id: O5B9fBVE
+        logo: partnerlogos/logo_plusport_de-(1).svg
+      -
+        id: ld0vw054
+        logo: partnerlogos/pro_infirmis_logo_rgb.svg
+      -
+        id: ld0vyzkw
+        logo: partnerlogos/schweizerische-multiple-sklerorse-gesellschaft.png
+    type: partner_logos
+    enabled: true
+  -
+    id: ld0vzq10
     text:
       -
         type: heading
@@ -31,7 +46,7 @@ components:
         content:
           -
             type: text
-            text: 'Tests und Versorgung'
+            text: Kompetenzzentrum
       -
         type: heading
         attrs:
@@ -39,13 +54,13 @@ components:
         content:
           -
             type: text
-            text: 'Das Gehör Testen'
+            text: 'Vom Kindergarten bis zur Oberstufe'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
+            text: 'Der Landenhof ist das Kompetenzzentrum für schwerhörige Kinder und Jugendliche im Kanton Aargau. Hier können sie alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
       -
         type: heading
         attrs:
@@ -53,13 +68,99 @@ components:
         content:
           -
             type: text
-            text: 'Hörhilfen und Kontrollen'
+            text: 'Grundlage ist der Kantonale Lehrplan'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
+            text: 'Grundlage für den Unterricht auf allen Stufen ist der Lehrplan des Kantons Aargau, der Unterricht ist aber speziell auf die Bedürfnisse von Schwerhörigen ausgerichtet (kleine Klassen, optimale Raumakustik, Visualisierungshilfen, von den Lippen lesen können). Die Sprache müssen die Schülerinnen und Schüler vorwiegend über das Gehör wahrnehmen.'
     type: text
+    enabled: true
+  -
+    id: ld0w0yet
+    files:
+      -
+        id: ld0w15pn
+        name: Aufnahmeverfahren
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: false
+      -
+        id: ld0w1bhg
+        name: '«Wie kommt mein Kind in die Schule des Landenhofs?»'
+        file: downloads/lernstand-jw6umq-(4).pdf
+        open_in_tab: false
+    button_text: 'Mehr anzeigen'
+    type: downloads
+    enabled: true
+  -
+    id: ld0w43ex
+    images:
+      - cows.jpg
+      - fox.jpg
+      - elephants.jpg
+      - deer.jpg
+    type: gallery
+    enabled: true
+  -
+    id: ld0w5z10
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Mit Schwerhörigen zusammenleben'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Kinder und Jugendliche, die im Landenhof zur Schule gehen, können auch hier wohnen oder den Tageshort besuchen. Im Internat leben sie ihrem Alter entsprechend in einer der Wohngruppen, wo sie viermal in der Woche auch über Nacht bleiben. Aufnahme finden Schülerinnen und Schüler, die einen weiten Anreiseweg      haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
+    type: text
+    enabled: true
+  -
+    id: ld0w6qqv
+    accordion_group:
+      -
+        id: G5Hgq0rL
+        heading: Mitarbeitende
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Kinder und Jugendliche, die im Landenhof zur Schule gehen, können auch hier wohnen oder den Tageshort besuchen. Im Internat leben sie ihrem Alter entsprechend in einer der Wohngruppen, wo sie viermal in der Woche auch über Nacht bleiben. Aufnahme finden Schülerinnen und Schüler, die einen weiten Anreiseweg      haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
+      -
+        id: ld0w7ist
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Kinder und Jugendliche, die im Landenhof zur Schule gehen, können auch hier wohnen oder den Tageshort besuchen. Im Internat leben sie ihrem Alter entsprechend in einer der Wohngruppen, wo sie viermal in der Woche auch über Nacht bleiben. Aufnahme finden Schülerinnen und Schüler, die einen weiten Anreiseweg      haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
+    type: accordion_group
+    enabled: true
+  -
+    id: ld0w8dj4
+    slides:
+      -
+        id: l2EHX6et
+        image: cdc-gsri9cwcib0-unsplash.jpg
+        positioning: imageIsLeft
+        heading: 'Zentrum für Hören  und Sehen'
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
+    type: teaser_large_slider
     enabled: true
 ---
