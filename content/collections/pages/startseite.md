@@ -3,22 +3,9 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673970673
+updated_at: 1673996978
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
-  -
-    id: lcy0x6vb
-    title: 'Weitere Blogbeiträge'
-    load_automatically: false
-    type: blog_slider
-    enabled: true
-    heading: 'Weitere Blogbeiträge'
-    entries:
-      - b50edce4-c5fd-4d42-8474-d8c034a4886c
-      - 2ab3dcc2-4b73-470e-b1af-c173306cfd45
-      - 5b1867f7-4743-4a11-8a14-55869b50720e
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
   -
     id: lcovy82x
     icon_cards:
@@ -65,63 +52,50 @@ components:
     overlap_top: medium
     overlap_bottom: small
   -
-    id: lbm8yaak
-    text:
+    id: lbyxvpy5
+    heading: Events
+    hasFilter: false
+    show_all_events: false
+    type: event_cards
+    enabled: true
+    events:
+      - d4ef331d-fa31-4db0-9f8b-bbd6f5cb0b32
+      - db360939-dbdd-4f08-a191-ff6608a1a425
+  -
+    id: ld0ujtli
+    slides:
       -
-        type: heading
-        attrs:
-          level: 2
+        id: AZTHRhoo
+        heading: 'Zentrum für Hören  und Sehen'
         content:
           -
-            type: text
-            text: 'Tests und Versorgung'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Das Gehör Testen'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärzti'
-          -
-            type: text
-            marks:
+            type: paragraph
+            content:
               -
-                type: link
-                attrs:
-                  href: link
-                  rel: null
-                  target: null
-                  title: null
-            text: 'n hält den Zustand des '
-          -
-            type: text
-            text: 'Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
+                type: text
+                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
+        link_text: 'Mehr erfahren'
+        link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+        image: telefunken_fubk_test_pattern.svg.png
+        positioning: imageIsLeft
       -
-        type: heading
-        attrs:
-          level: 3
+        id: lc6see6o
+        heading: 'Zentrum für Hören  und Sehen'
         content:
           -
-            type: text
-            text: 'Hörhilfen und Kontrollen'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
-    type: text
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
+        link_text: 'Mehr erfahren'
+        image: telefunken_fubk_test_pattern.svg.png
+        positioning: imageIsRight
+    type: teaser_large_slider
     enabled: true
   -
     id: lck78318
-    heading: 'DOWNLOAD 1'
+    heading: Downloads
     files:
       -
         id: lck787r8
@@ -130,137 +104,20 @@ components:
         name: 'Teamevent Quartalswanderung von Brückenjahr'
       -
         id: lck7pz2x
-        name: sadgfasdfasdf
+        name: 'Datei 2'
         file: downloads/lernstand-jw6umq-(4).pdf
         open_in_tab: true
       -
         id: lck905by
-        name: 'Link zu datei'
+        name: 'Datei 3'
         open_in_tab: false
         link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
         file_type: PDF
         file_size: '20 kb'
-      -
-        id: lck90a8p
-        name: 'Link zu datei 2'
-        open_in_tab: true
-        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
     type: downloads
     enabled: true
     button_text: 'Mehr anzeigen'
     link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
-  -
-    id: lbullglg
-    accordion_group:
-      -
-        id: ymkruRn5
-        heading: Mitarbeitende
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Kinder und Jugendliche, die im Landenhof zur Schule gehen, können auch hier wohnen oder den Tageshort besuchen. Im Internat leben sie ihrem Alter entsprechend in einer der Wohngruppen, wo sie viermal in der Woche auch über Nacht bleiben. Aufnahme finden Schülerinnen und Schüler, die einen weiten'
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://testlink.ch'
-                      rel: null
-                      target: _blank
-                      title: null
-                text: ' Anreiseweg '
-              -
-                type: text
-                text: 'haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
-      -
-        id: lbulmcjh
-        heading: Kosten
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Kinder und Jugendliche, die im Landenhof zur Schule gehen, können auch hier wohnen oder den Tageshort besuchen. Im Internat leben sie ihrem Alter entsprechend in einer der Wohngruppen, wo sie viermal in der Woche auch über Nacht bleiben. Aufnahme finden Schülerinnen und Schüler, die einen weiten'
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://testlink.ch'
-                      rel: null
-                      target: _blank
-                      title: null
-                text: ' Anreiseweg '
-              -
-                type: text
-                text: 'haben oder deren Sprachpraxis zuhause beschränkt ist. Und wer ganz bewusst mit anderen Schwerhörigen zusammenleben und damit sein Selbstbewusstsein stärken will, ist hier richtig.'
-    type: accordion_group
-    enabled: true
-  -
-    id: lbw32fvg
-    heading: 'Haben Sie Fragen?'
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Haben Sie Fragen?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Gerne berate ich Sie persönlich.'
-    type: contact_teaser
-    enabled: true
-    person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
-  -
-    id: lbw79qx5
-    heading: 'Unser Netzwerk'
-    partner:
-      -
-        id: 93aDqzVk
-        link: 'https://google.ch'
-        logo: telefunken_fubk_test_pattern.svg.png
-      -
-        id: lbw7agcw
-        link: 'https://google.ch'
-        logo: partnerlogos/happy-owl.jpg
-      -
-        id: lbw7d8q3
-      -
-        id: lbw7dcfu
-        logo: telefunken_fubk_test_pattern.svg.png
-        link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-      -
-        id: lbw85hm9
-        logo: telefunken_fubk_test_pattern.svg.png
-      -
-        id: lbw85iht
-        logo: telefunken_fubk_test_pattern.svg.png
-    type: partner_logos
-    enabled: true
-  -
-    id: lbyxvpy5
-    heading: Events
-    hasFilter: false
-    show_all_events: false
-    type: event_cards
-    enabled: true
-    events:
-      - 19662efc-0d51-44d4-8b59-eae9e59a8653
-      - d4ef331d-fa31-4db0-9f8b-bbd6f5cb0b32
-      - db360939-dbdd-4f08-a191-ff6608a1a425
   -
     id: lc6sdnsg
     slides:
@@ -293,58 +150,6 @@ components:
         positioning: imageIsLeft
     type: teaser_large_slider
     enabled: true
-  -
-    id: lchpfyr1
-    video_url: 'https://www.youtube.com/watch?v=rX40mBb8bkU'
-    caption: 'Mein Text'
-    overlay_image: deer.jpg
-    type: video_default
-    enabled: true
-  -
-    id: lckbnu7j
-    images:
-      -
-        id: DgLjJonZ
-        image: elephants.jpg
-        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
-    type: images
-    enabled: true
-  -
-    id: lckbo319
-    images:
-      -
-        id: DgLjJonZ
-        image: fox.jpg
-        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
-      -
-        id: lckbo5u2
-        image: deer.jpg
-        text: 'Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.Excepteur eiusmod nulla nostrud amet voluptate irure quis adipisicing veniam velit eiusmod.'
-    type: images
-    enabled: true
-  -
-    id: lckbon6m
-    images:
-      - elephants.jpg
-      - deer.jpg
-      - cows.jpg
-      - fox.jpg
-      - happy-owl.jpg
-    type: gallery
-    enabled: true
-    loop: true
-  -
-    id: lcoioi8t
-    heading: 'Job Karten'
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-    type: job_cards
-    enabled: true
-    manual: false
-  -
-    id: lcomdgzs
-    type: google_maps
-    enabled: false
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'

@@ -1,10 +1,8 @@
 tree:
   -
-    id: 1a997b02-959a-4d23-9517-a90991f180b2
+    id: 9d15bc39-474b-4a9f-ae15-4298f77735a1
     entry: 8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d
     title: Blog
   -
-    id: bb63738c-b725-48c4-99af-ba469bf9ef82
-    entry: 09f86921-8ed2-460b-add7-8204ec1eb40c
-    data:
-      heading: asd
+    id: 7edaf4d9-3693-46e0-b4d5-2f1c46e0a2b4
+    entry: 9cbf28ab-6be5-4fb9-8e99-71b70571a825

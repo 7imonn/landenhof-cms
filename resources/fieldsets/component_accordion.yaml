@@ -53,7 +53,7 @@ fields:
       mode: stacked
       min_rows: 1
       reorderable: true
-      display: 'Akordeon Gruppe'
+      display: 'Akkordeon Gruppe'
       type: grid
       icon: grid
       listable: hidden

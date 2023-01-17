@@ -16,7 +16,7 @@ fields:
     handle: hasFilter
     field:
       default: false
-      display: 'Filter Anzeigen'
+      display: 'Filter anzeigen'
       type: toggle
       icon: toggle
       listable: hidden
@@ -28,7 +28,7 @@ fields:
     handle: show_all_events
     field:
       default: true
-      display: 'Alle Events Anzeigen'
+      display: 'Alle Events anzeigen'
       type: toggle
       icon: toggle
       listable: hidden

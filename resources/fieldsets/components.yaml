@@ -7,7 +7,7 @@ fields:
       previews: true
       sets:
         accordion_group:
-          display: 'Akordeon Gruppe'
+          display: 'Akkordeon Gruppe'
           fields:
             -
               import: component_accordion

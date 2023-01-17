@@ -19,7 +19,7 @@ sections:
         handle: is_accordion
         field:
           default: false
-          display: 'Als Akordeon darstellen'
+          display: 'Als Akkordeon darstellen'
           type: toggle
           icon: toggle
           width: 50
