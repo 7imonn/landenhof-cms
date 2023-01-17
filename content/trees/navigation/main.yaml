@@ -50,8 +50,12 @@ tree:
             id: 3f65fbf3-7b67-4cfe-b13e-63e0ba780811
             entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
       -
-        id: fc525699-558d-4a7c-a73f-b87278f9c4a4
-        title: Beraten
+        id: 65ea6400-f4ac-4ef8-af8d-dccd3a13ea97
+        entry: dd03c268-f866-42f1-97a0-4f8b9de479f7
+        children:
+          -
+            id: 16027f4e-5e55-4487-b2f2-a3811b3af74a
+            entry: 7fff6eb1-13fb-41b8-8f33-481db64651fd
       -
         id: af4c0e24-cfda-4eb8-9773-440de8be503b
         title: Schule
@@ -65,6 +69,9 @@ tree:
       -
         id: b3651807-b8a0-4d6d-85c7-4941bf2b021c
         entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
+      -
+        id: 21440ff7-eb6d-4aa6-88fc-90e7a7a28b4e
+        entry: 09f86921-8ed2-460b-add7-8204ec1eb40c
   -
     id: 852ab286-7217-4398-9d62-bba00d3b0f27
     entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
