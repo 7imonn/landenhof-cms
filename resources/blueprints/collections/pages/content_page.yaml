@@ -52,3 +52,8 @@ sections:
           localizable: true
       -
         import: color_theme
+  seo:
+    display: SEO
+    fields:
+      -
+        import: seo

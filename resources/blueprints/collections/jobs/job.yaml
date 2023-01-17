@@ -1,3 +1,4 @@
+title: Job
 sections:
   main:
     display: Hauptteil
@@ -65,4 +66,8 @@ sections:
             - categories
           display: Kategorien
           mode: select
-title: Job
+  seo:
+    display: SEO
+    fields:
+      -
+        import: seo

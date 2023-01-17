@@ -1,3 +1,4 @@
+title: Event
 sections:
   main:
     display: Hauptteil
@@ -125,4 +126,8 @@ sections:
           visibility: visible
           always_save: false
           create: true
-title: Event
+  seo:
+    display: SEO
+    fields:
+      -
+        import: seo

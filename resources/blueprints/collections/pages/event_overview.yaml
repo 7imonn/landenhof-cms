@@ -53,3 +53,8 @@ sections:
             - categories
           display: Kategorien
           mode: select
+  seo:
+    display: SEO
+    fields:
+      -
+        import: seo
