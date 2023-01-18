@@ -10,7 +10,8 @@ heros:
     file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
-color_theme: green
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673993554
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1674039667
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
 ---

@@ -10,7 +10,8 @@ heros:
     file: cows.jpg
     enabled: true
 parent: 6f92ce29-f5ad-468a-8a3d-4f1de7c386cd
-color_theme: pink
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673994344
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1674039612
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
 ---

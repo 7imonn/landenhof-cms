@@ -2,6 +2,7 @@
 id: 1f903e41-a055-4e02-ab16-ede65fe42156
 blueprint: section
 title: Sehen
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673307277
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1674039605
+color_theme: pink
 ---

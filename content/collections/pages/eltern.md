@@ -10,7 +10,8 @@ heros:
     file: koala.jpg
     enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
-color_theme: green
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673993844
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1674039679
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
 ---
