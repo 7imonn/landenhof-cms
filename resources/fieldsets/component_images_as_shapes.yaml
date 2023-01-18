@@ -21,7 +21,7 @@ fields:
     field:
       options:
         0: Nein
-        small: 'Ein Wenig'
+        small: 'Ein wenig'
         medium: Mittel
       default: '0'
       display: 'Überlappen oben'
@@ -37,7 +37,7 @@ fields:
     field:
       options:
         0: Nein
-        small: 'Ein Wenig'
+        small: 'Ein wenig'
         medium: Mittel
       default: '0'
       display: 'Überlappen unten'
