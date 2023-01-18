@@ -104,9 +104,6 @@ tree:
             id: ce9f9655-1edc-4766-8930-16aa9c8ce3eb
             entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
   -
-    id: 776d6dbb-ce9b-47c9-bdd1-ab1bb9a9d409
-    entry: 82cbf166-f60a-49be-9748-e6639fa4e0e7
-    children:
-      -
-        id: 5dd9c326-f71d-439a-8107-12cdaba112fd
-        entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
+    id: 5dd9c326-f71d-439a-8107-12cdaba112fd
+    entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
+    title: 'Jobs & Karriere'
