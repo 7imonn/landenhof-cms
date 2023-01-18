@@ -8,13 +8,18 @@ heading:
     content:
       -
         type: text
-        text: 'Wo ist was los? Schaffen Sie sich einen Überblick über anstehende Veranstaltungen'
+        text: Events
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Geimeinsame Erlebnisse verbinden'
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673616479
-
+updated_at: 1674001169
 sammlungen_feld: events
 color_theme: blue
-file: lottie/rz2_lh_lottie_stufe1-sehen.json
+file: lottie/rz2_lh_lottie_default-blue.json
 is_white: true
 lead:
   -
