@@ -61,16 +61,21 @@ fields:
           fields:
             -
               import: component_partner_logos
-        teaser_large_slider:
-          display: 'Teaser Slider'
+        slider:
+          display: Slider
           fields:
             -
-              import: component_teaser_large_slider
+              import: component_slider
         blog_slider:
-          display: 'Blog Slider'
+          display: 'Slider Blog'
           fields:
             -
               import: component_blog_slider
+        teaser_large_slider:
+          display: 'Slider Teaser'
+          fields:
+            -
+              import: component_teaser_large_slider
         text:
           display: Text
           fields:

@@ -48,10 +48,9 @@ fields:
   -
     handle: blog_posts
     field:
-      max_items: 6
       mode: default
       create: true
-      display: Einträge
+      display: Artikel
       type: entries
       icon: entries
       listable: hidden
