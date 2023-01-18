@@ -7,7 +7,7 @@ heros:
     id: Yvp9zLnc
     type: hero_default
     heading: Tagesschule
-    file: lottie/rz2_lh_lottie_stufe1-horen.json
+    file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 color_theme: green

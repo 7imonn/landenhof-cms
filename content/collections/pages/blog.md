@@ -26,7 +26,7 @@ heading:
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
 updated_at: 1673995914
 color_theme: blue
-file: lottie/rz2_lh_lottie_default-blue.json
+file: lottie/standard_blau.json
 is_white: true
 lead:
   -

@@ -84,7 +84,7 @@ components:
     type: text
     enabled: true
 person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
-file: lottie/rz2_lh_lottie_event-horen.json
+file: lottie/event_hoeren_gruen.json
 content:
   -
     type: paragraph

@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1674002885
+updated_at: 1674022631
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -154,5 +154,5 @@ subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen im Landenhof'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
 color_theme: blue
-lottie: lottie/home.json
+lottie: lottie/startseite.json
 ---

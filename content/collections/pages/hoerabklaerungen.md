@@ -7,7 +7,7 @@ heros:
     id: A07WDvUG
     type: hero_default
     heading: Hörabklärungen
-    file: lottie/rz2_lh_lottie_stufe1-horen.json
+    file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 color_theme: green

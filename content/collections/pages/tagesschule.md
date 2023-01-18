@@ -7,7 +7,7 @@ heros:
     id: 5DD0BZb6
     type: hero_default
     heading: 'Unsere Tagesschule'
-    file: lottie/rz2_lh_lottie_stufe1-sehen.json
+    file: lottie/inhaltsseite_sehen_pink.json
     enabled: true
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
 color_theme: pink

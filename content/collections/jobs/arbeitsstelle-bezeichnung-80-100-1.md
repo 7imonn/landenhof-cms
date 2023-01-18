@@ -9,7 +9,7 @@ heading:
       -
         type: text
         text: 'Arbeitsstelle Bezeichnung 80 - 100%'
-file: lottie/rz2_lh_lottie_default-white.json
+file: lottie/standard_weiss.json
 link_text: 'Jobs & Karriere'
 link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
 is_white: false

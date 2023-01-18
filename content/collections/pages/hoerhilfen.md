@@ -7,7 +7,7 @@ heros:
     id: e4dAw0s2
     type: hero_default
     heading: Hörhilfen
-    file: lottie/rz2_lh_lottie_stufe1-horen.json
+    file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 63cecd44-0b80-4abc-84d1-752c4d163f3e
 color_theme: green

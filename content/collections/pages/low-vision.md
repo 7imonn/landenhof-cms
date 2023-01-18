@@ -7,7 +7,7 @@ heros:
     id: BwjCI2G6
     type: hero_default
     heading: 'Low Vision'
-    file: lottie/rz2_lh_lottie_stufe1-sehen.json
+    file: lottie/inhaltsseite_sehen_pink.json
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 color_theme: pink

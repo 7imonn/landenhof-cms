@@ -7,7 +7,7 @@ heros:
     id: ImwRf8uL
     type: hero_default
     heading: Beraten
-    file: lottie/rz2_lh_lottie_stufe1-horen.json
+    file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 color_theme: green

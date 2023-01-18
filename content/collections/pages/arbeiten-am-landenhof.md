@@ -15,7 +15,7 @@ heros:
     type: hero_small
     enabled: true
     is_white: false
-    file: lottie/rz2_lh_lottie_default-white.json
+    file: lottie/standard_weiss.json
 color_theme: blue
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
 updated_at: 1674001545
