@@ -4,7 +4,7 @@ fields:
     handle: color_theme
     field:
       multiple: false
-      clearable: false
+      clearable: true
       searchable: true
       taggable: false
       push_tags: false
