@@ -35,8 +35,6 @@ sections:
           type: slug
           localizable: true
       -
-        import: color_theme
-      -
         handle: parent
         field:
           type: entries
@@ -45,6 +43,8 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        import: color_theme
       -
         handle: categories
         field:

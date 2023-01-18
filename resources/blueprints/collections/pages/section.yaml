@@ -39,6 +39,8 @@ sections:
           listable: false
           localizable: true
       -
+        import: color_theme
+      -
         handle: categories
         field:
           type: terms
@@ -46,5 +48,3 @@ sections:
             - categories
           display: Kategorien
           mode: select
-      -
-        import: color_theme

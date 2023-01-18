@@ -48,6 +48,16 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        import: color_theme
+      -
+        handle: categories
+        field:
+          type: terms
+          taxonomies:
+            - categories
+          display: Kategorien
+          mode: select
   seo:
     display: SEO
     fields:
