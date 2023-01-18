@@ -21,7 +21,7 @@ sections:
           visibility: visible
           always_save: false
       -
-        import: hero_small
+        import: hero_job
       -
         handle: content_section
         field:
@@ -66,6 +66,13 @@ sections:
             - categories
           display: Kategorien
           mode: select
+      -
+        handle: date
+        field:
+          type: date
+          required: true
+          validate:
+            - required
   seo:
     display: SEO
     fields:

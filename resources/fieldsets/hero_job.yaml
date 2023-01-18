@@ -1,0 +1,113 @@
+title: 'Hero Job'
+fields:
+  -
+    handle: heading
+    field:
+      collapse: false
+      always_show_set_button: false
+      previews: true
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: false
+      allow_source: false
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: false
+      remove_empty_nodes: true
+      display: Titel
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: below
+      visibility: visible
+      always_save: false
+      validate:
+        - required
+      buttons:
+        - removeformat
+      instructions: 'Zeilenumbruch wird berücksichtigt.'
+  -
+    handle: file
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 1
+      display: 'Lottie Animation'
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      instructions: 'Hier kann eine Lottie Animation im JSON Format hochgeladen werden.'
+      validate:
+        - required
+        - 'mimes:json'
+      folder: lottie
+  -
+    handle: items
+    field:
+      fields:
+        -
+          handle: title
+          field:
+            input_type: text
+            antlers: false
+            display: Titel
+            type: text
+            icon: text
+            width: 33
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+            validate:
+              - required
+        -
+          handle: text
+          field:
+            collapse: false
+            always_show_set_button: false
+            previews: true
+            buttons:
+              - bold
+              - italic
+              - removeformat
+              - anchor
+            save_html: false
+            toolbar_mode: fixed
+            link_noopener: false
+            link_noreferrer: false
+            target_blank: false
+            reading_time: false
+            fullscreen: false
+            allow_source: false
+            enable_input_rules: true
+            enable_paste_rules: true
+            antlers: false
+            remove_empty_nodes: false
+            display: Text
+            type: bard
+            icon: bard
+            width: 66
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: table
+      max_rows: 3
+      reorderable: true
+      display: Eckdaten
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
