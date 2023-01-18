@@ -11,13 +11,20 @@ heros:
         content:
           -
             type: text
-            text: 'Arbeiten  am Landenhof'
+            text: 'Arbeiten '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'am Landenhof'
     type: hero_small
     enabled: true
     is_white: false
     file: lottie/standard_weiss.json
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1674039344
+color_theme: blue
+updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
+updated_at: 1674029320
 components:
   -
     id: lct5o5od
