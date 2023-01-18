@@ -115,7 +115,7 @@ fields:
       display: 'Button Text'
       type: text
       icon: text
-      width: 50
+      width: 33
       listable: hidden
       instructions_position: above
       visibility: visible
@@ -127,7 +127,7 @@ fields:
       display: Link
       type: link
       icon: link
-      width: 50
+      width: 66
       listable: hidden
       instructions_position: above
       visibility: visible
