@@ -9,7 +9,7 @@ sections:
           display: 'Eigene Seite'
           type: toggle
           icon: toggle
-          instructions: 'Definiert ob dieser event eine eigene Unterseite besitzt oder nicht.'
+          instructions: 'Definiert ob dieser Event eine eigene Unterseite besitzt oder nicht.'
           listable: hidden
           instructions_position: above
           visibility: visible
