@@ -48,8 +48,13 @@ sections:
           collections:
             - pages
           max_items: 1
-          listable: false
+          listable: true
           localizable: true
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          mode: default
+          create: true
       -
         import: color_theme
   seo:
