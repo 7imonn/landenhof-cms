@@ -67,3 +67,6 @@ PHP CS Fixer will also run on every push in a Github Action (see .github/workflo
 ```
 composer lint
 ```
+
+
+sentry release test
