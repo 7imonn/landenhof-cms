@@ -14,3 +14,14 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+      -
+        handle: hasHeart
+        field:
+          default: false
+          display: 'Herz einblenden'
+          type: toggle
+          icon: toggle
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: true

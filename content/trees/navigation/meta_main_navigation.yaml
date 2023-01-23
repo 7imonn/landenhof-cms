@@ -1,5 +1,10 @@
 tree:
   -
+    id: ff741989-15d8-4ea3-9d20-fe69e91cfd8f
+    entry: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
+    data:
+      hasHeart: true
+  -
     id: 9d15bc39-474b-4a9f-ae15-4298f77735a1
     entry: 8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d
     title: Blog
