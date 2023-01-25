@@ -5,9 +5,9 @@ has_page: true
 location: 'HSM Münchenbuchsee'
 event_date: '2022-11-10'
 title: 'Teamevent Quartalswanderung von Brückenjahr'
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673447525
-is_accordion: true
+updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
+updated_at: 1674641767
+is_accordion: false
 bard_text:
   -
     type: paragraph
@@ -19,4 +19,6 @@ color_theme: pink
 categories:
   - sport
 file: icons/multiple_eyes.svg
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
 ---
