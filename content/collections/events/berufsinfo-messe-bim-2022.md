@@ -8,7 +8,7 @@ location: |-
 event_date: '2022-09-13'
 title: 'Berufsinfo-Messe  BIM 2022'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1674634844
+updated_at: 1674651091
 is_accordion: true
 color_theme: green
 bard_text:
@@ -84,7 +84,7 @@ components:
     type: text
     enabled: true
 person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
-file: lottie/event_intern_blau.json
+file: lottie/event_sehen_pink.json
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 content:
