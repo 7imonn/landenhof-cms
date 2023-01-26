@@ -6,6 +6,7 @@ taxonomies:
 revisions: false
 route: '{parent_uri}/{slug}'
 sort_dir: asc
+default_status: draft
 date_behavior:
   past: public
   future: private

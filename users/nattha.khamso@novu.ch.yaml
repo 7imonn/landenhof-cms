@@ -18,6 +18,8 @@ preferences:
         - email
         - phone
         - slug
+    events:
+      after_save: continue_editing
   forms:
     kontakt:
       columns:
