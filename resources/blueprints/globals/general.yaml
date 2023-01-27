@@ -18,40 +18,25 @@ sections:
       -
         handle: address
         field:
-          collapse: false
-          always_show_set_button: false
-          previews: true
-          save_html: false
-          toolbar_mode: fixed
-          link_noopener: false
-          link_noreferrer: false
-          target_blank: false
-          reading_time: false
-          fullscreen: false
-          allow_source: false
-          enable_input_rules: true
-          enable_paste_rules: true
           antlers: false
-          remove_empty_nodes: false
-          display: Adresse
-          type: bard
-          icon: bard
+          type: textarea
+          icon: textarea
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
-          buttons:
-            - h2
-            - h3
-            - bold
-            - italic
-            - unorderedlist
-            - orderedlist
-            - removeformat
-            - quote
-            - anchor
-            - image
-            - table
+          width: 50
+      -
+        handle: address_link
+        field:
+          display: Adresslink
+          type: link
+          icon: link
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
       -
         handle: latitude
         field:

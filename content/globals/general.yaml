@@ -1,84 +1,12 @@
 title: Allgemein
 data:
   address_title: Adresse
-  address:
-    -
-      type: paragraph
-      content:
-        -
-          type: text
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-          text: Landenhof
-        -
-          type: hard_break
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-        -
-          type: text
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-          text: 'Zentrum für Hören und Sehen'
-        -
-          type: hard_break
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-        -
-          type: text
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-          text: 'Landenhofweg 25'
-        -
-          type: hard_break
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-        -
-          type: text
-          marks:
-            -
-              type: link
-              attrs:
-                href: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
-                rel: null
-                target: null
-                title: null
-          text: '5035 Unterentfelden'
+  address: |-
+    Landenhof
+    Zentrum für Hören und Sehen
+    Landenhofweg 25
+    5035 Unterentfelden
+  address_link: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
   latitude: '47.3748152404601,'
   longitude: '8.04445145346212'
   phone: '+41 62 737 05 05'
