@@ -5,8 +5,8 @@ has_page: true
 location: 'HSM Münchenbuchsee'
 event_date: '2022-11-10'
 title: 'Teamevent Quartalswanderung von Brückenjahr'
-updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1674641767
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1674662049
 is_accordion: false
 bard_text:
   -
@@ -21,4 +21,12 @@ categories:
 file: icons/multiple_eyes.svg
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
+time: asdfasdf
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Amet et ad adipisicing irure ea. Duis aliquip Lorem quis irure eiusmod est nisi anim commodo consequat adipisicing in. Culpa dolor ad deserunt enim occaecat proident deserunt nisi et fugiat magna Lorem cupidatat. Laboris enim irure dolor. Non ex est eiusmod. Qui do ullamco qui fugiat sunt magna eu nulla tempor.'
 ---
