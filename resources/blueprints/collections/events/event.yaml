@@ -4,30 +4,21 @@ sections:
     display: Hauptteil
     fields:
       -
-        handle: has_page
+        handle: event_card_layout
         field:
-          default: false
-          display: 'Eigene Seite'
-          type: toggle
-          icon: toggle
-          instructions: 'Definiert ob dieser Event eine eigene Unterseite besitzt oder nicht.'
+          options:
+            as_card: 'Als einfache Karte'
+            as_link: 'Als Link'
+            as_accordion: 'Als Akkordion'
+          default: as_link
+          display: 'Eventkarte Darstellung'
+          type: button_group
+          icon: button_group
           listable: hidden
           instructions_position: above
           visibility: visible
-          always_save: true
-          width: 50
-      -
-        handle: is_accordion
-        field:
-          default: false
-          display: 'Als Akkordeon darstellen'
-          type: toggle
-          icon: toggle
-          width: 50
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: true
+          always_save: false
+          instructions: 'Definiert das Verhalten der Eventkarte, welche mit diesem Event verlinkt ist.'
       -
         handle: title
         field:

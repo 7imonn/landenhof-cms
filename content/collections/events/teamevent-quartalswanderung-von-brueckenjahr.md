@@ -6,7 +6,7 @@ location: 'HSM Münchenbuchsee'
 event_date: '2022-11-10'
 title: 'Teamevent Quartalswanderung von Brückenjahr'
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1674662049
+updated_at: 1675084359
 is_accordion: false
 bard_text:
   -
@@ -29,4 +29,5 @@ lead:
       -
         type: text
         text: 'Amet et ad adipisicing irure ea. Duis aliquip Lorem quis irure eiusmod est nisi anim commodo consequat adipisicing in. Culpa dolor ad deserunt enim occaecat proident deserunt nisi et fugiat magna Lorem cupidatat. Laboris enim irure dolor. Non ex est eiusmod. Qui do ullamco qui fugiat sunt magna eu nulla tempor.'
+event_card_layout: as_link
 ---
