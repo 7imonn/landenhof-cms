@@ -33,6 +33,11 @@ class Sitemap
 
         $this->publishedEntries()
             ->each(function (Entry $entry) use ($sitemap) {
+
+                // Exclude from sitemap if blueprint is section -> section are only to organize entries
+                if ($entry->blueprint()->handle === 'section') {
+                    return;
+                }
                 $url = Url::create($entry->absoluteUrl())
                     ->setLastModificationDate(Carbon::createFromTimestamp($entry->value('updated_at')))
                     ->setChangeFrequency('')
