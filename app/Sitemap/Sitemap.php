@@ -33,7 +33,6 @@ class Sitemap
 
         $this->publishedEntries()
             ->each(function (Entry $entry) use ($sitemap) {
-
                 // Exclude from sitemap if blueprint is section -> section are only to organize entries
                 if ($entry->blueprint()->handle === 'section') {
                     return;
