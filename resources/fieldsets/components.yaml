@@ -118,6 +118,11 @@ fields:
           fields:
             -
               import: component_video
+        raise_now_widget:
+          display: 'Raise Now Widget (Spendenformular)'
+          fields:
+            -
+              import: component_raise_now_widget
       display: Komponenten
       type: replicator
       icon: replicator

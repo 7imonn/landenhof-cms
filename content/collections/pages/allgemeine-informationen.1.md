@@ -9,11 +9,11 @@ heros:
     heading: 'Allgemeine Informationen'
     file: lottie/inhaltsseite_hoeren_gruen.json
     enabled: true
-    link_text: 'yolo swag'
-    link: 'entry::98a2c91c-19d2-45c2-9099-f9a12eafb254'
+    link_text: 'Offene Stellen bei uns'
+    link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
 parent: 1145a5b4-d67c-41a6-bb1f-49b1350c2322
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1675069805
+updated_at: 1675266265
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -23,22 +23,4 @@ lead:
       -
         type: text
         text: 'Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
-components:
-  -
-    id: ldcvg8y6
-    icon_cards:
-      -
-        id: JNoAjC5a
-        text: |-
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-          Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.
-        links:
-          -
-            id: ldcvhc3t
-    type: icon_cards
-    enabled: true
 ---
