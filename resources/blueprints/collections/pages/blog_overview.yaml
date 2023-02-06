@@ -50,14 +50,6 @@ sections:
           create: true
       -
         import: color_theme
-      -
-        handle: categories
-        field:
-          type: terms
-          taxonomies:
-            - categories
-          display: Kategorien
-          mode: select
   seo:
     display: SEO
     fields:
