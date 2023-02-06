@@ -93,11 +93,11 @@ tree:
         id: ae16dd2d-23d0-49f3-883b-03807e11e1bd
         entry: feaa3c4f-5a32-4286-a293-bb05e3f5562e
       -
-        id: e09bc718-0796-448f-af4b-46a1b1542a82
-        entry: ff0d0848-1ada-4861-8f3a-3136f1d9173e
+        id: e0b9900e-494f-4b38-aec1-2c749a8a3042
+        title: Events
         children:
           -
-            id: ce9f9655-1edc-4766-8930-16aa9c8ce3eb
+            id: 36f5c574-6e14-4667-9729-1ae791c4cbb5
             entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
   -
     id: 5dd9c326-f71d-439a-8107-12cdaba112fd

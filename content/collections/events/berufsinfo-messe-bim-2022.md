@@ -7,8 +7,8 @@ location: |-
   Artherstrasse 2, 6300 Zug
 event_date: '2022-09-13'
 title: 'Berufsinfo-Messe  BIM 2022'
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1675084365
+updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
+updated_at: 1675684162
 is_accordion: true
 color_theme: green
 bard_text:

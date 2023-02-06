@@ -70,10 +70,7 @@ tree:
           -
             entry: 98a2c91c-19d2-45c2-9099-f9a12eafb254
       -
-        entry: ff0d0848-1ada-4861-8f3a-3136f1d9173e
-        children:
-          -
-            entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
+        entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
   -
     entry: 82cbf166-f60a-49be-9748-e6639fa4e0e7
     children:
