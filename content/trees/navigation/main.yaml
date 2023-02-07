@@ -84,9 +84,8 @@ tree:
             id: 9a2c8a89-7234-488a-8d82-ceff2687f906
             entry: acba35f6-50e3-4597-ac76-f13bac3f2602
           -
-            id: df0917ad-86c6-40ea-a515-e23386723466
-            title: Organisation
-            url: 'https://landenhof-web.cherry.novu.ch/ueber-den-landenhof/ueber-uns/organisation'
+            id: ce8e735d-c50a-49d1-bffa-df351949007f
+            entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
           -
             id: a35e62b2-e767-41d4-8373-f17037eb594d
             entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
