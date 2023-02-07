@@ -4,11 +4,10 @@ blueprint: team_member
 title: 'Stefan Buchmüller'
 job_title: Geschäftsführer
 email: stefan.buchmueller@landenhof.ch
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1673618357
-phone: '+41 79 737 05 05'
-portrait: team/portraits-boss-happy.jpg
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1675785751
+phone: '+41 62 737 05 05'
+portrait: team/team_buchmueller_stefan_01.jpg
 functions:
   - geschaeftsfuehrer
-  - weiterbildung
 ---
