@@ -96,7 +96,7 @@ return [
         'activations' => [
             'provider' => 'users',
             'table' => 'password_activations',
-            'expire' => 4320,
+            'expire' => 4320 * 1000, // "forever"
             'throttle' => 60,
         ],
     ],
