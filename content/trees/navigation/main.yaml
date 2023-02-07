@@ -97,16 +97,12 @@ tree:
             id: a43b9f35-89f4-45dd-a8da-df5db2fa5eff
             title: 'Strategie 2023ff.'
       -
-        id: f4130337-7b68-41b2-a782-e53e509a4b12
-        title: Geschichte
+        id: b1ff4033-564a-4cd7-afc6-d9b66c79346f
+        title: 'Zahlen & Fakten'
         children:
           -
             id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
             entry: b6089515-072a-4cb4-a027-79ce19952de2
-      -
-        id: b1ff4033-564a-4cd7-afc6-d9b66c79346f
-        title: 'Zahlen & Fakten'
-        children:
           -
             id: 08e171c3-e2ce-462c-8aad-23bf5272feb2
             entry: 5a885927-7cff-4958-bd1d-b367340c0b63
