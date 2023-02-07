@@ -61,13 +61,7 @@ components:
         content:
           -
             type: text
-            text: "\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '1851'
+            text: "\_1851"
       -
         type: heading
         attrs:
@@ -82,12 +76,6 @@ components:
           -
             type: text
             text: 'Für zwei Jahre zieht die Taubstummenanstalt in die «alte Gerbe» am Aarauer Ziegelrain um. Dieses Provisorium ist eng und lässt die Stiftung umgehend neue Räume suchen. Für die nächsten 24 Jahre mietet sie ein Haus an der Ecke Laurenzenvorstadt / Bahnhofstrasse in Aarau.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
       -
         type: paragraph
         content:
@@ -108,8 +96,6 @@ components:
           -
             type: text
             text: "Die Stiftung erhält ein eigenes Haus: Der Aarauer Kaufmann J. Brunner bietet ihr sein Bauerngut Landenhof in Unterentfelden an. Die Kulturgesellschaft ist begeistert und kauft das Gut mit 16 Jucharten (5.67 Hektaren) Garten, Wiesen und Ackerland für 31'000 Franken."
-      -
-        type: paragraph
       -
         type: paragraph
         content:
@@ -338,11 +324,16 @@ components:
       -
         id: 32RSrZbV
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_06.jpg
+    type: images
+    enabled: true
+  -
+    id: lduehb4c
+    images:
       -
-        id: lduechst
+        id: ero1SIyl
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_07.jpg
       -
-        id: lduecooh
+        id: lduehnfh
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_08.jpg
     type: images
     enabled: true
@@ -370,10 +361,130 @@ components:
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_10.jpg
     type: images
     enabled: true
+  -
+    id: ldueifyw
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1960'
+    type: text
+    enabled: true
+  -
+    id: ldueipb5
+    images:
+      -
+        id: ero1SIyl
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_11.jpg
+      -
+        id: ldueix22
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_12.jpg
+    type: images
+    enabled: true
+  -
+    id: lduejq8b
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1967'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Eröffnung des neuen Schulhauses'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ein neues Schulhaus wird bezogen. Es ist mit modernen Hör- und Sprechanlagen ausgerüstet und die Schülerinnen und Schüler sitzen erstmals an Einzelpulten. Das Gebäude konnte dank finanzieller Beteiligungen des Bundesamts für Sozialversicherung und des Kantons Aargau gebaut werden.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1970'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1971'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Audiopädagogische Dienst wird gegründet'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Im Auftrag des Kantons gründet der Landenhof den Audiopädagogischen Dienst. Der APD berät und begleitet hörbehinderte Kinder und Jugendliche aus dem Aargau und umliegenden Kantonen.\L"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1973'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Verantwortung wird auf mehr Schultern verteilt'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Verantwortung für den Landenhof wird nach der Pensionierung von Hans Tschabold auf mehr Personen verteilt. Die Leitung der Schule wird Herbert Grenacher übertragen, Heimleiter wird Werner Bärtschi, der nach einem Jahr von Willy Gutknecht abgelöst wird.'
+    type: text
+    enabled: true
+  -
+    id: lduekgwd
+    images:
+      -
+        id: ero1SIyl
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_13.jpg
+      -
+        id: lduekovt
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_14.jpg
+    type: images
+    enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675783760
+updated_at: 1675784132
 ---
