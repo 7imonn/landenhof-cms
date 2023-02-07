@@ -103,6 +103,10 @@ tree:
       -
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
+        children:
+          -
+            id: a43b9f35-89f4-45dd-a8da-df5db2fa5eff
+            title: 'Strategie 2023ff.'
       -
         id: f4130337-7b68-41b2-a782-e53e509a4b12
         title: Geschichte
