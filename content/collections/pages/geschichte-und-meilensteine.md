@@ -293,6 +293,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1940'
       -
         type: heading
@@ -318,6 +321,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1947'
       -
         type: heading
@@ -410,6 +416,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1967'
       -
         type: heading
@@ -444,6 +453,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1971'
       -
         type: heading
@@ -463,13 +475,15 @@ components:
         type: paragraph
         content:
           -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
-        content:
+            type: hard_break
+            marks:
+              -
+                type: italic
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1973'
       -
         type: heading
@@ -514,6 +528,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1983'
       -
         type: heading
@@ -550,6 +567,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1987'
       -
         type: heading
@@ -584,6 +604,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1990'
       -
         type: heading
@@ -599,13 +622,19 @@ components:
           -
             type: text
             text: 'Der Landenhof wird um zwei neue Häuser für Wohngruppen erweitert.'
-          -
-            type: hard_break
       -
         type: paragraph
         content:
           -
+            type: hard_break
+            marks:
+              -
+                type: italic
+          -
             type: text
+            marks:
+              -
+                type: italic
             text: '1995'
       -
         type: heading
@@ -628,6 +657,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1998'
       -
         type: heading
@@ -661,6 +693,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '1999'
       -
         type: heading
@@ -677,16 +712,12 @@ components:
             type: text
             text: "Bislang begleitete der Pädaudiologische Dienst des Landenhofs hauptsächlich Kinder des Landenhofs. Ab 1999 ist er zusätzlich Abklärungsstelle für Kinder aus dem ganzen Kanton Aargau. Kinder mit Hörbeeinträchtigungen versorgt er mit Hörhilfen, sowohl deren Eltern als auch schwerhörige Jugendliche berät er in allen medizinischen und technischen Fragen.\L"
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
         type: heading
         attrs:
           level: 3
         content:
+          -
+            type: hard_break
           -
             type: text
             text: '2000'
@@ -695,6 +726,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2000'
       -
         type: heading
@@ -717,6 +751,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2000'
       -
         type: heading
@@ -732,13 +769,19 @@ components:
           -
             type: text
             text: "In Zusammenarbeit mit den Kinder- und Jugendpsychiatrischen Diensten des Kantons Aargau wird am Landenhof ein Psychologischer Dienst aufgebaut.\L"
-          -
-            type: hard_break
       -
         type: paragraph
         content:
           -
+            type: hard_break
+            marks:
+              -
+                type: italic
+          -
             type: text
+            marks:
+              -
+                type: italic
             text: '2001'
       -
         type: heading
@@ -772,6 +815,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2003'
       -
         type: heading
@@ -805,6 +851,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2006'
       -
         type: heading
@@ -846,6 +895,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2011'
       -
         type: heading
@@ -893,6 +945,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2012'
       -
         type: heading
@@ -929,6 +984,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2014'
       -
         type: heading
@@ -962,6 +1020,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2017'
       -
         type: heading
@@ -1007,6 +1068,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2019'
       -
         type: heading
@@ -1064,6 +1128,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2019'
       -
         type: heading
@@ -1072,13 +1139,13 @@ components:
         content:
           -
             type: text
-            text: 'Eröffnungsapéro der Beratungsstelle für Schwerhörige und Gehörlose Aargau Solothurn (BFSUG Aargau Solothurn)'
+            text: 'Landenhof übernimmt Trägerschaft der Beratungsstelle für Schwerhörige und Gehörlose Aargau Solothurn'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Auf 2019 übernimmt die Stiftung Landenhof die Trägerschaft der BFSUG Aargau Solothurn. Die Dienstleistungen werden ab dem 7. Januar 2019 in den Räumlichkeiten des Landenhofs angeboten.'
+            text: 'Die Dienstleistungen werden ab dem 7. Januar 2019 in den Räumlichkeiten des Landenhofs angeboten.'
       -
         type: paragraph
         content:
@@ -1111,6 +1178,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2020'
       -
         type: heading
@@ -1156,6 +1226,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2021'
       -
         type: heading
@@ -1178,6 +1251,9 @@ components:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: '2022'
       -
         type: heading
@@ -1199,6 +1275,10 @@ components:
           -
             type: text
             text: 'Seit dem 7. Juni 2022 heisst der Landenhof offiziell «Landenhof Zentrum für Hören und Sehen».'
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: text
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
@@ -1206,5 +1286,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675797002
+updated_at: 1675797487
 ---
