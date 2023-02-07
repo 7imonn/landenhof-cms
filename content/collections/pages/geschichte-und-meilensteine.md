@@ -650,11 +650,14 @@ components:
           -
             type: text
             text: 'Unter der Präsidentin Therese Eichenberger werden die Aufgaben zwischen Direktion und Institutsleitung neu verteilt. Die Direktion wird in Stiftungsrat umbenannt und kümmert sich künftig ausschliesslich um strategische Angelegenheiten. Der Landenhof wird von einem mehrköpfigen Team um den Gesamtleiter Beat Näf geführt.'
-          -
-            type: hard_break
       -
         type: paragraph
         content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: italic
           -
             type: text
             marks:
@@ -744,11 +747,14 @@ components:
           -
             type: text
             text: 'Wer noch keine Lehrstelle gefunden hat oder noch nicht weiss, welchen Beruf er/sie erlernen will, kann ab dem Jahr 2000 ein Brückenjahr absolvieren. In diesem 10. Schuljahr erhalten die Suchenden Unterstützung und werden auf die Berufswelt vorbereitet.'
-          -
-            type: hard_break
       -
         type: paragraph
         content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: italic
           -
             type: text
             marks:
@@ -1139,7 +1145,7 @@ components:
         content:
           -
             type: text
-            text: 'Landenhof übernimmt Trägerschaft der Beratungsstelle für Schwerhörige und Gehörlose Aargau Solothurn'
+            text: 'Landenhof übernimmt Trägerschaft der Beratungsstelle für Schwerhörige und Gehörlose (BFSUG) Aargau Solothurn'
       -
         type: paragraph
         content:
@@ -1286,5 +1292,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675797633
+updated_at: 1675797939
 ---
