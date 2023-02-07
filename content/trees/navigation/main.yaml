@@ -90,6 +90,9 @@ tree:
             id: a35e62b2-e767-41d4-8373-f17037eb594d
             entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
           -
+            id: 529ef5d0-ae73-4dab-9fb0-ddae32854209
+            title: Netzwerk
+          -
             id: d0316f41-48da-4d92-9d6b-ad86436fd08c
             entry: 0dc0e45b-9e92-4733-a4af-a7f2ac820629
       -
@@ -109,9 +112,6 @@ tree:
           -
             id: 08e171c3-e2ce-462c-8aad-23bf5272feb2
             entry: 5a885927-7cff-4958-bd1d-b367340c0b63
-      -
-        id: 529ef5d0-ae73-4dab-9fb0-ddae32854209
-        title: Netzwerk
       -
         id: e0b9900e-494f-4b38-aec1-2c749a8a3042
         title: Events
