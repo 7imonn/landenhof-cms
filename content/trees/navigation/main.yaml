@@ -92,6 +92,10 @@ tree:
           -
             id: 529ef5d0-ae73-4dab-9fb0-ddae32854209
             title: Netzwerk
+            children:
+              -
+                id: 1c1d7aa6-5641-42fa-9f4c-b6c6e5316b2b
+                entry: 47d01e0d-ee93-4aa7-ac6b-522823ef7a9e
           -
             id: d0316f41-48da-4d92-9d6b-ad86436fd08c
             entry: 0dc0e45b-9e92-4733-a4af-a7f2ac820629
