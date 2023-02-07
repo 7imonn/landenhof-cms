@@ -9,3 +9,6 @@ preferences:
       after_save: continue_editing
     team:
       after_save: continue_editing
+  taxonomies:
+    functions:
+      after_save: continue_editing
