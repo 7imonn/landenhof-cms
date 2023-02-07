@@ -22,8 +22,8 @@ heros:
     is_white: false
     type: hero_small
     enabled: true
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1674039483
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1675807367
 lead:
   -
     type: paragraph
@@ -37,7 +37,7 @@ components:
     type: google_maps
     enabled: true
   -
-    id: lcuiboi2
+    id: ldusdscq
     content:
       -
         type: paragraph
@@ -51,7 +51,7 @@ components:
           -
             type: text
             text: 'Gerne berate ich Sie persönlich.'
-    person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
+    person: 402454a8-8bfa-4386-9036-a372f4c20151
     type: contact_teaser
     enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
