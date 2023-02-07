@@ -80,6 +80,15 @@ tree:
         id: ce8e735d-c50a-49d1-bffa-df351949007f
         entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
       -
+        id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
+        title: Strategie
+      -
+        id: f4130337-7b68-41b2-a782-e53e509a4b12
+        title: Geschichte
+      -
+        id: 529ef5d0-ae73-4dab-9fb0-ddae32854209
+        title: Netzwerk
+      -
         id: 9d0367be-f33a-4dbf-aafc-90dade6b9983
         entry: f4ffc5d4-9147-42f3-be41-1d773ffacc48
         children:
