@@ -89,9 +89,6 @@ tree:
           -
             id: a35e62b2-e767-41d4-8373-f17037eb594d
             entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
-          -
-            id: d0316f41-48da-4d92-9d6b-ad86436fd08c
-            entry: 0dc0e45b-9e92-4733-a4af-a7f2ac820629
       -
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
@@ -123,6 +120,9 @@ tree:
           -
             id: 36f5c574-6e14-4667-9729-1ae791c4cbb5
             entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
+      -
+        id: d0316f41-48da-4d92-9d6b-ad86436fd08c
+        entry: 0dc0e45b-9e92-4733-a4af-a7f2ac820629
   -
     id: 5dd9c326-f71d-439a-8107-12cdaba112fd
     entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
