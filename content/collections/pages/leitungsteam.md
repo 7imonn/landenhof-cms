@@ -12,7 +12,7 @@ heading:
 file: lottie/standard_blau.json
 is_white: true
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675802867
+updated_at: 1675802882
 lead:
   -
     type: paragraph
