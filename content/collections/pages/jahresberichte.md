@@ -16,7 +16,6 @@ components:
     files:
       -
         id: ldur1vor
-        file: downloads/jahres~3.PDF
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
