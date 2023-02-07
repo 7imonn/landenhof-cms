@@ -86,6 +86,9 @@ tree:
         id: f4130337-7b68-41b2-a782-e53e509a4b12
         title: Geschichte
       -
+        id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
+        entry: b6089515-072a-4cb4-a027-79ce19952de2
+      -
         id: 529ef5d0-ae73-4dab-9fb0-ddae32854209
         title: Netzwerk
       -
@@ -98,9 +101,6 @@ tree:
           -
             id: a35e62b2-e767-41d4-8373-f17037eb594d
             entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
-          -
-            id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
-            entry: b6089515-072a-4cb4-a027-79ce19952de2
           -
             id: 497d5384-0297-44cf-9a55-354831ca9b04
             title: Jahresberichte
