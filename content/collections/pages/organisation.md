@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675799567
+updated_at: 1675800047
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -250,6 +250,197 @@ components:
           -
             type: text
             text: 'Ressort Organisation'
+    type: text
+    enabled: true
+  -
+    id: ldunug6j
+    heading: 'Stiftungsurkunde Landenhof'
+    files:
+      -
+        id: ldunuzo0
+        name: LH_Stiftungsurkunde_2023
+        file: downloads/lh_stiftungsurkunde_2023.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
+    enabled: true
+  -
+    id: ldunxysy
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Geschäftsleitung
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die operative Führung des Landenhofs obliegt dem Geschäftsführer und dessen Stellvertreterin. Jedem Bereich stehen Leitungspersonen vor, die den Geschäftsführer in der operativen Leitung unterstützen. Der Geschäftsführer und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: hard_break
+          -
+            type: text
+            text: Geschäftsführer
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Stefan Buchmüller'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Stellvertretende Geschäftsführerin'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Daniela Hediger'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Schwerhörigenschule'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Ralph Bitterli, Leiter Primarschule'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Daniela Hediger, Leiterin Oberstufe & Brückenjahr'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Sozialpädagogik'
+          -
+            type: text
+            text: ' '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Stefan Zimmann'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Audiopädagogischer Dienst'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Monica Vonder Mühll, Leiterin Vorschulbereich'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Regula Fürderer, Leitung Schulbereich & Stützpunkt Gymnasium/Mittelschule'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Pädaudiologischer Dienst'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Marion Ingold'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Visiopädagogischer Dienst'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Petra Persello'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Leitung Ökonomie'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Rahel Nufer Scharwächter'
     type: text
     enabled: true
 ---
