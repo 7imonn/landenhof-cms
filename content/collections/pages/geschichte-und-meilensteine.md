@@ -897,10 +897,290 @@ components:
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_26.jpg
     type: images
     enabled: true
+  -
+    id: ldulthxl
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2014'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Kleines Jubiläum des Weiterbildungsforums'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Im Turnus von drei Jahren – 2014 bereits zum fünften Mal – findet das Weiterbildungsforum des Landenhofs statt. Im Kultur- und Kongresshaus Aarau treffen sich über 250 Fachleute aus Medizin, Technik und Pädagogik, Eltern von schwerhörigen Kindern sowie ehemalige Schülerinnen und Schüler des Landenhofs. Sie lauschen den Referaten über soziale Netzwerke und deren Bedeutung im Alltag schwerhöriger Menschen.'
+    type: text
+    enabled: true
+  -
+    id: ldultxqc
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_27.jpg
+    type: images
+    enabled: true
+  -
+    id: lduludw7
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2017'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Ehemaligentag
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Am Samstag, den 9.9.2017, trafen rund 450 ehemalige Schülerinnen und Schüler, z.T. in Begleitung ihrer Familien, auf dem Landenhof ein. Insgesamt befanden sich etwa 750 Personen auf dem Gelände. Für die Jüngsten gab es einen Kinderhort oder Animationen mit der Clownin Wendolina, damit die Eltern ihre Aufmerksamkeit den ehemaligen Kameradinnen und Freunden widmen konnten.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die vielen Leute verteilten sich auf den Hauptwegen und rund um die vier Essensstände. Das kühle Wetter bewirkte, dass die Gespräche an wärmeren Orten wie der Turnhalle, dem Jugendraum, der Cafeteria und dem Foyer des Schulhauses fortgesetzt wurden.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Fünf verschiedene Verbände für Schwerhörige und Gehörlose hatten ihre Informationsstände aufgebaut. In einem Schulzimmer konnten die Ehemaligen alte Klassenfotos ausdrucken. Weiter unten in der Aula war das Jahrgangtreffen, bei dem man sich überraschen lassen konnte, wer sonst noch angereist war. Die Fotobox war die ganze Zeit in Betrieb und produzierte als Erinnerung fröhliche Bilder von Gruppen oder gar ganzen Klassen.'
+    type: text
+    enabled: true
+  -
+    id: ldulvbax
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_28.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulvp7u
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2019'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Strategie 2019 - 2022'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2017 initiierte der Stiftungsrat einen Strategieprozess, dessen Ergebnis nun vorliegt. Die Strategie wurde partizipativ erarbeitet und schrittweise im Zeitraum von Juni 2017 bis Ende 2018 erarbeitet. Besonders zu erwähnen sind:'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Stiftungsrat setzte sich an mehreren Workshops intensiv mit den Strategiethemen und Umfeldentwicklungen auseinander.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Teams des Landenhofs waren aktiv in die Ist-Analyse sowie in die Erarbeitung konkreter Ziele und Massnahmen involviert.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Im Rahmen einer lebendigen und engagierten Zukunftswerkstatt, an welcher ca. 40 externe und interne Stakeholder teilnahmen, wurden mehrere Zukunftsthemen vertieft diskutiert und mögliche Ansätze für die Zukunft diskutiert.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die heutigen wie die ehemaligen Schülerinnen und Schüler und ihre Angehörigen waren ebenfalls aktiv einbezogen, im Rahmen der Ist-Analyse, der Zukunftswerkstatt und ihrer Vertretung im Stiftungsrat.'
+    type: text
+    enabled: true
+  -
+    id: ldulw1w4
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_29.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulwtmc
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2019'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Eröffnungsapéro der Beratungsstelle für Schwerhörige und Gehörlose Aargau Solothurn (BFSUG Aargau Solothurn)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Auf 2019 übernimmt die Stiftung Landenhof die Trägerschaft der BFSUG Aargau Solothurn. Die Dienstleistungen werden ab dem 7. Januar 2019 in den Räumlichkeiten des Landenhofs angeboten.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Beratung für Schwerhörige und Gehörlose Aargau Solothurn erfüllt eine wichtige soziale Unterstützungsfunktion für Menschen mit einer Hörbeeinträchtigung. Angeboten werden Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. Die Beratungen sind vertraulich und können in Laut- oder Gebärdensprache stattfinden.'
+    type: text
+    enabled: true
+  -
+    id: ldulx4av
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_30.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulxgyj
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2020'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2020'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Neuer Geschäftsführer und neuer Förderschwerpunkt «Sehen»'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Seit dem 1. August 2020 ist Stefan Buchmüller neuer Geschäftsführer des Landenhofs. Er folgt auf Beat Näf, der nach 36 Jahren am Landenhof, davon 25 Jahre als Gesamtleiter, in Pension geht. Stefan Buchmüller war zuvor während 25 Jahren als Erziehungsleiter und stellvertretender Gesamtleiter am Landenhof tätig.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ab August 2020 übernimmt der Landenhof im Auftrag der Abteilung Sonderschulung, Heime und Werkstätten des Kantons Aargau eine neue Aufgabe: Der Visiopädagogische Dienst berät und begleitet sehbeeinträchtigte Schüler:innen von der 1. bis zur 9. Klasse, welche die Regelschule besuchen. Zuvor hatte das Therapie Schulzentrum Münchenstein den Dienst angeboten. Leiterin des neuen Landenhof-Dienstes ist Petra Persello-Stokkel.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mit dem Start des Visiopädagogischen Dienstes setzt der Landenhof einen neuen Förderschwerpunkt Sehen. Mittel- bis langfristig will der Landenhof ein Kompetenzzentrum für Hören und Sehen werden.'
+    type: text
+    enabled: true
+  -
+    id: ldulyieg
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_31.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulyyih
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2021'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Start Heilpädagogische Früherziehung für Kinder mit einer Sehbeeinträchtigung'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Seit dem 1. Januar 2021 ist auch die Heilpädagogische Früherziehung (HFE) Teil des Visiopädagogischen Dienstes am Landenhof. Die HFE VPD richtet sich an Kinder mit einer Sehbeeinträchtigung oder mit auffälligem Sehverhalten im Vorschulalter (von der Geburt bis zur Einschulung). Mit der Erweiterung um die Heilpädagogische Früherziehung VPD stärkt der Landenhof den neuen Schwerpunkt Sehen und baut sein ambulantes Angebot weiter aus.'
+          -
+            type: hard_break
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2022'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Landenhof heisst neu «Landenhof Zentrum für Hören und Sehen»'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof wandelt sich von der Schwerhörigenschule mit Internat hin zu einer Bildungs-, Begleitungs- und Beratungsorganisation für Menschen mit Hör- oder Sehbeeinträchtigungen. Durch die Angebotserweiterung um den Förderschwerpunkt Sehen wurde auch eine Namensänderung nötig. Die Stiftungsurkunde wurde entsprechend angepasst.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Seit dem 7. Juni 2022 heisst der Landenhof offiziell «Landenhof Zentrum für Hören und Sehen».'
+    type: text
+    enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675796199
+updated_at: 1675796547
 ---
