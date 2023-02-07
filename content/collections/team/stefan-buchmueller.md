@@ -9,5 +9,5 @@ updated_at: 1675785751
 phone: '+41 62 737 05 05'
 portrait: team/team_buchmueller_stefan_01.jpg
 functions:
-  - geschaeftsfuehrer
+  - geschaeftsfuehrung
 ---
