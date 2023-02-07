@@ -629,10 +629,278 @@ components:
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_17.jpg
     type: images
     enabled: true
+  -
+    id: ldulmej4
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1999'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Pädaudiologische Dienst erhält neue Aufgaben'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Bislang begleitete der Pädaudiologische Dienst des Landenhofs hauptsächlich Kinder des Landenhofs. Ab 1999 ist er zusätzlich Abklärungsstelle für Kinder aus dem ganzen Kanton Aargau. Kinder mit Hörbeeinträchtigungen versorgt er mit Hörhilfen, sowohl deren Eltern als auch schwerhörige Jugendliche berät er in allen medizinischen und technischen Fragen.\L"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2000'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2000'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Landenhof führt 10. Schuljahr ein'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wer noch keine Lehrstelle gefunden hat oder noch nicht weiss, welchen Beruf er/sie erlernen will, kann ab dem Jahr 2000 ein Brückenjahr absolvieren. In diesem 10. Schuljahr erhalten die Suchenden Unterstützung und werden auf die Berufswelt vorbereitet.'
+          -
+            type: hard_break
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2000'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Psychologische Dienst öffnet seine Türen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "In Zusammenarbeit mit den Kinder- und Jugendpsychiatrischen Diensten des Kantons Aargau wird am Landenhof ein Psychologischer Dienst aufgebaut.\L"
+          -
+            type: hard_break
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2001'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Schule und Internat beziehen neue Häuser'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof wächst und entwickelt sich weiter. Das hat Folgen für das alte Landenhof-Bauernhaus. Es wird abgerissen und durch Neubauten für die Schule und das Internat ersetzt. Das Hauptgebäude von 1931 wird total saniert. Die neuen Häuser werden 2004 eröffnet.'
+    type: text
+    enabled: true
+  -
+    id: ldulnwka
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_18.jpg
+    type: images
+    enabled: true
+  -
+    id: lduloa23
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2003'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Erste Schweizer Mittelschule für Schwerhörige wird lanciert'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bereits seit den 1940er-Jahren unterrichtet der Landenhof an einer mehrgliedrigen Oberstufe schwerhörige Kinder und Jugendliche. Ab 2003 bietet er eine spezifisch auf die Bedürfnisse von Schwerhörigen ausgerichtete Ausbildung an einer Mittelschule an: Jugendliche mit einer Hörbeeinträchtigung werden in Klassen des Gymnasiums oder der Fachmittelschule der Neuen Kantonsschule Aarau integriert und durch den Audiopädagogischen Dienst des Landenhofs unterstützt und'
+    type: text
+    enabled: true
+  -
+    id: lduloj7q
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_19.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulox33
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2006'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ein Übungsraum für Landenhofbands'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Im neuen Pavillon gibt es für die Schülerinnen und Schüler des Landenhofs neu einen Jugendraum und ein Probelokal für die Landenhofbands.'
+    type: text
+    enabled: true
+  -
+    id: ldulpc7w
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_20.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulplt4
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2010'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2011'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Landenhof wird 175 Jahre alt!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gebührend feiert der Landenhof seinen 175. Geburtstag: Der heimische Zirkus Monti gibt im Mai eine Galavorstellung, im Juni steigt die grosse Geburtstagsparty, kurz danach das Sommernachtsfest und im September schliesslich treffen sich 450 ehemalige Schülerinnen und Schüler des Landenhofs zum Austausch.'
+    type: text
+    enabled: true
+  -
+    id: ldulq5l1
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_21.jpg
+      -
+        id: ldulqmio
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_22.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulqw0h
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_23.jpg
+      -
+        id: ldulr548
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_24.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulrowr
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2012'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Landenhof ist auch ein Solarkraftwerk'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "84'000 Kilowattstunden Strom liefert das Solarkraftwerk auf dem Dach des Schulhauses und zweier Internatsgebäude des Landenhofs jährlich. Damit können 20 Aargauer Haushalte mit umweltfreundlichem Strom versorgt werden. Die neue Photovoltaik-Anlage wurde von der IBAarau Kraftwerk AG finanziert und ist Teil des Engagements des Landenhofs für einen zukunftsgerichteten Umgang mit Energie. Seit dem 1. Februar 2013 bezieht der Landenhof ausschliesslich Strom aus erneuerbaren Quellen."
+    type: text
+    enabled: true
+  -
+    id: ldulryid
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_25.jpg
+      -
+        id: lduls97m
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_26.jpg
+    type: images
+    enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675795860
+updated_at: 1675796199
 ---
