@@ -170,6 +170,8 @@ components:
         type: paragraph
         content:
           -
+            type: hard_break
+          -
             type: text
             text: '1921'
       -
@@ -186,11 +188,11 @@ components:
           -
             type: text
             text: 'Anfang des 20. Jahrhunderts geben sich Institutsleiter rasch folgend die Klinke in die Hand. Mit dem Vorsteher Hans Gfeller kehrt von 1921 bis 1947 Ruhe ein.'
-          -
-            type: hard_break
       -
         type: paragraph
         content:
+          -
+            type: hard_break
           -
             type: text
             text: '1927'
@@ -1180,5 +1182,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675796856
+updated_at: 1675796900
 ---
