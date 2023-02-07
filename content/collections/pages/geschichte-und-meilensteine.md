@@ -132,10 +132,248 @@ components:
             text: 'Im August zieht die Taubstummenanstalt in ihr neues Heim. Eine Schilderung aus jener Zeit widerspiegelt die Freude am neuen Besitz: «Der Landenhof befindet sich eine Viertelstunde von der Stadt Aarau auf der südlichen Abhaldung des Distelberges an gesunder, sonniger Lage. Er ist mit Quellwasser reichlich versehen. Das massive, von Stein erbaute, zweistöckige Wohngebäude gewährt von aussen einen freundlichen Anblick und enthält im Innern eine Anzahl heller, geräumiger Zimmer. (…) Das Heim liegt, gegen Norden und Westen geschützt, frei sich öffnend gegen das zu Füssen liegende idyllische Suhrental mit dem herrlichen Abschluss durch den Kranz der Alpen.»'
     type: text
     enabled: true
+  -
+    id: ldue8lzw
+    images:
+      -
+        id: 32RSrZbV
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_02.jpg
+      -
+        id: ldue8wg9
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_03.jpg
+    type: images
+    enabled: true
+  -
+    id: ldue96bi
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1900'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1919'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ausbaupläne werden abgelehnt'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In der Taubstummenanstalt wird es wieder eng. Sie meldet bei der aargauischen Baudirektion umfassende Ausbaubedürfnisse an. Grund dafür ist unter anderem die Befürchtung, dass ein möglicher Brand katastrophal enden könnte. Wegen zu hoher Kosten lehnt der Kanton Ausbauten ab.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1921'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Hans Gfeller wird Leiter'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Anfang des 20. Jahrhunderts geben sich Institutsleiter rasch folgend die Klinke in die Hand. Mit dem Vorsteher Hans Gfeller kehrt von 1921 bis 1947 Ruhe ein.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1927'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Privates Geld macht Neubau möglich'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Endlich kann der Landenhof erweitert werden. Nach vielen vergeblichen Bemühungen, die nötigen Finanzen aufzutreiben, kann der Fabrikant und Präsident der Landenhof‐Direktion Heinrich Kern einen grossen Erfolg verbuchen. Dank einer Sammlung bei Privaten, bei 233 Gemeinden sowie der Unterstützung durch die Pro Juventute können die fehlenden Mittel für einen Neubau eingebracht werden.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1930'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1931'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Neues Hauptgebäude wird eingeweiht'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Das neue Hauptgebäude des Landenhofs wird eingeweiht. Die Taubstummenanstalt erhält damit ein repräsentatives und nach modernsten Grundsätzen der Zeit eingerichtetes Wohn‐ und Schulgebäude.'
+    type: text
+    enabled: true
+  -
+    id: ldueaoht
+    images:
+      -
+        id: 32RSrZbV
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_03.jpg
+      -
+        id: ldueazq0
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_04.jpg
+    type: images
+    enabled: true
+  -
+    id: lduebd6q
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1940'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1940'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Der Name «Taubstummenanstalt» verschwindet'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof gibt sich einen neuen Namen. Er wird von der «Taubstummenanstalt» zur «Schweizerischen Schwerhörigen‐Schule Landenhof» und erhält gleichzeitig eine Sekundarschule, einen Kindergarten und später eine Bezirksschule.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1947'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Die Ära Tschabold beginnt'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Auf die «Ära Gfeller» folgt Hans Tschabold. Bis zu seiner Pensionierung 1973 trägt er viel zur Konsolidierung und Weiterentwicklung des Landenhofs bei.'
+    type: text
+    enabled: true
+  -
+    id: lduec9t3
+    images:
+      -
+        id: 32RSrZbV
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_06.jpg
+      -
+        id: lduechst
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_07.jpg
+      -
+        id: lduecooh
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_08.jpg
+    type: images
+    enabled: true
+  -
+    id: ldueczna
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1950'
+    type: text
+    enabled: true
+  -
+    id: lduedba1
+    images:
+      -
+        id: 32RSrZbV
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_09.jpg
+      -
+        id: lduednd7
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_10.jpg
+    type: images
+    enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675783465
+updated_at: 1675783760
 ---
