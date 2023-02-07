@@ -474,10 +474,165 @@ components:
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_14.jpg
     type: images
     enabled: true
+  -
+    id: ldulhl3h
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1980'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1983'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sport wird gross geschrieben'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die neue Turnhalle mit Sportplatz wird eingeweiht.'
+    type: text
+    enabled: true
+  -
+    id: ldulif7a
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_15.jpg
+      -
+        id: ldulipnw
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_16.jpg
+    type: images
+    enabled: true
+  -
+    id: ldulj443
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1987'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Eröffnung des Werkraumpavillons'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Schülerinnen und Schüler des Landenhofs können nun in zweckmässig eingerichteten, attraktiven Werkräumen unter Anleitung Holz und Metall bearbeiten.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1990'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1990'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Zwei neue Gruppenhäuser schaffen Platz'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof wird um zwei neue Häuser für Wohngruppen erweitert.'
+          -
+            type: hard_break
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1995'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Leitung wird neu gegliedert'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unter der Präsidentin Therese Eichenberger werden die Aufgaben zwischen Direktion und Institutsleitung neu verteilt. Die Direktion wird in Stiftungsrat umbenannt und kümmert sich künftig ausschliesslich um strategische Angelegenheiten. Der Landenhof wird von einem mehrköpfigen Team um den Gesamtleiter Beat Näf geführt.'
+          -
+            type: hard_break
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1998'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Landenhof mit neuem Leitbild'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof gibt sich ein neues Leitbild und reformiert seine Strukturen. Die Institution heisst neu «Landenhof – Zentrum und Schweizerische Schule für Schwerhörige». Gleichzeitig lässt er ein neues visuelles Erscheinungsbild entwickeln, das 2005 überarbeitet wird.'
+    type: text
+    enabled: true
+  -
+    id: ldulkxlq
+    images:
+      -
+        id: 4zOSA2RE
+        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_17.jpg
+    type: images
+    enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675784324
+updated_at: 1675795860
 ---
