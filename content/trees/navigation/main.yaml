@@ -93,6 +93,13 @@ tree:
             id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
             entry: b6089515-072a-4cb4-a027-79ce19952de2
           -
+            id: 497d5384-0297-44cf-9a55-354831ca9b04
+            title: Jahresberichte
+            children:
+              -
+                id: 08e171c3-e2ce-462c-8aad-23bf5272feb2
+                entry: 5a885927-7cff-4958-bd1d-b367340c0b63
+          -
             id: d0316f41-48da-4d92-9d6b-ad86436fd08c
             entry: 0dc0e45b-9e92-4733-a4af-a7f2ac820629
       -
