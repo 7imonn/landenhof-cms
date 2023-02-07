@@ -1,2 +1,13 @@
 title: 'Component Raise Now Widget'
-fields: {  }
+fields:
+  -
+    handle: spendenformular
+    field:
+      display: Spendenformular
+      type: section
+      icon: section
+      instructions: 'Hier wird automatisch das Raise Now Spendenformular geladen.'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
