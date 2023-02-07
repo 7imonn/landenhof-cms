@@ -12,6 +12,3 @@ preferences:
   taxonomies:
     functions:
       after_save: continue_editing
-  assets:
-    assets:
-      mode: grid
