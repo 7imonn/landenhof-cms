@@ -1,7 +1,7 @@
 ---
 id: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
 blueprint: team_overview
-title: Geschäftsleitung
+title: Team
 heading:
   -
     type: paragraph
@@ -12,7 +12,7 @@ heading:
 file: lottie/standard_blau.json
 is_white: true
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675788304
+updated_at: 1675788380
 lead:
   -
     type: paragraph
