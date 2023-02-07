@@ -166,12 +166,8 @@ components:
           -
             type: text
             text: 'In der Taubstummenanstalt wird es wieder eng. Sie meldet bei der aargauischen Baudirektion umfassende Ausbaubedürfnisse an. Grund dafür ist unter anderem die Befürchtung, dass ein möglicher Brand katastrophal enden könnte. Wegen zu hoher Kosten lehnt der Kanton Ausbauten ab.'
-      -
-        type: paragraph
-        content:
           -
-            type: text
-            text: "\_"
+            type: hard_break
       -
         type: paragraph
         content:
@@ -192,12 +188,8 @@ components:
           -
             type: text
             text: 'Anfang des 20. Jahrhunderts geben sich Institutsleiter rasch folgend die Klinke in die Hand. Mit dem Vorsteher Hans Gfeller kehrt von 1921 bis 1947 Ruhe ein.'
-      -
-        type: paragraph
-        content:
           -
-            type: text
-            text: "\_"
+            type: hard_break
       -
         type: paragraph
         content:
@@ -218,12 +210,8 @@ components:
           -
             type: text
             text: 'Endlich kann der Landenhof erweitert werden. Nach vielen vergeblichen Bemühungen, die nötigen Finanzen aufzutreiben, kann der Fabrikant und Präsident der Landenhof‐Direktion Heinrich Kern einen grossen Erfolg verbuchen. Dank einer Sammlung bei Privaten, bei 233 Gemeinden sowie der Unterstützung durch die Pro Juventute können die fehlenden Mittel für einen Neubau eingebracht werden.'
-      -
-        type: paragraph
-        content:
           -
-            type: text
-            text: "\_"
+            type: hard_break
       -
         type: heading
         attrs:
@@ -296,9 +284,8 @@ components:
           -
             type: text
             text: 'Der Landenhof gibt sich einen neuen Namen. Er wird von der «Taubstummenanstalt» zur «Schweizerischen Schwerhörigen‐Schule Landenhof» und erhält gleichzeitig eine Sekundarschule, einen Kindergarten und später eine Bezirksschule.'
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "\_"
@@ -492,5 +479,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675784267
+updated_at: 1675784324
 ---
