@@ -12,19 +12,14 @@ heading:
 file: lottie/standard_blau.json
 is_white: true
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675788380
+updated_at: 1675788420
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Die operative Führung des Landenhofs obliegt dem Geschäftsführer und dessen Stellvertreterin. '
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Jedem Bereich stehen Leitungspersonen vor, die den Geschäftsführer in der operativen Leitung unterstützen. Der Geschäftsführer und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
+        text: 'Die operative Führung des Landenhofs obliegt dem Geschäftsführer und dessen Stellvertreterin. Jedem Bereich stehen Leitungspersonen vor, die den Geschäftsführer in der operativen Leitung unterstützen. Der Geschäftsführer und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
 with_filter: true
 link_text: 'Offene Stellen bei uns'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
