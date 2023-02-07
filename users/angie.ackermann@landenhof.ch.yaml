@@ -3,3 +3,7 @@ roles:
   - editor
 id: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
 password_hash: $2y$10$w7V7h.sJFL9KEuzVdRGI8uh8MNaM.oNaA3Hg12gL4977lb/33OoKe
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
