@@ -7,3 +7,5 @@ preferences:
   collections:
     pages:
       after_save: continue_editing
+    team:
+      after_save: continue_editing
