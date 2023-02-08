@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675863869
+updated_at: 1675864029
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -373,17 +373,6 @@ components:
             type: text
             text: 'Rahel Nufer Scharwächter'
     type: text
-    enabled: true
-  -
-    id: ldvq00gm
-    slides:
-      -
-        id: UE07dwVu
-        positioning: imageIsRight
-        heading: 'Lernen Sie unser Leitungsteam kennen!'
-        link_text: 'Zur Teamseite'
-        link: 'entry::f12cda3c-60bf-4a48-9a94-2a27b1d588cf'
-    type: teaser_large_slider
     enabled: true
   -
     id: ldunug6j
