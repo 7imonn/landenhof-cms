@@ -20,7 +20,6 @@ bard_text:
         text: 'peter test'
 categories:
   - medienbericht
-  - corona
 time: '10:30 – 11:30 Uhr'
 lead:
   -
