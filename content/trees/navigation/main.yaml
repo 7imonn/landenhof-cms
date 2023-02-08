@@ -104,6 +104,9 @@ tree:
         title: 'Zahlen & Fakten'
         children:
           -
+            id: 4a1f8357-6371-4f98-a45d-c222fe849798
+            title: 'Bilanz & Betriebsrechnung'
+          -
             id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
             entry: b6089515-072a-4cb4-a027-79ce19952de2
           -
