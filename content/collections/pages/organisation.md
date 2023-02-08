@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675807855
+updated_at: 1675863556
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -375,21 +375,6 @@ components:
     type: text
     enabled: true
   -
-    id: ldupgpv7
-    icon_cards:
-      -
-        id: Alh5Q4J6
-        color_theme: blue
-        icon: icons/ear_and_eye.svg
-        title: Team
-        links:
-          -
-            id: lduphe4d
-            link_title: "Hier geht's zum Team"
-            link: 'entry::f12cda3c-60bf-4a48-9a94-2a27b1d588cf'
-    type: icon_cards
-    enabled: true
-  -
     id: ldunug6j
     heading: Dokumente
     files:
@@ -400,5 +385,12 @@ components:
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
+    enabled: true
+  -
+    id: ldvpun7g
+    heading: 'Lernen Sie unser Leitungsteam kennen!'
+    button_text: 'Zur Seite'
+    button_link: 'entry::f12cda3c-60bf-4a48-9a94-2a27b1d588cf'
+    type: slider
     enabled: true
 ---
