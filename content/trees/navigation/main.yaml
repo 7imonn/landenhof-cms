@@ -90,6 +90,9 @@ tree:
             id: a35e62b2-e767-41d4-8373-f17037eb594d
             entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
           -
+            id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
+            entry: b6089515-072a-4cb4-a027-79ce19952de2
+          -
             id: 1c1d7aa6-5641-42fa-9f4c-b6c6e5316b2b
             entry: 47d01e0d-ee93-4aa7-ac6b-522823ef7a9e
       -
@@ -106,9 +109,6 @@ tree:
           -
             id: 4a1f8357-6371-4f98-a45d-c222fe849798
             title: 'Bilanz & Betriebsrechnung'
-          -
-            id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
-            entry: b6089515-072a-4cb4-a027-79ce19952de2
           -
             id: 08e171c3-e2ce-462c-8aad-23bf5272feb2
             entry: 5a885927-7cff-4958-bd1d-b367340c0b63
