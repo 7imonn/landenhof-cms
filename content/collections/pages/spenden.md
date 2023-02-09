@@ -11,7 +11,7 @@ heros:
         content:
           -
             type: text
-            text: Spenden
+            text: 'Eine Spende für den Landenhof'
     file: lottie/standard_weiss.json
     is_white: false
     type: hero_small
@@ -22,14 +22,33 @@ lead:
     content:
       -
         type: text
-        text: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.'
+        text: 'Unterstützen Sie den Landenhof mit einer Spende. Wir setzen Ihre Spende auf jeden Fall dafür ein, Kindern und Jugendlichen mit einer Hör- oder Sehbeeinträchtigung kleine und grosse Wünsche zu erfüllen oder ihnen zusätzliche Hilfeleistungen zu ermöglichen. Herzlichen Dank für Ihre wertvolle Unterstützung!'
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1675765418
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1675969083
 components:
   -
     id: ldoc27e8
     type: raise_now_widget
+    enabled: true
+  -
+    id: ldxgp2y1
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sie möchten das Geld lieber überweisen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Spendenkonto Landenhof IBAN: CH23 0900 0000 5000 1067 6'
+    type: text
     enabled: true
 ---
