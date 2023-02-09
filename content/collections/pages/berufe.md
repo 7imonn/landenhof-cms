@@ -150,8 +150,99 @@ components:
             text: 'Therapeut:in Psychomotorik'
     type: text
     enabled: true
+  -
+    id: ldxm5g8a
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Berufe Sozialpädagogik'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Assistent:in Sozialpädagogik'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Sozialarbeiter:in'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Sozialpädagog:in'
+    type: text
+    enabled: true
+  -
+    id: ldxm6lxf
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Berufe Audiopädagogischer Dienst'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Audiopädagog:in'
+    type: text
+    enabled: true
+  -
+    id: ldxm7imc
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Berufe Visiopädagogischer Dienst'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Heilpädagogische:r Früherzieher:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Rehabilitation-Fachperson Low Vision'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visiopädagog:in'
+    type: text
+    enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675978186
+updated_at: 1675978354
 ---
