@@ -62,7 +62,18 @@ components:
             type: hard_break
           -
             type: text
-            text: 'E-Mail: stefan.buchmueller@landenhof.ch'
+            text: 'E-Mail: '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: stefan.buchmueller@landenhof.ch
+                  rel: null
+                  target: _blank
+                  title: null
+            text: stefan.buchmueller@landenhof.ch
           -
             type: hard_break
           -
@@ -80,13 +91,9 @@ components:
                   title: null
             text: 'https://www.landenhof.ch/'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -116,13 +123,9 @@ components:
             type: text
             text: 'Durch die Nutzung dieser Website erklären Sie sich mit der Erhebung, Verarbeitung und Nutzung von Daten gemäss der nachfolgenden Beschreibung einverstanden. Diese Website kann grundsätzlich ohne Registrierung besucht werden. Dabei werden Daten wie beispielsweise aufgerufene Seiten bzw. Namen der abgerufenen Datei, Datum und Uhrzeit zu statistischen Zwecken auf dem Server gespeichert, ohne dass diese Daten unmittelbar auf Ihre Person bezogen werden. Personenbezogene Daten, insbesondere Name, Adresse oder E-Mail-Adresse werden soweit möglich auf freiwilliger Basis erhoben. Ohne Ihre Einwilligung erfolgt keine Weitergabe der Daten an Dritte.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -239,13 +242,9 @@ components:
             type: text
             text: 'Wir bearbeiten Personendaten für jene Dauer, die für den jeweiligen Zweck oder die jeweiligen Zwecke erforderlich ist. Bei länger dauernden Aufbewahrungspflichten aufgrund von gesetzlichen und sonstigen Pflichten, denen wir unterliegen, schränken wir die Bearbeitung entsprechend ein.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -257,13 +256,9 @@ components:
             type: text
             text: 'Nach Massgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, gilt Folgendes: Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Massnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO, und die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -281,13 +276,9 @@ components:
             type: text
             text: 'Zu den Massnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -299,13 +290,9 @@ components:
             type: text
             text: 'Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass die Daten an andere Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt oder sie ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z.B. mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, die in eine Webseite eingebunden werden, gehören. In solchen Fall beachten wir die gesetzlichen Vorgaben und schliessen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -337,13 +324,9 @@ components:
             type: text
             text: ).
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -536,13 +519,9 @@ components:
                     type: text
                     text: 'Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -560,13 +539,9 @@ components:
             type: text
             text: 'Wenn die SSL bzw. TLS Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -632,13 +607,9 @@ components:
             type: text
             text: 'Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zuprüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -682,13 +653,9 @@ components:
             type: text
             text: .
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -708,16 +675,10 @@ components:
           -
             type: text
             text: 'Jede betroffene Person hat das Recht, vom Betreiber der Website eine Bestätigung darüber zu verlangen, ob betroffene Personen betreffende, personenbezogene Daten verarbeitet werden. Möchten Sie dieses Bestätigungsrecht in Anspruch nehmen, können Sie sich hierzu jederzeit an den Datenschutzbeauftragten wenden.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -808,16 +769,10 @@ components:
           -
             type: text
             text: 'Möchten Sie dieses Auskunftsrecht in Anspruch nehmen, können Sie sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -836,16 +791,10 @@ components:
           -
             type: text
             text: 'Möchten Sie dieses Berichtigungsrecht in Anspruch nehmen, können Sie sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -921,16 +870,10 @@ components:
           -
             type: text
             text: 'Sofern einer der oben genannten Gründe zutrifft und Sie die Löschung von personenbezogenen Daten, die beimBetreiber dieser Website gespeichert sind, veranlassen möchten, können Sie sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden. Der Datenschutzbeauftragte dieser Website wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -988,16 +931,10 @@ components:
           -
             type: text
             text: 'Sofern eine der oben genannten Voraussetzungen gegeben ist Sie die Einschränkung von personenbezogenen Daten, die beim Betreiber dieser Website gespeichert sind, verlangen möchten, können Sie sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden. Der Datenschutzbeauftragte dieser Website wird die Einschränkung der Verarbeitung veranlassen.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -1022,16 +959,10 @@ components:
           -
             type: text
             text: 'Zur Geltendmachung des Rechts auf Datenübertragbarkeit können Sie sich jederzeit an den vom Betreiber dieser Website bestellten Datenschutzbeauftragten wenden.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -1056,16 +987,10 @@ components:
           -
             type: text
             text: 'Zur Ausübung des Rechts auf Widerspruch können Sie sich direkt an den Datenschutzbeauftragten dieser Website wenden.'
-      -
-        type: paragraph
-        content:
           -
             type: hard_break
           -
             type: hard_break
-      -
-        type: paragraph
-        content:
           -
             type: text
             marks:
@@ -1085,13 +1010,9 @@ components:
             type: text
             text: 'Möchten Sie Ihr Recht auf Widerruf einer Einwilligung geltend machen, können Sie sich hierzu jederzeit an unseren Datenschutzbeauftragten wenden.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1103,13 +1024,9 @@ components:
             type: text
             text: 'Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1135,13 +1052,9 @@ components:
             type: text
             text: .
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1211,13 +1124,9 @@ components:
             type: text
             text: '. Hierdurch wird ein sog. opt-out Cookie auf ihrem Datenträger gespeichert, der die Verarbeitung personenbezogener Daten durch Google Analytics verhindert. Bitte beachten Sie, dass bei einem Löschen sämtlicher Cookies auf Ihrem Endgerät auch diese Opt-out-Cookies gelöscht werden, d.h., dass Sie erneut die Opt-out-Cookies setzen müssen, wenn Sie weiterhin diese Form der Datenerhebung verhindern wollen. Die Opt-out-Cookies sind pro Browser und Rechner/Endgerät gesetzt und müssen daher für jeden Browser, Rechner oder anderes Endgerät gesondert aktiviert werden.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1243,13 +1152,9 @@ components:
             type: text
             text: .
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1275,13 +1180,9 @@ components:
             type: text
             text: .
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1310,13 +1211,9 @@ components:
                   title: null
             text: 'http://instagram.com/about/legal/privacy/'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1406,13 +1303,9 @@ components:
             type: text
             text: .
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1721,13 +1614,9 @@ components:
             type: text
             text: 'Für die Zahlungsgeschäfte gelten die Geschäftsbedingungen und die Datenschutzhinweise der jeweiligen Zahlungsdienstleister, welche innerhalb der jeweiligen Website, bzw. Transaktionsapplikationen abrufbar sind. Wir verweisen auf diese ebenfalls zwecks weiterer Informationen und Geltendmachung von Widerrufs-, Auskunfts- und anderen Betroffenenrechten.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1759,13 +1648,9 @@ components:
             type: text
             text: '. Diese Bestimmungen bilden eine rechtlich bindende Vereinbarung zwischen Ihnen und «YouTube» bezüglich der Nutzung der Dienste. In der Datenschutzerklärung von Google wird erläutert, wie «YouTube» mit Ihren personenbezogenen Daten verfährt und Ihre Daten schützt, wenn Sie den Dienst nutzen.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1777,13 +1662,9 @@ components:
             type: text
             text: 'Auf unserer Website sind unter anderem Tools von Unternehmen mit Sitz in den USA eingebunden. Wenn diese Tools aktiv sind, können Ihre personenbezogenen Daten an die US-Server der jeweiligen Unternehmen weitergegeben werden. Wir weisen darauf hin, dass die USA kein sicherer Drittstaat im Sinne des EU-Datenschutzrechts sind. US-Unternehmen sind dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als Betroffener hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z.B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1799,15 +1680,11 @@ components:
         content:
           -
             type: text
-            text: 'Wer ohne Einwilligung des jeweiligen Rechteinhabers eine Urheberrechtsverletzung begeht, kann sich strafbar und allenfalls schadenersatzpflichtig machen.'
+            text: "Wer ohne Einwilligung des jeweiligen Rechteinhabers eine Urheberrechtsverletzung begeht, kann sich strafbar und allenfalls schadenersatzpflichtig machen.\_"
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1831,13 +1708,9 @@ components:
             type: text
             text: 'Der Herausgeber übernimmt ebenfalls keine Verantwortung und Haftung für die Inhalte und die Verfügbarkeit von Website Dritter, die über externe Links dieser Website erreichbar sind. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich. Der Herausgeber distanziert sich damit ausdrücklich von allen Inhalten Dritter, die möglicherweise straf- oder haftungsrechtlich relevant sind oder gegen die guten Sitten verstossen.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1849,13 +1722,9 @@ components:
             type: text
             text: 'Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen. Es gilt die jeweils aktuelle, auf unserer Website publizierte Fassung. Soweit die Datenschutzerklärung Teil einer Vereinbarung mit Ihnen ist, werden wir Sie im Falle einer Aktualisierung über die Änderung per E-Mail oder auf andere geeignete Weise informieren.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -1876,6 +1745,9 @@ components:
         type: paragraph
         content:
           -
+            type: text
+            text: 'Unterentfelden, März 2023'
+          -
             type: hard_break
           -
             type: text
@@ -1889,12 +1761,13 @@ components:
                   href: 'https://www.swissanwalt.ch/'
                   rel: null
                   target: _blank
-                  title: null
+                  title: SwissAnwalt
             text: SwissAnwalt
     type: text
     enabled: true
+color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675966750
+updated_at: 1675967348
 ---
