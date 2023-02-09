@@ -1,5 +1,6 @@
 ---
 id: fbdcf551-83e7-4c1c-8dc0-c6724ca03374
+published: false
 blueprint: content_page
 title: Tagesschule
 heros:
@@ -10,8 +11,8 @@ heros:
     file: lottie/inhaltsseite_sehen_pink.json
     enabled: true
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1674124665
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1675973578
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
