@@ -9,10 +9,10 @@ heading:
       -
         type: text
         text: Leitungsteam
-file: lottie/standard_blau.json
-is_white: true
+file: lottie/standard_weiss.json
+is_white: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675969602
+updated_at: 1675969667
 lead:
   -
     type: paragraph
@@ -20,7 +20,7 @@ lead:
       -
         type: text
         text: 'Die operative Führung des Landenhofs obliegt dem Geschäftsführer und dessen Stellvertreterin. Jedem Bereich stehen Leitungspersonen vor, die den Geschäftsführer in der operativen Leitung unterstützen. Der Geschäftsführer und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
-with_filter: true
+with_filter: false
 link_text: 'Offene Stellen bei uns'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
 color_theme: blue
