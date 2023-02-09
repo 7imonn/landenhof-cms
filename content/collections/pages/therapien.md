@@ -241,9 +241,180 @@ components:
             text: 'Abklärung, Beratung und Therapie sind für Schüler:innen des Landenhofs kostenlos.'
     type: text
     enabled: true
+  -
+    id: ldxiq1e0
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Psychomotorik
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Angebot und Ziele'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Psychomotorik-Therapie richtet sich an Kinder und Jugendliche mit Auffälligkeiten in der Bewegung (Grob-, Fein- und Grafomotorik), in der Wahrnehmungsverarbeitung, im Sozialverhalten und im Emotionalen Ausdruck.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unser Ziel ist es, die Handlungs- und Interaktionskompetenzen sowie die Lernfähigkeit der Kinder und Jugendlichen zu erweitern.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir bieten Abklärungen, Beratungen und Therapien an.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Therapie
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Therapie basiert auf einer vertrauensvollen Beziehung unter Berücksichtigung der individuellen Stärken und Ressourcen der Kinder und Jugendlichen. Wir pflegen einen regelmässigen Austausch und eine gute Zusammenarbeit mit den Beteiligten und schaffen damit die Voraussetzung für einen erfolgreichen Therapieverlauf. Je nach Förderschwerpunkt erfolgt die Therapie einzeln oder in Kleingruppen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Psychomotorik-Therapie unterstützt insbesondere:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die motorische Geschicklichkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die Selbständigkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die Differenzierung der Wahrnehmung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'das Vertrauen in sich selbst und in andere'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die Fähigkeit, Emotionen und das eigene Verhalten zu regulieren'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'das Gleichgewicht zwischen Körper- und Gefühlsebene'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die Freude an der Bewegung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die sozialen Kompetenzen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'die Sensibilisierung und Aufklärung des Umfeldes für die besonderen Bedürfnisse.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Anmeldung
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung via Schulleitung einreichen.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Kosten
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Kanton Aargau und ist für die Eltern kostenlos.'
+    type: text
+    enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675971213
+updated_at: 1675972803
 ---
