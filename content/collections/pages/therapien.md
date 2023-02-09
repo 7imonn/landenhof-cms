@@ -7,7 +7,7 @@ heros:
     id: RiBFCtt6
     type: hero_default
     heading: Therapien
-    file: lottie/inhaltsseite_hoeren_gruen.json
+    file: icons/multiple_ears.svg
     enabled: true
 lead:
   -
@@ -137,9 +137,8 @@ components:
                   target: _blank
                   title: null
             text: Kommunikationsstörungen
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ "
@@ -154,9 +153,8 @@ components:
                   target: _blank
                   title: null
             text: 'Redeflussstörungen (Stottern/Poltern)'
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ "
@@ -171,9 +169,8 @@ components:
                   target: _blank
                   title: null
             text: Stimmstörungen
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ "
@@ -188,9 +185,8 @@ components:
                   target: _blank
                   title: null
             text: Näseln
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ "
@@ -205,31 +201,23 @@ components:
                   target: _blank
                   title: null
             text: Lese-Rechtschreibstörung
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ Autismus-Spektrum-Störung (ASS)"
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: "-\_\_\_\_ Auditive Verarbeitungs- und Wahrnehmungsstörung (AVWS)"
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
             type: text
-            marks:
-              -
-                type: bold
             text: Anmeldung
       -
         type: paragraph
@@ -238,13 +226,12 @@ components:
             type: text
             text: 'Die Anmeldung bei der Logopädin für eine Abklärung/Therapie erfolgt durch die Schulleitung oder Lehrperson in vorgängiger Absprache mit den Eltern.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: Kosten
       -
         type: paragraph
@@ -258,5 +245,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675970880
+updated_at: 1675971107
 ---
