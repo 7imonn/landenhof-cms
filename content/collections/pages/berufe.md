@@ -23,6 +23,14 @@ components:
       -
         type: heading
         attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Berufe Förderschwerpunkt Hören'
+      -
+        type: heading
+        attrs:
           level: 3
         content:
           -
@@ -30,7 +38,7 @@ components:
             marks:
               -
                 type: bold
-            text: 'Berufe Tagesschule Hören'
+            text: 'Tagesschule Hören (Primar, Oberstufe, Brückenjahr)'
       -
         type: bullet_list
         content:
@@ -231,6 +239,24 @@ components:
                 content:
                   -
                     type: text
+                    text: 'Psycholog:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Psychotherapeut:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
                     text: 'Schulleiter:in'
           -
             type: list_item
@@ -241,11 +267,6 @@ components:
                   -
                     type: text
                     text: 'Therapeut:in Psychomotorik'
-    type: text
-    enabled: true
-  -
-    id: ldxm5g8a
-    text:
       -
         type: heading
         attrs:
@@ -253,7 +274,7 @@ components:
         content:
           -
             type: text
-            text: 'Berufe Sozialpädagogik'
+            text: 'Sozialpädagogik (Tageshort, Wocheninternat)'
       -
         type: bullet_list
         content:
@@ -284,11 +305,6 @@ components:
                   -
                     type: text
                     text: 'Sozialpädagog:in'
-    type: text
-    enabled: true
-  -
-    id: ldxm6lxf
-    text:
       -
         type: heading
         attrs:
@@ -296,7 +312,7 @@ components:
         content:
           -
             type: text
-            text: 'Berufe Audiopädagogischer Dienst'
+            text: 'Audiopädagogischer Dienst'
       -
         type: bullet_list
         content:
@@ -309,11 +325,6 @@ components:
                   -
                     type: text
                     text: 'Audiopädagog:in'
-    type: text
-    enabled: true
-  -
-    id: ldxm7imc
-    text:
       -
         type: heading
         attrs:
@@ -321,7 +332,40 @@ components:
         content:
           -
             type: text
-            text: 'Berufe Visiopädagogischer Dienst'
+            text: 'Pädaudiologischer Dienst'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Pädakustiker:in'
+    type: text
+    enabled: true
+  -
+    id: ldxm5g8a
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Berufe Förderschwerpunkt Sehen'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Visiopädagogischer Dienst'
       -
         type: bullet_list
         content:
@@ -354,8 +398,159 @@ components:
                     text: 'Visiopädagog:in'
     type: text
     enabled: true
+  -
+    id: ldxm6lxf
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Berufe Verwaltung'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Finanzen & Buchhaltung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Geschäftsführer:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'ICT Support Spezialist:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Kauffrau/Kaufmann
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kaufmännische:r Mitarbeiter:in Buchhaltung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Kommunikationsfachfrau/-fachmann
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sachbearbeiter:in Human Resources'
+      -
+        type: paragraph
+    type: text
+    enabled: true
+  -
+    id: ldxm7imc
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Berufe Ökonomie (Küche, Reinigung, Technischer Dienst) '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Betriebsunterhalt'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Hauswirtschaft'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Reinigung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Wäscherei'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Koch/Köchin
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Küchenchef:in'
+    type: text
+    enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675978480
+updated_at: 1675978967
 ---
