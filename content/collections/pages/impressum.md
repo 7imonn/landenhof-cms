@@ -164,24 +164,12 @@ components:
             type: text
             text: 'Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.'
       -
-        type: paragraph
-        content:
-          -
-            type: hard_break
-          -
-            type: hard_break
-          -
-            type: hard_break
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
             text: 'Haftungsausschluss für Links'
       -
         type: paragraph
@@ -190,24 +178,12 @@ components:
             type: text
             text: 'Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des jeweiligen Nutzers.'
       -
-        type: paragraph
-        content:
-          -
-            type: hard_break
-          -
-            type: hard_break
-          -
-            type: hard_break
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
             text: Urheberrechte
       -
         type: paragraph
@@ -244,6 +220,50 @@ components:
                   title: null
             text: SwissAnwalt
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Konzeption & Design'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.kargo.ch/'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'KARGO Kommunikation GmbH'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Umsetzung
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.novu.ch/'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'novu GmbH'
+      -
         type: paragraph
         content:
           -
@@ -260,5 +280,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675968158
+updated_at: 1675968379
 ---
