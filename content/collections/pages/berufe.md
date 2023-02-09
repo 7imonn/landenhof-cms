@@ -32,121 +32,215 @@ components:
                 type: bold
             text: 'Berufe Tagesschule Hören'
       -
-        type: paragraph
+        type: bullet_list
         content:
           -
-            type: text
-            text: 'Fachlehrperson Englisch'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Englisch'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Französisch'
           -
-            type: text
-            text: 'Fachlehrperson Französisch'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Hauswirtschaft'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Italienisch'
           -
-            type: text
-            text: 'Fachlehrperson Hauswirtschaft'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Musik'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Schwimmen'
           -
-            type: text
-            text: 'Fachlehrperson Italienisch'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachperson Sexuelle Gesundheit'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Sport'
           -
-            type: text
-            text: 'Fachlehrperson Musik'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Fachlehrperson Textiles und Technisches Gestalten'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Gebärdensprachlehrer:in'
           -
-            type: text
-            text: 'Fachlehrperson Schwimmen'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Heilpädagog:in'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Integrationscoach
           -
-            type: text
-            text: 'Fachperson Sexuelle Gesundheit'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Klassenassistent:in'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Bezirksschule'
           -
-            type: text
-            text: 'Fachlehrperson Sport'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Brückenjahr'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Kindergarten'
           -
-            type: text
-            text: 'Fachlehrperson Textiles und Technisches Gestalten'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Primar'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Sekundarschule'
           -
-            type: text
-            text: 'Gebärdensprachlehrer:in'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Lehrperson Realschule'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Logopäd:in'
           -
-            type: text
-            text: 'Heilpädagog:in'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Pädagogische Assistent:in'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Schulleiter:in'
           -
-            type: text
-            text: Integrationscoach
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Klassenassistent:in'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Bezirksschule'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Brückenjahr'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Kindergarten'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Primar'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Sekundarschule'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Lehrperson Realschule'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Logopäd:in'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Pädagogische Assistent:in'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Schulleiter:in'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Therapeut:in Psychomotorik'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Therapeut:in Psychomotorik'
     type: text
     enabled: true
   -
@@ -161,21 +255,35 @@ components:
             type: text
             text: 'Berufe Sozialpädagogik'
       -
-        type: paragraph
+        type: bullet_list
         content:
           -
-            type: text
-            text: 'Assistent:in Sozialpädagogik'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Assistent:in Sozialpädagogik'
           -
-            type: hard_break
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sozialarbeiter:in'
           -
-            type: text
-            text: 'Sozialarbeiter:in'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Sozialpädagog:in'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sozialpädagog:in'
     type: text
     enabled: true
   -
@@ -190,11 +298,17 @@ components:
             type: text
             text: 'Berufe Audiopädagogischer Dienst'
       -
-        type: paragraph
+        type: bullet_list
         content:
           -
-            type: text
-            text: 'Audiopädagog:in'
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Audiopädagog:in'
     type: text
     enabled: true
   -
@@ -243,5 +357,5 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675978361
+updated_at: 1675978480
 ---
