@@ -125,10 +125,33 @@ components:
             text: 'Jährlich können mehrere Praktikant:innen bei uns ein Jahrespraktikum absolvieren. Als Praktikant:in helfen Sie in Tageshort-Wohngruppen bei der Betreuung von Kindern und Jugendlichen mit und leisten in der Schwerhörigenschule Einsätze als Klassen-Assistent:in. Das Praktikum gibt Einblick in das Tätigkeitsfeld Sozialpädagogik und ist Bedingung für die Aufnahme an einer Fachhochschule für Soziale Arbeit oder für das Studium der Logopädie.'
     type: text
     enabled: true
+  -
+    id: ldylbbvr
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zu unseren (Jahres-)Praktika Soziale Arbeit / Sozialpädagogik? '
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            text: 'Zögern Sie nicht, mich zu kontaktieren.'
+    person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
+    type: contact_teaser
+    enabled: true
 parent: 7dde5838-93f6-4128-9238-1602ae154b6c
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676037213
+updated_at: 1676037334
 ---
