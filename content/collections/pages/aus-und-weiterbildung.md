@@ -31,7 +31,7 @@ components:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -39,7 +39,7 @@ components:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -159,6 +159,232 @@ components:
                   -
                     type: text
                     text: 'Sozialpädagog:in FH (Bachelor of Arts Soziale Arbeit)'
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Weiterbildungen
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Fachhochschule FH'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'MAS Schulische Heilpädagogik'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'MAS Heilpädagogische Früherziehung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'CAS Führen in Non-Profit-Organisationen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'CAS Ausbildner:in in der Praxis'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'CAS Spezialisierung Schulische Heilpädagogik: Sehen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'CAS Spezialisierung Schulische Heilpädagogik: Hören'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'CAS Studium Sexualpädagogik'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Höhere Fachschule HF'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sozialpädagog:in HF'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Marte Meo Therapeut:in'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kurse & Weiterbildungen Hören'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kurse & Weiterbildungen Sehen'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einführung in verschiedene Fachgebiete des Sehbehindertenwesens'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Licht, Kontraste und Farben'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Reha-Fachperson Low Vision'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierung für Lebenspraktische Fähigkeiten (LPF)'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierung für Low Vision LV'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierung für Orientierung und Mobilität (O+M)'
     type: text
     enabled: true
 parent: ef081c1e-889d-481c-a465-c26868ed5ea2
@@ -166,5 +392,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676035219
+updated_at: 1676035479
 ---
