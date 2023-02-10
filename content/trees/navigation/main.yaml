@@ -130,6 +130,10 @@ tree:
       -
         id: baa14116-5e9b-4d89-9f71-8c9fb1664e2b
         entry: ef081c1e-889d-481c-a465-c26868ed5ea2
+        children:
+          -
+            id: 2764e423-601c-45b4-88af-7a86dc9755a0
+            entry: 7dde5838-93f6-4128-9238-1602ae154b6c
       -
         id: 19a7c619-f92f-4824-a54e-3f4334c83a52
         entry: d9ac90a1-1787-428c-8a75-00d9b358488b
