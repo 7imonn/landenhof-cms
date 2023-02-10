@@ -18,6 +18,14 @@ components:
       -
         type: heading
         attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Lehrstellen
+      -
+        type: heading
+        attrs:
           level: 3
         content:
           -
@@ -29,11 +37,6 @@ components:
           -
             type: text
             text: 'Als Lernende:r Fachmann/Fachfrau Betriebsunterhalt arbeiten Sie hauptsächlich im Technischen Dienst. Sie helfen beim Unterhalt der Gebäude und der Grünanlage mit, führen Reparaturen aus, lösen technische Probleme, warten Maschinen und stellen die Infrastruktur für Anlässe bereit. Weiter absolvieren Sie regelmässige Einsätze im Reinigungsteam und bei einem Landschaftsgärtner.'
-    type: text
-    enabled: true
-  -
-    id: ldykg02k
-    text:
       -
         type: heading
         attrs:
@@ -48,11 +51,6 @@ components:
           -
             type: text
             text: 'Als Lernende:r Fachfrau/Fachmann Hauswirtschaft sind Sie in der Reinigung, Wäscherei, Gästebetreuung und Verpflegung tätig. Weiter führen Sie kleine administrative Aufgaben aus. Damit Sie Einblick in die Hotellerie bekommen, sind Praktika in anderen Betrieben vorgesehen.'
-    type: text
-    enabled: true
-  -
-    id: ldykgvt5
-    text:
       -
         type: heading
         attrs:
@@ -67,11 +65,6 @@ components:
           -
             type: text
             text: 'Als Lernende:r Kauffrau/Kaufmann arbeiten Sie im Sekretariat Schule und Pädaudiologischer Dienst und in der Buchhaltung mit. Sie erledigen u.a. Korrespondenz per Mail und Brief, nehmen Kundenanfragen entgegen, legen Dokumente ab oder helfen bei Versänden.'
-    type: text
-    enabled: true
-  -
-    id: ldykhg8j
-    text:
       -
         type: heading
         attrs:
@@ -142,5 +135,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676036128
+updated_at: 1676036224
 ---
