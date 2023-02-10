@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676033579
+updated_at: 1676033788
 heading: 'Der Landenhof fördert, begleitet und berät hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -104,6 +104,17 @@ components:
     type: blog_slider
     enabled: true
   -
+    id: ld1mit7e
+    heading: 'Erfahren Sie mehr'
+    button_text: 'Mehr anzeigen'
+    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+    type: slider
+    enabled: true
+    entries:
+      - 3fb36c8c-821e-4325-b274-6dd198ad0136
+      - a488d51c-6a5b-41b6-8854-96e1a26f83ec
+      - 3de3de24-dda7-4c6f-afb0-4eb25597ee51
+  -
     id: lck78318
     heading: Downloads
     files:
@@ -116,49 +127,6 @@ components:
     enabled: true
     button_text: 'Mehr anzeigen'
     link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
-  -
-    id: lc6sdnsg
-    slides:
-      -
-        id: AZTHRhoo
-        heading: 'Zentrum für Hören  und Sehen'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
-        link_text: 'Mehr erfahren'
-        link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-        image: telefunken_fubk_test_pattern.svg.png
-        positioning: imageIsRight
-      -
-        id: lc6see6o
-        heading: 'Zentrum für Hören  und Sehen'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
-        link_text: 'Mehr erfahren'
-        image: telefunken_fubk_test_pattern.svg.png
-        positioning: imageIsLeft
-    type: teaser_large_slider
-    enabled: true
-  -
-    id: ld1mit7e
-    heading: 'Erfahren Sie mehr'
-    button_text: 'Mehr anzeigen'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-    type: slider
-    enabled: true
-    entries:
-      - 3fb36c8c-821e-4325-b274-6dd198ad0136
-      - a488d51c-6a5b-41b6-8854-96e1a26f83ec
-      - 3de3de24-dda7-4c6f-afb0-4eb25597ee51
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
