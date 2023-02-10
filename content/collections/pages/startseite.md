@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676033447
+updated_at: 1676033579
 heading: 'Der Landenhof fördert, begleitet und berät hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -96,7 +96,7 @@ components:
       - 49423da3-d9cc-4b0a-ba84-6ffbfa9f4574
   -
     id: ldyiuo82
-    heading: 'Die neuesten Blogbeiträge'
+    heading: 'News vom Landenhof'
     load_automatically: true
     amount_blog_posts: 6
     button_text: 'Zur Übersicht'
