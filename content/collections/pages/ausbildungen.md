@@ -58,20 +58,6 @@ components:
         content:
           -
             type: text
-            text: 'Lehre als Kauffrau/Kaufmann EFZ '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Als Lernende:r Kauffrau/Kaufmann arbeiten Sie im Sekretariat Schule und Pädaudiologischer Dienst und in der Buchhaltung mit. Sie erledigen u.a. Korrespondenz per Mail und Brief, nehmen Kundenanfragen entgegen, legen Dokumente ab oder helfen bei Versänden.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
             text: 'Lehre Koch/Köchin EFZ'
       -
         type: paragraph
@@ -79,7 +65,45 @@ components:
           -
             type: text
             text: 'Als Lernende:r Köchin/Koch arbeiten Sie in der Küche des Landenhofs. Von Montag bis Freitag bereiten Sie schmackhafte warme und kalte Speisen für die Wohngruppen und Mitarbeitenden vor. Bei Anlässen helfen Sie mit, die Gäste mit einem abwechslungsreichen kulinarischen Angebot zu verwöhnen. Damit Sie Einblick in die Arbeit einer Köchin/eines Kochs der «klassischen» Gastronomie bekommen, absolvieren Sie jährlich ein achtwöchiges Praktikum in einem «À-la-carte-Betrieb».'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Lehre als Kauffrau/Kaufmann EFZ '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Als Lernende:r Kauffrau/Kaufmann arbeiten Sie im Sekretariat Schule und Pädaudiologischer Dienst und in der Buchhaltung mit. Sie erledigen u.a. Korrespondenz per Mail und Brief, nehmen Kundenanfragen entgegen, legen Dokumente ab oder helfen bei Versänden.'
     type: text
+    enabled: true
+  -
+    id: ldylff5z
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne beantworte ich Ihre Fragen zu den Lehrstellen Fachmann/Fachfrau Betriebsunterhalt EFZ, Hauswirtschaft EFZ und Koch/Köchin EFZ.'
+    person: c4d1da82-8f6e-4872-885d-698fbe15a04b
+    type: contact_teaser
+    enabled: true
+  -
+    id: ldylddr7
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne beantworte ich Ihre Fragen zur Lehrstelle Kauffrau/Kaufmann EFZ.'
+    person: 402454a8-8bfa-4386-9036-a372f4c20151
+    type: contact_teaser
     enabled: true
   -
     id: ldyklebn
@@ -133,18 +157,12 @@ components:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Haben Sie Fragen zu unseren (Jahres-)Praktika Soziale Arbeit / Sozialpädagogik? '
+            text: 'Gerne beantworte ich Ihre Fragen zu unseren (Jahres-)Praktika Soziale Arbeit / Sozialpädagogik? '
           -
             type: hard_break
             marks:
               -
                 type: bold
-          -
-            type: text
-            text: 'Zögern Sie nicht, mich zu kontaktieren.'
     person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
     type: contact_teaser
     enabled: true
@@ -153,5 +171,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676037334
+updated_at: 1676037708
 ---
