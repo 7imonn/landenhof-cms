@@ -88,10 +88,59 @@ components:
             text: 'Als Lernende:r Köchin/Koch arbeiten Sie in der Küche des Landenhofs. Von Montag bis Freitag bereiten Sie schmackhafte warme und kalte Speisen für die Wohngruppen und Mitarbeitenden vor. Bei Anlässen helfen Sie mit, die Gäste mit einem abwechslungsreichen kulinarischen Angebot zu verwöhnen. Damit Sie Einblick in die Arbeit einer Köchin/eines Kochs der «klassischen» Gastronomie bekommen, absolvieren Sie jährlich ein achtwöchiges Praktikum in einem «À-la-carte-Betrieb».'
     type: text
     enabled: true
+  -
+    id: ldyklebn
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Praktika
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Bachelor of Arts Soziale Arbeit (Sozialpädagog:in FH)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir bieten gesamthaft drei studienbegleitende Praxisausbildungsplätze an. Während des 4-jährigen Studiums besuchen die Studierenden zwei Tage in der Woche die Hochschule für Soziale Arbeit der FHNW. Parallel dazu arbeiten sie mit einem 50-70%-Pensum in einem unserer Wohngruppenteams. Die Studierenden werden durch speziell ausgebildete Fachpersonen begleitet.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Jahrespraktikum Sozialpädagogik'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Jährlich können fünf Praktikant:innen bei uns ein Jahrespraktikum absolvieren. '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Als Praktikant:in helfen Sie in Tageshort-Wohngruppen bei der Betreuung von Kindern und Jugendlichen mit und leisten in der Schwerhörigenschule Einsätze als Klassen-Assistent:in. Das Praktikum gibt Einblick in das Tätigkeitsfeld Sozialpädagogik und ist Bedingung für die Aufnahme an einer Fachhochschule für Soziale Arbeit oder für das Studium der Logopädie.'
+    type: text
+    enabled: true
 parent: 7dde5838-93f6-4128-9238-1602ae154b6c
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676036011
+updated_at: 1676036128
 ---
