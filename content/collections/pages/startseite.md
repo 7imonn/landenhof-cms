@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676044392
+updated_at: 1676044540
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -52,36 +52,13 @@ components:
     overlap_top: medium
     overlap_bottom: small
   -
-    id: ld0ujtli
-    slides:
-      -
-        id: AZTHRhoo
-        heading: 'Zentrum für Hören  und Sehen'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
-        link_text: 'Mehr erfahren'
-        link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-        image: telefunken_fubk_test_pattern.svg.png
-        positioning: imageIsLeft
-      -
-        id: lc6see6o
-        heading: 'Zentrum für Hören  und Sehen'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
-        link_text: 'Mehr erfahren'
-        image: telefunken_fubk_test_pattern.svg.png
-        positioning: imageIsRight
-    type: teaser_large_slider
+    id: ldyiuo82
+    heading: 'News vom Landenhof'
+    load_automatically: true
+    amount_blog_posts: 6
+    button_text: 'Zur Übersicht'
+    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
+    type: blog_slider
     enabled: true
   -
     id: lbyxvpy5
@@ -94,15 +71,6 @@ components:
       - 6c6037b3-2852-4603-aa21-98e3ab7f2588
       - 5b596dce-7e3e-4c35-861f-f618479b449b
       - 49423da3-d9cc-4b0a-ba84-6ffbfa9f4574
-  -
-    id: ldyiuo82
-    heading: 'News vom Landenhof'
-    load_automatically: true
-    amount_blog_posts: 6
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
-    type: blog_slider
-    enabled: true
   -
     id: ld1mit7e
     heading: 'Erfahren Sie mehr'
