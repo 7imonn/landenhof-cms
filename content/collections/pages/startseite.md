@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676032714
+updated_at: 1676032859
 heading: 'Der Landenhof fördert, begleitet und berät hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -103,13 +103,6 @@ components:
         file: downloads/lh_jahresbericht_2020_21.PDF
         open_in_tab: true
         name: 'Jahresbericht 2021/22'
-      -
-        id: lck905by
-        name: 'Datei 3'
-        open_in_tab: false
-        link_to_file: 'https://s3.eu-central-2.wasabisys.com/landenhof-cms/production/assets/downloads/lernstand-jw6umq-(4).pdf'
-        file_type: PDF
-        file_size: '20 kb'
     type: downloads
     enabled: true
     button_text: 'Mehr anzeigen'
