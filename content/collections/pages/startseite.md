@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676030500
+updated_at: 1676032565
 heading: 'Der Landenhof fördert, begleitet und berät hör- und sehbeeinträchtigte Kinder und Jugendliche'
 components:
   -
@@ -59,8 +59,9 @@ components:
     type: event_cards
     enabled: true
     events:
-      - d4ef331d-fa31-4db0-9f8b-bbd6f5cb0b32
-      - db360939-dbdd-4f08-a191-ff6608a1a425
+      - 6c6037b3-2852-4603-aa21-98e3ab7f2588
+      - 5b596dce-7e3e-4c35-861f-f618479b449b
+      - 49423da3-d9cc-4b0a-ba84-6ffbfa9f4574
   -
     id: ld0ujtli
     slides:
@@ -99,14 +100,9 @@ components:
     files:
       -
         id: lck787r8
-        file: downloads/lernstand-jw6umq-(4).pdf
-        open_in_tab: false
-        name: 'Teamevent Quartalswanderung von Brückenjahr'
-      -
-        id: lck7pz2x
-        name: 'Datei 2'
-        file: downloads/lernstand-jw6umq-(4).pdf
+        file: downloads/lh_jahresbericht_2020_21.PDF
         open_in_tab: true
+        name: 'Jahresbericht 2021/22'
       -
         id: lck905by
         name: 'Datei 3'
