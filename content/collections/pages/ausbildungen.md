@@ -89,7 +89,34 @@ components:
         content:
           -
             type: text
-            text: 'Gerne beantworte ich Ihre Fragen zu den Lehrstellen Fachmann/Fachfrau Betriebsunterhalt EFZ, Hauswirtschaft EFZ und Koch/Köchin EFZ.'
+            text: 'Gerne beantworte ich Ihre Fragen zu den '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Lehrstellen Fachmann/Fachfrau Betriebsunterhalt EFZ'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Hauswirtschaft EFZ'
+          -
+            type: text
+            text: ' und '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Koch/Köchin EFZ'
+          -
+            type: text
+            text: .
     person: c4d1da82-8f6e-4872-885d-698fbe15a04b
     type: contact_teaser
     enabled: true
@@ -101,7 +128,16 @@ components:
         content:
           -
             type: text
-            text: 'Gerne beantworte ich Ihre Fragen zur Lehrstelle Kauffrau/Kaufmann EFZ.'
+            text: 'Gerne beantworte ich Ihre Fragen zur '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Lehrstelle Kauffrau/Kaufmann EFZ'
+          -
+            type: text
+            text: .
     person: 402454a8-8bfa-4386-9036-a372f4c20151
     type: contact_teaser
     enabled: true
@@ -171,5 +207,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676037708
+updated_at: 1676037780
 ---
