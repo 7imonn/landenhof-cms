@@ -273,9 +273,6 @@ components:
                   -
                     type: text
                     text: 'Sozialpädagog:in HF'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -327,9 +324,6 @@ components:
                   -
                     type: text
                     text: 'Einführung in verschiedene Fachgebiete des Sehbehindertenwesens'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -339,9 +333,6 @@ components:
                   -
                     type: text
                     text: 'Licht, Kontraste und Farben'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -351,9 +342,6 @@ components:
                   -
                     type: text
                     text: 'Reha-Fachperson Low Vision'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -363,9 +351,6 @@ components:
                   -
                     type: text
                     text: 'Sensibilisierung für Lebenspraktische Fähigkeiten (LPF)'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -375,9 +360,6 @@ components:
                   -
                     type: text
                     text: 'Sensibilisierung für Low Vision LV'
-      -
-        type: bullet_list
-        content:
           -
             type: list_item
             content:
@@ -394,5 +376,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676035537
+updated_at: 1676035590
 ---
