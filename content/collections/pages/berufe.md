@@ -1,13 +1,13 @@
 ---
 id: d9ac90a1-1787-428c-8a75-00d9b358488b
 blueprint: content_page
-title: Berufe
+title: '"Wir sind der Landenhof"'
 heros:
   -
     id: EHQ4Mqg6
     type: hero_default
-    heading: 'Berufe am Landenhof'
-    file: icons/ear_and_eye.svg
+    heading: 'Jahresbericht 2021/22: "Wir sind der Landenhof"'
+    file: lh_jahresbericht_2021_22_titelbild.png
     enabled: true
 lead:
   -
@@ -15,7 +15,11 @@ lead:
     content:
       -
         type: text
-        text: 'Unsere rund 150 Mitarbeitenden arbeiten in 8 Bereichen und knapp 50 unterschiedlichen Berufen. Sie sind es, die den Landenhof tragen, mitgestalten und prägen.'
+        text: 'Unser neuester Jahresbericht ist unseren Mitarbeitenden gewidmet. Darin gewähren 15 Kolleg:innen aus unterschiedlichen Bereichen Einblick in ihre Biografie und ihren Arbeitsalltag. Wir wünschen eine spannende Lektüre und schöne Begegnungen mit unseren Mitarbeitenden! '
+      -
+        type: hard_break
+      -
+        type: hard_break
 components:
   -
     id: ldxm01ul
@@ -552,5 +556,5 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676034341
+updated_at: 1676232732
 ---
