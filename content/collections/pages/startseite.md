@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676044540
+updated_at: 1676232985
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -52,14 +52,15 @@ components:
     overlap_top: medium
     overlap_bottom: small
   -
-    id: ldyiuo82
-    heading: 'News vom Landenhof'
-    load_automatically: true
-    amount_blog_posts: 6
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
-    type: blog_slider
+    id: ld1mit7e
+    heading: 'Erfahren Sie mehr'
+    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+    type: slider
     enabled: true
+    entries:
+      - a20d97ae-de58-4e4f-8b11-02b282583c95
+      - d9ac90a1-1787-428c-8a75-00d9b358488b
+    button_text: 'Mehr anzeigen'
   -
     id: lbyxvpy5
     heading: Events
@@ -72,15 +73,14 @@ components:
       - 5b596dce-7e3e-4c35-861f-f618479b449b
       - 49423da3-d9cc-4b0a-ba84-6ffbfa9f4574
   -
-    id: ld1mit7e
-    heading: 'Erfahren Sie mehr'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-    type: slider
+    id: ldyiuo82
+    heading: 'News vom Landenhof'
+    load_automatically: true
+    amount_blog_posts: 6
+    button_text: 'Zur Übersicht'
+    button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
+    type: blog_slider
     enabled: true
-    entries:
-      - a20d97ae-de58-4e4f-8b11-02b282583c95
-      - d9ac90a1-1787-428c-8a75-00d9b358488b
-    button_text: 'Mehr anzeigen'
   -
     id: lck78318
     heading: Downloads
