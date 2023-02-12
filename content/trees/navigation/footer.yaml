@@ -7,8 +7,8 @@ tree:
         id: 245f1c29-d3cc-4da5-bf25-cc8590a5d658
         entry: 84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7
       -
-        id: 0393f087-350b-4082-b6fd-2f0506f89443
-        entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
+        id: e02073c2-0a4a-44d5-b7ca-b7638790c80a
+        entry: 7dde5838-93f6-4128-9238-1602ae154b6c
   -
     id: 4c2bc88a-ec5a-4a95-b2ea-cdd82efc7f0c
     title: Services
@@ -16,6 +16,3 @@ tree:
       -
         id: a13c15c2-b34b-4d67-9460-048715006e38
         entry: c0a53f6a-b1db-4743-8846-000e71cc87a1
-      -
-        id: aa6f0d9d-6984-43b4-b04a-809aa6c62a47
-        entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
