@@ -7,9 +7,8 @@ heros:
     id: RiBFCtt6
     type: hero_default
     heading: Therapien
-    file: hoeren/hoeren_abklaeren/hoeren_abklaeren_audiogramm_2022-01.jpg
+    file: icons/multiple_ears.svg
     enabled: true
-    link: 'entry::a488d51c-6a5b-41b6-8854-96e1a26f83ec'
 lead:
   -
     type: paragraph
@@ -419,7 +418,7 @@ components:
         content:
           -
             type: text
-            text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung via Schulleitung einreichen.'
+            text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung an die Schulleitung einreichen.'
       -
         type: heading
         attrs:
@@ -433,12 +432,12 @@ components:
         content:
           -
             type: text
-            text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Kanton Aargau und ist für die Eltern kostenlos.'
+            text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Landenhof und ist für die Eltern kostenlos.'
     type: text
     enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676236749
+updated_at: 1676297467
 ---
