@@ -7,7 +7,7 @@ heros:
     id: EHQ4Mqg6
     type: hero_default
     heading: 'Berufe am Landenhof'
-    file: lottie/lottie_standard_blau.json
+    file: icons/ear_and_eye.svg
     enabled: true
 lead:
   -
@@ -27,7 +27,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676299489
+updated_at: 1676299514
 components:
   -
     id: le2wytmo
