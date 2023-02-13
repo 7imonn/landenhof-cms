@@ -20,7 +20,7 @@ fields:
             instructions_position: above
             visibility: visible
             always_save: false
-            width: 33
+            width: 50
         -
           handle: text
           field:
@@ -33,7 +33,7 @@ fields:
             instructions_position: above
             visibility: visible
             always_save: false
-            width: 66
+            width: 50
       mode: stacked
       min_rows: 1
       reorderable: true
