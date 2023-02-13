@@ -27,7 +27,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676299521
+updated_at: 1676299579
 components:
   -
     id: le2wytmo
@@ -319,43 +319,6 @@ components:
         content:
           -
             type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Berufe Hören - Beraten'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Audiopädagog:in'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: "\_"
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
           -
             type: text
             text: 'Berufe Hören - Abklären'
@@ -371,6 +334,29 @@ components:
                   -
                     type: text
                     text: 'Pädakustiker:in'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: bold
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Berufe Hören - Beraten'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Audiopädagog:in'
       -
         type: heading
         attrs:
