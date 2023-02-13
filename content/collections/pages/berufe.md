@@ -15,21 +15,17 @@ lead:
     content:
       -
         type: text
-        text: 'Unsere rund 150 Mitarbeitenden arbeiten in 8 Bereichen und knapp 50 unterschiedlichen Berufen. Sie sind es, die den Landenhof tragen, mitgestalten und prägen. Ihn zu dem machen, was er ist.'
+        text: 'Unsere rund 150 Mitarbeitenden arbeiten in 8 Bereichen und knapp 50 unterschiedlichen Berufen. Sie sind es, die den Landenhof tragen, mitgestalten und prägen. Ihn zu dem machen, was er ist. '
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Unsere Mitarbeitenden sind in der Förderung, Bildung, Begleitung und Betreuung von Kindern und Jugendlichen mit einer Hör- oder Sehbeeinträchtigung tätig oder arbeiten in der Verwaltung oder Ökonomie.'
-      -
-        type: hard_break
-      -
-        type: hard_break
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676299106
+updated_at: 1676299394
 components:
   -
     id: le2wytmo
@@ -41,7 +37,7 @@ components:
         content:
           -
             type: text
-            text: 'Berufe Schule Hören'
+            text: 'Berufe Hören - Schule'
       -
         type: bullet_list
         content:
@@ -224,15 +220,6 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Logopäd:in'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
                     text: 'Pädagogische Assistent:in'
           -
             type: list_item
@@ -243,23 +230,16 @@ components:
                   -
                     type: text
                     text: 'Schulleiter:in'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Therapeut:in Psychomotorik'
       -
         type: heading
         attrs:
           level: 3
         content:
           -
+            type: hard_break
+          -
             type: text
-            text: 'Berufe Sozialpädagogik'
+            text: 'Berufe Hören - Wohnen'
       -
         type: bullet_list
         content:
@@ -296,11 +276,56 @@ components:
           level: 3
         content:
           -
+            type: hard_break
+          -
+            type: text
+            text: 'Berufe Hören - Therapien '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Logopäd:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Psycholog:in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Psychotherapeut:in'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
             type: text
             marks:
               -
                 type: bold
-            text: 'Berufe Audiopädagogischer Dienst'
+            text: 'Berufe Hören - Beraten'
       -
         type: bullet_list
         content:
@@ -325,8 +350,13 @@ components:
                 type: bold
             text: "\_"
           -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
             type: text
-            text: 'Berufe Pädaudiologischer Dienst'
+            text: 'Berufe Hören - Abklären'
       -
         type: bullet_list
         content:
@@ -348,11 +378,13 @@ components:
             type: text
             text: "\_"
           -
+            type: hard_break
+          -
             type: text
             marks:
               -
                 type: bold
-            text: 'Berufe Visiopädagogischer Dienst'
+            text: 'Berufe Sehen'
       -
         type: bullet_list
         content:
@@ -391,6 +423,11 @@ components:
           -
             type: text
             text: "\_"
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Berufe '
           -
             type: text
             marks:
@@ -469,8 +506,10 @@ components:
           level: 3
         content:
           -
+            type: hard_break
+          -
             type: text
-            text: Ökonomie
+            text: 'Berufe Ökonomie'
       -
         type: bullet_list
         content:
@@ -528,35 +567,6 @@ components:
                   -
                     type: text
                     text: 'Küchenchef:in'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Psychologischer Dienst'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Psycholog:in'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Psychotherapeut:in'
     type: text
     enabled: true
   -
