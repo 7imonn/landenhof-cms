@@ -12,7 +12,7 @@ heros:
           -
             type: text
             text: 'Kontaktieren Sie uns'
-    file: lottie/standard_blau.json
+    file: lottie/lottie_standard_blau.json
     is_white: true
     type: hero_small
     enabled: true

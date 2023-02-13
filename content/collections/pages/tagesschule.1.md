@@ -7,7 +7,7 @@ heros:
     id: Yvp9zLnc
     type: hero_default
     heading: Tagesschule
-    file: lottie/inhaltsseite_hoeren_gruen.json
+    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715

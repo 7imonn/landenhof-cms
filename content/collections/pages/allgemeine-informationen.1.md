@@ -7,7 +7,7 @@ heros:
     id: r1TfVtIz
     type: hero_default
     heading: 'Allgemeine Informationen'
-    file: lottie/inhaltsseite_hoeren_gruen.json
+    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
     link_text: 'Offene Stellen bei uns'
     link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'

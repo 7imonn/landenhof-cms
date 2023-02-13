@@ -7,7 +7,7 @@ heros:
     id: ImwRf8uL
     type: hero_default
     heading: Beraten
-    file: lottie/inhaltsseite_hoeren_gruen.json
+    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715

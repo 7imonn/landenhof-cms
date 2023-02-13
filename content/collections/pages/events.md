@@ -18,7 +18,7 @@ heading:
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
 updated_at: 1674039531
 sammlungen_feld: events
-file: lottie/standard_blau.json
+file: lottie/lottie_standard_blau.json
 is_white: true
 lead:
   -

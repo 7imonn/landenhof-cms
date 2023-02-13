@@ -7,7 +7,7 @@ heros:
     id: FtbWhrrW
     type: hero_default
     heading: Wohnen
-    file: lottie/inhaltsseite_hoeren_gruen.json
+    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
 lead:
   -

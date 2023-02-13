@@ -7,7 +7,7 @@ heros:
     id: J2haDk4m
     type: hero_default
     heading: Impressum
-    file: lottie/standard_blau.json
+    file: lottie/lottie_standard_blau.json
     enabled: true
 components:
   -

@@ -98,7 +98,7 @@ subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen'
 link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
 color_theme: blue
-lottie: lottie/startseite.json
+lottie: lottie/lottie_startseite.json
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 ---

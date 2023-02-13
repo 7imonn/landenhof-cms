@@ -7,7 +7,7 @@ heros:
     id: hsMrqfC9
     type: hero_default
     heading: Datenschutzerklärung
-    file: lottie/standard_weiss.json
+    file: lottie/lottie_standard_weiss.json
     enabled: true
 components:
   -

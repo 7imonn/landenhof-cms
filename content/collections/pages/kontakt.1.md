@@ -18,7 +18,7 @@ heros:
           -
             type: text
             text: 'Sie uns'
-    file: lottie/standard_weiss.json
+    file: lottie/lottie_standard_weiss.json
     is_white: false
     type: hero_small
     enabled: true

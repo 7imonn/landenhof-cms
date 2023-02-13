@@ -7,7 +7,7 @@ heros:
     id: 71IPfDmX
     type: hero_default
     heading: Jahresberichte
-    file: lottie/standard_blau.json
+    file: lottie/lottie_standard_blau.json
     enabled: true
 components:
   -

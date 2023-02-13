@@ -12,7 +12,7 @@ heros:
           -
             type: text
             text: Organisation
-    file: lottie/event_intern_blau.json
+    file: lottie/lottie_event_intern_blau.json
     is_white: true
     type: hero_small
     enabled: true

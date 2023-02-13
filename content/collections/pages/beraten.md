@@ -7,7 +7,7 @@ heros:
     id: fpuKTteK
     type: hero_default
     heading: 'Sie möchten sich beraten lassen?'
-    file: lottie/inhaltsseite_sehen_pink.json
+    file: lottie/lottie_inhaltsseite_sehen_pink.json
     enabled: true
 color_theme: pink
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d

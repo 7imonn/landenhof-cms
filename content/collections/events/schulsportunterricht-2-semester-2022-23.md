@@ -6,7 +6,7 @@ title: 'Schulsportunterricht 2. Semester 2022/23'
 event_date: '2023-02-13'
 time: 'Ganze Woche'
 location: 'Landenhof, 5035 Unterentfelden'
-file: lottie/event_hoeren_gruen.json
+file: lottie/lottie_event_hoeren_gruen.json
 lead:
   -
     type: paragraph
