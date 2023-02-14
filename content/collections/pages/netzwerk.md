@@ -45,7 +45,7 @@ components:
         link: 'https://www.bfsug.ch/'
       -
         id: 0ZXhBhqb
-        logo: partnerlogos/bildung/logo_bsfh.jpg
+        logo: partnerlogos/bildung_beratung_begleitung/logo_bsfh.jpg
         link: 'https://www.bsfh.ch/'
       -
         id: le4qzmg2
