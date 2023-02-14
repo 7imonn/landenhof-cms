@@ -47,6 +47,10 @@ components:
         id: le4qw1ox
         logo: partnerlogos/partnerschulen/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
+      -
+        id: le4qzmg2
+        logo: partnerlogos/partnerschulen/schuer~1.PNG
+        link: 'https://schuermatt.ch/'
     type: partner_logos
     enabled: true
   -
@@ -63,5 +67,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676409454
+updated_at: 1676409627
 ---
