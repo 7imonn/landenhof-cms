@@ -49,7 +49,7 @@ components:
         link: 'https://www.zgsz.ch/'
       -
         id: le4qzmg2
-        logo: partnerlogos/bildung/schuer~1.PNG
+        logo: partnerlogos/bildung/logo_schuermatt.PNG
         link: 'https://schuermatt.ch/'
     type: partner_logos
     enabled: true
