@@ -22,7 +22,7 @@ components:
     partner:
       -
         id: tbjqSVDJ
-        logo: partnerlogos/logo_avusa_cmyk.jpg
+        logo: partnerlogos/verbaende/logo_avusa_cmyk.jpg
         link: 'https://www.avusa.ch/'
     type: partner_logos
     enabled: true
