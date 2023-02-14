@@ -57,7 +57,7 @@ components:
         link: 'https://www.shsm.bkd.be.ch/de/start.html'
       -
         id: le4sf8ew
-        logo: partnerlogos/bildung/logo_kompzentrum_paed_therapie_foerderung.png
+        logo: partnerlogos/bildung_beratung_begleitung/logo_kompzentrum_paed_therapie_foerderung.png
         link: 'http://www.tsm-schulzentrum.ch/home/'
       -
         id: le4qw1ox
