@@ -56,7 +56,7 @@ components:
         content:
           -
             type: text
-            text: !!binary RGVyIExhbmRlbmhvZiBmw7xocnQgQWJrbMOkcnVuZ2VuIMO8YmVyIGRhcyBWb3JsaWVnZW4gZWluZXIgU2VoAmJlZWludHLDpGNodGlndW5nIGR1cmNoIHVuZCB1bnRlcnN0w7x0enQgTWVuc2NoZW4gbWl0IFNlaGJlZWludHLDpGNodGlndW5nZW4gYWIgR2VidXJ0IGRhAmJlaSwgaWhyZSBTZWhmw6RoaWdrZWl0ZW4gb3B0aW1hbCB6dSBlbnR3aWNrZWxuIHNvd2llIGtvZ25pdGl2ZSwgbW90b3Jpc2NoZSwgc296aWFsZSB1bmQgZW1vAnRpb25hbGUgRsOkaGlna2VpdGVuIHp1IGVudGZhbHRlbi4gS2luZGVyIHVuZCBKdWdlbmRsaWNoZSBtaXQgU2VoYmVlaW50csOkY2h0aWd1bmdlbiB3ZXJkZW4gaW4gZGVyIFJlZ2Vsc2NodWxlIGJlZ2xlaXRldCBvZGVyIGvDtm5uZW4gdm9yYXVzc2ljaHRsaWNoIGFiIGRlbSBTY2h1bGphaHIgMjAyNC8yNSBhbSBMYW4CZGVuaG9mIGRpZSBUYWdlc3NvbmRlcnNjaHVsZSBTZWhlbiBiZXN1Y2hlbi4=
+            text: 'Der Landenhof führt Abklärungen über das Vorliegen einer Sehbeeinträchtigung durch und unterstützt Menschen mit Sehbeeinträchtigungen ab Geburt dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. Kinder und Jugendliche mit Sehbeeinträchtigungen werden in der Regelschule begleitet oder können voraussichtlich ab dem Schuljahr 2024/25 am Landenhof die Tagessonderschule Sehen besuchen.'
     type: text
     enabled: true
   -
@@ -94,7 +94,7 @@ components:
         content:
           -
             type: text
-            text: !!binary RGllIGltIFJhaG1lbiBkZXIgU3RyYXRlZ2llIDIwMjNmZi4gZm9ybXVsaWVydGVuIHN0cmF0ZWdpc2NoZW4gWmllbGUgbGFzc2VuIHNpY2ggYW5oYW5kIHZvbiA1IHN0cmF0ZWdpc2NoZW4gU3Rvc3NyaWNodHVuZ2VuIHp1c2FtbWVuZmFzc2VuLiBEaWUgZXJzdGF1ZmdlZsO8aHJ0ZSBTdG9zc3JpY2h0dW5nIGZvcgJtdWxpZXJ0IGRlbiDDvGJlcmdlb3JkbmV0ZW4gT3JnYW5pc2F0aW9uc3p3ZWNrLCBhbiBkZW0gc2ljaCBzw6RtdGxpY2hlcyBIYW5kZWxuIGF1c3JpY2h0ZXQuIERpZSB3ZWl0ZXJlbiBTdG9zc3JpY2h0dW5nZW4gemVpZ2VuIGF1Ziwgd2llIGRlciBMYW5kZW5ob2YgZGllc2VtIFp3ZWNrIG5hY2hrb21tZW4gbcO2Y2h0ZS4=
+            text: 'Die im Rahmen der Strategie 2023ff. formulierten strategischen Ziele lassen sich anhand von 5 strategischen Stossrichtungen zusammenfassen. Die erstaufgeführte Stossrichtung formuliert den übergeordneten Organisationszweck, an dem sich sämtliches Handeln ausrichtet. Die weiteren Stossrichtungen zeigen auf, wie der Landenhof diesem Zweck nachkommen möchte.'
       -
         type: paragraph
         content:
@@ -127,7 +127,7 @@ components:
                 content:
                   -
                     type: text
-                    text: !!binary RGVyIExhbmRlbmhvZiBpc3QgZHVyY2ggc2VpbmUgYXVzZ2VwcsOkZ3RlIEludGVycHJvZmVzc2lvbmFsaXTDpHQgdW5kIHNlaW5lIGVmZmVrAnRpdmUgVmVybmV0enVuZyBkaWUgQW5sYXVmc3RlbGxlIGbDvHIgRnJhZ2VuIGluIGRlbiBCZXJlaWNoZW4gSMO2ci0gdW5kIFNlaGJlZWluAnRyw6RjaHRpZ3VuZ2VuIGltIEthbnRvbiBBYXJnYXUu
+                    text: 'Der Landenhof ist durch seine ausgeprägte Interprofessionalität und seine effektive Vernetzung die Anlaufstelle für Fragen in den Bereichen Hör- und Sehbeeinträchtigungen im Kanton Aargau.'
       -
         type: bullet_list
         content:
@@ -151,7 +151,7 @@ components:
                 content:
                   -
                     type: text
-                    text: !!binary RGVyIExhbmRlbmhvZiBiZXNjaMOkZnRpZ3Qgb3B0aW1hbCBxdWFsaWZpemllcnRlIE1pdGFyYmVpdGVuZGUgdW5kIGbDtnJkZXJ0IHNpZSBnZQJ6aWVsdCB1bmQga29udGludWllcmxpY2ggaW4gaWhyZXIgZmFjaGxpY2hlbiB1bmQgcGVyc8O2bmxpY2hlbiBFbnR3aWNrbHVuZy4=
+                    text: 'Der Landenhof beschäftigt optimal qualifizierte Mitarbeitende und fördert sie gezielt und kontinuierlich in ihrer fachlichen und persönlichen Entwicklung.'
       -
         type: bullet_list
         content:
@@ -171,5 +171,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676363164
+updated_at: 1676363329
 ---
