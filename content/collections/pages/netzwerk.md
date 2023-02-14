@@ -41,7 +41,7 @@ components:
         link: 'https://www.bbzstegen.de/'
       -
         id: le4okxmy
-        logo: partnerlogos/partnerschulen/logo_paed_zentrum_hsm.JPG
+        logo: partnerlogos/bildung/logo_paed_zentrum_hsm.JPG
         link: 'https://www.shsm.bkd.be.ch/de/start.html'
       -
         id: le4qw1ox
