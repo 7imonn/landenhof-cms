@@ -31,7 +31,6 @@ components:
         id: ld0vw054
       -
         id: ld0vyzkw
-        logo: partnerlogos/schweizerische-multiple-sklerorse-gesellschaft.png
     type: partner_logos
     enabled: true
   -
