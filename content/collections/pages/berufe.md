@@ -25,7 +25,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676387991
+updated_at: 1676388131
 components:
   -
     id: le4dvm96
@@ -189,177 +189,123 @@ components:
         heading: 'Berufe Hören - Wohnen (Sozialpädagogik)'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Assistent:in Sozialpädagogik'
+                type: text
+                text: 'Assistent:in Sozialpädagogik'
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Sozialarbeiter:in'
+                type: text
+                text: 'Sozialarbeiter:in'
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Sozialpädagog:in'
+                type: text
+                text: 'Sozialpädagog:in'
       -
         id: le4e00l4
         heading: 'Berufe Hören - Beraten und Fördern'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Audiopädagog:in'
+                type: text
+                text: 'Audiopädagog:in'
       -
         id: le4e0pdb
         heading: 'Berufe Hören - Abklären'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Pädakustiker
+                type: text
+                text: 'Pädakustiker:in'
       -
         id: le4e15ru
         heading: 'Berufe Sehen'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Heilpädagogische:r Früherzieher:in'
+                type: text
+                text: 'Heilpädagogische:r Früherzieher:in'
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Rehabilitation-Fachperson Low Vision'
+                type: text
+                text: 'Rehabilitation-Fachperson Low Vision'
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Visiopädagog:in'
+                type: text
+                text: 'Visiopädagog:in'
       -
         id: le4e1shc
         heading: 'Berufe Ökonomie'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachperson Betriebsunterhalt'
+                type: text
+                text: 'Fachperson Betriebsunterhalt'
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachperson Hauswirtschaft'
+                type: text
+                text: 'Fachperson Hauswirtschaft'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachperson Reinigung'
+                type: text
+                text: 'Fachperson Reinigung'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachperson Wäscherei'
+                type: text
+                text: 'Fachperson Wäscherei'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Koch/Köchin
+                type: text
+                text: Koch/Köchin
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Küchenchef:in'
+                type: text
+                text: 'Küchenchef:in'
     type: accordion_group
+    enabled: true
+  -
+    id: le4e65xm
+    slides:
+      -
+        id: Pz395aSA
+        image: icons/ear_and_eye.svg
+        positioning: imageIsRight
+        heading: 'Aus- & Weiterbildungen'
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Wir fördern und unterstützen unsere Mitarbeitenden laufend in ihrer fachlichen und persönlichen Entwicklung.'
+        link: 'entry::7dde5838-93f6-4128-9238-1602ae154b6c'
+    type: teaser_large_slider
     enabled: true
 ---
