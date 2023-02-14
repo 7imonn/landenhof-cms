@@ -30,7 +30,7 @@ components:
         link: 'https://www.szblind.ch/'
       -
         id: le4th05x
-        logo: partnerlogos/verbaende/logo_pro_audito.jpg.JPG
+        logo: partnerlogos/verbaende/logo_pro_audito.JPG
         link: 'https://www.pro-audito.ch/'
     type: partner_logos
     enabled: true
