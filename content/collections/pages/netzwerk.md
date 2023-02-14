@@ -49,7 +49,7 @@ components:
         link: 'https://www.bsfh.ch/'
       -
         id: le4qzmg2
-        logo: partnerlogos/bildung/logo_schuermatt.PNG
+        logo: partnerlogos/bildung_beratung_begleitung/logo_schuermatt.PNG
         link: 'https://schuermatt.ch/'
       -
         id: le4okxmy
