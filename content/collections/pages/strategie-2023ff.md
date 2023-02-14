@@ -37,7 +37,7 @@ components:
         content:
           -
             type: text
-            text: !!binary RGVyIExhbmRlbmhvZiBiZWdsZWl0ZXQgdW5kIGbDtnJkZXJ0IEtpbmRlciBtaXQgSMO2cmJlZWludHLDpGNodGkCZ3VuZ2VuIGFiIEdlYnVydCBiZWltIFNwcmFjaGVyd2VyYiB1bmQgaW4gaWhyZXIgR2VzYW10ZW50d2lja2x1bmcsIGbDvGhydCBhdWRpb2xvZ2lzY2hlIEFia2zDpHJ1bmdlbiBkdXJjaCB1bmQgw7xiZXJuaW1tdCBkaWUgVmVyc29yZ3VuZyBtaXQgdGVjaG5pc2NoZW4gSGlsZnNtaXR0ZWxuLiBLaW5kZXIgdW5kIEp1Z2VuZGxpY2hlIG1pdCBIw7ZyYmVlaW50csOkY2h0aWd1bmdlbiBrw7ZubmVuIGFtIExhbmRlbmhvZiBhbGxlIFN0dWZlbiBkZXIgVm9sa3NzY2h1bGUgYmVzdWNoZW4sIGFtIExhbmRlbmhvZiB3b2huZW4gb2RlciB3ZXJkZW4gaW4gZGVyIFJlZ2Vsc2NodWxlIGJlZ2xlaXRldC4gV2VpdGVyIGlzdCBkZXIgTGFuZGVuaG9mIFRyw6RnZXIgZGVyIEJlcmF0dW5nIGbDvHIgU2Nod2VyaMO2cmlnZSB1bmQgR2Vow7ZybG9zZSBBYXJnYXUgU29sb3RodXJuLCB3ZWxjaGUgc2Nod2VyaMO2cmlnZSB1bmQgZ2Vow7ZybG9zZSBQZXJzb25lbiBqZWRlbiBBbHRlcnMsIHNvd2llIGRlcmVuIEFuZ2Vow7ZyaWdlIHVuZCBVbWZlbGQgYmUCcsOkdC4=
+            text: 'Der Landenhof begleitet und fördert Kinder mit Hörbeeinträchtigungen ab Geburt beim Spracherwerb und in ihrer Gesamtentwicklung, führt audiologische Abklärungen durch und übernimmt die Versorgung mit technischen Hilfsmitteln. Kinder und Jugendliche mit Hörbeeinträchtigungen können am Landenhof alle Stufen der Volksschule besuchen, am Landenhof wohnen oder werden in der Regelschule begleitet. Weiter ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose Aargau Solothurn, welche schwerhörige und gehörlose Personen jeden Alters, sowie deren Angehörige und Umfeld berät.'
     type: text
     enabled: true
   -
@@ -75,7 +75,7 @@ components:
         content:
           -
             type: text
-            text: !!binary RGVyIExhbmRlbmhvZiBiZWbDpGhpZ3QgTWVuc2NoZW4gbWl0IEjDtnItIG9kZXIgU2VoYmVlaW50csOkY2h0aWd1bmdlbiBtaXQgc2VpbmVuIEbDtnICZGVydW5ncy0sIEJlc2NodWx1bmdzLSwgQmVnbGVpdHVuZ3MtIHVuZCBCZXJhdHVuZ3NhbmdlYm90ZW4gaW5kaXZpZHVlbGwsIHJlc3NvdXJjZW4Cc3TDpHJrZW5kIHVuZCBiZWTDvHJmbmlzb3JpZW50aWVydCB6dSBlaW5lbSBzZWxic3RiZXN0aW1tdGVuIExlYmVuIGluIHVuc2VyZXIgR2VzZWxsAnNjaGFmdC4=
+            text: 'Der Landenhof befähigt Menschen mit Hör- oder Sehbeeinträchtigungen mit seinen Förderungs-, Beschulungs-, Begleitungs- und Beratungsangeboten individuell, ressourcenstärkend und bedürfnisorientiert zu einem selbstbestimmten Leben in unserer Gesellschaft.'
     type: text
     enabled: true
   -
@@ -171,5 +171,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676363329
+updated_at: 1676364868
 ---
