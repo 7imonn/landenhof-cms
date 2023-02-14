@@ -29,7 +29,6 @@ components:
         logo: partnerlogos/logo_plusport_de-(1).svg
       -
         id: ld0vw054
-        logo: partnerlogos/pro_infirmis_logo_rgb.svg
       -
         id: ld0vyzkw
         logo: partnerlogos/schweizerische-multiple-sklerorse-gesellschaft.png
