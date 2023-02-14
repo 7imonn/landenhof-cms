@@ -75,7 +75,7 @@ components:
     partner:
       -
         id: sP79LyeN
-        logo: partnerlogos/spitaeler/logo_uni_spital_basel.PNG
+        logo: partnerlogos/medizin/logo_uni_spital_basel.PNG
         link: 'https://www.unispital-basel.ch/'
       -
         id: le4s6dpu
