@@ -1,5 +1,6 @@
 ---
 id: accefb52-f846-4321-835f-bfd73ee463c4
+published: false
 blueprint: section
 title: 'Profis und Berufe'
 parent: 82cbf166-f60a-49be-9748-e6639fa4e0e7
