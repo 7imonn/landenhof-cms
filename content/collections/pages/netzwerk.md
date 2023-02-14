@@ -79,7 +79,7 @@ components:
         link: 'https://www.unispital-basel.ch/'
       -
         id: le4s6dpu
-        logo: partnerlogos/spitaeler/logo_unispital_zuerich.png
+        logo: partnerlogos/medizin/logo_unispital_zuerich.png
         link: 'https://www.usz.ch/'
     type: partner_logos
     enabled: true
