@@ -152,7 +152,7 @@ components:
                 content:
                   -
                     type: text
-                    text: !!binary RGVyIExhbmRlbmhvZiBpc3QgZWluZSBsYW5nZnJpc3RpZyBnZXN1bmRlIE9yZ2FuaXNhdGlvbiB1bmQgc2V0enQgc2VpbmUgUmVzAnNvdXJjZW4gd2lydHNjaGFmdGxpY2gsIG5hY2hoYWx0aWcgdW5kIHVtd2VsdGJld3Vzc3QgZWluLg==
+                    text: 'Der Landenhof ist eine langfristig gesunde Organisation und setzt seine Ressourcen wirtschaftlich, nachhaltig und umweltbewusst ein.'
     type: text
     enabled: true
 parent: 473865f0-aeac-4d91-9b26-63598ae6c401
@@ -160,7 +160,7 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676364979
+updated_at: 1676365009
 lead:
   -
     type: paragraph
