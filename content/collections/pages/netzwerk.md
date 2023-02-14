@@ -41,7 +41,7 @@ components:
         link: 'https://www.schule-entfelden.ch/'
       -
         id: le4skfyt
-        logo: partnerlogos/logo_bfsug_ch_gelb.JPG
+        logo: partnerlogos/bildung/logo_bfsug_ch_gelb.JPG
         link: 'https://www.bfsug.ch/'
       -
         id: 0ZXhBhqb
