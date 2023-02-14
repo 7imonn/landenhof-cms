@@ -24,7 +24,7 @@ heros:
     file: lottie/lottie_standard_weiss.json
 color_theme: blue
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676386921
+updated_at: 1676386965
 components:
   -
     id: lct5o5od
@@ -54,31 +54,6 @@ components:
             text: 'Gerne berate ich Sie persönlich.'
     person: b0011baa-4e09-44da-b6af-6f9e7ad9a272
     type: contact_teaser
-    enabled: true
-  -
-    id: le4dglvy
-    accordion_group:
-      -
-        id: MtdsgEzW
-        heading: 'Test Akkordeon 1'
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'das ist ein Testttttttttttttttttttt Testtttttttttttttttttttttttttt Testttttttttttttttt'
-      -
-        id: le4dh8kp
-        heading: 'Test Akordeon 2'
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Noch mehr Testtttttttt'
-    type: accordion_group
     enabled: true
 lead:
   -
