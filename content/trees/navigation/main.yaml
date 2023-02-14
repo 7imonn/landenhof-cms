@@ -88,18 +88,19 @@ tree:
       -
         id: 804f1fcc-d571-4594-9320-bac59d448af6
         title: 'Über uns'
-      -
-        id: cb7e51d3-53c0-4292-b73d-617900fd6590
-        entry: acba35f6-50e3-4597-ac76-f13bac3f2602
-      -
-        id: d6e2ac17-da7a-4a5b-9ac6-12bba64690bc
-        entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
-      -
-        id: ae25c574-4582-43ea-96a4-ca5ec6e411e5
-        entry: b6089515-072a-4cb4-a027-79ce19952de2
-      -
-        id: 2a63e9f0-8b50-4a6b-9d61-e182c721a0d1
-        entry: 47d01e0d-ee93-4aa7-ac6b-522823ef7a9e
+        children:
+          -
+            id: cb7e51d3-53c0-4292-b73d-617900fd6590
+            entry: acba35f6-50e3-4597-ac76-f13bac3f2602
+          -
+            id: d6e2ac17-da7a-4a5b-9ac6-12bba64690bc
+            entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
+          -
+            id: ae25c574-4582-43ea-96a4-ca5ec6e411e5
+            entry: b6089515-072a-4cb4-a027-79ce19952de2
+          -
+            id: 2a63e9f0-8b50-4a6b-9d61-e182c721a0d1
+            entry: 47d01e0d-ee93-4aa7-ac6b-522823ef7a9e
       -
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
