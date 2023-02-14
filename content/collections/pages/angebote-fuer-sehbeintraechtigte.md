@@ -26,7 +26,6 @@ components:
     partner:
       -
         id: O5B9fBVE
-        logo: partnerlogos/logo_plusport_de-(1).svg
       -
         id: ld0vw054
       -
