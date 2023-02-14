@@ -107,10 +107,6 @@ tree:
       -
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
-        children:
-          -
-            id: a43b9f35-89f4-45dd-a8da-df5db2fa5eff
-            title: 'Strategie 2023ff.'
       -
         id: b1ff4033-564a-4cd7-afc6-d9b66c79346f
         title: 'Zahlen & Fakten'
