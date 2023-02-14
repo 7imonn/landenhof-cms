@@ -33,7 +33,7 @@ components:
     partner:
       -
         id: 0ZXhBhqb
-        logo: partnerlogos/logo_bsfh.jpg
+        logo: partnerlogos/partnerschulen/logo_bsfh.jpg
         link: 'https://www.bsfh.ch/'
       -
         id: le4ob6j8
