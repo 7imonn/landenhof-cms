@@ -37,7 +37,7 @@ components:
         link: 'https://www.bsfh.ch/'
       -
         id: le4ob6j8
-        logo: partnerlogos/logo_bbz_stegen.JPG
+        logo: partnerlogos/partnerschulen/logo_bbz_stegen.JPG
         link: 'https://www.bbzstegen.de/'
       -
         id: le4okxmy
