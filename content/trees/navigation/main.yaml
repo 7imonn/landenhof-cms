@@ -86,24 +86,8 @@ tree:
     entry: 473865f0-aeac-4d91-9b26-63598ae6c401
     children:
       -
-        id: 9d0367be-f33a-4dbf-aafc-90dade6b9983
-        entry: f4ffc5d4-9147-42f3-be41-1d773ffacc48
-        children:
-          -
-            id: 9a2c8a89-7234-488a-8d82-ceff2687f906
-            entry: acba35f6-50e3-4597-ac76-f13bac3f2602
-          -
-            id: ce8e735d-c50a-49d1-bffa-df351949007f
-            entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
-          -
-            id: a35e62b2-e767-41d4-8373-f17037eb594d
-            entry: f12cda3c-60bf-4a48-9a94-2a27b1d588cf
-          -
-            id: ea4e2d5d-c475-42fe-b940-bd5d737b35dd
-            entry: b6089515-072a-4cb4-a027-79ce19952de2
-          -
-            id: 1c1d7aa6-5641-42fa-9f4c-b6c6e5316b2b
-            entry: 47d01e0d-ee93-4aa7-ac6b-522823ef7a9e
+        id: f3efc1f5-3f0a-47c3-be09-c0365f58f9cb
+        entry: 74b2892e-8ade-4ee3-850d-932f97f1a85d
       -
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
