@@ -30,7 +30,7 @@ components:
         link: 'https://www.szblind.ch/'
     type: partner_logos
     enabled: true
-    heading: Verbände
+    heading: Politik
   -
     id: le4o7gkr
     heading: Bildung
@@ -59,6 +59,10 @@ components:
         id: le4qw1ox
         logo: partnerlogos/bildung/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
+      -
+        id: le4sf8ew
+        logo: partnerlogos/bildung/logo_kompzentrum_paed_therapie_foerderung.png
+        link: 'http://www.tsm-schulzentrum.ch/home/'
     type: partner_logos
     enabled: true
   -
@@ -79,5 +83,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676411841
+updated_at: 1676412026
 ---
