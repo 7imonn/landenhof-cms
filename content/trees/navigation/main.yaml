@@ -90,8 +90,8 @@ tree:
         title: 'Über uns'
         children:
           -
-            id: cb7e51d3-53c0-4292-b73d-617900fd6590
-            entry: acba35f6-50e3-4597-ac76-f13bac3f2602
+            id: 9183d242-c4f6-4a82-92cc-922dbd9e6d57
+            entry: 9f58dcad-b947-4d91-9d8c-3c9798015621
           -
             id: d6e2ac17-da7a-4a5b-9ac6-12bba64690bc
             entry: 3858ffeb-e6be-4bea-94a4-c951ec3c051c
@@ -108,6 +108,9 @@ tree:
         id: bdbe47b8-d22e-4afa-a0b4-75ad08d97514
         title: Strategie
         children:
+          -
+            id: cb7e51d3-53c0-4292-b73d-617900fd6590
+            entry: acba35f6-50e3-4597-ac76-f13bac3f2602
           -
             id: 195a0db4-2241-42aa-a73c-e185f0c9aed3
             entry: 35f34b23-b900-4054-a5bd-3e860d4dd6e1
