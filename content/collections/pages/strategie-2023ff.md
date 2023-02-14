@@ -94,7 +94,7 @@ components:
         content:
           -
             type: text
-            text: 'Die im Rahmen der Strategie 2023ff. formulierten strategischen Ziele lassen sich anhand von 5 strategischen Stossrichtungen zusammenfassen. Die erstaufgeführte Stossrichtung formuliert den übergeordneten Organisationszweck, an dem sich sämtliches Handeln ausrichtet. Die weiteren Stossrichtungen zeigen auf, wie der Landenhof diesem Zweck nachkommen möchte.'
+            text: 'Die im Rahmen der Strategie 2023ff. formulierten strategischen Ziele lassen sich anhand von fünf strategischen Stossrichtungen zusammenfassen. Die erstaufgeführte Stossrichtung formuliert den übergeordneten Organisationszweck, an dem sich sämtliches Handeln ausrichtet. Die weiteren Stossrichtungen zeigen auf, wie der Landenhof diesem Zweck nachkommen möchte.'
       -
         type: paragraph
         content:
@@ -103,7 +103,7 @@ components:
             marks:
               -
                 type: bold
-            text: 'Die 5 strategischen Stossrichtungen'
+            text: '5 strategische Stossrichtungen'
       -
         type: bullet_list
         content:
@@ -171,5 +171,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676364868
+updated_at: 1676364928
 ---
