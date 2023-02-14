@@ -37,7 +37,7 @@ components:
     partner:
       -
         id: le4s7u36
-        logo: partnerlogos/bildung/logo_schule_entfelden.JPG
+        logo: partnerlogos/bildung_beratung_begleitung/logo_schule_entfelden.JPG
         link: 'https://www.schule-entfelden.ch/'
       -
         id: le4skfyt
