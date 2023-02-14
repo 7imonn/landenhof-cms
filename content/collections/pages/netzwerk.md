@@ -65,7 +65,7 @@ components:
         link: 'https://www.zgsz.ch/'
       -
         id: le4ob6j8
-        logo: partnerlogos/bildung/logo_bbz_stegen.JPG
+        logo: partnerlogos/bildung_beratung_begleitung/logo_bbz_stegen.JPG
         link: 'https://www.bbzstegen.de/'
     type: partner_logos
     enabled: true
