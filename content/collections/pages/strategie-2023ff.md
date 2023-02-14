@@ -11,44 +11,6 @@ heros:
     enabled: true
 components:
   -
-    id: le3ytcxe
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Förderschwerpunkt Hören:'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Der Landenhof begleitet und fördert Kinder mit Hörbeeinträchtigungen ab Geburt beim Spracherwerb und in ihrer Gesamtentwicklung, führt audiologische Abklärungen durch und übernimmt die Versorgung mit technischen Hilfsmitteln. Kinder und Jugendliche mit Hörbeeinträchtigungen können am Landenhof alle Stufen der Volksschule besuchen, am Landenhof wohnen oder werden in der Regelschule begleitet. Weiter ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose Aargau Solothurn, welche schwerhörige und gehörlose Personen jeden Alters, sowie deren Angehörige und Umfeld berät.'
-    type: text
-    enabled: true
-  -
-    id: le3yuv8r
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Förderschwerpunkt Sehen: '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Der Landenhof führt Abklärungen über das Vorliegen einer Sehbeeinträchtigung durch und unterstützt Menschen mit Sehbeeinträchtigungen ab Geburt dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. Kinder und Jugendliche mit Sehbeeinträchtigungen werden in der Regelschule begleitet oder können voraussichtlich ab dem Schuljahr 2024/25 am Landenhof die Tagessonderschule Sehen besuchen.'
-    type: text
-    enabled: true
-  -
     id: le3yx2la
     text:
       -
@@ -160,12 +122,12 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676365009
+updated_at: 1676365175
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Die Stiftung Landenhof ist das Kompetenzzentrum für Hör- und Sehbeeinträchtigungen im Kanton Aargau. Sie unterstützt Menschen mit Hör- oder Sehbeeinträchtigungen in ihrem selbstbestimmten Leben, indem sie ihre Fähigkeiten, und ihre Entwicklung gezielt fördert.'
+        text: 'Der Landenhof ist das Kompetenzzentrum für Hör- und Sehbeeinträchtigungen im Kanton Aargau. Er unterstützt Menschen mit Hör- oder Sehbeeinträchtigungen in ihrem selbstbestimmten Leben, indem sie ihre Fähigkeiten, und ihre Entwicklung gezielt fördert.'
 ---
