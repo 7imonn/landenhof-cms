@@ -25,7 +25,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676387945
+updated_at: 1676387991
 components:
   -
     id: le4dvm96
@@ -35,233 +35,155 @@ components:
         heading: 'Berufe Hören - Schule'
         text:
           -
-            type: bullet_list
+            type: paragraph
             content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Englisch'
+                type: text
+                text: 'Fachlehrperson Englisch'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Französisch'
+                type: text
+                text: 'Fachlehrperson Französisch'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Hauswirtschaft'
+                type: text
+                text: 'Fachlehrperson Hauswirtschaft'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Italienisch'
+                type: text
+                text: 'Fachlehrperson Italienisch'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Musik'
+                type: text
+                text: 'Fachlehrperson Musik'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Schwimmen'
+                type: text
+                text: 'Fachlehrperson Schwimmen'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachperson Sexuelle Gesundheit'
+                type: text
+                text: 'Fachperson Sexuelle Gesundheit'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Sport'
+                type: text
+                text: 'Fachlehrperson Sport'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Fachlehrperson Textiles und Technisches Gestalten'
+                type: text
+                text: 'Fachlehrperson Textiles und Technisches Gestalten'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Gebärdensprachlehrer:in'
+                type: text
+                text: 'Gebärdensprachlehrer:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Heilpädagog:in'
+                type: text
+                text: 'Heilpädagog:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Integrationscoach
+                type: text
+                text: Integrationscoach
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Klassenassistent:in'
+                type: text
+                text: 'Klassenassistent:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Bezirksschule'
+                type: text
+                text: 'Lehrperson Bezirksschule'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Brückenjahr'
+                type: text
+                text: 'Lehrperson Brückenjahr'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Kindergarten'
+                type: text
+                text: 'Lehrperson Kindergarten'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Primar'
+                type: text
+                text: 'Lehrperson Primar'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Sekundarschule'
+                type: text
+                text: 'Lehrperson Sekundarschule'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Lehrperson Realschule'
+                type: text
+                text: 'Lehrperson Realschule'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Logopäd:in'
+                type: text
+                text: 'Logopäd:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Pädagogische Assistent:in'
+                type: text
+                text: 'Pädagogische Assistent:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Psycholog:in'
+                type: text
+                text: 'Psycholog:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Psychotherapeut:in'
+                type: text
+                text: 'Psychotherapeut:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Schulleiter:in'
+                type: text
+                text: 'Schulleiter:in'
+          -
+            type: paragraph
+            content:
               -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Therapeut:in Psychomotorik'
+                type: text
+                text: 'Therapeut:in Psychomotorik'
       -
         id: le4dydvc
         heading: 'Berufe Hören - Wohnen (Sozialpädagogik)'
