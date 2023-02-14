@@ -61,7 +61,7 @@ components:
         link: 'http://www.tsm-schulzentrum.ch/home/'
       -
         id: le4qw1ox
-        logo: partnerlogos/bildung/logo_zgsz_rgb.PNG
+        logo: partnerlogos/bildung_beratung_begleitung/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
       -
         id: le4ob6j8
