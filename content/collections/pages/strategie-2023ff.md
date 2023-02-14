@@ -116,6 +116,9 @@ components:
                   -
                     type: text
                     text: 'Der Landenhof fördert, begleitet, unterstützt und berät Menschen mit Hör- oder Sehbeeinträchtigungen ganzheitlich in allen Lebensphasen und -bereichen.'
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -125,6 +128,9 @@ components:
                   -
                     type: text
                     text: !!binary RGVyIExhbmRlbmhvZiBpc3QgZHVyY2ggc2VpbmUgYXVzZ2VwcsOkZ3RlIEludGVycHJvZmVzc2lvbmFsaXTDpHQgdW5kIHNlaW5lIGVmZmVrAnRpdmUgVmVybmV0enVuZyBkaWUgQW5sYXVmc3RlbGxlIGbDvHIgRnJhZ2VuIGluIGRlbiBCZXJlaWNoZW4gSMO2ci0gdW5kIFNlaGJlZWluAnRyw6RjaHRpZ3VuZ2VuIGltIEthbnRvbiBBYXJnYXUu
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -134,6 +140,9 @@ components:
                   -
                     type: text
                     text: 'Der Landenhof verfestigt die Entwicklung zum Kompetenzzentrum für Hören und Sehen in der Organisationskultur und den Organisationsstrukturen.'
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -143,6 +152,9 @@ components:
                   -
                     type: text
                     text: !!binary RGVyIExhbmRlbmhvZiBiZXNjaMOkZnRpZ3Qgb3B0aW1hbCBxdWFsaWZpemllcnRlIE1pdGFyYmVpdGVuZGUgdW5kIGbDtnJkZXJ0IHNpZSBnZQJ6aWVsdCB1bmQga29udGludWllcmxpY2ggaW4gaWhyZXIgZmFjaGxpY2hlbiB1bmQgcGVyc8O2bmxpY2hlbiBFbnR3aWNrbHVuZy4=
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -159,5 +171,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676363057
+updated_at: 1676363164
 ---
