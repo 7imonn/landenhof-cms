@@ -53,7 +53,7 @@ components:
         link: 'https://schuermatt.ch/'
       -
         id: le4okxmy
-        logo: partnerlogos/bildung/logo_paed_zentrum_hsm.JPG
+        logo: partnerlogos/bildung_beratung_begleitung/logo_paed_zentrum_hsm.JPG
         link: 'https://www.shsm.bkd.be.ch/de/start.html'
       -
         id: le4sf8ew
