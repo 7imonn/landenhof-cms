@@ -45,7 +45,7 @@ components:
         link: 'https://www.shsm.bkd.be.ch/de/start.html'
       -
         id: le4qw1ox
-        logo: partnerlogos/partnerschulen/logo_zgsz_rgb.PNG
+        logo: partnerlogos/bildung/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
       -
         id: le4qzmg2
