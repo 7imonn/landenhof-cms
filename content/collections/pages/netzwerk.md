@@ -25,26 +25,70 @@ components:
         logo: partnerlogos/logo_avusa_cmyk.jpg
         link: 'https://www.avusa.ch/'
       -
-        id: lduuwmkr
-        logo: partnerlogos/logo_bbz_stegen.JPG
-        link: 'https://www.bbzstegen.de'
-      -
         id: lduv0rp9
         logo: partnerlogos/logo_bfsug_ch_gelb.JPG
         link: 'https://www.bfsug.ch'
-      -
-        id: lduv4e65
-        logo: partnerlogos/logo_bsfh.jpg
-        link: 'https://www.bsfh.ch'
       -
         id: lduup5e8
         logo: partnerlogos/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
     type: partner_logos
     enabled: true
+    heading: Verbände
+  -
+    id: le4o1394
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Partnerschulen
+    type: text
+    enabled: true
+  -
+    id: le4o1vb7
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Verbände
+    type: text
+    enabled: true
+  -
+    id: le4o2d4f
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: Spitäler
+    type: text
+    enabled: true
+  -
+    id: le4o7gkr
+    heading: Partnerschulen
+    partner:
+      -
+        id: 0ZXhBhqb
+        logo: partnerlogos/logo_bsfh.jpg
+        link: 'https://www.bsfh.ch/'
+      -
+        id: le4ob6j8
+        logo: partnerlogos/logo_bbz_stegen.JPG
+        link: 'https://www.bbzstegen.de/'
+    type: partner_logos
+    enabled: true
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1675972180
+updated_at: 1676405218
 ---
