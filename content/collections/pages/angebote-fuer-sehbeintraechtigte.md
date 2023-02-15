@@ -91,8 +91,6 @@ components:
     enabled: true
   -
     id: ld0w43ex
-    images:
-      - fox.jpg
     type: gallery
     enabled: true
   -
