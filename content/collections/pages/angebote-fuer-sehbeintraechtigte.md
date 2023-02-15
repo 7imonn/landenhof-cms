@@ -94,7 +94,6 @@ components:
     images:
       - fox.jpg
       - elephants.jpg
-      - deer.jpg
     type: gallery
     enabled: true
   -
