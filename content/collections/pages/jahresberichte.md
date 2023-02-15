@@ -52,7 +52,7 @@ components:
       -
         id: ldurrksy
         name: 'Jahresbericht 2013/14'
-        file: downloads/lh_jahresbericht_2013_14.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2013_14.PDF
         open_in_tab: true
       -
         id: ldur1vor
