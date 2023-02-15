@@ -58,7 +58,7 @@ components:
         id: ldur1vor
         open_in_tab: true
         name: 'Jahresbericht 2012/13'
-        file: downloads/lh_jahresbericht_2012_13.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2012_13.PDF
     button_text: 'Mehr anzeigen'
     type: downloads
     enabled: true
