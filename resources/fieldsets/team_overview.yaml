@@ -11,7 +11,6 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      width: 66
   -
     handle: with_filter
     field:
@@ -24,6 +23,28 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
-      width: 33
+      width: 50
+  -
+    handle: member_types
+    field:
+      options:
+        all: Alle
+        gl: Geschäftsleitung
+        team: Team
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: 'null'
+      display: 'Mitglieder anzeigen'
+      type: select
+      icon: select
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
   -
     import: lead

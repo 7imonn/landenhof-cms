@@ -80,4 +80,15 @@ sections:
           visibility: visible
           always_save: false
           create: true
+      -
+        handle: is_gl_member
+        field:
+          default: false
+          display: 'ist GL Mitglied'
+          type: toggle
+          icon: toggle
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: true
 title: 'Team Mitglied'
