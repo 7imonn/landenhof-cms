@@ -92,7 +92,6 @@ components:
   -
     id: ld0w43ex
     images:
-      - cows.jpg
       - fox.jpg
       - elephants.jpg
       - deer.jpg
