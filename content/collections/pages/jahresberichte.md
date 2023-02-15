@@ -47,7 +47,7 @@ components:
       -
         id: ldurs2pc
         name: 'Jahresbericht 2014/15'
-        file: downloads/lh_jahresbericht_2014_15.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2014_15.PDF
         open_in_tab: false
       -
         id: ldurrksy
