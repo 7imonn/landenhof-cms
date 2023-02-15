@@ -27,7 +27,7 @@ components:
       -
         id: ldury7y8
         name: 'Jahresbericht 2018/19'
-        file: downloads/lh_jahresbericht_2018_19.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2018_19.PDF
         open_in_tab: true
       -
         id: lduryte3
