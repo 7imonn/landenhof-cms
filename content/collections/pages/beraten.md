@@ -66,7 +66,6 @@ components:
     slides:
       -
         id: gcV3iYo5
-        image: national-cancer-institute-xdsd3vmzh70-unsplash.jpg
         positioning: imageIsRight
         heading: 'Zentrum für Hören  und Sehen'
         content:
