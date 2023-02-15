@@ -14,10 +14,10 @@ preferences:
       columns:
         - portrait
         - title
-        - job_title
         - email
         - phone
         - slug
+        - is_gl_member
     events:
       after_save: continue_editing
   forms:
