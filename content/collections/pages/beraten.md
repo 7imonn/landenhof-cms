@@ -184,7 +184,6 @@ components:
       -
         id: ld0v82pb
         name: '«Wie kommt mein Kind in die Schule des Landenhofs?»'
-        file: downloads/lernstand-jw6umq-(4).pdf
         open_in_tab: false
     button_text: 'Mehr anzeigen'
     type: downloads

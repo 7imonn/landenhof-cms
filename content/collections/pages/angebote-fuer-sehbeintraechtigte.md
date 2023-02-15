@@ -79,12 +79,10 @@ components:
       -
         id: ld0w15pn
         name: Aufnahmeverfahren
-        file: downloads/lernstand-jw6umq-(4).pdf
         open_in_tab: false
       -
         id: ld0w1bhg
         name: '«Wie kommt mein Kind in die Schule des Landenhofs?»'
-        file: downloads/lernstand-jw6umq-(4).pdf
         open_in_tab: false
     button_text: 'Mehr anzeigen'
     type: downloads
