@@ -7,7 +7,7 @@ heros:
     id: 0DYyMd2s
     type: hero_default
     heading: Hörabklärungen
-    file: hoeren/hoeren_abklaeren/hoeren_abklaeren_audiogramm_2022-01.jpg
+    file: seiten_hoeren/hoeren_abklaeren/hoeren_abklaeren_audiogramm_2022-01.jpg
     link_text: 'Mehr Infos'
     link: 'entry::a488d51c-6a5b-41b6-8854-96e1a26f83ec'
     enabled: true
