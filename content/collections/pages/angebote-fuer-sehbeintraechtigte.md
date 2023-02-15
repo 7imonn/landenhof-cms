@@ -93,7 +93,6 @@ components:
     id: ld0w43ex
     images:
       - fox.jpg
-      - elephants.jpg
     type: gallery
     enabled: true
   -
