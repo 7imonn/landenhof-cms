@@ -37,7 +37,7 @@ components:
       -
         id: ldurzdeo
         name: 'Jahresbericht 2016/17'
-        file: downloads/lh_jahresbericht_2016_17.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2016_17.PDF
         open_in_tab: true
       -
         id: ldus4ghe
