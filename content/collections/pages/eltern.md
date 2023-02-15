@@ -7,7 +7,6 @@ heros:
     id: lcGtgo51
     type: hero_default
     heading: Eltern
-    file: koala.jpg
     enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
