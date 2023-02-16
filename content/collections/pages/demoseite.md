@@ -1,6 +1,5 @@
 ---
 id: 69a580ce-caf0-43ea-89d9-f90fea357442
-published: false
 blueprint: content_page
 title: Demoseite
 heros:
@@ -266,5 +265,5 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1676534746
+updated_at: 1676534770
 ---
