@@ -143,10 +143,10 @@ tree:
           -
             id: 2764e423-601c-45b4-88af-7a86dc9755a0
             entry: 7dde5838-93f6-4128-9238-1602ae154b6c
-            children:
-              -
-                id: 2a2ce7dc-2050-4c83-9133-6928f9b2f327
-                entry: 5446b6da-b02c-4f65-9a5a-7b9da3839008
+          -
+            id: 2a2ce7dc-2050-4c83-9133-6928f9b2f327
+            entry: 5446b6da-b02c-4f65-9a5a-7b9da3839008
+            title: 'Lehrstellen & Praktika'
       -
         id: 1a14e118-64a6-461c-99f0-122ba369c7fc
         entry: accefb52-f846-4321-835f-bfd73ee463c4
