@@ -1,7 +1,7 @@
 ---
 id: 5446b6da-b02c-4f65-9a5a-7b9da3839008
 blueprint: content_page
-title: Ausbildungen
+title: 'Lehrstellen und Praktika'
 heros:
   -
     id: bv7bpgT3
@@ -216,5 +216,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676037938
+updated_at: 1676543972
 ---
