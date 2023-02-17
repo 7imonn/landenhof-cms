@@ -34,7 +34,7 @@ fields:
             visibility: visible
             always_save: false
             width: 50
-      mode: stacked
+      mode: table
       min_rows: 1
       reorderable: true
       display: Bilder
