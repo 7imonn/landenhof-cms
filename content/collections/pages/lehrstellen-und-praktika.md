@@ -159,20 +159,6 @@ components:
         content:
           -
             type: text
-            text: 'Bachelor of Arts Soziale Arbeit (Sozialpädagog:in FH)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir bieten gesamthaft drei studienbegleitende Praxisausbildungsplätze an. Während des 4-jährigen Studiums besuchen die Studierenden zwei Tage in der Woche die Hochschule für Soziale Arbeit der FHNW. Parallel dazu arbeiten sie mit einem 50-70%-Pensum in einem unserer Wohngruppenteams. Die Studierenden werden durch speziell ausgebildete Fachpersonen begleitet.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
             marks:
               -
                 type: bold
@@ -183,6 +169,33 @@ components:
           -
             type: text
             text: 'Jährlich können mehrere Praktikant:innen bei uns ein Jahrespraktikum absolvieren. Als Praktikant:in helfen Sie in Tageshort-Wohngruppen bei der Betreuung von Kindern und Jugendlichen mit und leisten in der Schwerhörigenschule Einsätze als Klassen-Assistent:in. Das Praktikum gibt Einblick in das Tätigkeitsfeld Sozialpädagogik und ist Bedingung für die Aufnahme an einer Fachhochschule für Soziale Arbeit oder für das Studium der Logopädie.'
+    type: text
+    enabled: true
+  -
+    id: le8jbe92
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Praxis-Ausbildungsplätze '
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Bachelor of Arts Soziale Arbeit (Sozialpädagog:in FH)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir bieten gesamthaft drei studienbegleitende Praxis-Ausbildungsplätze an. Während des 4-jährigen Studiums besuchen die Studierenden zwei Tage in der Woche die Hochschule für Soziale Arbeit der FHNW. Parallel dazu arbeiten sie mit einem 50-70%-Pensum in einem unserer Wohngruppenteams. Die Studierenden werden durch speziell ausgebildete Fachpersonen begleitet.'
     type: text
     enabled: true
   -
@@ -199,7 +212,16 @@ components:
             marks:
               -
                 type: bold
-            text: '(Jahres-)Praktika Soziale Arbeit / Sozialpädagogik'
+            text: Jahrespraktika
+          -
+            type: text
+            text: ' und '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Praxis-Ausbildungsplätzen Soziale Arbeit / Sozialpädagogik'
           -
             type: text
             text: '. '
@@ -216,5 +238,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676638354
+updated_at: 1676638862
 ---
