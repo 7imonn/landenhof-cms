@@ -29,19 +29,29 @@ components:
             type: text
             text: Logopädie
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Im Zentrum der Logopädie steht eine gelingende Kommunikation: Sich seinem Umfeld mitteilen und andere verstehen. Unser Ziel ist es, Ihr Kind darin zu unterstützen, seine sprachlichen Fähigkeiten zu erweitern. Basierend auf einer sorgfältigen Abklärung und Diagnostik legen wir Therapieschwerpunkte mit den entsprechenden Zielen fest. Wir orientieren uns dabei am individuellen Sprachentwicklungsstand und der aktuellen Hörsituation. In der Therapie legen wir Wert auf eine vertrauensvolle Beziehung zum Kind als Grundlage für sprachliche Fortschritte. In der Regel arbeiten wir mit dem Kind allein. Bei Bedarf bieten wir Beratungen und Coachings an. Wir stehen in engem Austausch mit anderen Fachpersonen, um Ihr Kind bestmöglich zu fördern.'
-      -
         type: heading
         attrs:
           level: 3
         content:
           -
             type: text
-            text: Angebot
+            text: 'Angebot und Ziele'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Im Zentrum der Logopädie steht eine gelingende Kommunikation: Sich seinem Umfeld mitteilen und andere verstehen. Unser Ziel ist es, Kinder und Jugendliche darin zu unterstützen, ihre sprachlichen Fähigkeiten zu erweitern. '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Basierend auf einer sorgfältigen Abklärung und Diagnostik legen wir Therapieschwerpunkte mit den entsprechenden Zielen fest. Wir orientieren uns dabei am individuellen Sprachentwicklungsstand und der aktuellen Hörsituation. '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'In der Therapie legen wir Wert auf eine vertrauensvolle Beziehung zum Kind als Grundlage für sprachliche Fortschritte. In der Regel arbeiten wir mit dem Kind allein. Bei Bedarf bieten wir Beratungen und Coachings an. Wir stehen in engem Austausch mit anderen Fachpersonen, um Ihr Kind bestmöglich zu fördern.'
       -
         type: paragraph
         content:
@@ -439,5 +449,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676829723
+updated_at: 1676830220
 ---
