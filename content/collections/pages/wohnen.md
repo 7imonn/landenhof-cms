@@ -21,14 +21,14 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676829457
+updated_at: 1676829488
 components:
   -
     id: lebnzlb8
     accordion_group:
       -
         id: IgOAoUYJ
-        heading: Tageshort
+        heading: 'Angebot Tageshort'
         text:
           -
             type: paragraph
@@ -167,7 +167,7 @@ components:
                 text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
       -
         id: lebo3wcv
-        heading: Wocheninternat
+        heading: 'Angebot Wocheninternat'
         text:
           -
             type: paragraph
