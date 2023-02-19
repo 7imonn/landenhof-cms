@@ -24,7 +24,7 @@ heros:
     file: lottie/lottie_standard_weiss.json
 color_theme: blue
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676455678
+updated_at: 1676827103
 components:
   -
     id: lct5o5od
@@ -61,13 +61,7 @@ lead:
     content:
       -
         type: text
-        text: 'Über 130 Mitarbeiterinnen und Mitarbeiter sind an der Schwerhörigenschule Landenhof angestellt. Von der Primarlehrerin über sozialpädagogische Fachleute bis zur Köchin sind rund 40 Berufe vertreten.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Sie suchen ein positives Arbeitsumfeld mit vielseitigen und verantwortungsvollen Aufgaben und möchten des Landenhofs mitgestalten? Dann bewerben Sie sich noch heute – wir prüfen Ihr Dossier gerne, auch wenn wir aktuell vielleicht keine offene Stelle haben.'
+        text: 'Unsere rund 150 Mitarbeitenden arbeiten in 8 Bereichen und knapp 50 unterschiedlichen Berufen. Sie sind es, die den Landenhof tragen, mitgestalten und prägen. Ihn zu dem machen, was er ist.'
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 ---
