@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676829326
+updated_at: 1676829399
 components:
   -
     id: lebnzlb8
@@ -44,7 +44,7 @@ components:
             content:
               -
                 type: text
-                text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das Selbständige Reisen zu ermöglichen.'
+                text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das selbständige Reisen zu ermöglichen.'
           -
             type: paragraph
             content:
