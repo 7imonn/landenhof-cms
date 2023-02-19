@@ -81,7 +81,6 @@ components:
         link: 'https://www.bbzstegen.de/'
       -
         id: lebt9r1k
-        logo: partnerlogos/bildung_beratung_begleitung/logo_sprachheilschule_stgallen.jpg
         link: 'https://www.sprachheilschule.ch/'
     type: partner_logos
     enabled: true
