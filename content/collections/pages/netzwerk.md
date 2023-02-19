@@ -72,13 +72,17 @@ components:
         logo: partnerlogos/bildung_beratung_begleitung/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
       -
+        id: le4t9ydl
+        logo: partnerlogos/bildung_beratung_begleitung/logo_sprachheilschule_thurgau.jpg
+        link: 'https://www.sprachheilschule-tg.ch/start.html'
+      -
         id: le4ob6j8
         logo: partnerlogos/bildung_beratung_begleitung/logo_bbz_stegen.JPG
         link: 'https://www.bbzstegen.de/'
       -
-        id: le4t9ydl
-        logo: partnerlogos/bildung_beratung_begleitung/logo_sprachheilschule_thurgau.jpg
-        link: 'https://www.sprachheilschule-tg.ch/start.html'
+        id: lebt9r1k
+        logo: partnerlogos/bildung_beratung_begleitung/logo_sprachheilschule_stgallen.jpg
+        link: 'https://www.sprachheilschule.ch/'
     type: partner_logos
     enabled: true
   -
@@ -103,5 +107,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676833506
+updated_at: 1676836713
 ---
