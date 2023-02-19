@@ -7,7 +7,7 @@ heros:
     id: DcHn1Epy
     type: hero_default
     heading: 'Wir bilden unsere Mitarbeitende aus und weiter'
-    file: icons/ear_and_eye.svg
+    file: lottie/lottie_standard_blau.json
     enabled: true
 lead:
   -
@@ -15,13 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Zufriedene und gut qualifizierte Mitarbeitende – hörende, schwerhörige und sehbeeinträchtigte – sind unsere wichtigste Ressource. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Entsprechend fördern und unterstützen wir sie in ihrer persönlichen und fachlichen Entwicklung. Neue Mitarbeitende bilden wir «on the Job» aus und bisherige Mitarbeitende aller Bereiche laufend weiter. Wir beteiligen uns finanziell an Aus- und Weiterbildungen und stellen Zeit zur Verfügung.'
+        text: 'Zufriedene und gut qualifizierte Mitarbeitende – hörende, schwerhörige und sehbeeinträchtigte – sind unsere wichtigste Ressource. Entsprechend fördern und unterstützen wir sie in ihrer persönlichen und fachlichen Entwicklung. Neue Mitarbeitende bilden wir «on the Job» aus und bisherige Mitarbeitende aller Bereiche laufend weiter. Wir beteiligen uns finanziell an Aus- und Weiterbildungen und stellen Zeit zur Verfügung.'
 components:
   -
     id: ldyjofr9
@@ -433,5 +427,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676543886
+updated_at: 1676827331
 ---
