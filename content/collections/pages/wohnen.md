@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676828088
+updated_at: 1676828398
 components:
   -
     id: lebnzlb8
@@ -60,10 +60,15 @@ components:
               -
                 type: text
                 text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. Wir achten auf gute Kommunikationsbedingungen und gestalten den sozialen Alltag. Die Schüler:innen profitieren von vielfältigen Freizeitangeboten und werden von unseren Sozialpädagog:innen im schulischen und sozialen Lernen unterstützt.'
-      -
-        id: lebo3wcv
-        heading: Angebot
-        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Angebot
           -
             type: bullet_list
             content:
@@ -103,6 +108,60 @@ components:
                       -
                         type: text
                         text: 'Förderung des Reisens mit öffentlichen Verkehrsmitteln und/oder Organisatin der Sammeltransporte'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Zielgruppen
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Schüler:innen des Förderbereichs Hören, die täglich von zu Hause an- und heimreisen.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Anmeldung für den Tageshort erfolgt durch die Schulleitung.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
+      -
+        id: lebo3wcv
+        heading: Wocheninternat
     type: accordion_group
     enabled: true
 ---
