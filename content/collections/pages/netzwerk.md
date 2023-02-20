@@ -34,7 +34,6 @@ components:
         link: 'https://hoerbehindert.ch/'
       -
         id: lebr61ca
-        logo: partnerlogos/verbaende/logo_pro_audito.JPG
         link: 'https://www.pro-audito.ch/'
     type: partner_logos
     enabled: true
