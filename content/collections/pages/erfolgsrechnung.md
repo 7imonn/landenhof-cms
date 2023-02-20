@@ -7,7 +7,7 @@ heros:
     id: 01494X7p
     type: hero_default
     heading: Erfolgsrechnung
-    file: lottie/lottie_standard_blau.json
+    file: lottie/lottie_startseite.json
     enabled: true
 components:
   -
@@ -1555,5 +1555,5 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676881283
+updated_at: 1676884140
 ---
