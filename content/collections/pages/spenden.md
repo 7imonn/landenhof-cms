@@ -26,7 +26,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676889470
+updated_at: 1676889517
 components:
   -
     id: ldoc27e8
@@ -68,7 +68,7 @@ components:
           -
             type: text
             text: 'Gerne bin ich für Sie da.'
-    person: ed24822e-4e68-41a8-a5b2-444aa5a5976c
+    person: aa6ab388-054a-44b0-bdfb-b663429f6f21
     type: contact_teaser
     enabled: true
 ---
