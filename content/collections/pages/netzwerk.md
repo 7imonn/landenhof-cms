@@ -35,7 +35,7 @@ components:
       -
         id: lebr61ca
         link: 'https://www.pro-audito.ch/'
-        logo: partnerlogos/verbaende/logo_pro_audito.jpg
+        logo: partnerlogos/verbaende_vereine/logo_pro_audito.jpg
     type: partner_logos
     enabled: true
     heading: 'Politik und Verbände'
