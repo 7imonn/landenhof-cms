@@ -54,73 +54,7 @@ components:
             content:
               -
                 type: text
-                text: 'In der Beratung hat es Platz für jedes Anliegen. Häufige Themen sind: '
-          -
-            type: bullet_list
-            content:
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Arbeit
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Aus- und Weiterbildung'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Rechts- und Versicherungsfragen'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Finanzen
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Familie und Beziehungen'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Wohnen
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Kommunikation und Leben mit Hörbeeinträchtigung'
+                text: 'In der Beratung hat es Platz für jedes Anliegen. Häufige Themen sind: Arbeit, Aus- und Weiterbildung, Rechts- und Versicherungsfragen, Finanzen, Familie und Beziehungen, Wohnen, Kommunikation und Leben mit Hörbeeinträchtigung'
       -
         id: ledyfuyj
         heading: 'Begleitung und Vermittlung'
@@ -130,17 +64,17 @@ components:
             content:
               -
                 type: text
-                text: 'Wir bieten Begleitung zu Terminen, zum Beispiel beim Arbeitgeber, bei Behörden, in der Schule oder beim Arzt, bei der Ärztin. Dies erleichtert das Verstehen und gibt Sicherheit bei der Kommunikation. Wir unterstützen beim Bestellen von Gebärdensprach- und Schriftdolmetschenden.'
+                text: 'Die BFSUG bietet Begleitung zu Terminen, zum Beispiel beim Arbeitgeber, bei Behörden, in der Schule oder beim Arzt, bei der Ärztin. Dies erleichtert das Verstehen und gibt Sicherheit bei der Kommunikation. Wir unterstützen beim Bestellen von Gebärdensprach- und Schriftdolmetschenden.'
       -
         id: ledyiw7g
-        heading: Veranstaltungen
+        heading: 'Treff, Kurse und Veranstaltungen'
         text:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Auf der BFSUG-Webseite informieren wir über regionale Informations-Anlässe und Bildungsangebote. Ausserdem organisieren wir regelmässig Treffs für Schwerhörige und Gehörlose. '
+                text: 'Die BFSUG bietet Aktivitäten und Informationen, die bewegen und im Leben weiterbringen. Das Angebot an Treffs, Veranstaltungen und Kursen erfüllt alle (Kommunikations-) Anforderungen von Schwerhörigen und Gehörlosen.'
       -
         id: ledyl2nz
         heading: Öffentlichkeitsarbeit
@@ -158,5 +92,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676967208
+updated_at: 1676972257
 ---
