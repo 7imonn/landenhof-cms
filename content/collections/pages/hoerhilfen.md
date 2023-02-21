@@ -11,14 +11,51 @@ heros:
     enabled: true
 parent: 63cecd44-0b80-4abc-84d1-752c4d163f3e
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676231529
+updated_at: 1677018368
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-lead:
+components:
   -
-    type: paragraph
-    content:
+    id: leesoym5
+    text:
       -
-        type: text
-        text: 'Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wird bei einem Kind oder Jugendlichen eine Hörbeeinträchtigung diagnostiziert, passt unser Pädakustiker die Hörgeräte an und ist auch für die weitere Nachbetreuung besorgt.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary TWl0IGRlbiBIw7ZyaGlsZmVuIHdlcmRlbiBwbMO2dHpsaWNoIEdlcsOkdXNjaGUgaMO2cmJhciBnZW1hY2h0LCB3ZWxjaGUgZsO8cnMgaMO2cmJlZWludHLDpGNodGlndGUgS2luZCBuZXUgc2luZC4gRGFzIEdlaGlybiBicmF1Y2h0IFplaXQsIHVtIGRpZSB1bmJla2FubnRlbiBFaW5kcsO8Y2tlICB6dSB2ZXJhcmJlaXRlbiwgenUgdmVya27DvHBmZW4gdW5kIGFienUCc3BlaWNoZXJuLiBEaWUgSMO2cmdlcsOkdGUgd2VyZGVuIMO8YmVyIG1laAJyZXJlIFNpdHp1bmdlbiB2ZXJ0ZWlsdCBhbiBkaWUgb3B0aW1hbGUgIEjDtnJzaXR1YXRpb24gYW5nZXBhc3N0LiA=
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary QmVpIGRpZXNlbSBQcm96ZXNzICBpc3QgZGllIFVudGVyc3TDvHR6dW5nIHNlaXRlbnMgQXVkaW9ww6RkYQJnb2c6aW5uZW4gZW5vcm0gd2ljaHRpZyB1bmQgd2VydHZvbGwuIFNpZSAgc3RlaGVuIGRlbiBFbHRlcm4sIGRlbiBLaW5kZXJuIHVuZCBkZW4gTGVocnBlcnNvbmVuIGRlciDDtmZmZW50bGljaGVuIFNjaHVsZSBtaXQgIFJhdCB1bmQgVGF0IHp1ciBTZWl0ZS4g
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary T2Z0IHdpcmQgYW5nZW5vbW1lbiwgZGFzcyBkaWUgSMO2cmhpbGZlIGVpbmUgSMO2cmJlZWludHLDpGNodGlndW5nICBhYiBBYmdhYmV0ZXJtaW4gdmVyc2Nod2luZGVuIGzDpHNzdC4gIERpZXMgaXN0IG5pY2h0IGRlciBGYWxsISBKZSBuYWNoIFNjaHdlcmVncmFkIGlzdCBlaW5lIEF1ZmFyYmVpdHVuZyBkZXIgdmVycGFzc3RlbiBvZGVyIHZlcm1pbmRlcnRlbiBTcHJhY2hlaW5kcsO8Y2tlIGFuZ2V6ZWlndC4gWnVkZW0gZ2VodCBkZXIgRXJ3ZXJiIGRlcyBTcHJhY2hzY2hhdHplcyBzdGV0aWcgd2VpdGVyLiBBdWNoIGhpZXIgbGVpc3RldCBkaWUgQXVkaW8CcMOkZGFnb2c6aW4gYWxzIFBhcnRuZXI6aW4gdm9uIEVsdGVybiwgU2NodWxlIHVuZCBQQUQgaWhyZW4gQmVpdHJhZyBkdXJjaCBCZW9iYWNodHVuZ2VuIHVuZCBSw7xja21lbGR1bmdlbi4gRGllc2UgcnVuZGVuIGRhcyBCaWxkIGFiIHVuZCBkaWVuZW4gdW5zZXJlbSBQw6RkYWt1c3Rpa2VyIGJlaSBkZXIgRmVpbgJqdXN0aWVydW5nIGRlciBIw7ZyZ2Vyw6R0ZS4=
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hörgeräte '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Knochenverankerte '
+    type: text
+    enabled: true
 ---
