@@ -15,7 +15,7 @@ lead:
     content:
       -
         type: text
-        text: ' '
+        text: 'Die Beratung für Schwerhörige und Gehörlose Aargau Solothurn erfüllt eine wichtige soziale Unterstützungsfunktion für Menschen mit einer Hörbeeinträchtigung. '
 components:
   -
     id: ledxsrd7
@@ -33,7 +33,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir bieten Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. '
+            text: 'Angeboten werden Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. '
       -
         type: paragraph
         content:
@@ -54,7 +54,73 @@ components:
             content:
               -
                 type: text
-                text: 'In der Beratung hat es Platz für jedes Anliegen. Häufige Themen sind: Arbeit, Aus- und Weiterbildung, Rechts- und Versicherungsfragen, Finanzen, Familie und Beziehungen, Wohnen, Kommunikation und Leben mit Hörbeeinträchtigung.'
+                text: 'In der Beratung hat es Platz für jedes Anliegen. Häufige Themen sind: '
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Arbeit
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Aus- und Weiterbildung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Rechts- und Versicherungsfragen'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Finanzen
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Familie und Beziehungen'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Wohnen
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kommunikation und Leben mit Hörbeeinträchtigung'
       -
         id: ledyfuyj
         heading: 'Begleitung und Vermittlung'
@@ -92,5 +158,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676967196
+updated_at: 1676967208
 ---
