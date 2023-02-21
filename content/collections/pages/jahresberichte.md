@@ -22,7 +22,7 @@ components:
       -
         id: ldurxq3i
         name: 'Jahresbericht 2019/20'
-        file: downloads/lh_jahresbericht_2019_20.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2019_20.PDF
         open_in_tab: true
       -
         id: ldury7y8
