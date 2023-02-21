@@ -381,7 +381,6 @@ components:
       -
         id: ldunuzo0
         name: 'Stiftungsurkunde Landenhof'
-        file: downloads/lh_stiftungsurkunde_2023.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
