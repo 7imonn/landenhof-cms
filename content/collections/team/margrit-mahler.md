@@ -2,7 +2,7 @@
 id: aa6ab388-054a-44b0-bdfb-b663429f6f21
 blueprint: team_member
 title: 'Margrit Mahler'
-portrait: team/team_mahler_margrit.jpg
+portrait: team/mahler_magi_i2b9470.jpg
 email: margrit.mahler@landenhof.ch
 phone: '+41 62 737 05 20'
 functions:
