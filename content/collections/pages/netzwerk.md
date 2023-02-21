@@ -22,7 +22,7 @@ components:
     partner:
       -
         id: tbjqSVDJ
-        logo: partnerlogos/verbaende_vereine/logo_avusa_cmyk.jpg
+        logo: partnerlogos/politik_verbaende/logo_avusa_cmyk.jpg
         link: 'https://www.avusa.ch/'
       -
         id: le4sb6u0
