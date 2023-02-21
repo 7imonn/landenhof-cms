@@ -1149,7 +1149,7 @@ components:
         content:
           -
             type: text
-            text: 'Die Beratung für Schwerhörige und Gehörlose Aargau Solothurn erfüllt eine wichtige soziale Unterstützungsfunktion für Menschen mit einer Hörbeeinträchtigung. Angeboten werden Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. Die Beratungen sind vertraulich und können in Laut- oder Gebärdensprache stattfinden.'
+            text: 'Die Beratung für Schwerhörige und Gehörlose Aargau Solothurn erfüllt eine wichtige soziale Unterstützungsfunktion für Menschen mit einer Hörbeeinträchtigung. Angeboten werden Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. Die Beratungen erfolgen in Laut- oder Gebärdensprache.'
     type: text
     enabled: true
   -
@@ -1284,5 +1284,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676967289
+updated_at: 1676975936
 ---
