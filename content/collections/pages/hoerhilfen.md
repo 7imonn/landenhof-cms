@@ -11,13 +11,29 @@ heros:
     enabled: true
 parent: 63cecd44-0b80-4abc-84d1-752c4d163f3e
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677018368
+updated_at: 1677019092
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
   -
     id: leesoym5
     text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Hörhilfen und Kontrollen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
+      -
+        type: paragraph
       -
         type: paragraph
         content:
@@ -44,6 +60,10 @@ components:
             text: !!binary T2Z0IHdpcmQgYW5nZW5vbW1lbiwgZGFzcyBkaWUgSMO2cmhpbGZlIGVpbmUgSMO2cmJlZWludHLDpGNodGlndW5nICBhYiBBYmdhYmV0ZXJtaW4gdmVyc2Nod2luZGVuIGzDpHNzdC4gIERpZXMgaXN0IG5pY2h0IGRlciBGYWxsISBKZSBuYWNoIFNjaHdlcmVncmFkIGlzdCBlaW5lIEF1ZmFyYmVpdHVuZyBkZXIgdmVycGFzc3RlbiBvZGVyIHZlcm1pbmRlcnRlbiBTcHJhY2hlaW5kcsO8Y2tlIGFuZ2V6ZWlndC4gWnVkZW0gZ2VodCBkZXIgRXJ3ZXJiIGRlcyBTcHJhY2hzY2hhdHplcyBzdGV0aWcgd2VpdGVyLiBBdWNoIGhpZXIgbGVpc3RldCBkaWUgQXVkaW8CcMOkZGFnb2c6aW4gYWxzIFBhcnRuZXI6aW4gdm9uIEVsdGVybiwgU2NodWxlIHVuZCBQQUQgaWhyZW4gQmVpdHJhZyBkdXJjaCBCZW9iYWNodHVuZ2VuIHVuZCBSw7xja21lbGR1bmdlbi4gRGllc2UgcnVuZGVuIGRhcyBCaWxkIGFiIHVuZCBkaWVuZW4gdW5zZXJlbSBQw6RkYWt1c3Rpa2VyIGJlaSBkZXIgRmVpbgJqdXN0aWVydW5nIGRlciBIw7ZyZ2Vyw6R0ZS4=
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
       -
         type: paragraph
         content:
