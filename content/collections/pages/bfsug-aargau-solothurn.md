@@ -9,7 +9,33 @@ heros:
     heading: 'Beratung für Schwerhörige und Gehörlose Aargau Solothurn'
     file: seiten_hoeren/hoeren_beraten/bfsug_agso/bfsug_agso_2023-01.jpg
     enabled: true
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Seit 2019 ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose BFSUG Aargau Solothurn.  '
 components:
+  -
+    id: lee4sy20
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Synergien im Haus nutzen '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary RGllIE7DpGhlIHp1IGRlbiBhbmRlcmVuIERpZW5zdGVuIHVuZCBCZXJlaWNoZW4gYW0gTGFuZGVuaG9mIGJpZXRldCBncm9zc2UgVm9ydGVpbGUuIFNvIHRhdXNjaGVuIHdpciB1bnMgZ2VybmUgZmFjaGxpY2ggYXVzIG1pdCB1bnNlcmVuIEtvbGxlZ2lubmVuIHVuZCBLb2xsZWdlbiBhdXMgZGVyIEF1ZGlvcMOkZGFnb2dpaywgUMOkZGF1ZGlvbG9naWUsIFDDpGRhZ29naWsgdW5kIFNvemlhbHDDpGRhZ29naWsgc293aWUgZGVyIFBzeWNob2xvZ2llLiBJbiBlaW5pZ2VuIEbDpGxsZW4gZW50c3RhbmRlbiBhdXMgZGllc2VyIGVyZm9sZ3JlaWNoZW4gaW50ZXJkaXN6aXBsaW7DpHJlbiBadXNhbW1lbmFyYmVpdCBuZXVlIFN5bmVyZ2llbi4gQmVpc3BpZWxzd2Vpc2UgYWxzIGbDvHIgZWluZW4gU2Now7xsZXIgYXVzIGRlciBBYnNjaGx1c3NrbGFzc2UgYWxzIEFuc2NobHVzc2zDtnN1bmcgZWluIGJldHJldXRlcyBXb2huZW4gb3JnYW5pc2llcnQgd2VyZGVuIG11c3N0ZS4gSGllciBoYXQgdW5zIGRlciBwc3ljaG9sb2dpc2NoZSBEaWVuc3QgdW0gSGlsZmUgYmVpIGRlciBTdWNoZSB1bmQgRmluYW56aWVydW5nIGVpbmVzIGdlZWlnbmV0ZW4gUGxhdHplcyBhbmdlZnJhZ3QuIFVuc2VyZSBTb3ppYWxhcmJlaXRlcmluIGdsZWlzdGUgZGFzIEF1Zm5haG1ldmVyZmFocmVuIGluIGVpbmVyIGdlZWlnbmV0ZW4gSW5zdGl0dXRpb24gYXVmIHVuZCBzdGVsbHRlIGRlbiBLb250YWt0IHp1ciBJViBzaWNoZXIsIHfDpGhyZW5kIHNpY2ggZGllIFBzeWNob2xvZ2luIHVtIGRpZSBtZWRpemluaXNjaGVuIEJlcmljaHRlIHVuZCBkaWUgQmV0cmV1dW5nIGRlcyBTY2jDvGxlcnMga8O8bW1lcnRlLiBEYW5rIGRlciBndXRlbiBadXNhbW1lbmFyYmVpdCBrb25udGUgZGVyIFNjaMO8bGVyIHNjaGxpZXNzbGljaCB6dW0gTGVocgJhbnRyaXR0IGluIGRpZSBiZXRyZXV0ZSBXb2huZ2VtZWluc2NoYWZ0IHppZWhlbi4=
+    type: text
+    enabled: true
   -
     id: lee2va2h
     text:
@@ -49,13 +75,13 @@ components:
         content:
           -
             type: text
-            text: 'Angeboten werden Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. '
+            text: 'Die BFSUG bietet Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Die Beratungen sind vertraulich und können in Laut- oder Gebärdensprache stattfinden.'
+            text: 'Die Beratungen sind vertraulich und finden in Laut- oder Gebärdensprache statt.'
     type: text
     enabled: true
   -
@@ -133,5 +159,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676975883
+updated_at: 1676977029
 ---
