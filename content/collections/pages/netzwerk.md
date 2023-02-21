@@ -57,7 +57,7 @@ components:
         link: 'https://www.bsfh.ch/'
       -
         id: ledwsbt6
-        logo: partnerlogos/diverse/logo_kulturgesellschaft_aarau.png
+        logo: partnerlogos/bildung_beratung_begleitung/logo_kulturgesellschaft_aarau.png
         link: 'https://www.kulturgesellschaft-aarau.ch/'
       -
         id: le4qzmg2
