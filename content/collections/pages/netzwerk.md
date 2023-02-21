@@ -30,7 +30,7 @@ components:
         link: 'https://www.szblind.ch/'
       -
         id: lebr6uuq
-        logo: partnerlogos/verbaende_vereine/logo_sonos.PNG
+        logo: partnerlogos/politik_verbaende/logo_sonos.PNG
         link: 'https://hoerbehindert.ch/'
       -
         id: lebr61ca
