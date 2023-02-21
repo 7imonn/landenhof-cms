@@ -7,7 +7,7 @@ heros:
     id: aNuMyQoe
     type: hero_default
     heading: 'Von der Taubstummenanstalt zum Zentrum für Hören und Sehen'
-    file: icons/ear_and_eye.svg
+    file: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_01.jpg
     enabled: true
 lead:
   -
@@ -1292,5 +1292,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676361708
+updated_at: 1676967240
 ---
