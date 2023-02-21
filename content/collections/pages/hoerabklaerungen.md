@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677014933
+updated_at: 1677015501
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -64,6 +64,25 @@ components:
           -
             type: text
             text: 'Betreffend Auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS) bieten wir nach erfolgter Diagnose die Versorgung mit technischen Hilfsmitteln an, jedoch keine Abklärung von AVWS. Die Abklärung wird zum Beispiel am Kantonsspital Aarau durchgeführt.'
+    type: text
+    enabled: true
+  -
+    id: leer6zze
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Das Gehör testen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
     type: text
     enabled: true
   -
@@ -270,25 +289,6 @@ components:
                           -
                             type: text
                             text: "-\_\_\_\_\_\_\_\_\_ Reparaturservice"
-    type: text
-    enabled: true
-  -
-    id: leer6zze
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Das Gehör testen'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
     type: text
     enabled: true
 ---
