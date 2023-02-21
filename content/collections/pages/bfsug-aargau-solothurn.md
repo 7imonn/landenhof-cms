@@ -9,14 +9,30 @@ heros:
     heading: 'Beratung für Schwerhörige und Gehörlose Aargau Solothurn'
     file: seiten_hoeren/hoeren_beraten/bfsug_agso/bfsug_agso_team_2021.jpg
     enabled: true
-lead:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Die Beratung für Schwerhörige und Gehörlose Aargau Solothurn erfüllt eine wichtige soziale Unterstützungsfunktion für Menschen mit einer Hörbeeinträchtigung. '
 components:
+  -
+    id: lee2va2h
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Arbeit, Familie, Erziehung, Finanzen, Hilfsmittel... Die BFSUG kennt die Herausforderungen, mit denen sich schwerhörige und gehörlose Menschen im Alltag konfrontiert sehen. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die BFSUG setzt sich mit ihrem sozialarbeiterischen Beratungsangebot ein für die Inklusion schwerhöriger und gehörloser Menschen, berät Betroffene, Angehörige und Fachleute. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die BFSUG berät vertraulich, individuell und nimmt Rücksicht auf die kommunikative Situation von Menschen mit Hörbeeinträchtigung, sodass sie und ihre Bezugspersonen alle Lebenssituationen einfacher und selbstständig meistern können.'
+    type: text
+    enabled: true
   -
     id: ledxsrd7
     text:
@@ -54,7 +70,13 @@ components:
             content:
               -
                 type: text
-                text: 'In der Beratung hat es Platz für jedes Anliegen. Häufige Themen sind: Arbeit, Aus- und Weiterbildung, Rechts- und Versicherungsfragen, Finanzen, Familie und Beziehungen, Wohnen, Kommunikation und Leben mit Hörbeeinträchtigung'
+                text: 'Die BFSUG bietet Beratung zu Arbeit, Persönlichem, Finanzen, Versicherungen, Familie, Erziehung, Wohnen und Kommunikation mit Hörbeeinträchtigung. '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Alle Beratungen unterliegen der Schweigepflicht und erfolgen in einfacher Sprache oder in Gebärdensprache.'
       -
         id: ledyfuyj
         heading: 'Begleitung und Vermittlung'
@@ -87,10 +109,29 @@ components:
                 text: 'Die BFSUG führt Informationsveranstaltungen und Präsentationen zum Thema Hörbeeinträchtigung und Kommunikation durch und sensibilisiert so Arbeitgebende, Behörden und Ämter, Schulen, Berufsverbände, Organisationen und die Gesellschaft gezielt für die Anliegen Schwerhöriger und Gehörloser.'
     type: accordion_group
     enabled: true
+  -
+    id: lee315xa
+    slides:
+      -
+        id: XkyHciDW
+        image: partnerlogos/bildung_beratung_begleitung/logo_bfsug_ch_gelb.JPG
+        positioning: imageIsRight
+        heading: 'BFSUG Aargau Solothurn'
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Erfahren Sie mehr über die Beratung für Schwerhörige und Gehörlose BFSUG und die Angebote in den Kantonen Aargau und Solothurn.'
+        link_text: 'BFSUG Website'
+        link: 'https://www.bfsug.ch/beratungsstellen/region-aargau-solothurn/'
+    type: teaser_large_slider
+    enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676972535
+updated_at: 1676974342
 ---
