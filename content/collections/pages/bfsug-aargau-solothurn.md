@@ -64,7 +64,7 @@ components:
             content:
               -
                 type: text
-                text: 'Die BFSUG bietet Begleitung zu Terminen, zum Beispiel beim Arbeitgeber, bei Behörden, in der Schule oder beim Arzt, bei der Ärztin. Dies erleichtert das Verstehen und gibt Sicherheit bei der Kommunikation. Wir unterstützen beim Bestellen von Gebärdensprach- und Schriftdolmetschenden.'
+                text: 'Die BFSUG begleitet Schwerhörige und Gehörlose zu Ämtern, Arbeitgebenden, Behörden, medizinischen Abklärungen und Beratungsgesprächen. Weiter vermittelt die BFSUG Gebärdensprach- und Schriftdolmetscher:innen, Gebärdensprach- und Ablesetrainingskurse.'
       -
         id: ledyiw7g
         heading: 'Treff, Kurse und Veranstaltungen'
@@ -74,7 +74,7 @@ components:
             content:
               -
                 type: text
-                text: 'Die BFSUG bietet Aktivitäten und Informationen, die bewegen und im Leben weiterbringen. Das Angebot an Treffs, Veranstaltungen und Kursen erfüllt alle (Kommunikations-) Anforderungen von Schwerhörigen und Gehörlosen.'
+                text: 'Die BFSUG bietet Aktivitäten und Informationen, die bewegen und im Leben weiterbringen. Das Angebot an Treffs, Veranstaltungen und Kursen erfüllt alle (Kommunikations-)Anforderungen von Schwerhörigen und Gehörlosen.'
       -
         id: ledyl2nz
         heading: Öffentlichkeitsarbeit
@@ -92,5 +92,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676972257
+updated_at: 1676972406
 ---
