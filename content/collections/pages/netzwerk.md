@@ -26,7 +26,7 @@ components:
         link: 'https://www.avusa.ch/'
       -
         id: le4sb6u0
-        logo: partnerlogos/verbaende/logo_szblind.JPG
+        logo: partnerlogos/verbaende_vereine/logo_szblind.JPG
         link: 'https://www.szblind.ch/'
       -
         id: lebr6uuq
