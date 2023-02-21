@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677018360
+updated_at: 1677019011
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -80,13 +80,7 @@ components:
         content:
           -
             type: text
-            text: !!binary RWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4gRGllIEJhbmRicmVpdGUgaXN0IGdyb3NzOiBPZnQgcmVpY2h0IGVpbiBUZXJtaW4sIHVtIGVpbmUgc29nZW5hbm50ZSBOb3JtYWt1c2lzIChub3JtYWxlcyBIw7ZydmVybcO2Z2VuKSB6dSBkaWFnbm9zdGl6aWVyZW4uIE1hbmNobWFsIG11c3Mgdm9yIGRlciBIw7ZybWVzc3VuZyBPaHJlbnNjaG1hbHogZW50ZmVybnQgd2VyZGVuLCBkYW1pdCBkaWVzZSDDvGJlcmhhdXB0IG3DtmdsaWNoIGlzdC4gRXZlbnR1ZWxsIGlzdCB6dXIgQmVsw7xmdHVuZyBkZXIgT2hydHJvbXBldGUgdW5kIGRlcyBNaXR0ZWxvaHJzIGVpbmUgVGhlcmFwaWUsIHp1bSBCZWlzcGllbCBtaXQgZGVtIE90b3ZlbnQgQmFsbG9uLCBuw7Z0aWcuIEVzIGZvbGd0IGVpbmUgTmFjaGtvbnRyb2xsZSB1bmQgdW50ZXIgVW1zdMOkbmRlbiBlaW5lIFZlcmzDpG5nZXJ1bmcgZGVyIFRoZXJhcGllLiBPZGVyIGRpZSDDhHJ6dGUgdmVyd2Vpc2VuIHp3ZWNrcyBvcGVyYXRpdmVyIE1hc3NuYWhtZW4gYW4gZWluZSBQYXJ0bmVya2xpbmlrLiBadW0gQmVpc3BpZWwgd2VubiBQYXVrZW5yw7ZocmNoZW4gZWluZ2VzZXR6dCB3ZXJkZW4gbcO8c3NlbiBvZGVyIGVpbmUgd2VpdGVyZsO8aHJlbmRlIEjDtnJtZXNzdW5nIGltIFNjaGxhZiBiZXppZWh1bmdzd2Vpc2UgdW50ZXIgU2VkYXRpb24gbsO2dGlnIGlzdC4g
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Das Spektrum vom Säugling übers Kind zum Teenager bis hin zum jungen Erwachsenen bedarf seitens Dr. Bass, Dr. Dörig und Herrn Weber grosser Erfahrung und Fingerspitzengefühl. '
+            text: !!binary RWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4gRGllIEJhbmRicmVpdGUgaXN0IGdyb3NzOiBPZnQgcmVpY2h0IGVpbiBUZXJtaW4sIHVtIGVpbmUgc29nZW5hbm50ZSBOb3JtYWt1c2lzIChub3JtYWxlcyBIw7ZydmVybcO2Z2VuKSB6dSBkaWFnbm9zdGl6aWVyZW4uIE1hbmNobWFsIG11c3Mgdm9yIGRlciBIw7ZybWVzc3VuZyBPaHJlbnNjaG1hbHogZW50ZmVybnQgd2VyZGVuLCBkYW1pdCBkaWVzZSDDvGJlcmhhdXB0IG3DtmdsaWNoIGlzdC4gRXZlbnR1ZWxsIGlzdCB6dXIgQmVsw7xmdHVuZyBkZXIgT2hydHJvbXBldGUgdW5kIGRlcyBNaXR0ZWxvaHJzIGVpbmUgVGhlcmFwaWUsIHp1bSBCZWlzcGllbCBtaXQgZGVtIE90b3ZlbnQgQmFsbG9uLCBuw7Z0aWcuIEVzIGZvbGd0IGVpbmUgTmFjaGtvbnRyb2xsZSB1bmQgdW50ZXIgVW1zdMOkbmRlbiBlaW5lIFZlcmzDpG5nZXJ1bmcgZGVyIFRoZXJhcGllLiBPZGVyIGRpZSDDhHJ6dGUgdmVyd2Vpc2VuIHp3ZWNrcyBvcGVyYXRpdmVyIE1hc3NuYWhtZW4gYW4gZWluZSBQYXJ0bmVya2xpbmlrLiBadW0gQmVpc3BpZWwgd2VubiBQYXVrZW5yw7ZocmNoZW4gZWluZ2VzZXR6dCB3ZXJkZW4gbcO8c3NlbiBvZGVyIGVpbmUgd2VpdGVyZsO8aHJlbmRlIEjDtnJtZXNzdW5nIGltIFNjaGxhZiBiZXppZWh1bmdzd2Vpc2UgdW50ZXIgU2VkYXRpb24gbsO2dGlnIGlzdC4gIA==
       -
         type: heading
         attrs:
@@ -95,6 +89,72 @@ components:
           -
             type: text
             text: Angebot
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Abklärungen der Hörfähigkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung bei der Wahl von Hörgeräten und deren Anpassung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Regelmässige Kontrolle der Hörfähigkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Regelmässige Kontrolle und Service von Hörhilfen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Vor der CI-Implantation: Beratung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Nach der CI-Implantation: Auf Wunsch Begleitung bei der Einstellung des Implantates'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einleitung von CI-Sprachtherapien'
       -
         type: heading
         attrs:
@@ -108,13 +168,29 @@ components:
         content:
           -
             type: text
-            text: !!binary RGllIEtvc3RlbiBmw7xyIGVpbmUgQWJrbMOkcnVuZyBkZXIgSMO2cmbDpGhpZ2tlaXQgdHLDpGd0IGRpZSBLcmFua2Vua2Fzc2UuIEplIG5hY2ggVmVyAnNpY2hlcnVuZ3Ntb2RlbGwgbXVzcyBkaWUgWnV3ZWlzdW5nIMO8YmVyIGVpbmVuIEFyenQgLyBlaW5lIMOEcnp0aW4gZXJmb2xnZW4gb2RlciBrYW5uIHZvbiBkZW4gRWx0ZXJuIGRpcmVrdCB2b3JnZW5vbW1lbiB3ZXJkZW4u
+            text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyAoSVYpIGJlaSBlbnRzcHJlY2hlbmRlciBWZXJmw7xndW5nIGRpZSBLb3N0ZW4gZsO8ciBtZWRpemluaXNjaGUgdW5kIGF1ZGlvbG9naXNjaGUgVW50ZXJzdWNodW5nZW4gc293aWUgZsO8ciBIw7ZyZ2Vyw6R0ZSB1bmQgd2VpdGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLiA=
+            text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Anmeldung '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCAvIGVpbmUgw4RyenRpbiBlcmZvbGdlbiBvZGVyIGthbm4gdm9uIGRlbiBFbHRlcm4gZGlyZWt0IHZvcmdlbm9tbWVuIHdlcmRlbi4=
+      -
+        type: paragraph
       -
         type: paragraph
     type: text
