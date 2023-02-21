@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677014494
+updated_at: 1677014818
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -20,8 +20,52 @@ lead:
     content:
       -
         type: text
-        text: 'Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
+        text: 'Der Pädaudiologische Dienst Landenhof (PAD) ist eine Fachstelle für Fragen und Beratung rund ums Thema Hören, Hörbeeinträchtigung und Hörgeräteversorgung bei Kindern und Jugendlichen.'
 components:
+  -
+    id: leerarul
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir führen unter anderem '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: Hörabklärungen
+          -
+            type: text
+            text: ' (Link zu'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' Anmeldung'
+          -
+            type: text
+            text: ') durch und bieten monatlich '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'ohrenärztliche Kontrollen und Abklärungen'
+          -
+            type: text
+            text: " an. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Unser Pädakustiker, Herr Weber, macht mit Ihrem Kind eine Hörmessung (Audiogramm, Otoakustische Emissionen). Unsere Ohrenärztin, Frau Dr. Bass, bespricht diese mit Ihnen und erstellt einen Befund."
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Betreffend Auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS) bieten wir nach erfolgter Diagnose die Versorgung mit technischen Hilfsmitteln an, jedoch keine Abklärung von AVWS. Die Abklärung wird zum Beispiel am Kantonsspital Aarau durchgeführt.'
+    type: text
+    enabled: true
   -
     id: leeqx7kv
     text:
@@ -226,6 +270,25 @@ components:
                           -
                             type: text
                             text: "-\_\_\_\_\_\_\_\_\_ Reparaturservice"
+    type: text
+    enabled: true
+  -
+    id: leer6zze
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Das Gehör testen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
     type: text
     enabled: true
 ---
