@@ -18,14 +18,6 @@ lead:
         text: 'Vor 180 Jahren wurde in Aarau die Taubstummenanstalt gegründet. Heute heisst sie «Landenhof Zentrum für Hören und Sehen» und ist ein Kompetenzzentrum für die Förderung, Bildung, Betreuung und Begleitung von Kindern und Jugendlichen mit einer Hör- oder Sehbeeinträchtigung. Im Folgenden gewinnen Sie spannende Einblicke in das Geschichtsbuch des Landenhofs.'
 components:
   -
-    id: ldue5u3q
-    images:
-      -
-        id: YvqYrBzS
-        image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_01.jpg
-    type: images
-    enabled: true
-  -
     id: ldue6305
     text:
       -
@@ -1292,5 +1284,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676967240
+updated_at: 1676967289
 ---
