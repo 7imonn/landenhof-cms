@@ -84,7 +84,7 @@ components:
             content:
               -
                 type: text
-                text: 'Wir möchten das Bewusstsein für Schwerhörigkeit und Gehörlosigkeit in der Gesellschaft fördern. Deshalb informieren wir in Betrieben, an Schulen und Ausbildungsstätten, bei Behörden und Interessierten über Hörbeeinträchtigung und deren Auswirkungen. '
+                text: 'Die BFSUG führt Informationsveranstaltungen und Präsentationen zum Thema Hörbeeinträchtigung und Kommunikation durch und sensibilisiert so Arbeitgebende, Behörden und Ämter, Schulen, Berufsverbände, Organisationen und die Gesellschaft gezielt für die Anliegen Schwerhöriger und Gehörloser.'
     type: accordion_group
     enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
@@ -92,5 +92,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676972406
+updated_at: 1676972535
 ---
