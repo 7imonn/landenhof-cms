@@ -87,7 +87,7 @@ components:
     files:
       -
         id: lck787r8
-        file: downloads/lh_jahresbericht_2020_21.PDF
+        file: downloads/jahresberichte/lh_jahresbericht_2020_21.PDF
         open_in_tab: true
         name: 'Jahresbericht 2021/22'
     type: downloads
