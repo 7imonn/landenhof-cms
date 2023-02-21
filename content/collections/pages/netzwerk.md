@@ -73,7 +73,6 @@ components:
         link: 'http://www.tsm-schulzentrum.ch/home/'
       -
         id: lebt9r1k
-        logo: partnerlogos/bildung_beratung_begleitung/logo_sprachheilschule_stgallen.jpg
         link: 'https://www.sprachheilschule.ch/'
       -
         id: le4t9ydl
