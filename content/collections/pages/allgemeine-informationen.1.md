@@ -11,9 +11,16 @@ heros:
     enabled: true
 parent: 1145a5b4-d67c-41a6-bb1f-49b1350c2322
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677062048
+updated_at: 1677062238
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Der Landenhof ist das Kompetenzzentrum für Hörbeeinträchtigungen und Sehbeeinträchtigungen im Kanton Aargau. Wir unterstützen Menschen mit Hör- oder Sehbeeinträchtigungen in ihrem selbstbestimmten Leben, indem wir ihre Fähigkeiten und ihre Entwicklung gezielt fördern.'
 components:
   -
     id: lefjf7az
@@ -25,7 +32,7 @@ components:
         content:
           -
             type: text
-            text: 'Unsere Angebote im Förderschwerpunkt Hören'
+            text: 'Unser Angebot im Förderschwerpunkt Hören'
       -
         type: paragraph
         content:
@@ -46,5 +53,5 @@ components:
             text: 'Weiter ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose Aargau Solothurn, welche schwerhörige und gehörlose Personen jeden Alters, sowie deren Angehörige und Umfeld berät.'
     type: text
     enabled: true
-color_theme: green
+color_theme: pink
 ---
