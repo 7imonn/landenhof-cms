@@ -21,13 +21,62 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677069521
+updated_at: 1677069726
 components:
   -
-    id: lebnzlb8
+    id: lefnuu3x
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Tageshort
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Schulweg
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das selbständige Reisen zu ermöglichen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Aufenthalt
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir achten auf gute Kommunikationsbedingungen und gestalten den sozialen Alltag. Die Schüler:innen profitieren von vielfältigen Freizeitangeboten und werden von unseren Sozialpädagog:innen im schulischen und sozialen Lernen unterstützt.'
+    type: text
+    enabled: true
+  -
+    id: lefnvvzu
     accordion_group:
       -
-        id: IgOAoUYJ
+        id: vWRxjHoX
         heading: 'Angebot & Zielgruppen'
         text:
           -
@@ -100,21 +149,24 @@ components:
                         type: text
                         text: 'Schüler:innen des Förderbereichs Hören, die täglich von zu Hause an- und heimreisen.'
       -
-        id: lebo3wcv
-        heading: 'Angebot Wocheninternat'
+        id: lefnz53u
+        heading: 'Anmeldung & Kosten'
         text:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Kinder und Jugendliche, die bei uns zur Schule gehen, können auch hier wohnen. Sie leben ihrem Alter entsprechend in einer Wohngruppe, wo sie vier Mal - oder bei Bedarf auch nur zwei oder drei Mal - pro Woche übernachten. '
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Aktuell führen wir zwei Wohngruppen. Eine davon mit dem Schwerpunkt Primarschule, die andere mit dem Schwerpunkt Oberstufe und Brückenjahr. Die Wohngruppen bieten Platz für je 6-10 Kinder und Jugendliche.'
+                text: 'Die Anmeldung für den Tageshort erfolgt durch die Schulleitung.'
           -
             type: paragraph
             content:
@@ -123,55 +175,22 @@ components:
                 marks:
                   -
                     type: bold
-                text: 'Ein grosser Schritt in die Selbstständigkeit'
+                text: Kosten
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Für Schüler:innen ist der Eintritt ins Wocheninternat ein grosser Schritt – einer in die Selbstständigkeit. Hier lernen sie das Leben in der Gruppe aktiv mitzugestalten und Verantwortung zu übernehmen. '
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Schwerhörigenschule und nehmen an den beiden Standortgesprächen teil.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Freude und Genuss'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Freude und Genuss wird bei uns grossgeschrieben. Unsere Kinder und Jugendlichen finden bei uns sowohl Lern- und Rückzugsorte als auch Platz, um sich auszutoben. Sie profitieren von tollen Spiel- und Sportmöglichkeiten und einem vielfältigen Freizeitangebot. '
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Wir pflegen eine Kultur des Essens mit Gesprächen in entspannter Atmosphäre. Unser hauseigenes Küchenteam kocht schmackhaft, abwechslungsreich und gesund.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Räumlichkeiten und Umgebung'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Unsere Wohngruppen liegen an bester Lage mit grossem Umschwung und Garten, in Angrenzung an ein Naherholungsgebiet. Zur Standardeinrichtung gehören zudem eine Ringleitung und Smartwände zur Visualisierung. Es sind Einzelzimmer und Doppelzimmer verfügbar.'
+                text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
+    type: accordion_group
+    enabled: true
+  -
+    id: lebnzlb8
+    accordion_group:
+      -
+        id: IgOAoUYJ
+        heading: 'Angebot & Zielgruppen'
+        text:
           -
             type: paragraph
             content:
@@ -259,6 +278,10 @@ components:
                       -
                         type: text
                         text: 'Kinder und Jugendliche gehörloser Eltern (CODA)'
+      -
+        id: lebo3wcv
+        heading: 'Anmeldung & Kosten'
+        text:
           -
             type: paragraph
             content:
@@ -283,6 +306,8 @@ components:
                   -
                     type: bold
                 text: Kosten
+      -
+        id: lefny16p
     type: accordion_group
     enabled: true
   -
@@ -298,7 +323,7 @@ components:
     type: contact_teaser
     enabled: true
   -
-    id: lefnuu3x
+    id: lefnx8g7
     text:
       -
         type: heading
@@ -307,7 +332,19 @@ components:
         content:
           -
             type: text
-            text: Tageshort
+            text: Wocheninternat
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Kinder und Jugendliche, die bei uns zur Schule gehen, können auch hier wohnen. Sie leben ihrem Alter entsprechend in einer Wohngruppe, wo sie vier Mal - oder bei Bedarf auch nur zwei oder drei Mal - pro Woche übernachten. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Aktuell führen wir zwei Wohngruppen. Eine davon mit dem Schwerpunkt Primarschule, die andere mit dem Schwerpunkt Oberstufe und Brückenjahr. Die Wohngruppen bieten Platz für je 6-10 Kinder und Jugendliche.'
       -
         type: paragraph
         content:
@@ -316,13 +353,19 @@ components:
             marks:
               -
                 type: bold
-            text: Schulweg
+            text: 'Ein grosser Schritt in die Selbstständigkeit'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das selbständige Reisen zu ermöglichen.'
+            text: 'Für Schüler:innen ist der Eintritt ins Wocheninternat ein grosser Schritt – einer in die Selbstständigkeit. Hier lernen sie das Leben in der Gruppe aktiv mitzugestalten und Verantwortung zu übernehmen. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Schwerhörigenschule und nehmen an den beiden Standortgesprächen teil.'
       -
         type: paragraph
         content:
@@ -331,58 +374,34 @@ components:
             marks:
               -
                 type: bold
-            text: Aufenthalt
+            text: 'Freude und Genuss'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. '
+            text: 'Freude und Genuss wird bei uns grossgeschrieben. Unsere Kinder und Jugendlichen finden bei uns sowohl Lern- und Rückzugsorte als auch Platz, um sich auszutoben. Sie profitieren von tollen Spiel- und Sportmöglichkeiten und einem vielfältigen Freizeitangebot. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir achten auf gute Kommunikationsbedingungen und gestalten den sozialen Alltag. Die Schüler:innen profitieren von vielfältigen Freizeitangeboten und werden von unseren Sozialpädagog:innen im schulischen und sozialen Lernen unterstützt.'
+            text: 'Wir pflegen eine Kultur des Essens mit Gesprächen in entspannter Atmosphäre. Unser hauseigenes Küchenteam kocht schmackhaft, abwechslungsreich und gesund.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Räumlichkeiten und Umgebung'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsere Wohngruppen liegen an bester Lage mit grossem Umschwung und Garten, in Angrenzung an ein Naherholungsgebiet. Zur Standardeinrichtung gehören zudem eine Ringleitung und Smartwände zur Visualisierung. Es sind Einzelzimmer und Doppelzimmer verfügbar.'
     type: text
-    enabled: true
-  -
-    id: lefnvvzu
-    accordion_group:
-      -
-        id: vWRxjHoX
-        heading: 'Anmeldung & Kosten'
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Anmeldung
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Anmeldung für den Tageshort erfolgt durch die Schulleitung.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Kosten
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
-    type: accordion_group
     enabled: true
 ---
