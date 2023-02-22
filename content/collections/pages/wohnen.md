@@ -21,51 +21,15 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676829526
+updated_at: 1677069521
 components:
   -
     id: lebnzlb8
     accordion_group:
       -
         id: IgOAoUYJ
-        heading: 'Angebot Tageshort'
+        heading: 'Angebot & Zielgruppen'
         text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Schulweg
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das selbständige Reisen zu ermöglichen.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Aufenthalt
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. '
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Wir achten auf gute Kommunikationsbedingungen und gestalten den sozialen Alltag. Die Schüler:innen profitieren von vielfältigen Freizeitangeboten und werden von unseren Sozialpädagog:innen im schulischen und sozialen Lernen unterstützt.'
           -
             type: paragraph
             content:
@@ -135,36 +99,6 @@ components:
                       -
                         type: text
                         text: 'Schüler:innen des Förderbereichs Hören, die täglich von zu Hause an- und heimreisen.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Anmeldung
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Anmeldung für den Tageshort erfolgt durch die Schulleitung.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Kosten
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
       -
         id: lebo3wcv
         heading: 'Angebot Wocheninternat'
@@ -362,5 +296,93 @@ components:
             text: 'Gerne beantworte ich Ihre Fragen zu den Themen Tageshort, Wocheninternat und Sammeltransporte.'
     person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
     type: contact_teaser
+    enabled: true
+  -
+    id: lefnuu3x
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Tageshort
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Schulweg
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Schüler:innen reisen mit Sammeltransporten oder mit öffentlichen Verkehrsmitteln an den Landenhof. Wir arbeiten mit den Schüler:innen und den Eltern an den Kompetenzen des selbstständigen Reisens, um gemäss den kantonalen Altersrichtlinien das selbständige Reisen zu ermöglichen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Aufenthalt
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir achten auf gute Kommunikationsbedingungen und gestalten den sozialen Alltag. Die Schüler:innen profitieren von vielfältigen Freizeitangeboten und werden von unseren Sozialpädagog:innen im schulischen und sozialen Lernen unterstützt.'
+    type: text
+    enabled: true
+  -
+    id: lefnvvzu
+    accordion_group:
+      -
+        id: vWRxjHoX
+        heading: 'Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Anmeldung für den Tageshort erfolgt durch die Schulleitung.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Kosten werden von den zuweisenden Kantonen festgelegt. Schüler:innen aus dem Kanton Aargau bezahlen für die Verpflegung und Betreuung 10 CHF pro Aufenthaltstag.'
+    type: accordion_group
     enabled: true
 ---
