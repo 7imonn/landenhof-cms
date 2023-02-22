@@ -246,35 +246,46 @@ components:
                   -
                     type: text
                     text: 'Auditive Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Anmeldung
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Die Anmeldung bei der Logopädin für eine Abklärung/Therapie erfolgt durch die Schulleitung oder Lehrperson in vorgängiger Absprache mit den Eltern.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Kosten
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Abklärung, Beratung und Therapie sind für Schüler:innen des Landenhofs kostenlos.'
     type: text
+    enabled: true
+  -
+    id: lefs611x
+    accordion_group:
+      -
+        id: xXxPboei
+        heading: 'Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Anmeldung bei der Logopädin für eine Abklärung/Therapie erfolgt durch die Schulleitung oder Lehrperson in vorgängiger Absprache mit den Eltern.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Abklärung, Beratung und Therapie sind für Schüler:innen des Landenhofs kostenlos.'
+    type: accordion_group
     enabled: true
   -
     id: ldxiq1e0
@@ -313,14 +324,6 @@ components:
           -
             type: text
             text: 'Wir bieten Abklärungen, Beratungen und Therapien an.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Therapie
       -
         type: paragraph
         content:
@@ -417,39 +420,50 @@ components:
                   -
                     type: text
                     text: 'die Sensibilisierung und Aufklärung des Umfeldes für die besonderen Bedürfnisse.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Anmeldung
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung an die Schulleitung einreichen.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Kosten
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Landenhof und ist für die Eltern kostenlos.'
     type: text
+    enabled: true
+  -
+    id: lefs589b
+    accordion_group:
+      -
+        id: xXxPboei
+        heading: 'Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung an die Schulleitung einreichen.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Landenhof und ist für die Eltern kostenlos.'
+    type: accordion_group
     enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676830412
+updated_at: 1677076737
 ---
