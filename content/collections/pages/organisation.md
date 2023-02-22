@@ -12,13 +12,13 @@ heros:
           -
             type: text
             text: Organisation
-    file: lottie/lottie_standard_weiss.json
+    file: lottie/lottie_event_intern_blau.json
     is_white: false
     type: hero_small
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676971678
+updated_at: 1677056144
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
