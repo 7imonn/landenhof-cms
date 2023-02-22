@@ -306,40 +306,6 @@ components:
     id: lefs589b
     accordion_group:
       -
-        id: xXxPboei
-        heading: 'Anmeldung & Kosten'
-        text:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Anmeldung
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung an die Schulleitung einreichen.'
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: Kosten
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Landenhof und ist für die Eltern kostenlos.'
-      -
         id: lefs9xoo
         heading: 'Angebot & Zielgruppen'
         text:
@@ -445,11 +411,160 @@ components:
                       -
                         type: text
                         text: 'die Sensibilisierung und Aufklärung des Umfeldes für die besonderen Bedürfnisse.'
+      -
+        id: xXxPboei
+        heading: 'Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Eltern können gemeinsam mit Lehrpersonen und/oder weiteren Fachleuten eine schriftliche Anmeldung zur Psychomotorik-Abklärung an die Schulleitung einreichen.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Finanzierung der Psychomotorik-Therapie (inkl. Abklärung und Beratung) erfolgt durch den Landenhof und ist für die Eltern kostenlos.'
     type: accordion_group
+    enabled: true
+  -
+    id: lefsea66
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Psychotherapie
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Kinder und Jugendliche mit Beeinträchtigungen müssen im Leben mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Die Kinder und Jugendlichen selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bieten wir vom Psychologischen Dienst Unterstützung:'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mittels systemisch-integrativer Methoden aktivieren und stärken wir im passenden Setting die Ressourcen der Familien hin zu mehr Resilienz, Selbstfürsorge und Lebensqualität.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Weiter bieten wir kinder- und jugendpsychiatrische Abklärungen und bei Bedarf entsprechende psychotherapeutische und kinderpsychiatrische Behandlungen für Landenhof-Schüler:innen an.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Behandelt werden können unter anderem: '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Depressive und psychosomatische Erkrankungen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Angst-, Zwang- und Anpassungsstörungen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Zudem bieten wir Beratung bei:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Erzieherischen Fragen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Trennungssituationen
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Alltags- und Lebensthemen wie Umgang mit Emotionen, Identitätssuche und Akzeptanz der Beeinträchtigungen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Wir sind spezialisiert auf die Arbeit mit hör- und sehbeeinträchtigten Kindern und Jugendlichen. Zudem beraten und begleiten wir Kinder und Jugendliche mit einer Autismus-Spektrum-Störung sowie deren Familien.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Die Jugendlichen sollen so gestärkt werden, dass sie den Übergang vom Landenhof in ein selbstbestimmtes Leben ressourcenorientiert sowie mit gesundem Selbstvertrauen erfolgreich meistern können.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Psychologische Dienst am Landenhof ist ein Angebot der Kinder- und Jugendpsychiatrie und Psychotherapie der Psychiatrischen Dienste Aargau (PDAG). Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. Wir unterstehen der ärztlichen Schweigepflicht.'
+    type: text
     enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677077070
+updated_at: 1677078451
 ---
