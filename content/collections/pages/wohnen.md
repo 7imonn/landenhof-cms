@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677069726
+updated_at: 1677069753
 components:
   -
     id: lefnuu3x
@@ -185,6 +185,88 @@ components:
     type: accordion_group
     enabled: true
   -
+    id: lefnx8g7
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Wocheninternat
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Kinder und Jugendliche, die bei uns zur Schule gehen, können auch hier wohnen. Sie leben ihrem Alter entsprechend in einer Wohngruppe, wo sie vier Mal - oder bei Bedarf auch nur zwei oder drei Mal - pro Woche übernachten. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Aktuell führen wir zwei Wohngruppen. Eine davon mit dem Schwerpunkt Primarschule, die andere mit dem Schwerpunkt Oberstufe und Brückenjahr. Die Wohngruppen bieten Platz für je 6-10 Kinder und Jugendliche.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ein grosser Schritt in die Selbstständigkeit'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Für Schüler:innen ist der Eintritt ins Wocheninternat ein grosser Schritt – einer in die Selbstständigkeit. Hier lernen sie das Leben in der Gruppe aktiv mitzugestalten und Verantwortung zu übernehmen. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Schwerhörigenschule und nehmen an den beiden Standortgesprächen teil.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Freude und Genuss'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Freude und Genuss wird bei uns grossgeschrieben. Unsere Kinder und Jugendlichen finden bei uns sowohl Lern- und Rückzugsorte als auch Platz, um sich auszutoben. Sie profitieren von tollen Spiel- und Sportmöglichkeiten und einem vielfältigen Freizeitangebot. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir pflegen eine Kultur des Essens mit Gesprächen in entspannter Atmosphäre. Unser hauseigenes Küchenteam kocht schmackhaft, abwechslungsreich und gesund.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Räumlichkeiten und Umgebung'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsere Wohngruppen liegen an bester Lage mit grossem Umschwung und Garten, in Angrenzung an ein Naherholungsgebiet. Zur Standardeinrichtung gehören zudem eine Ringleitung und Smartwände zur Visualisierung. Es sind Einzelzimmer und Doppelzimmer verfügbar.'
+    type: text
+    enabled: true
+  -
     id: lebnzlb8
     accordion_group:
       -
@@ -321,87 +403,5 @@ components:
             text: 'Gerne beantworte ich Ihre Fragen zu den Themen Tageshort, Wocheninternat und Sammeltransporte.'
     person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
     type: contact_teaser
-    enabled: true
-  -
-    id: lefnx8g7
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Wocheninternat
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Kinder und Jugendliche, die bei uns zur Schule gehen, können auch hier wohnen. Sie leben ihrem Alter entsprechend in einer Wohngruppe, wo sie vier Mal - oder bei Bedarf auch nur zwei oder drei Mal - pro Woche übernachten. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Aktuell führen wir zwei Wohngruppen. Eine davon mit dem Schwerpunkt Primarschule, die andere mit dem Schwerpunkt Oberstufe und Brückenjahr. Die Wohngruppen bieten Platz für je 6-10 Kinder und Jugendliche.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Ein grosser Schritt in die Selbstständigkeit'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Für Schüler:innen ist der Eintritt ins Wocheninternat ein grosser Schritt – einer in die Selbstständigkeit. Hier lernen sie das Leben in der Gruppe aktiv mitzugestalten und Verantwortung zu übernehmen. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Schwerhörigenschule und nehmen an den beiden Standortgesprächen teil.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Freude und Genuss'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Freude und Genuss wird bei uns grossgeschrieben. Unsere Kinder und Jugendlichen finden bei uns sowohl Lern- und Rückzugsorte als auch Platz, um sich auszutoben. Sie profitieren von tollen Spiel- und Sportmöglichkeiten und einem vielfältigen Freizeitangebot. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir pflegen eine Kultur des Essens mit Gesprächen in entspannter Atmosphäre. Unser hauseigenes Küchenteam kocht schmackhaft, abwechslungsreich und gesund.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Räumlichkeiten und Umgebung'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Unsere Wohngruppen liegen an bester Lage mit grossem Umschwung und Garten, in Angrenzung an ein Naherholungsgebiet. Zur Standardeinrichtung gehören zudem eine Ringleitung und Smartwände zur Visualisierung. Es sind Einzelzimmer und Doppelzimmer verfügbar.'
-    type: text
     enabled: true
 ---
