@@ -569,11 +569,45 @@ components:
               -
                 type: text
                 text: 'Der Psychologische Dienst am Landenhof ist ein Angebot der Kinder- und Jugendpsychiatrie und Psychotherapie der Psychiatrischen Dienste Aargau (PDAG). Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. Wir unterstehen der ärztlichen Schweigepflicht.'
+      -
+        id: leftexfh
+        heading: 'Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Anmeldung
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Anmeldung erfolgt über die Eltern. Die Jugendlichen können sich jederzeit auch direkt an uns wenden.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Kosten
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Mit einer ärztlichen Anordnung für Psychotherapie können Abklärungen und Psychotherapien über die Krankenkasse abgerechnet werden.'
     type: accordion_group
     enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677078791
+updated_at: 1677078883
 ---
