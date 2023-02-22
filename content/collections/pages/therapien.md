@@ -29,228 +29,224 @@ components:
             type: text
             text: Logopädie
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Angebot und Ziele'
-      -
         type: paragraph
         content:
           -
             type: text
             text: 'Im Zentrum der Logopädie steht eine gelingende Kommunikation: Sich seinem Umfeld mitteilen und andere verstehen. Unser Ziel ist es, Kinder und Jugendliche darin zu unterstützen, ihre sprachlichen Fähigkeiten zu erweitern. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Basierend auf einer sorgfältigen Abklärung und Diagnostik legen wir Therapieschwerpunkte mit den entsprechenden Zielen fest. Wir orientieren uns dabei am individuellen Sprachentwicklungsstand und der aktuellen Hörsituation. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In der Therapie legen wir Wert auf eine vertrauensvolle Beziehung zum Kind als Grundlage für sprachliche Fortschritte. In der Regel arbeiten wir mit dem Kind allein. Bei Bedarf bieten wir Beratungen und Coachings an. Wir stehen in engem Austausch mit anderen Fachpersonen, um die Kinder und Jugendlichen bestmöglich zu fördern.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In der Logopädischen Therapie behandeln wir:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: "Sprachentwicklungsstörungen\_"
-                  -
-                    type: text
-                    text: "\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Störungen der Aussprache'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Störungen des Wortschatzes/der Wortfindung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Störungen der Grammatik'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Sprachverständnisstörungen
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Kommunikationsstörungen
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Redeflussstörungen (Stottern/Poltern)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Stimmstörungen
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Näseln
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Lese-Rechtschreibstörung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Autismus-Spektrum-Störung (ASS)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Auditive Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
     type: text
     enabled: true
   -
     id: lefs611x
     accordion_group:
+      -
+        id: lefs8blm
+        heading: 'Angebot & Zielgruppen'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Basierend auf einer sorgfältigen Abklärung und Diagnostik legen wir Therapieschwerpunkte mit den entsprechenden Zielen fest. Wir orientieren uns dabei am individuellen Sprachentwicklungsstand und der aktuellen Hörsituation. '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'In der Therapie legen wir Wert auf eine vertrauensvolle Beziehung zum Kind als Grundlage für sprachliche Fortschritte. In der Regel arbeiten wir mit dem Kind allein. Bei Bedarf bieten wir Beratungen und Coachings an. Wir stehen in engem Austausch mit anderen Fachpersonen, um die Kinder und Jugendlichen bestmöglich zu fördern.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'In der Logopädischen Therapie behandeln wir:'
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: "Sprachentwicklungsstörungen\_"
+                      -
+                        type: text
+                        text: "\_"
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: 'Störungen der Aussprache'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Störungen des Wortschatzes/der Wortfindung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: 'Störungen der Grammatik'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: Sprachverständnisstörungen
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: Kommunikationsstörungen
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: 'Redeflussstörungen (Stottern/Poltern)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: Stimmstörungen
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: Näseln
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
+                              rel: null
+                              target: _blank
+                              title: null
+                        text: Lese-Rechtschreibstörung
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Autismus-Spektrum-Störung (ASS)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Auditive Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
       -
         id: xXxPboei
         heading: 'Anmeldung & Kosten'
@@ -465,5 +461,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677076737
+updated_at: 1677076831
 ---
