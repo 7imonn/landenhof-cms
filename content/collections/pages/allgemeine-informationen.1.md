@@ -9,11 +9,9 @@ heros:
     heading: 'Allgemeine Informationen'
     file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
-    link_text: 'Offene Stellen bei uns'
-    link: 'entry::40db808b-3908-4d7d-bb3f-008dbcfd17d8'
 parent: 1145a5b4-d67c-41a6-bb1f-49b1350c2322
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1675266265
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1677061986
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -22,5 +20,18 @@ lead:
     content:
       -
         type: text
-        text: 'Schwerhörige Kinder und Jugendliche können im Landenhof alle Schulstufen der Aargauer Volksschule besuchen – vom Kindergarten über die Primarschule bis zur Bezirks-, Sekundar- oder Realschule. Schülerinnen und Schüler können im Internat am Landenhof wohnen. Wer noch nicht weiss, welchen Beruf sie/er lernen will, kann das Brückenjahr absolvieren.'
+        text: 'Wir begleiten und fördern Kinder mit Hörbeeinträchtigungen ab Geburt beim Spracherwerb und in ihrer Gesamtentwicklung, führen audiologische Abklärungen durch und übernehmen die Versorgung mit technischen Hilfsmitteln.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Kinder und Jugendliche mit Hörbeeinträchtigungen können bei uns am Landenhof alle Stufen der Volksschule besuchen, hier wohnen oder werden durch unseren Audiopädagogischen Dienst in der Regelschule begleitet.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Weiter ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose Aargau Solothurn, welche schwerhörige und gehörlose Personen jeden Alters, sowie deren Angehörige und Umfeld berät.'
+color_theme: green
 ---
