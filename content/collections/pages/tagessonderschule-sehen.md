@@ -1,12 +1,12 @@
 ---
 id: 2d7858e7-6836-4575-a821-7a7ed749a1bd
 blueprint: content_page
-title: Tagesschule
+title: Tagessonderschule
 heros:
   -
     id: O5YVjaDl
     type: hero_default
-    heading: Tagesschule
+    heading: Tagessonderschule
     file: lottie/lottie_inhaltsseite_sehen_pink.json
     enabled: true
 components:
@@ -40,5 +40,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676996003
+updated_at: 1677174384
 ---
