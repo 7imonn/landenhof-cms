@@ -11,7 +11,7 @@ heros:
     file: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_01.jpg
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677158805
+updated_at: 1677159018
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -19,6 +19,14 @@ components:
   -
     id: leh4rjcu
     text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Audiopädagogischer Dienst'
       -
         type: paragraph
         content:
@@ -214,5 +222,171 @@ components:
     id: leh51lgq
     person: 46cc1b91-08e1-4667-ab0b-774e499586dd
     type: contact_teaser
+    enabled: true
+  -
+    id: leh53p18
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Angebot
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Erstberatung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung ab Diagnosestellung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Unterstützung im Verarbeitungsprozess'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Information über die Hörbeeinträchtigung und deren Auswirkungen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Anregung und Unterstützung einer vielfältigen Kommunikation und Interaktion mit dem Kind'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Vermittlung von Kontakten zu anderen Fachstellen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung bei Übergängen (Schuleintritt, Eintritt ins Berufsleben / in eine weiterführende Schule)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Familientreffen – Erfahrungsaustausch mit anderen betroffenen Familien'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Zielgruppen
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kinder und Jugendliche mit einer diagnostizierten Hörbeeinträchtigung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kinder und Jugendliche mit einer diagnostizierten AVWS (Auditive Verarbeitungs- und Wahrnehmungsstörung)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Guthörende Kinder von gehörlosen Eltern (CODA – Children of Deaf Adults)'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Anmeldung
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Zuweisung erfolgt in der Regel durch einen HNO-Arzt / eine HNO-Ärztin, wenn die Diagnose einer Hörbeeinträchtigung/AVWS vorliegt.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Kosten
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Für die Angebote des Stützpunkts Gymnasium/Mittelschule sowie für die Unterstützung während der erstmaligen beruflichen Ausbildung ist eine Kostengutsprache der IV notwendig.'
+    type: text
     enabled: true
 ---
