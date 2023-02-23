@@ -25,19 +25,19 @@ components:
         content:
           -
             type: text
-            text: 'Arbeit, Familie, Erziehung, Finanzen, Hilfsmittel... Die BFSUG kennt die Herausforderungen, mit denen sich schwerhörige und gehörlose Menschen im Alltag konfrontiert sehen. '
+            text: 'Arbeit, Familie, Erziehung, Finanzen, Hilfsmittel... Wir kennen die Herausforderungen, mit denen sich schwerhörige und gehörlose Menschen im Alltag konfrontiert sehen. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Die BFSUG setzt sich mit ihrem sozialarbeiterischen Beratungsangebot ein für die Inklusion schwerhöriger und gehörloser Menschen, berät Betroffene, Angehörige und Fachleute. '
+            text: 'Wir setzen uns mit unserem sozialarbeiterischen Beratungsangebot ein für die Inklusion schwerhöriger und gehörloser Menschen, beraten Betroffene, Angehörige und Fachleute. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Die BFSUG berät vertraulich, individuell und nimmt Rücksicht auf die kommunikative Situation von Menschen mit Hörbeeinträchtigung, sodass sie und ihre Bezugspersonen alle Lebenssituationen einfacher und selbstständig meistern können.'
+            text: 'Wir beraten vertraulich, individuell und nehmen Rücksicht auf die kommunikative Situation von Menschen mit Hörbeeinträchtigung, sodass sie und ihre Bezugspersonen alle Lebenssituationen einfacher und selbstständig meistern können.'
     type: text
     enabled: true
   -
@@ -153,5 +153,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677164744
+updated_at: 1677164832
 ---
