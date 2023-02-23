@@ -11,6 +11,11 @@ preferences:
       after_save: continue_editing
     blog_posts:
       after_save: continue_editing
+      columns:
+        - title
+        - slug
+        - date
+        - blog_date
     jobs:
       after_save: continue_editing
   taxonomies:
