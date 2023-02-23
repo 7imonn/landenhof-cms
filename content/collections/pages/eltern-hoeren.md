@@ -11,7 +11,7 @@ heros:
     file: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_2023-02.jpg
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677173265
+updated_at: 1677174284
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -108,16 +108,6 @@ components:
     type: text
     enabled: true
   -
-    id: leh50hjz
-    person: db0a9dd3-c08c-416a-9104-5048242282bb
-    type: contact_teaser
-    enabled: true
-  -
-    id: leh51lgq
-    person: 46cc1b91-08e1-4667-ab0b-774e499586dd
-    type: contact_teaser
-    enabled: true
-  -
     id: lehdfbv0
     accordion_group:
       -
@@ -181,6 +171,16 @@ components:
                 type: text
                 text: 'Für die Angebote des Stützpunkts Gymnasium/Mittelschule sowie für die Unterstützung während der erstmaligen beruflichen Ausbildung ist eine Kostengutsprache der IV notwendig.'
     type: accordion_group
+    enabled: true
+  -
+    id: leh50hjz
+    person: db0a9dd3-c08c-416a-9104-5048242282bb
+    type: contact_teaser
+    enabled: true
+  -
+    id: leh51lgq
+    person: 46cc1b91-08e1-4667-ab0b-774e499586dd
+    type: contact_teaser
     enabled: true
 lead:
   -
