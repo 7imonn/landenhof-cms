@@ -10,8 +10,8 @@ heros:
     file: lottie/lottie_inhaltsseite_sehen_pink.json
     enabled: true
 color_theme: pink
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1673998315
+updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
+updated_at: 1677159778
 lead:
   -
     type: paragraph
@@ -60,7 +60,7 @@ components:
             type: text
             text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
     type: text
-    enabled: true
+    enabled: false
   -
     id: ld0v1kjq
     slides:
@@ -76,7 +76,7 @@ components:
                 type: text
                 text: 'Sehbeeinträchtigte Kinder und Jugendliche werden in der Regelschule beraten und begleitet.'
     type: teaser_large_slider
-    enabled: true
+    enabled: false
   -
     id: ld0v4p02
     text:
@@ -177,7 +177,7 @@ components:
             type: text
             text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. Wird eine Hörbeeinträchtigung diagnostiziert, übernimmt die Invalidenversicherung die Kosten sowohl für die medizinischen und audiologischen Untersuchungen als auch für Hörhilfen und andere technische Hilfsmittel.'
     type: text
-    enabled: true
+    enabled: false
   -
     id: ld0v7ihc
     files:
@@ -187,7 +187,7 @@ components:
         open_in_tab: false
     button_text: 'Mehr anzeigen'
     type: downloads
-    enabled: true
+    enabled: false
   -
     id: ld0v9bhm
     content:
@@ -208,7 +208,7 @@ components:
             text: 'Gerne berate ich Sie persönlich.'
     person: e66ca60e-d615-49bc-94a6-98587a815a2d
     type: contact_teaser
-    enabled: true
+    enabled: false
   -
     id: ld0vcmdb
     heading: 'Offene Stellen'
@@ -216,5 +216,7 @@ components:
     button_text: 'Zur Übersicht'
     button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
     type: job_cards
-    enabled: true
+    enabled: false
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
 ---
