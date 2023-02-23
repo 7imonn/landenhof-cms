@@ -14,7 +14,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677172421
+updated_at: 1677172495
 lead:
   -
     type: paragraph
@@ -32,6 +32,86 @@ components:
           -
             type: text
             text: 'Unsere Ziele sind grösstmögliche schulische und soziale Teilhabe und bestmögliche Entfaltung des Potentials und der Persönlichkeit der hörbeeinträchtigten Kinder und Jugendlichen.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Angebot für Lehrpersonen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir beraten Lehrpersonen und andere schulische Fachpersonen. Themen unserer Beratung sind:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Information über die Hörbeeinträchtigung und deren Auswirkungen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierung für die Bedürfnisse von hörbeeinträchtigten Schülerinnen und Schülern'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Schulische Rahmenbedingungen und Unterrichtsgestaltung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einsatz von technischen Hilfsmitteln'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Massnahmen des Nachteilsausgleichs'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierungslektionen für Mitschüler:innen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Weiterbildungs-Workshop
     type: text
     enabled: true
 ---
