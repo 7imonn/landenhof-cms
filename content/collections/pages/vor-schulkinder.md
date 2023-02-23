@@ -7,7 +7,7 @@ heros:
     id: leRkwsnS
     type: hero_default
     heading: (Vor-)Schulkinder
-    file: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_01.jpg
+    file: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_2023-01.jpg
     enabled: true
 lead:
   -
