@@ -1,7 +1,7 @@
 ---
 id: 3056affe-9074-42f0-ab78-b3c739f5054a
 blueprint: content_page
-title: 'Babys & Vorschulkinder'
+title: 'Babys & Schulkinder'
 heros:
   -
     id: leRkwsnS
@@ -15,13 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Die Audiopädagogische Förderung für Babys und junge Kinder findet mehrheitlich zu Hause statt. Wir beziehen die Eltern mit ein und beraten sie und deren Umfeld in allen Fragen rund um die Hörbeeinträchtigung und Kommunikation.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Beim Eintritt in die Schule kommen Lehrpersonen als weitere Bezugspersonen dazu. Wir beraten auch die Lehrpersonen und das schulische Umfeld und unterstützen die Kinder individuell.'
+        text: 'Die Audiopädagogische Förderung für Babys und junge Kinder findet mehrheitlich zu Hause statt. Wir beziehen die Eltern mit ein und beraten sie und deren Umfeld in allen Fragen rund um die Hörbeeinträchtigung und Kommunikation. Beim Eintritt in die Schule kommen Lehrpersonen als weitere Bezugspersonen dazu. Wir beraten auch die Lehrpersonen und das schulische Umfeld und unterstützen die Kinder individuell.'
 components:
   -
     id: leh9zlz3
@@ -455,5 +449,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677170655
+updated_at: 1677170885
 ---
