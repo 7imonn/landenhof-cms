@@ -1,17 +1,18 @@
 ---
 id: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 blueprint: content_page
-title: Beraten
+title: 'Beraten & Fördern'
 heros:
   -
     id: ImwRf8uL
     type: hero_default
-    heading: Beraten
+    heading: 'Beraten & Fördern'
     file: lottie/lottie_inhaltsseite_hoeren_gruen.json
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1674039688
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1677166727
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
+color_theme: green
 ---
