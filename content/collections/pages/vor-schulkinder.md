@@ -151,72 +151,6 @@ components:
                   -
                     type: text
                     text: 'Anmelden können sich schwerhörige sowie Kinder von schwerhörigen Eltern (CODA) zwei Jahre vor Kindergarten-Eintritt.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Zielgruppen
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Kinder und Jugendliche mit einer diagnostizierten Hörbeeinträchtigung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Kinder und Jugendliche mit einer diagnostizierten AVWS (Auditive Verarbeitungs- und Wahrnehmungsstörung)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Guthörende Kinder von gehörlosen Eltern (CODA – Children of Deaf Adults)'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Anmeldung
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Die Zuweisung erfolgt in der Regel durch einen HNO-Arzt, eine HNO-Ärztin, wenn die Diagnose einer Hörbeeinträchtigung oder einer Auditive Verarbeitungs- und Wahrnehmungsstörung vorliegt.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Kosten
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
     type: text
     enabled: true
   -
@@ -449,5 +383,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677171133
+updated_at: 1677171239
 ---
