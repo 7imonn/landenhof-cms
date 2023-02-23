@@ -14,24 +14,18 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677173493
+updated_at: 1677173512
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Wir unterstützen hörbeeinträchtigte Schüler:innen in der aargauischen Volksschule und während des Besuchs einer aargauischen Kantonsschule sowie Lernende während der erstmaligen beruflichen Ausbildung.'
+        text: 'Wir unterstützen hörbeeinträchtigte Schüler:innen in der aargauischen Volksschule und während des Besuchs einer aargauischen Kantonsschule sowie Lernende während der erstmaligen beruflichen Ausbildung. Unsere Ziele sind grösstmögliche schulische und soziale Teilhabe und bestmögliche Entfaltung des Potentials und der Persönlichkeit der hörbeeinträchtigten Kinder und Jugendlichen.'
 components:
   -
     id: lehd4hqt
     text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Unsere Ziele sind grösstmögliche schulische und soziale Teilhabe und bestmögliche Entfaltung des Potentials und der Persönlichkeit der hörbeeinträchtigten Kinder und Jugendlichen.'
       -
         type: heading
         attrs:
