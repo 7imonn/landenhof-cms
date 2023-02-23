@@ -198,11 +198,139 @@ components:
                       -
                         type: text
                         text: 'Kantonsschule Zofingen (Gymnasium)'
+      -
+        id: leh42ubw
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Für die Angebote des Stützpunkts Gymnasium/Mittelschule ist eine Kostengutsprache der IV notwendig.'
+    type: accordion_group
+    enabled: true
+  -
+    id: leh3va0k
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Unterstützung während der erstmaligen beruflichen Ausbildung'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hörbeeinträchtigte Lernende, die eine öffentliche Berufsschule besuchen, erhalten bei Bedarf audiopädagogische Beratung und Begleitung während der erstmaligen beruflichen Ausbildung.'
+    type: text
+    enabled: true
+  -
+    id: leh3vz85
+    accordion_group:
+      -
+        id: U0We3do9
+        heading: 'Angebot & Zielgruppe'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Angebot
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Das bieten wir an: '
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Individuell auf jede:n Lernende:n abgestimmte Begleitung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Beratung der Lehrpersonen und der Lehrbetriebe'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Unterstützung im Kontakt mit Fachstellen und der IV'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Massnahmen des Nachteilsausgleichs'
+          -
+            type: paragraph
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Zielgruppe
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Hörbeeinträchtigte Lernende, die eine öffentliche Berufsschule besuchen'
+      -
+        id: leh4243l
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Für die Unterstützung während der erstmaligen beruflichen Ausbildung ist eine Kostengutsprache der IV notwendig.'
     type: accordion_group
     enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677156538
+updated_at: 1677157209
 ---
