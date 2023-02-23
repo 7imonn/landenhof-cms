@@ -14,7 +14,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677172505
+updated_at: 1677172646
 lead:
   -
     type: paragraph
@@ -113,5 +113,75 @@ components:
                     type: text
                     text: Weiterbildungs-Workshop
     type: text
+    enabled: true
+  -
+    id: lehd7zcr
+    accordion_group:
+      -
+        id: H0gx3N7U
+        heading: Zielgruppen
+        text:
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche mit einer diagnostizierten Hörbeeinträchtigung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche mit einer diagnostizierten AVWS (Auditive Verarbeitungs- und Wahrnehmungsstörung)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Guthörende Kinder von gehörlosen Eltern (CODA – Children of Deaf Adults)'
+      -
+        id: lehd8xge
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Zuweisung erfolgt in der Regel durch einen HNO-Arzt / eine HNO-Ärztin, wenn die Diagnose einer Hörbeeinträchtigung oder einer Auditiven Verarbeitungs- und Wahrnehmungsstörung vorliegt.'
+      -
+        id: lehd9oir
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Für die Angebote des Stützpunkts Gymnasium/Mittelschule sowie für die Unterstützung während der erstmaligen beruflichen Ausbildung ist eine Kostengutsprache der IV notwendig.'
+    type: accordion_group
+    enabled: true
+  -
+    id: lehda5fw
+    person: 46cc1b91-08e1-4667-ab0b-774e499586dd
+    type: contact_teaser
     enabled: true
 ---
