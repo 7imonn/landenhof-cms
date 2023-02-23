@@ -226,6 +226,74 @@ components:
     type: text
     enabled: true
   -
+    id: lehbyvat
+    accordion_group:
+      -
+        id: vnCES2hO
+        heading: 'Zielgruppen, Anmeldung & Kosten'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Zielgruppen
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche mit einer diagnostizierten Hörbeeinträchtigung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche mit einer diagnostizierten AVWS (Auditive Verarbeitungs- und Wahrnehmungsstörung)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Guthörende Kinder von gehörlosen Eltern (CODA – Children of Deaf Adults)'
+      -
+        id: lehbzr30
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Zuweisung erfolgt in der Regel durch einen HNO-Arzt, eine HNO-Ärztin, wenn die Diagnose einer Hörbeeinträchtigung oder einer Auditive Verarbeitungs- und Wahrnehmungsstörung vorliegt.'
+      -
+        id: lehc0cuo
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
+    type: accordion_group
+    enabled: true
+  -
     id: leha4u1u
     person: db0a9dd3-c08c-416a-9104-5048242282bb
     type: contact_teaser
@@ -307,81 +375,10 @@ components:
                   -
                     type: text
                     text: 'Kinder- und Familientreffen'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Zielgruppen
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Kinder und Jugendliche mit einer diagnostizierten Hörbeeinträchtigung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Kinder und Jugendliche mit einer diagnostizierten AVWS (Auditive Verarbeitungs- und Wahrnehmungsstörung)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Guthörende Kinder von gehörlosen Eltern (CODA – Children of Deaf Adults)'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Anmeldung
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Die Zuweisung erfolgt in der Regel durch einen HNO-Arzt, eine HNO-Ärztin, wenn die Diagnose einer Hörbeeinträchtigung oder einer Auditive Verarbeitungs- und Wahrnehmungsstörung vorliegt.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Kosten
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
     type: text
     enabled: true
   -
-    id: lehbpdf2
-    person: 46cc1b91-08e1-4667-ab0b-774e499586dd
-    type: contact_teaser
-    enabled: true
-  -
-    id: lehbyvat
+    id: lehc1qw4
     accordion_group:
       -
         id: vnCES2hO
@@ -448,10 +445,15 @@ components:
                 text: 'Der Audiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
     type: accordion_group
     enabled: true
+  -
+    id: lehbpdf2
+    person: 46cc1b91-08e1-4667-ab0b-774e499586dd
+    type: contact_teaser
+    enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677170511
+updated_at: 1677170606
 ---
