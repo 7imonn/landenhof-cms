@@ -11,7 +11,7 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1677159792
+updated_at: 1677160154
 lead:
   -
     type: paragraph
@@ -206,7 +206,7 @@ components:
           -
             type: text
             text: 'Gerne berate ich Sie persönlich.'
-    person: e66ca60e-d615-49bc-94a6-98587a815a2d
+    person: 402454a8-8bfa-4386-9036-a372f4c20151
     type: contact_teaser
     enabled: true
   -
