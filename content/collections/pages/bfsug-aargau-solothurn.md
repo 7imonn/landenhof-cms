@@ -15,7 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Seit 2019 ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose BFSUG Aargau Solothurn.  '
+        text: 'Seit 2019 ist der Landenhof Träger der Beratung für Schwerhörige und Gehörlose BFSUG Aargau Solothurn. Seither findet sich ein ein sozialarbeiterisches Beratungsangebot für hörbeeinträchtigte Menschen jeden Alters unter dem Dach des Landenhofs.  '
 components:
   -
     id: lee4sy20
@@ -159,5 +159,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676977029
+updated_at: 1677163635
 ---
