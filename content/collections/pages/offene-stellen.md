@@ -15,7 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Sie suchen ein positives Arbeitsumfeld mit vielseitigen und verantwortungsvollen Aufgaben und möchten den Landenhof mitgestalten? Dann bewerben Sie sich noch heute – wir prüfen Ihr Dossier gerne, auch wenn wir aktuell vielleicht keine offene Stelle haben.'
+        text: 'Sie suchen ein positives Arbeitsumfeld mit vielseitigen und verantwortungsvollen Aufgaben und möchten den Landenhof mitgestalten? Dann bewerben Sie sich noch heute!'
 components:
   -
     id: lecjfscf
@@ -50,7 +50,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir haben aktuell keine passende Stelle ausgeschrieben, sollten Sie aber unbedingt kennenlernen? Gerne prüfe ich Ihr Dossier.'
+            text: 'Wir prüfen Ihr Dossier gerne, auch wenn wir aktuell vielleicht keine passende offene Stelle haben.'
     person: aa6ab388-054a-44b0-bdfb-b663429f6f21
     type: contact_teaser
     enabled: true
@@ -58,5 +58,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677247470
+updated_at: 1677247680
 ---
