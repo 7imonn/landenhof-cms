@@ -21,19 +21,11 @@ components:
     id: leirm4ca
     text:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Angebot
-      -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary V2lyIGJpZXRlbiB1bnRlciBhbmRlcmVtIEjDtnJhYgJrbMOkcnVuZ2VuIHNvd2llIG1vbmF0bGljaCBvaHJlbsOkcnp0bGljaGUgS29udHJvbGxlbiB1bmQgQWJrbMOkcnVuZ2VuIGFuLiBEYWJlaSBsZWdlbiB3aXIgV2VydCBhdWYgZWluZSBlbmdlIFp1c2FtbWVuYXJiZWl0IHp3aXNjaGVuIGRlbiBCZXJlaWNoZW4gUMOkZGFnb2dpaywgTWVkaXppbiB1bmQgVGVjaG5pay4gU28gYXJiZWl0ZW4gdW5zZXIgUMOkZGFrdXN0aWtlciB1bmQgdW5zZXJlIEhOTy1Lb25zaWxpYXLDpHJ6dGluIEhhbmQgaW4gSGFuZC4g
+            text: 'Wir bieten unter anderem Hörabklärungen sowie monatlich ohrenärztliche Kontrollen und Abklärungen an. Dabei legen wir Wert auf eine enge Zusammenarbeit zwischen den Bereichen Pädagogik, Medizin und Technik. So arbeiten unser Pädakustiker und unsere HNO-Konsiliarärztin Hand in Hand. '
       -
         type: paragraph
         content:
@@ -45,7 +37,7 @@ components:
         content:
           -
             type: text
-            text: !!binary WnVkZW0gc3RlaGVuIHdpciB1bnRlcnN0w7x0AnplbmQgenVyIFNlaXRlLCB3ZW5uIGVzIHVtIEZyYWdlbiB6dSB3ZWl0ZXJlbiB0ZWNobmlzY2hlbiBIaWxmc21pdHRlbG4gKHouQi4gRk0tQW5sYWdlKSBvZGVyIHVtIGVpbmUgTmV1dmVyc29yZ3VuZyBtaXQgSMO2cmhpbGZlbiB1bmQgZGFtaXQgdmVyYnVuZGVuZSBJVi1BbnRyw6RnZSBnZWh0Lg==
+            text: 'Zudem stehen wir unterstützend zur Seite, wenn es um Fragen zu weiteren technischen Hilfsmitteln (z.B. FM-Anlage) oder um eine Neuversorgung mit Hörhilfen und damit verbundene IV-Anträge geht.'
       -
         type: paragraph
         content:
@@ -248,5 +240,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677262288
+updated_at: 1677262501
 ---
