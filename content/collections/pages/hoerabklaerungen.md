@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677019080
+updated_at: 1677256228
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -74,7 +74,7 @@ components:
         content:
           -
             type: text
-            text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIHNpbmQgZXMgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbSBzb3dpZSBPdG9ha3VzdGlzY2hlIEVtaXNzaW9uZW4gKGVpbmUgwqtFY2hvbWVzc3VuZ8K7IGF1cyBkZW0gSW5uZW5vaHIsIGRpZSBrZWluZSBha3RpdmUgTWl0YXJiZWl0IGRlcyBLaW5kZXMgZXJmb3JkZXJ0KSwgd2VsY2hlIHZvbSBQw6RkYWt1c3Rpa2VyIGVyc3RlbGx0LCBhbiBkaWUgw4RyenRlIHdlaXRlcgJnZWdlYmVuIHVuZCB2b24gZGllc2VuIG1pdCBkZW4gRWx0ZXJuIGJlc3Byb2NoZW4gd2VyZGVuLiA=
+            text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIGVyc3RlbGx0IHVuc2VyIFDDpGRha3VzdGlrZXIgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbWUgc293aWUgT3RvYWt1c3Rpc2NoZSBFbWlzc2lvbmVuIChlaW5lIMKrRWNob21lc3N1bmfCuyBhdXMgZGVtIElubmVub2hyLCBkaWUga2VpbmUgYWt0aXZlIE1pdGFyYmVpdCBkZXMgS2luZGVzIGVyZm9yZGVydCksIHdlbGNoZSB2b20gUMOkZGFrdXN0aWtlciBlcnN0ZWxsdCwgYW4gZGllIMOEcnp0ZSB3ZWl0ZXICZ2VnZWJlbiB1bmQgdm9uIGRpZXNlbiBtaXQgZGVuIEVsdGVybiBiZXNwcm9jaGVuIHdlcmRlbi4g
       -
         type: paragraph
         content:
@@ -188,7 +188,7 @@ components:
         content:
           -
             type: text
-            text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCAvIGVpbmUgw4RyenRpbiBlcmZvbGdlbiBvZGVyIGthbm4gdm9uIGRlbiBFbHRlcm4gZGlyZWt0IHZvcmdlbm9tbWVuIHdlcmRlbi4=
+            text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
       -
         type: paragraph
       -
@@ -211,7 +211,7 @@ components:
         content:
           -
             type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann der Pädakustiker des PAD messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der Anmeldung zur IV und beantragt in Absprache mit den Eltern Hörhilfen.'
+            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
     type: text
     enabled: true
   -
