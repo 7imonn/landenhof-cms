@@ -2,8 +2,6 @@ title: Jobs
 template: default
 layout: layout
 mount: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
-taxonomies:
-  - categories
 revisions: false
 route: '{mount}/{slug}'
 date: true

@@ -1,0 +1,5 @@
+title: 'Blog Kategorien'
+preview_targets:
+  -
+    label: Term
+    url: '{permalink}'

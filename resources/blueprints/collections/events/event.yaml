@@ -109,7 +109,7 @@ sections:
         field:
           type: terms
           taxonomies:
-            - categories
+            - event_categories
           display: Kategorien
           mode: select
           instructions_position: above
