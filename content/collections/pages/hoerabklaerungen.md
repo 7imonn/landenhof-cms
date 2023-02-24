@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677261685
+updated_at: 1677282128
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -37,13 +37,13 @@ components:
         content:
           -
             type: text
-            text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIGVyc3RlbGx0IHVuc2VyIFDDpGRha3VzdGlrZXIgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbWUgc293aWUgT3RvYWt1c3Rpc2NoZSBFbWlzc2lvbmVuIChlaW5lIMKrRWNob21lc3N1bmfCuyBhdXMgZGVtIElubmVub2hyLCBkaWUga2VpbmUgYWt0aXZlIE1pdGFyYmVpdCBkZXMgS2luZGVzIGVyZm9yZGVydCksIHdlbGNoZSB2b20gUMOkZGFrdXN0aWtlciBlcnN0ZWxsdCwgYW4gZGllIMOEcnp0ZSB3ZWl0ZXICZ2VnZWJlbiB1bmQgdm9uIGRpZXNlbiBtaXQgZGVuIEVsdGVybiBiZXNwcm9jaGVuIHdlcmRlbi4gRWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4g
+            text: 'Besteht bei einem Säugling oder Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
+            text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIGVyc3RlbGx0IHVuc2VyIFDDpGRha3VzdGlrZXIgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbWUgc293aWUgT3RvYWt1c3Rpc2NoZSBFbWlzc2lvbmVuIChlaW5lIMKrRWNob21lc3N1bmfCuyBhdXMgZGVtIElubmVub2hyLCBkaWUga2VpbmUgYWt0aXZlIE1pdGFyYmVpdCBkZXMgS2luZGVzIGVyZm9yZGVydCksIHdlbGNoZSB2b20gUMOkZGFrdXN0aWtlciBlcnN0ZWxsdCwgYW4gZGllIMOEcnp0ZSB3ZWl0ZXICZ2VnZWJlbiB1bmQgdm9uIGRpZXNlbiBtaXQgZGVuIEVsdGVybiBiZXNwcm9jaGVuIHdlcmRlbi4gRWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4g
       -
         type: heading
         attrs:
