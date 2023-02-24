@@ -23,7 +23,7 @@ components:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -55,6 +55,11 @@ components:
       -
         type: paragraph
         content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
           -
             type: text
             marks:
@@ -190,6 +195,11 @@ components:
                   -
                     type: text
                     text: Reparaturservice
+    type: text
+    enabled: true
+  -
+    id: leiujozl
+    text:
       -
         type: heading
         attrs:
@@ -210,6 +220,11 @@ components:
           -
             type: text
             text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
+    type: text
+    enabled: true
+  -
+    id: leiujxzj
+    text:
       -
         type: heading
         attrs:
@@ -224,8 +239,6 @@ components:
           -
             type: text
             text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
-      -
-        type: paragraph
     type: text
     enabled: true
   -
@@ -256,5 +269,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677261845
+updated_at: 1677262128
 ---
