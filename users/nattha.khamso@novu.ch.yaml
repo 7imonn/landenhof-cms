@@ -20,6 +20,10 @@ preferences:
         - is_gl_member
     events:
       after_save: continue_editing
+      columns:
+        - title
+        - slug
+        - event_date
   forms:
     kontakt:
       columns:
