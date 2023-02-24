@@ -52,21 +52,143 @@ components:
           -
             type: text
             text: 'Betreffend Auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS) bieten wir nach erfolgter Diagnose die Versorgung mit technischen Hilfsmitteln an, jedoch keine Abklärung von AVWS. Diese wird beispielsweise am Kantonsspital Aarau durchgeführt.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unser Angebot auf einen Blick '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Abklärungen der Hörfähigkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung bei der Wahl von Hörgeräten und deren Anpassung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Regelmässige Kontrolle der Hörfähigkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Regelmässige Kontrolle und Service von Hörhilfen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Vor der CI-Implantation: Beratung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Nach der CI-Implantation: Auf Wunsch Begleitung bei der Einstellung des Implantates'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einleitung von CI-Sprachtherapien'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Kosten
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Anmeldung '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
+      -
+        type: paragraph
     type: text
-    enabled: true
-  -
-    id: leirqh0k
-    person: ed24822e-4e68-41a8-a5b2-444aa5a5976c
-    type: contact_teaser
     enabled: true
   -
     id: leirqt1g
     person: eb5e3330-006b-4aa9-89f7-363249897fe9
     type: contact_teaser
     enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne beantworte ich Ihre Fragen zum Thema Hörabklärungen, Hörgeräteversorgung und Hilfsmitteln.'
+  -
+    id: leirqh0k
+    person: ed24822e-4e68-41a8-a5b2-444aa5a5976c
+    type: contact_teaser
+    enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Möchten Sie einen Termin bei unserem Pädakustiker oder unserer Ohrenärztin vereinbaren? Dann kontaktieren Sie mich gerne telefonisch.'
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677257400
+updated_at: 1677259066
 ---
