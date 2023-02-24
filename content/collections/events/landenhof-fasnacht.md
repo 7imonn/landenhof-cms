@@ -16,12 +16,6 @@ components:
         content:
           -
             type: text
-            text: 'Nach 3 Jahren Pause freuen wir uns auf eine lustige und gesellige Fasnachtsparty mit unterhaltsamen Darbietungen, Spielen und Tänzen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
             text: 'Eingeladen sind alle Schüler:innen, Lehrpersonen, Sozialpädagog:innen, Mitarbeitende Verwaltung und Ökonomie.'
       -
         type: paragraph
@@ -42,5 +36,12 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677253893
+updated_at: 1677254122
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Nach 3 Jahren Pause freuen wir uns auf eine lustige und gesellige Fasnachtsparty mit unterhaltsamen Darbietungen, Spielen und Tänzen!'
 ---
