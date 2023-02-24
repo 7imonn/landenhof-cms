@@ -62,9 +62,25 @@ components:
             text: 'Wir sind bestrebt, Mitarbeitende, die selbst von einer Hör- oder Sehbeeinträchtigung betroffen sind, zu beschäftigen und die dafür erforderlichen Rahmenbedingungen zu sichern und bei Bedarf zu schaffen. Weiter integrieren wir auch Menschen mit einer Teil-IV-Rente in unsere Teams.'
     type: text
     enabled: true
+  -
+    id: leimgqim
+    heading: 'Benefits für Mitarbeitende'
+    files:
+      -
+        id: leimhb99
+        name: 'Benefits für Mitarbeitende (Lehrpersonen)'
+        file: downloads/website_jk_benefits_ma_lp.pdf
+        open_in_tab: false
+      -
+        id: leimkjo1
+        name: 'Benefits für Mitarbeitende (Anstellung nach OR)'
+        file: downloads/website_jk_benefits_ma_or.pdf
+        open_in_tab: false
+    type: downloads
+    enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677235047
+updated_at: 1677248771
 color_theme: blue
 ---
