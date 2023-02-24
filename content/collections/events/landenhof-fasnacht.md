@@ -10,7 +10,7 @@ file: lottie/lottie_event_hoeren_gruen.json
 person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
 color_theme: green
 categories:
-  - tagesschule-hoeren
+  - tagessonderschule-hoeren
   - landenhof-uebergeordnet
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
