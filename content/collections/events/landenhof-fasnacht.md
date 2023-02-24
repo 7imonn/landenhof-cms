@@ -16,10 +16,25 @@ components:
         content:
           -
             type: text
-            text: 'Schulbeginn am Donnerstag, 2. März 2023 ist um 08.50 Uhr'
+            text: 'Nach 3 Jahren Pause freuen wir uns auf eine lustige und gesellige Fasnachtsparty mit unterhaltsamen Darbietungen, Spielen und Tänzen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Eingeladen sind alle Schüler:innen, Lehrpersonen, Sozialpädagog:innen, Mitarbeitende Verwaltung und Ökonomie.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Schulbeginn am Donnerstag, 2. März 2023 ist für alle Schüler:innen um 08.50 Uhr'
     type: text
     enabled: true
-person: 402454a8-8bfa-4386-9036-a372f4c20151
+person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
 color_theme: green
 categories:
   - tagesschule-hoeren
@@ -27,5 +42,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677252312
+updated_at: 1677252895
 ---
