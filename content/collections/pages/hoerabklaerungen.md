@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677260760
+updated_at: 1677260823
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -25,19 +25,35 @@ components:
         content:
           -
             type: text
-            text: 'Das Gehör testen und kontrollieren'
+            text: 'Das Gehör testen'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Je nach Alter des Kindes, erstellt er Ton- und Sprachaudiogramme oder Otoakustische Emissionen (eine «Echomessung» aus dem Innenohr, die keine aktive Mitarbeit des Kindes erfordert). Unsere Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs fest und bespricht die Ergebnisse mit den Eltern.'
+            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Je nach Alter erstellt er Ton- und Sprachaudiogramme oder Otoakustische Emissionen (eine «Echomessung» aus dem Innenohr, die keine aktive Mitarbeit des Kindes erfordert). Unsere Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs fest und bespricht die Ergebnisse mit den Eltern.'
       -
         type: paragraph
         content:
           -
             type: text
             text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIGVyc3RlbGx0IHVuc2VyIFDDpGRha3VzdGlrZXIgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbWUgc293aWUgT3RvYWt1c3Rpc2NoZSBFbWlzc2lvbmVuIChlaW5lIMKrRWNob21lc3N1bmfCuyBhdXMgZGVtIElubmVub2hyLCBkaWUga2VpbmUgYWt0aXZlIE1pdGFyYmVpdCBkZXMgS2luZGVzIGVyZm9yZGVydCksIHdlbGNoZSB2b20gUMOkZGFrdXN0aWtlciBlcnN0ZWxsdCwgYW4gZGllIMOEcnp0ZSB3ZWl0ZXICZ2VnZWJlbiB1bmQgdm9uIGRpZXNlbiBtaXQgZGVuIEVsdGVybiBiZXNwcm9jaGVuIHdlcmRlbi4gRWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4g
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Das Gehör testen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -132,25 +148,6 @@ components:
         type: paragraph
       -
         type: paragraph
-    type: text
-    enabled: true
-  -
-    id: leer6zze
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Das Gehör testen'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wenn bei einem Säugling oder einem Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
     type: text
     enabled: true
   -
