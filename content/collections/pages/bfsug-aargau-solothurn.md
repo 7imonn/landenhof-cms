@@ -111,6 +111,18 @@ components:
     type: accordion_group
     enabled: true
   -
+    id: leinct6f
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bei Fragen bin ich gerne für Sie da.'
+    person: 53c21c8b-7611-4aeb-a7e5-34d800908068
+    type: contact_teaser
+    enabled: true
+  -
     id: lee315xa
     slides:
       -
@@ -129,22 +141,10 @@ components:
         link: 'https://www.bfsug.ch/beratungsstellen/region-aargau-solothurn/'
     type: teaser_large_slider
     enabled: true
-  -
-    id: leinct6f
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bei Fragen bin ich gerne für Sie da.'
-    person: 53c21c8b-7611-4aeb-a7e5-34d800908068
-    type: contact_teaser
-    enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677250041
+updated_at: 1677250086
 ---
