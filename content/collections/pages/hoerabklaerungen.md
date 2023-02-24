@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677256228
+updated_at: 1677256877
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -38,29 +38,25 @@ components:
         content:
           -
             type: text
-            text: 'Wir führen unter anderem Hörabklärungen durch und bieten monatlich ohrenärztliche Kontrollen und Abklärungen an. Unser Pädakustiker, Herr Weber, macht mit Ihrem Kind eine Hörmessung (Audiogramm, Otoakustische Emissionen). Unsere Ohrenärztin, Frau Dr. Bass, bespricht diese mit Ihnen und erstellt einen Befund.'
+            text: !!binary V2lyIGJpZXRlbiB1bnRlciBhbmRlcmVtIEjDtnJhYgJrbMOkcnVuZ2VuIHNvd2llIG1vbmF0bGljaCBvaHJlbsOkcnp0bGljaGUgS29udHJvbGxlbiB1bmQgQWJrbMOkcnVuZ2VuIGFuLiBEYWJlaSBsZWdlbiB3aXIgV2VydCBhdWYgZWluZSBlbmdlIFp1c2FtbWVuYXJiZWl0IHp3aXNjaGVuIGRlbiBCZXJlaWNoZW4gUMOkZGFnb2dpaywgTWVkaXppbiB1bmQgVGVjaG5pay4gU28gYXJiZWl0ZW4gdW5zZXIgUMOkZGFrdXN0aWtlciB1bmQgdW5zZXJlIEhOTy1Lb25zaWxpYXLDpHJ6dGluIEhhbmQgaW4gSGFuZC4g
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Betreffend Auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS) bieten wir nach erfolgter Diagnose die Versorgung mit technischen Hilfsmitteln an, jedoch keine Abklärung von AVWS. Die Abklärung wird zum Beispiel am Kantonsspital Aarau durchgeführt.'
+            text: 'Unser Pädakustiker führt eine Hörmessung (Audiogramm, Otoakustische Emissionen) durch. Unsere Ohrenärztin bespricht diese mit den Eltern und erstellt einen Befund.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary V2FzIGRpZSBBdWRpb3DDpGRhZ29nOmluIGFuIGRlciDDtmZmZW50AmxpY2hlbiBTY2h1bGUgYW4gU2Vuc2liaWxpc2llcnVuZyBiZXRyZWZmZW5kIFNjaHdlcmjDtnJpZ2tlaXQgbGVpc3RldCwgYmlldGUgaWNoIGFtIExhbmRlbmhvZiBhbi4gU28gaW5mb3JtaWVydCBkaWUgTGVpdGVyaW4gUEFEIG5ldWUgTWl0AmFyYmVpdGVuZGUgenVtIFRoZW1hIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyB1bmQgYmVzcHJpY2h0IG1pdCBMZWhycGVyc29uZW4gdW5kICBTb3ppYWxww6RkYWdvZzppbm5lbiBlaW5tYWwgasOkaHJsaWNoIGRpZSAgSMO2cnNpdHVhdGlvbiBkZXIgS2luZGVyIHVuZCBKdWdlbmRsaWNoZW4gdW5kIGRpZSBha3R1ZWxsZW4gQXVkaW9ncmFtbWUuIE9kZXIgc2llIHZlcm1pdHRlbHQgdW5zZXJlbiBTY2jDvGxlcjppbm5lbiBzcGV6aWZpAnNjaGVzIFdpc3NlbiBhdXMgQXVkaW9sb2dpZSwgTWVkaXppbiBvZGVyIFRlY2huaWsuIFp1ZGVtIHN0ZWhlbiB3aXIgdW50ZXJzdMO8dAJ6ZW5kIHp1ciBTZWl0ZSwgd2VubiBlcyB1bSBGcmFnZW4genUgd2VpdGVyZW4gdGVjaG5pc2NoZW4gSGlsZnNtaXR0ZWxuICh6LkIuIEZNLUFubGFnZSkgb2RlciB1bSBlaW5lIE5ldXZlcnNvcmd1bmcgbWl0IEjDtnJoaWxmZW4gdW5kIGRhbWl0IHZlcmJ1bmRlbmUgSVYtQW50csOkZ2UgZ2VodC4=
-      -
-        type: paragraph
+            text: !!binary WnVkZW0gc3RlaGVuIHdpciB1bnRlcnN0w7x0AnplbmQgenVyIFNlaXRlLCB3ZW5uIGVzIHVtIEZyYWdlbiB6dSB3ZWl0ZXJlbiB0ZWNobmlzY2hlbiBIaWxmc21pdHRlbG4gKHouQi4gRk0tQW5sYWdlKSBvZGVyIHVtIGVpbmUgTmV1dmVyc29yZ3VuZyBtaXQgSMO2cmhpbGZlbiB1bmQgZGFtaXQgdmVyYnVuZGVuZSBJVi1BbnRyw6RnZSBnZWh0Lg==
       -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary V2lyIGJpZXRlbiB1bnRlciBhbmRlcmVtIEjDtnJhYgJrbMOkcnVuZ2VuIGFuLiBEYWJlaSBsZWdlbiB3aXIgV2VydCBhdWYgZWluZSBlbmdlIFp1c2FtbWVuYXJiZWl0IHp3aXNjaGVuIGRlbiBCZXJlaWNoZW4gUMOkZGFnb2dpaywgTWVkaXppbiB1bmQgVGVjaG5pay4gU28gYXJiZWl0ZW4gdW5zZXJlIEhOTy1Lb25zaWxpYXLDpHJ6dGUgSGFuZCBpbiBIYW5kIG1pdCB1bnNlcmVtIFDDpGRha3VzdGlrZXIuIA==
-      -
-        type: paragraph
+            text: 'Betreffend Auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS) bieten wir nach erfolgter Diagnose die Versorgung mit technischen Hilfsmitteln an, jedoch keine Abklärung von AVWS. Diese wird beispielsweise am Kantonsspital Aarau durchgeführt.'
       -
         type: heading
         attrs:
