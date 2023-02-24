@@ -142,31 +142,22 @@ tree:
             id: 36f5c574-6e14-4667-9729-1ae791c4cbb5
             entry: 3de3de24-dda7-4c6f-afb0-4eb25597ee51
   -
-    id: 5dd9c326-f71d-439a-8107-12cdaba112fd
-    entry: 40db808b-3908-4d7d-bb3f-008dbcfd17d8
-    title: 'Jobs & Karriere'
+    id: 4d56fc6c-46fc-4bc6-9d5e-8cb45cf51738
+    entry: 9cbf28ab-6be5-4fb9-8e99-71b70571a825
+  -
+    id: e64e6881-0817-4ba6-b793-eb5a357f065c
+    entry: 82cbf166-f60a-49be-9748-e6639fa4e0e7
     children:
       -
-        id: baa14116-5e9b-4d89-9f71-8c9fb1664e2b
+        id: 4997c1cf-c743-4a52-880d-4d06956c7a9d
         entry: ef081c1e-889d-481c-a465-c26868ed5ea2
         children:
           -
-            id: 2764e423-601c-45b4-88af-7a86dc9755a0
+            id: af4401ff-98c8-4477-850a-d3826305c421
+            entry: d9ac90a1-1787-428c-8a75-00d9b358488b
+          -
+            id: 715812bf-038d-494f-80ea-0e2ed0a1a21d
             entry: 7dde5838-93f6-4128-9238-1602ae154b6c
           -
-            id: 2a2ce7dc-2050-4c83-9133-6928f9b2f327
+            id: 1723361a-e58c-4077-8bf7-5df2058a0628
             entry: 5446b6da-b02c-4f65-9a5a-7b9da3839008
-            title: 'Lehrstellen & Praktika'
-      -
-        id: 1a14e118-64a6-461c-99f0-122ba369c7fc
-        entry: accefb52-f846-4321-835f-bfd73ee463c4
-        children:
-          -
-            id: 19a7c619-f92f-4824-a54e-3f4334c83a52
-            entry: d9ac90a1-1787-428c-8a75-00d9b358488b
-      -
-        id: e9226865-9ceb-4055-abc5-6ea28c59c42e
-        entry: 84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7
-  -
-    id: 4d56fc6c-46fc-4bc6-9d5e-8cb45cf51738
-    entry: 9cbf28ab-6be5-4fb9-8e99-71b70571a825
