@@ -23,8 +23,6 @@ components:
     manual: true
     jobs:
       - cb332bac-ee9c-412d-b7e9-bbb078403282
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
     type: job_cards
     enabled: true
   -
@@ -38,11 +36,9 @@ components:
       - e7267d7f-a8b6-458c-811b-22f36fb2be25
       - 235b6370-9507-4b8c-9669-5571e485e2b7
       - 81f1dbf0-2e2a-49f8-9a99-2686a53566f0
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677235202
+updated_at: 1677235255
 ---
