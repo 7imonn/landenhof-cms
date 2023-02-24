@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 63cecd44-0b80-4abc-84d1-752c4d163f3e
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677019092
+updated_at: 1677258456
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -21,61 +21,67 @@ components:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
             text: 'Hörhilfen und Kontrollen'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
-            text: 'Ist eine Beeinträchtigung des Gehörs festgestellt worden, berät der Pädakustiker die Eltern bei der Wahl von Hörhilfen. Ist die Wahl getroffen, wird das Gerät angepasst, regelmässig überprüft und gewartet. Bis zum 18. Lebensjahr ist das am Landenhof möglich. Der PAD gewährleistet aber auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. Muss einem Kind ein Cochlea-Implantat eingesetzt werden, braucht es nachher eine Sprachtherapie. Die Leiterin des PAD organisiert sie. Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen kann der PAD jedoch übernehmen.'
-      -
-        type: paragraph
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wird bei einem Kind oder Jugendlichen eine Hörbeeinträchtigung diagnostiziert, passt unser Pädakustiker die Hörgeräte an und ist auch für die weitere Nachbetreuung besorgt.'
+            text: Hörgeräte
       -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary TWl0IGRlbiBIw7ZyaGlsZmVuIHdlcmRlbiBwbMO2dHpsaWNoIEdlcsOkdXNjaGUgaMO2cmJhciBnZW1hY2h0LCB3ZWxjaGUgZsO8cnMgaMO2cmJlZWludHLDpGNodGlndGUgS2luZCBuZXUgc2luZC4gRGFzIEdlaGlybiBicmF1Y2h0IFplaXQsIHVtIGRpZSB1bmJla2FubnRlbiBFaW5kcsO8Y2tlICB6dSB2ZXJhcmJlaXRlbiwgenUgdmVya27DvHBmZW4gdW5kIGFienUCc3BlaWNoZXJuLiBEaWUgSMO2cmdlcsOkdGUgd2VyZGVuIMO8YmVyIG1laAJyZXJlIFNpdHp1bmdlbiB2ZXJ0ZWlsdCBhbiBkaWUgb3B0aW1hbGUgIEjDtnJzaXR1YXRpb24gYW5nZXBhc3N0LiA=
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: !!binary QmVpIGRpZXNlbSBQcm96ZXNzICBpc3QgZGllIFVudGVyc3TDvHR6dW5nIHNlaXRlbnMgQXVkaW9ww6RkYQJnb2c6aW5uZW4gZW5vcm0gd2ljaHRpZyB1bmQgd2VydHZvbGwuIFNpZSAgc3RlaGVuIGRlbiBFbHRlcm4sIGRlbiBLaW5kZXJuIHVuZCBkZW4gTGVocnBlcnNvbmVuIGRlciDDtmZmZW50bGljaGVuIFNjaHVsZSBtaXQgIFJhdCB1bmQgVGF0IHp1ciBTZWl0ZS4g
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: !!binary T2Z0IHdpcmQgYW5nZW5vbW1lbiwgZGFzcyBkaWUgSMO2cmhpbGZlIGVpbmUgSMO2cmJlZWludHLDpGNodGlndW5nICBhYiBBYmdhYmV0ZXJtaW4gdmVyc2Nod2luZGVuIGzDpHNzdC4gIERpZXMgaXN0IG5pY2h0IGRlciBGYWxsISBKZSBuYWNoIFNjaHdlcmVncmFkIGlzdCBlaW5lIEF1ZmFyYmVpdHVuZyBkZXIgdmVycGFzc3RlbiBvZGVyIHZlcm1pbmRlcnRlbiBTcHJhY2hlaW5kcsO8Y2tlIGFuZ2V6ZWlndC4gWnVkZW0gZ2VodCBkZXIgRXJ3ZXJiIGRlcyBTcHJhY2hzY2hhdHplcyBzdGV0aWcgd2VpdGVyLiBBdWNoIGhpZXIgbGVpc3RldCBkaWUgQXVkaW8CcMOkZGFnb2c6aW4gYWxzIFBhcnRuZXI6aW4gdm9uIEVsdGVybiwgU2NodWxlIHVuZCBQQUQgaWhyZW4gQmVpdHJhZyBkdXJjaCBCZW9iYWNodHVuZ2VuIHVuZCBSw7xja21lbGR1bmdlbi4gRGllc2UgcnVuZGVuIGRhcyBCaWxkIGFiIHVuZCBkaWVuZW4gdW5zZXJlbSBQw6RkYWt1c3Rpa2VyIGJlaSBkZXIgRmVpbgJqdXN0aWVydW5nIGRlciBIw7ZyZ2Vyw6R0ZS4=
-      -
-        type: paragraph
+            text: 'Wird bei einem Kind oder Jugendlichen eine Hörbeeinträchtigung diagnostiziert, berät unser Pädakustiker die Eltern bei der Wahl der Hörgeräte. Ist die Wahl getroffen, passt er die Geräte an und überprüft und wartet sie regelmässig.'
       -
         type: heading
         attrs:
           level: 3
+        content:
+          -
+            type: text
+            text: 'Knochenverankerte Hörhilfen (Cochlea-Implantat, BAHA)'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Hörgeräte '
+            text: 'Kinder, die ein Cochlea-Implantat tragen, lassen sich dieses in der Klinik einstellen. Kleinere Reparaturen können wir aber übernehmen.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Knochenverankerte '
+            text: 'Muss einem Kind ein Cochlea-Implantat (CI) eingesetzt werden, braucht es nachher eine Sprachtherapie. Wir organisieren diese für die Eltern. '
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir gewährleisten auch die Versorgung von schwerhörigen Kindern und Jugendlichen mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen. '
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary TWl0IEjDtnJoaWxmZW4gd2VyZGVuIHBsw7Z0emxpY2ggR2Vyw6R1c2NoZSBow7ZyYmFyIGdlbWFjaHQsIHdlbGNoZSBmw7xycyBow7ZyYmVlaW50csOkY2h0aWd0ZSBLaW5kIG5ldSBzaW5kLiBEYXMgR2VoaXJuIGJyYXVjaHQgWmVpdCwgdW0gZGllIHVuYmVrYW5udGVuIEVpbmRyw7xja2UgIHp1IHZlcmFyYmVpdGVuLCB6dSB2ZXJrbsO8cGZlbiB1bmQgYWJ6dQJzcGVpY2hlcm4uIERpZSBIw7ZyZ2Vyw6R0ZSB3ZXJkZW4gw7xiZXIgbWVoAnJlcmUgU2l0enVuZ2VuIHZlcnRlaWx0IGFuIGRpZSBvcHRpbWFsZSAgSMO2cnNpdHVhdGlvbiBhbmdlcGFzc3QuIA==
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: !!binary QmVpIGRpZXNlbSBQcm96ZXNzICBpc3QgZGllIFVudGVyc3TDvHR6dW5nIHNlaXRlbnMgQXVkaW9ww6RkYQJnb2c6aW5uZW4gZW5vcm0gd2ljaHRpZyB1bmQgd2VydHZvbGwuIFNpZSAgc3RlaGVuIGRlbiBFbHRlcm4sIEtpbmRlcm4gdW5kIExlaHJwZXJzb25lbiBkZXIgUmVnZWxzY2h1bGUgbWl0ICBSYXQgdW5kIFRhdCB6dXIgU2VpdGUuIA==
     type: text
     enabled: true
 ---
