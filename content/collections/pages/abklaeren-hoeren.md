@@ -213,9 +213,28 @@ components:
           -
             type: text
             text: 'Möchten Sie einen Termin bei unserem Pädakustiker oder unserer Ohrenärztin vereinbaren? Dann kontaktieren Sie mich gerne telefonisch.'
+  -
+    id: lek4daci
+    slides:
+      -
+        id: F6Xf2yR0
+        image: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_2023-03.jpg
+        positioning: imageIsRight
+        heading: 'Audiopädagogische Förderung & Beratung'
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Hörbeeinträchtigte Kinder und Jugendliche, ihre Eltern und ihre Lehrpersonen werden im Kanton Aargau durch den Audiopädagogischen Dienst Landenhof (APD) unterstützt.'
+        link_text: 'Mehr erfahren'
+        link: 'entry::1f3a19ad-12e3-41e5-8df6-33a9051e47d3'
+    type: teaser_large_slider
+    enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677284849
+updated_at: 1677339250
 ---
