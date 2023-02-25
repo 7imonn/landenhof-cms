@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677356499
+updated_at: 1677356950
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -503,6 +503,48 @@ components:
           -
             type: text
             text: 'Genuss wird am Landenhof grossgeschrieben! Unsere hauseigene Küche verpflegt von Montag bis Freitag rund 120 Kinder, Jugendliche und Mitarbeitende. Gekocht wird schmackhaft, abwechslungsreich und gesund. Grundlage für das kulinarische Angebot ist das Ernährungskonzept des Landenhofs Unser Küchenchef und seine Stellvertreterin haben für Ernährungsfragen oder nötige Diäten stets ein offenes Ohr.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Hygienische Wäsche'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bettwäsche, Duvets, Vorhänge und weitere Artikel der Wohngruppen sowie Berufskleider und übrige Betriebswäsche werden in unserer hauseigenen Wäscherei regelmässig und fachgerecht aufbereitet. Dank der Wäscherei vor Ort können wir schnell auf spezielle Anliegen reagieren.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Saubere Räumlichkeiten'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unser Reinigungsteam sorgt für saubere Räume und für die Werterhaltung der Gebäude und der Einrichtungen. In den Schulferien werden jeweils Fenster und Storen gereinigt, Böden geölt und andere Reinigungsarbeiten erledigt, die während des Schulbetriebs nicht erledigt werden können. Die Leiterin Reinigung ist Ansprechperson in Reinigungsfragen und bewirtschaftet das Zentrallager mit Verbrauchsartikeln für die Wohngruppen. Bei Anlässen betreuen die Kolleginnen aus der Reinigung die Buffets und dekorieren die Tische.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Tolle Anlässe'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unser Ökonomieteam packt bei den zahlreichen Feierlichkeiten mit an: Es stellt die Infrastruktur bereit und verwöhnt die Gäste mit einem abwechslungsreichen kulinarischen Angebot. Dem Team ist es ein besonderes Anliegen, die Wünsche der Organisationskomitees wenn immer möglich zu erfüllen. So trägt es sehr viel zu schönen und stimmungsvollen Anlässen bei!'
     type: text
     enabled: true
 ---
