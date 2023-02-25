@@ -392,7 +392,7 @@ components:
             content:
               -
                 type: text
-                text: 'Das Herbst- & Schneesportlager des Landenhofs steht auch hörbeeinträchtigten Schüler:innen offen, die eine öffentliche Schule im Kanton Aargau besuchen. '
+                text: 'Das Herbst- & Schneesportlager des Landenhofs steht auch hörbeeinträchtigten Schüler:innen, die eine öffentliche Schule im Kanton Aargau besuchen, offen. '
         link_text: 'Zum Blog-Beitrag Herbstlager 2022'
         link: 'entry::fb51d788-5879-4155-9a0d-a82bd9e4cc4a'
     type: teaser_large_slider
@@ -402,5 +402,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677341355
+updated_at: 1677341421
 ---
