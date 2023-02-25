@@ -180,13 +180,19 @@ components:
             content:
               -
                 type: text
-                text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. '
+                text: "Die Kosten für eine Abklärung der Hörfähigkeit werden von der Krankenkasse rückerstattet. Am besten fragen Eltern direkt bei ihrer Krankenkasse nach. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
           -
             type: paragraph
             content:
               -
                 type: text
-                text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
+                text: "Wird bei einem Kind oder Jugendlichen eine Hörbeeinträchtigung diagnostiziert, übernimmt die Invalidenversicherung (IV/SVA) in den meisten Fällen die Kosten für Hörhilfen und weitere technische Hilfsmittel. Dazu braucht es eine Anmeldung bei der IV. Das entsprechende Anmeldeformular wird von uns mitgegeben, oder der steht online auf der Plattform der Invalidenversicherung IV/SVA zur Verfügung. Bei Bedarf unterstützen wir die Eltern bei der Anmeldung.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Wird die Hörbeeinträchtigung als Geburtsgebrechen diagnostiziert, übernimmt die Invalidenversicherung bis zum 20. Geburtstag die sogenannten medizinischen Massnahmen (HNO-Untersuchungen etc). Danach ist wieder die Krankenkasse zuständig.'
     type: accordion_group
     enabled: true
   -
@@ -236,5 +242,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677339889
+updated_at: 1677360683
 ---
