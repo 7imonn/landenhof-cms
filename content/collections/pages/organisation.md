@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677355113
+updated_at: 1677356499
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -448,6 +448,61 @@ components:
           -
             type: text
             text: "Unser IT-Verantwortlicher\_unterstützt und fördert die Kompetenzen der Mitarbeitenden in Bezug auf die Anwendungen von Soft- und Hardware und ist für den Unterhalt der gesamten IT-Infrastruktur zuständig. "
+    type: text
+    enabled: true
+  -
+    id: lekdyxyo
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Ökonomie
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Services für den Landenhof'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Landenhof ist nicht nur eine Schule, sondern ein Zentrum mit Tageshort, Wocheninternat und vielfältigen Beratungs- und Freizeitangeboten. Um das alles «am Laufen» zu halten, ist ein umfangreiches Serviceangebot unabdingbar. Unsere rund 20 Ökonomie-Mitarbeiter:innen stellen sicher, dass die Leute am Landenhof gut verpflegt werden, dass Wäsche und Räumlichkeiten stets sauber sind und technische Probleme umgehend gelöst werden. Die Aufgaben koordiniert und organisiert die Leiterin Ökonomie in Zusammenarbeit mit den Bereichsleitenden.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Gepflegte Anlage'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Besonderes Augenmerk gilt dem Gebäudeunterhalt und der Pflege der Aussenanlagen. 9 Gebäude – unter anderen das Schulhaus, die Turnhalle und die Tageshort-/Wocheninternatshäuser – gehören zum Landenhof. Für den Unterhalt der Häuser, der Aussenanlagen sowie der technischen Einrichtungen sorgen die Kollegen des Technischen Dienstes. Sie sind für die Betriebssicherheit verantwortlich, warten die Betriebsfahrzeuge, übernehmen Transporte und stellen die Infrastruktur für Anlässe bereit. Der Leiter des Technischen Dienstes organisiert als Sicherheitsbeauftragter Sicherheitskurse und Notfallübungen.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Gesunde Ernährung'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Genuss wird am Landenhof grossgeschrieben! Unsere hauseigene Küche verpflegt von Montag bis Freitag rund 120 Kinder, Jugendliche und Mitarbeitende. Gekocht wird schmackhaft, abwechslungsreich und gesund. Grundlage für das kulinarische Angebot ist das Ernährungskonzept des Landenhofs Unser Küchenchef und seine Stellvertreterin haben für Ernährungsfragen oder nötige Diäten stets ein offenes Ohr.'
     type: text
     enabled: true
 ---
