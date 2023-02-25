@@ -22,10 +22,6 @@ tree:
       -
         id: ec900683-9f39-464f-a7a3-380e47895ab5
         entry: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
-      -
-        id: b7a226e9-0d86-40b0-b9af-70f35bacc490
-        entry: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
-        title: 'Beraten & Fördern'
         children:
           -
             id: 80fa56bc-c229-4679-b49c-43dfb3c921aa
