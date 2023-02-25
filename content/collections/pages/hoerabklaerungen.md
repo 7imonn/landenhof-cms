@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677283800
+updated_at: 1677284105
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -47,7 +47,7 @@ components:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -55,190 +55,6 @@ components:
       -
         type: bullet_list
         content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Abklärung der Hörfähigkeit (Tonaudiogramme, Sprachaudiogramme, Otoakustische Emissionen)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Regelmässige Kontrolle der Hörfähigkeit'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Regelmässige Kontrolle von Hals, Nase und Ohren'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Unterstützung bei der IV-Anmeldung '
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Unterstützung beim Beantragen von Hörhilfen'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Kosten
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Anmeldung '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
-      -
-        type: paragraph
-      -
-        type: paragraph
-    type: text
-    enabled: true
-  -
-    id: leeqx7kv
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Angebot
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Abklärungen der Hörfähigkeit'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Beratung bei der Wahl von Hörgeräten und deren Anpassung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Regelmässige Kontrolle der Hörfähigkeit'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Regelmässige Kontrolle und Service von Hörhilfen'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Vor der CI-Implantation: Beratung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Nach der CI-Implantation: Auf Wunsch Begleitung bei der Einstellung des Implantates'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Einleitung von CI-Sprachtherapien'
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Angebot auf einen Blick'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Hörabklärungen
           -
             type: list_item
             content:
@@ -268,7 +84,7 @@ components:
                         content:
                           -
                             type: text
-                            text: 'unsere HNO-Ärztin, Dr. med. Annatina Bass Bass'
+                            text: 'unsere HNO-Ärztin'
                   -
                     type: list_item
                     content:
@@ -277,7 +93,7 @@ components:
                         content:
                           -
                             type: text
-                            text: 'unseren Pädakustiker, Beat Weber'
+                            text: 'unseren Pädakustiker'
                   -
                     type: list_item
                     content:
@@ -286,7 +102,7 @@ components:
                         content:
                           -
                             type: text
-                            text: 'unsere Leiterin Pädaudiologischer Dienst, Marion Ingold'
+                            text: 'unsere Leiterin Pädaudiologischer Dienst'
           -
             type: list_item
             content:
@@ -326,24 +142,33 @@ components:
                           -
                             type: text
                             text: FM-System
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: "-\_\_\_\_\_\_\_\_\_ Enge Zusammenarbeit in den Bereichen Audiopädagogik, Medizin und Technik"
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: "-\_\_\_\_\_\_\_\_\_ Unterstützung bei Anmeldung und Anträgen bei der IV (Invalidenversicherung)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: "-\_\_\_\_\_\_\_\_\_ Reparaturservice"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Enge Zusammenarbeit in den Bereichen Audiopädagogik, Medizin und Technik'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Unterstützung bei Anmeldung und Anträgen bei der IV (Invalidenversicherung)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Reparaturservice
     type: text
     enabled: true
   -
