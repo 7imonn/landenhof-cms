@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677356950
+updated_at: 1677357221
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -546,5 +546,14 @@ components:
             type: text
             text: 'Unser Ökonomieteam packt bei den zahlreichen Feierlichkeiten mit an: Es stellt die Infrastruktur bereit und verwöhnt die Gäste mit einem abwechslungsreichen kulinarischen Angebot. Dem Team ist es ein besonderes Anliegen, die Wünsche der Organisationskomitees wenn immer möglich zu erfüllen. So trägt es sehr viel zu schönen und stimmungsvollen Anlässen bei!'
     type: text
+    enabled: true
+  -
+    id: lekf5470
+    heading: 'GESUCHT: GL-Kolleg:in'
+    entries:
+      - 84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7
+    button_text: 'Mehr anzeigen'
+    button_link: 'entry::84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7'
+    type: slider
     enabled: true
 ---
