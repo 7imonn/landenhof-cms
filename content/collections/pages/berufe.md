@@ -19,7 +19,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677255825
+updated_at: 1677367994
 components:
   -
     id: le4dvm96
@@ -285,21 +285,11 @@ components:
     type: accordion_group
     enabled: true
   -
-    id: le4e65xm
-    slides:
-      -
-        id: Pz395aSA
-        positioning: imageIsRight
-        heading: 'Aus- & Weiterbildungen'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Wir fördern und unterstützen unsere Mitarbeitenden laufend in ihrer fachlichen und persönlichen Entwicklung.'
-        link: 'entry::7dde5838-93f6-4128-9238-1602ae154b6c'
-        link_text: 'Mehr erfahren'
-    type: teaser_large_slider
+    id: leklf7no
+    heading: 'Wir bilden auch aus und weiter!'
+    entries:
+      - 5446b6da-b02c-4f65-9a5a-7b9da3839008
+      - 7dde5838-93f6-4128-9238-1602ae154b6c
+    type: slider
     enabled: true
 ---
