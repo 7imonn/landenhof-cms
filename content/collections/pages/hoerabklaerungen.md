@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677284268
+updated_at: 1677284494
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -25,7 +25,7 @@ components:
         content:
           -
             type: text
-            text: 'Das Gehör testen'
+            text: 'Das Gehör testen und kontrollieren'
       -
         type: paragraph
         content:
@@ -105,45 +105,6 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Anpassung von Hörhilfen wie:'
-              -
-                type: bullet_list
-                content:
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: Hörgeräte
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Knochenverankerte Hörgeräte (Cochlea Implantate, BAHA)'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: FM-System
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
                     text: 'Enge Zusammenarbeit in den Bereichen Audiopädagogik, Medizin und Technik'
           -
             type: list_item
@@ -154,15 +115,6 @@ components:
                   -
                     type: text
                     text: "Unterstützung bei Anmeldung und Anträgen bei der IV (Invalidenversicherung)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Reparaturservice
     type: text
     enabled: true
   -
