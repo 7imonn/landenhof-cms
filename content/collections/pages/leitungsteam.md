@@ -12,7 +12,7 @@ heading:
 file: lottie/lottie_standard_weiss.json
 is_white: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676971773
+updated_at: 1677357011
 lead:
   -
     type: paragraph
