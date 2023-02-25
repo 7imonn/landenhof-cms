@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677282128
+updated_at: 1677283800
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -31,19 +31,19 @@ components:
         content:
           -
             type: text
-            text: 'Besteht bei einem Säugling oder Kind der Verdacht auf Schwerhörigkeit, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Je nach Alter erstellt er Ton- und Sprachaudiogramme oder Otoakustische Emissionen (eine «Echomessung» aus dem Innenohr, die keine aktive Mitarbeit des Kindes erfordert). Gleichzeitig untersucht unsere Konsiliarärztin Hals, Nase und Ohren, hält den Zustand des Gehörs fest und bespricht alle Ergebnisse mit den Eltern.'
+            text: 'Besteht bei einem Säugling oder Kind der Verdacht auf Schwerhörigkeit, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm oder Otoakustische Emissionen, eine «Echomessung» aus dem Innenohr, die keine aktive Mitarbeit des Kindes erfordert. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Besteht bei einem Säugling oder Kind der Verdacht auf Schwerhörigkeit besteht, kann unser Pädakustiker messen, ob die Hörfähigkeit beeinträchtigt ist. Er erstellt ein Audiogramm und die Hals-Nasen-Ohren-Ärztin hält den Zustand des Gehörs in einem Befund fest. Bei Bedarf hilft die Leiterin des PAD bei der IV-Anmeldung und beantragt in Absprache mit den Eltern Hörhilfen.'
+            text: 'Unsere Ärztin untersucht Hals, Nase und Ohren, hält den Zustand des Gehörs in einem Befund fest und bespricht diesen mit den Eltern. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: !!binary SmUgbmFjaCBBbHRlciBkZXMgS2luZGVzIGVyc3RlbGx0IHVuc2VyIFDDpGRha3VzdGlrZXIgVG9uLSB1bmQgU3ByYWNoYXVkaW9ncmFtbWUgc293aWUgT3RvYWt1c3Rpc2NoZSBFbWlzc2lvbmVuIChlaW5lIMKrRWNob21lc3N1bmfCuyBhdXMgZGVtIElubmVub2hyLCBkaWUga2VpbmUgYWt0aXZlIE1pdGFyYmVpdCBkZXMgS2luZGVzIGVyZm9yZGVydCksIHdlbGNoZSB2b20gUMOkZGFrdXN0aWtlciBlcnN0ZWxsdCwgYW4gZGllIMOEcnp0ZSB3ZWl0ZXICZ2VnZWJlbiB1bmQgdm9uIGRpZXNlbiBtaXQgZGVuIEVsdGVybiBiZXNwcm9jaGVuIHdlcmRlbi4gRWluZSBLb250cm9sbGUgdm9uIEhhbHMsIE5hc2UgdW5kIE9ocmVuIGdlaMO2cnQgZWJlbmZhbGxzIHp1ciBBYgJrbMOkcnVuZy4g
+            text: 'Bei Bedarf helfen wir bei der IV-Anmeldung und beantragen in Absprache mit den Eltern Hörhilfen.'
       -
         type: heading
         attrs:
@@ -345,6 +345,37 @@ components:
                             type: text
                             text: "-\_\_\_\_\_\_\_\_\_ Reparaturservice"
     type: text
+    enabled: true
+  -
+    id: lej7dwv1
+    accordion_group:
+      -
+        id: h0Zaebqn
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
+      -
+        id: lej7gd2o
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Kosten für eine Abklärung der Hörfähigkeit trägt die Krankenkasse. '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: !!binary V2lyZCBlaW5lIEjDtnJiZWVpbnRyw6RjaHRpZ3VuZyBkaWFnbm9zdGl6aWVydCwgw7xiZXJuaW1tdCBkaWUgSW52YWxpZGVuAnZlcnNpY2hlcnVuZyBkaWUgS29zdGVuIHNvd29obCBmw7xyIGRpZSBtZWRpemluaXNjaGVuIHVuZCBhdWRpb2xvZ2lzY2hlbiBVbnRlcnN1Y2h1bmdlbiBhbHMgYXVjaCBmw7xyIEjDtnJoaWxmZW4gdW5kIGFuZGVyZSB0ZWNobmlzY2hlIEhpbGZzbWl0dGVsLg==
+    type: accordion_group
     enabled: true
 color_theme: green
 ---
