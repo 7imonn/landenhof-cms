@@ -219,7 +219,7 @@ components:
       -
         id: F6Xf2yR0
         image: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_2023-03.jpg
-        positioning: imageIsRight
+        positioning: imageIsLeft
         heading: 'Audiopädagogische Förderung & Beratung'
         content:
           -
@@ -236,5 +236,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677339773
+updated_at: 1677339807
 ---
