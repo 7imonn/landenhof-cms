@@ -118,7 +118,18 @@ components:
         content:
           -
             type: text
-            text: 'Bei Fragen bin ich gerne für Sie da.'
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+          -
+            type: hard_break
     person: 53c21c8b-7611-4aeb-a7e5-34d800908068
     type: contact_teaser
     enabled: true
@@ -146,5 +157,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677352276
+updated_at: 1677352335
 ---
