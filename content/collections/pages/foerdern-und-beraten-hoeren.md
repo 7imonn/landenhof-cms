@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677340858
+updated_at: 1677340974
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -54,6 +54,25 @@ components:
     enabled: true
   -
     id: lek52xu0
+    slides:
+      -
+        id: fgXIMlXl
+        image: blog/hoeren/hoeren_apd_familientreffen_2022/apd_familientreffen_2022-31.jpg
+        positioning: imageIsRight
+        heading: APD-Familientreffen
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Unsere Familientreffen bieten wunderbare Begegnungs- und Austauschmöglichkeiten mit anderen hörbeeinträchtigten Kindern, Jugendlichen und Eltern.'
+        link_text: 'Zum Blog'
+        link: 'entry::ae004818-b51e-4556-8a7f-b5b6d281536c'
+    type: teaser_large_slider
+    enabled: true
+  -
+    id: lek5i786
     slides:
       -
         id: fgXIMlXl
