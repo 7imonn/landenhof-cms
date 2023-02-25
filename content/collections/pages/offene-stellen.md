@@ -56,7 +56,7 @@ components:
     enabled: true
   -
     id: leklqz9b
-    heading: '150 Mitarbeitende, 9 Bereiche, 50 Berufe.'
+    heading: '150 Mitarbeitende in 50 Berufen.'
     entries:
       - d9ac90a1-1787-428c-8a75-00d9b358488b
       - 5446b6da-b02c-4f65-9a5a-7b9da3839008
@@ -67,5 +67,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677368581
+updated_at: 1677368647
 ---
