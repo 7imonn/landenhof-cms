@@ -78,22 +78,11 @@ components:
           -
             type: text
             text: 'Eine FM-Anlage kann bei einer Schwerhörigkeit oder bei einer Auditiven Verarbeitungs- und Wahrnehmungsstörung (AVWS) zum Einsatz kommen. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Im Schulzimmer wird die Stimme der Lehrperson mittels FM-Sender an die FM-Empfänger der Kinder und Jugendlichen gesendet. Damit wird der Störlärm im Klassenzimmer umgangen und die räumliche Distanz zur Lehrperson überbrückt.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: !!binary RGFzIEZNIFN5c3RlbSAoRk0gPSBGcmVxdWVuem1vZHVsYXRpb24pIHZlcmJpbmRldCBwZXIgRnVua3NpZ25hbCBlaW5lIHNwcmVjaGVuZGUgbWl0IGVpbmVyIHp1aMO2cmVuZGVuIFBlcnNvbi4gRCBJbSBVbnRlcnJpY2h0IHdpcmQgZGllIEtvbW11bmlrYXRpb24gendpc2NoZW4gTGVocnBlcgJzb24gdW5kIFNjaMO8bGVyaW5uZW4gdW5kIFNjaMO8bGVybiBtaXQgZWluZXIgSMO2cmJlZWluAnRyw6RjaHRpZ3VuZyB2ZXJiZXNzZXJ0Lg==
     type: text
     enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677351785
+updated_at: 1677351885
+color_theme: green
 ---
