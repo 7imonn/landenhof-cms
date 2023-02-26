@@ -25,6 +25,7 @@ components:
       - cb332bac-ee9c-412d-b7e9-bbb078403282
     type: job_cards
     enabled: true
+    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
   -
     id: ldxlq4r0
     heading: 'Tagessonderschule Hören'
@@ -65,5 +66,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677451425
+updated_at: 1677451453
 ---
