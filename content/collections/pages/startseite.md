@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677451716
+updated_at: 1677451764
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -74,19 +74,6 @@ components:
     button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
     type: blog_slider
     enabled: true
-  -
-    id: lck78318
-    heading: Downloads
-    files:
-      -
-        id: lck787r8
-        file: downloads/jahresberichte/lh_jahresbericht_2020_21.PDF
-        open_in_tab: true
-        name: 'Jahresbericht 2021/22'
-    type: downloads
-    enabled: true
-    button_text: 'Mehr anzeigen'
-    link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen'
 link: 'entry::84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7'
