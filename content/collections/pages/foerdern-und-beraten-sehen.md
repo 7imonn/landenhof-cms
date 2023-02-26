@@ -1,17 +1,17 @@
 ---
 id: dd03c268-f866-42f1-97a0-4f8b9de479f7
 blueprint: content_page
-title: Beraten
+title: 'Fördern & Beraten'
 heros:
   -
     id: fpuKTteK
     type: hero_default
-    heading: 'Sie möchten sich beraten lassen?'
+    heading: 'Fördern & Beraten'
     file: lottie/lottie_inhaltsseite_sehen_pink.json
     enabled: true
 color_theme: pink
-updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
-updated_at: 1677160154
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1677417240
 lead:
   -
     type: paragraph
