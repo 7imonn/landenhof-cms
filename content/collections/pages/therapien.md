@@ -469,7 +469,7 @@ components:
         content:
           -
             type: text
-            text: 'Kinder und Jugendliche mit Beeinträchtigungen müssen im Leben mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bieten wir Unterstützung.'
+            text: 'Kinder und Jugendliche mit Beeinträchtigungen müssen mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bieten wir Unterstützung.'
     type: text
     enabled: true
   -
@@ -526,7 +526,7 @@ components:
                     content:
                       -
                         type: text
-                        text: 'Angst-, Zwang- und Anpassungsstörungen'
+                        text: 'Angst-, Zwangs- und Anpassungsstörungen'
           -
             type: paragraph
             content:
@@ -568,13 +568,36 @@ components:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
+                text: Zielgruppen
+          -
+            type: paragraph
+            content:
+              -
+                type: text
                 text: 'Wir sind spezialisiert auf die Arbeit mit hör- und sehbeeinträchtigten Kindern und Jugendlichen. Zudem beraten und begleiten wir Kinder und Jugendliche mit einer Autismus-Spektrum-Störung sowie deren Familien. Unser Angebot richtet sich an alle Landenhof-Schüler:innen sowie deren Familien.'
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Der Psychologische Dienst am Landenhof ist ein Angebot der Kinder- und Jugendpsychiatrie und Psychotherapie der Psychiatrischen Dienste Aargau (PDAG). Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. Wir unterstehen der ärztlichen Schweigepflicht.'
+                text: 'Der Psychologische Dienst am Landenhof ist ein Angebot der '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://www.pdag.ch/kliniken/klinik-fuer-kinder-und-jugendpsychiatrie-und-psychotherapie'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Kinder- und Jugendpsychiatrie und Psychotherapie der Psychiatrischen Dienste Aargau (PDAG)'
+              -
+                type: text
+                text: '. Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. Wir unterstehen der ärztlichen Schweigepflicht.'
       -
         id: leftexfh
         heading: 'Anmeldung & Kosten'
@@ -615,5 +638,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677175212
+updated_at: 1677411760
 ---
