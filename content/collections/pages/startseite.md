@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677250783
+updated_at: 1677451236
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -16,12 +16,12 @@ components:
         links:
           -
             id: lcovyjzw
-            link_title: Hörabklärung
-            link: 'entry::3de3de24-dda7-4c6f-afb0-4eb25597ee51'
+            link_title: Hörabklärungen
+            link: 'entry::a488d51c-6a5b-41b6-8854-96e1a26f83ec'
           -
             id: lcovz5nz
-            link_title: 'Tagesschule für Hörbeeinträchtigte'
-            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+            link_title: 'Audiopädagogische Förderung'
+            link: 'entry::1f3a19ad-12e3-41e5-8df6-33a9051e47d3'
         icon: icons/ear.svg
         color_theme: green
       -
