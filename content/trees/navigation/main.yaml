@@ -73,12 +73,8 @@ tree:
             id: a18b8c0d-5f24-41ad-bd93-b6e53d241eed
             entry: 3fb36c8c-821e-4325-b274-6dd198ad0136
       -
-        id: c9ddafac-bd5e-49b7-9676-4dba98e22d69
-        entry: a462660d-3db9-4831-a009-c8a936d9e59b
-        children:
-          -
-            id: 29f0b189-692f-4837-9619-adf7d46c2ee0
-            entry: 54422e76-6270-4f41-99e3-c5a308fcc39b
+        id: 1349f75b-2329-44b7-8817-f51c2e7dc926
+        entry: a4c3336b-bfb3-4b29-ba3d-7aa5b9109044
       -
         id: b921bda4-8cc4-4a6b-8a25-9868b73332b7
         entry: dd03c268-f866-42f1-97a0-4f8b9de479f7
