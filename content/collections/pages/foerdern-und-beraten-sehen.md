@@ -11,14 +11,14 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677417485
+updated_at: 1677417553
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Der Visiopädagogische Dienst Landenhof (VPD) begleitet sehbeeinträchtigte Kinder, Jugendliche und deren Umfeld vom Zeitpunkt der Diagnose – also oft vom Säuglingsalter an – bis zum Abschluss der neunten Klasse.'
+        text: 'Der Visiopädagogische Dienst Landenhof (VPD) begleitet sehbeeinträchtigte Kinder, Jugendliche und deren Umfeld vom Zeitpunkt der Diagnose – also oft vom Säuglingsalter an – bis zum Abschluss der obligatorischen Schulzeit.'
 components:
   -
     id: lelezhe5
