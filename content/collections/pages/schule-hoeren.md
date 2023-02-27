@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677536240
+updated_at: 1677536351
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -262,7 +262,7 @@ components:
             content:
               -
                 type: text
-                text: 'Die Sekundarschule ist der Oberstufentyp mit erweiterten Leistungsanforderungen. Die Sekundarschule vermittelt eine breite Allgemeinbildung und schafft die Voraussetzung für eine anspruchsvolle Berufslehre. Einige Schülerinnen und Schüler besuchen nach der Sekundarschule die Fachmittelschule, die Wirtschaftsmittelschule oder die Informatikmittelschule.'
+                text: 'Die Sekundarschule ist der Oberstufentyp mit erweiterten Leistungsanforderungen. Die Sekundarschule vermittelt eine breite Allgemeinbildung und schafft die Voraussetzung für eine anspruchsvolle Berufslehre. Einige Schüler:innen besuchen nach der Sekundarschule die Fachmittelschule, die Wirtschaftsmittelschule oder die Informatikmittelschule.'
           -
             type: paragraph
             content:
