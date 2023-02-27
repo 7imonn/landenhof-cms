@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677535988
+updated_at: 1677536240
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -232,7 +232,7 @@ components:
             content:
               -
                 type: text
-                text: 'Bei uns haben Jugendliche mit Hörbeeinträchtigungen faire Bildungschancen. Sie können in der Oberstufe zwischen drei Schultypen mit unterschiedlichen Leistungsanforderungen auswählen. Alle drei Typen dauern drei Jahre.'
+                text: 'Bei uns haben Jugendliche mit Hörbeeinträchtigungen faire Bildungschancen. In der Oberstufe können sie zwischen drei Schultypen mit unterschiedlichen Leistungsanforderungen auswählen. Alle drei Typen dauern drei Jahre.'
           -
             type: paragraph
             content:
