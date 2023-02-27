@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677532598
+updated_at: 1677535702
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -96,11 +96,127 @@ components:
     type: text
     enabled: true
   -
+    id: lenbs2b0
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Angebot auf einen Blick'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Zyklus 1 und 2, Kindergarten und Primarschule'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Zyklus 3, Oberstufe mit Bezirks-, Sekundar- und Realschule'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Brückenjahr (10. Schuljahr)'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Zielgruppen
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kinder und Jugendlich mit Hörbeeinträchtigungen'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kinder und Jugendliche mit auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Kinder und Jugendliche gehörloser Eltern (CODA)'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Nach individueller Abklärung nehmen wir auch Kinder und Jugendliche mit einer Autismus-Spektrum-Störung an unserer Schule auf'
+    type: text
+    enabled: true
+  -
     id: len9bhwl
     accordion_group:
       -
         id: len9e8ze
-        heading: 'Angebot & Zielgruppen'
+        heading: 'Angebot Primarschule (Zyklus 1 & 2)'
         text:
           -
             type: paragraph
@@ -110,90 +226,13 @@ components:
                 marks:
                   -
                     type: bold
-                text: Angebot
-          -
-            type: bullet_list
-            content:
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Zyklus 1 und 2, Kindergarten und Primarschule'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Zyklus 3, Oberstufe mit Bezirks-, Sekundar- und Realschule'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Brückenjahr (10. Schuljahr)'
+                text: Primarschule
           -
             type: paragraph
             content:
               -
-                type: hard_break
-                marks:
-                  -
-                    type: bold
-              -
                 type: text
-                marks:
-                  -
-                    type: bold
-                text: Zielgruppen
-          -
-            type: bullet_list
-            content:
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Kinder und Jugendlich mit Hörbeeinträchtigungen'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Kinder und Jugendliche mit auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Kinder und Jugendliche gehörloser Eltern (CODA)'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Nach individueller Abklärung nehmen wir auch Kinder und Jugendliche mit einer Autismus-Spektrum-Störung an unserer Schule auf'
+                text: 'Die Primarschule am Landenhof besteht aus dem Zyklus 1 (2 Jahre Kindergarten, 2-3 Jahre Eingangsstufe) und dem Zyklus 2 (3. bis 6. Klasse). Die pädagogischen Inhalte orientieren sich am Neuen Aargauischen Lehrplan (LP 21). Die erste Fremdsprache ist Englisch ab der 3. Klasse. Ab der 4. Klasse arbeiten die Schüler:innen mit ihrem persönlichen Tablet.'
       -
         id: hgSFkyIF
         heading: 'Anmeldung & Kosten'
@@ -236,6 +275,138 @@ components:
               -
                 type: text
                 text: 'Der Besuch der Schwerhörigenschule wird durch monatliche Leistungspauschalen sichergestellt, die vom Wohnkanton bezahlt werden. In der Regel klären die Eltern zusammen mit dem zuständigen Schulpsychologischen Dienst und der Schulbehörde vor Ort, ob eine Kostengutsprache erfolgen kann.'
+      -
+        id: lenbwlng
+        heading: 'Angebot Oberstufe (Zyklus 3)'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Bei uns haben Jugendliche mit Hörbeeinträchtigungen faire Bildungschancen. Sie können in der Oberstufe zwischen drei Schultypen mit unterschiedlichen Leistungsanforderungen auswählen. Alle drei Typen dauern drei Jahre.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Bezirksschule (progymnasiale Stufe)'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Bezirksschule ist der Oberstufentyp mit hohen Leistungsanforderungen. Sie bereitet sowohl auf eine anspruchsvolle Berufslehre wie auch auf den Besuch einer Mittelschule (Gymnasium, Fachmittelschule, Wirtschaftsmittelschule oder Informatikmittelschule) vor. Gut die Hälfte der Jugendlichen treten nach der Bezirksschule eine Berufslehre im Bereich des Handwerks, der Industrie oder Dienstleistung an, die übrigen besuchen eine Mittelschule.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Sekundarschule
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Sekundarschule ist der Oberstufentyp mit erweiterten Leistungsanforderungen. Die Sekundarschule vermittelt eine breite Allgemeinbildung und schafft die Voraussetzung für eine anspruchsvolle Berufslehre. Einige Schülerinnen und Schüler besuchen nach der Sekundarschule die Fachmittelschule, die Wirtschaftsmittelschule oder die Informatikmittelschule.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: "Realschule\_ "
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die Realschule ist der Oberstufentyp mit grundlegenden Leistungsanforderungen. In der Realschule erwerben die Schüler:innen eine breite Allgemeinbildung und die Grundlagen für eine Berufslehre. Nach der Realschule erlernen die meisten Jugendlichen einen Beruf des Handwerks, der Industrie oder im Bereich Gesundheit und Soziales. Bei guten Leistungen in der Berufslehre und der Berufsschule bieten sich für die Jugendlichen viele Weiterbildungsangebote und Aufstiegschancen in der Berufswelt.'
+          -
+            type: paragraph
+            content:
+              -
+                type: hard_break
+                marks:
+                  -
+                    type: bold
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Gezielte Berufsvorbereitung'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Im Rahmen des Bildungsauftrages des Landenhofs werden die Schüler:innen der 1. - 3. Oberstufe in ihrer Berufswahl unterstützt, damit sie eine passende Anschlusslösung finden. Dies geschieht entlang eines gut erprobten Berufswahlkonzeptes. Die Schüler:innen werden befähigt, ihren Berufswahlprozess aktiv zu gestalten. Dazu arbeiten wir unter anderem auch mit der IV-Berufsberatung zusammen.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Vielfältige Berufswege'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Vom Biolandwirt über die Detailhandelsfachfrau bis zum Hochbauzeichner – unsere Schüler:innen lassen sich in rund 50 verschiedenen Berufen ausbilden.'
+      -
+        id: lend1rrx
+        heading: 'Angebot Brückenjahr (10. Schuljahr)'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Im Anschluss an die obligatorische Schulzeit besteht das Angebot des Brückenjahres. In diesem 10. Schuljahr unterstützen und begleiten wir junge Erwachsene im Berufswahlprozess.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Unser Berufsintegrationscoach ist spezialisiert darauf, Jugendliche mit Hörbeeinträchtigungen auf den verhältnismässig grossen Schritt von der Schule in die Berufswelt vorzubereiten. Neben der eigentlichen Berufswahl und der Lehrstellensuche steht die optimale, breitgefächerte Vorbereitung auf das Berufsleben im Zentrum. Die Jugendlichen arbeiten stark an ihren persönlichen Kompetenzen. Selbstständigkeit, Eigeninitiative, Auftrittskompetenz und viele andere Kompetenzen werden im schulischen Alltag eingeübt.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Die wichtigen neuen Akteure, die Lehrmeister:innen und die Berufsschule werden möglichst früh mit einbezogen. Dies geschieht in mehreren Schritten auf verschiedenen miteinander verknüpften Ebenen mit Besuchen, Arbeitspraktika und einem regelmässigen Austausch. Die daraus gewonnenen Erkenntnisse fliessen in den individuellen und kollektiven Unterricht ein.'
+          -
+            type: paragraph
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Zusammenarbeit mit Berufsfachschule für Lernende mit Hör- und Kommunikationsbehinderung (BSFH)'
+              -
+                type: text
+                text: ' '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Wir arbeiten eng mit der Berufsfachschule für Lernende mit Hör- und Kommunikationsbehinderung in Zürich zusammen. Die BSFH bietet eine auf Hörbeeinträchtigte zugeschnittene, qualifizierte Schulbildung. Voraussetzung für die Aufnahme in die Berufsschule sind ein Ausbildungsvertrag sowie eine Verfügung der Invalidenversicherung zur Finanzierung des Unterrichts. Die Lehrkräfte der BSFH gehen im Unterricht und bei Prüfungen auf die spezifischen Bedürfnisse schwerhöriger Menschen ein.'
     type: accordion_group
     enabled: true
   -
@@ -289,4 +460,5 @@ components:
       - a20d97ae-de58-4e4f-8b11-02b282583c95
     type: slider
     enabled: true
+    button_text: 'Mehr anzeigen'
 ---
