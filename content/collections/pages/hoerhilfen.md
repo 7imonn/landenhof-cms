@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 63cecd44-0b80-4abc-84d1-752c4d163f3e
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677338984
+updated_at: 1677516182
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -84,9 +84,9 @@ components:
             content:
               -
                 type: text
-                text: 'Wir bieten auch die Versorgung mit weiteren technischen Hilfsmitteln an. '
+                text: 'Wir gewährleisten auch die Versorgung mit zusätzlichen Hilfsmitteln wie etwa FM-Anlagen.'
         link_text: 'Mehr erfahren'
-        link: 'entry::63cecd44-0b80-4abc-84d1-752c4d163f3e'
+        link: 'entry::e8032d22-babb-414e-b67d-6a34d7371c50'
     type: teaser_large_slider
     enabled: true
 color_theme: green
