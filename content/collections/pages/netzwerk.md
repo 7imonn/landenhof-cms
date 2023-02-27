@@ -35,6 +35,7 @@ components:
       -
         id: lebr61ca
         link: 'https://www.pro-audito.ch/'
+        logo: partnerlogos/politik_verbaende/logo_pro_audito_2.jpg
       -
         id: le4sb6u0
         logo: partnerlogos/politik_verbaende/logo_szblind.JPG
@@ -113,6 +114,6 @@ components:
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677491155
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1677515520
 ---
