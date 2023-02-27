@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677416843
+updated_at: 1677490690
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -150,6 +150,30 @@ components:
                 type: text
                 text: 'Wird die Hörbeeinträchtigung als Geburtsgebrechen diagnostiziert, übernimmt die Invalidenversicherung bis zum 20. Geburtstag die sogenannten medizinischen Massnahmen (HNO-Untersuchungen etc). Ab dem 21. Lebensjahr ist wieder die Krankenkasse zuständig.'
     type: accordion_group
+    enabled: true
+  -
+    id: lemmlnoo
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne beantworte ich Ihre Fragen zum Thema Hörabklärungen, Hörgeräteversorgung und Hilfsmitteln.'
+    person: eb5e3330-006b-4aa9-89f7-363249897fe9
+    type: contact_teaser
+    enabled: true
+  -
+    id: lemmmcll
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sie möchten einen Termin bei unserem Pädakustiker oder unserer Ohrenärztin vereinbaren? Dann kontaktieren Sie mich gerne telefonisch.'
+    person: a039bd45-d2d5-4e55-8f70-96c394d8eeaa
+    type: contact_teaser
     enabled: true
 color_theme: green
 ---
