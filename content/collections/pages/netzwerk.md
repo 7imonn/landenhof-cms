@@ -21,13 +21,13 @@ components:
     id: lduu8obc
     partner:
       -
+        id: lemmvp0u
+        logo: partnerlogos/politik_verbaende/logo_kanton_aargau_bks.png
+        link: 'https://www.ag.ch/de/verwaltung/bks'
+      -
         id: tbjqSVDJ
         logo: partnerlogos/politik_verbaende/logo_avusa_cmyk.jpg
         link: 'https://www.avusa.ch/'
-      -
-        id: le4sb6u0
-        logo: partnerlogos/politik_verbaende/logo_szblind.JPG
-        link: 'https://www.szblind.ch/'
       -
         id: lebr6uuq
         logo: partnerlogos/politik_verbaende/logo_sonos.PNG
@@ -36,6 +36,10 @@ components:
         id: lebr61ca
         link: 'https://www.pro-audito.ch/'
         logo: partnerlogos/politik_verbaende/logo_pro_audito.jpg
+      -
+        id: le4sb6u0
+        logo: partnerlogos/politik_verbaende/logo_szblind.JPG
+        link: 'https://www.szblind.ch/'
     type: partner_logos
     enabled: true
     heading: 'Politik und Verbände'
@@ -111,5 +115,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677060406
+updated_at: 1677491155
 ---
