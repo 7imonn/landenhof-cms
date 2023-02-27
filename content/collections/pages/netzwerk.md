@@ -35,7 +35,6 @@ components:
       -
         id: lebr61ca
         link: 'https://www.pro-audito.ch/'
-        logo: partnerlogos/politik_verbaende/logo_pro_audito.jpg
       -
         id: le4sb6u0
         logo: partnerlogos/politik_verbaende/logo_szblind.JPG
