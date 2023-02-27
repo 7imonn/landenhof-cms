@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677535702
+updated_at: 1677535797
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -93,11 +93,6 @@ components:
           -
             type: text
             text: 'Unsere Schule ist offen für schwerhörige Kinder und Jugendliche, die die Sprache vorwiegend über das Gehör wahrnehmen. Unsere Lehrpersonen unterrichten grundsätzlich in Lautsprache, achten darauf, dass die Kinder von den Lippen ablesen können und setzen unterstützend Gebärden ein. Ab der 4. Klasse können interessierte Schüler:innen das Wahlfach «Gebärdensprache» (für Anfänger:innen oder Fortgeschrittene) besuchen.'
-    type: text
-    enabled: true
-  -
-    id: lenbs2b0
-    text:
       -
         type: heading
         attrs:
@@ -150,11 +145,6 @@ components:
         attrs:
           level: 3
         content:
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
           -
             type: text
             marks:
