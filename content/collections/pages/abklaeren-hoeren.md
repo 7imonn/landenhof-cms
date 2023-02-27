@@ -206,7 +206,7 @@ components:
         content:
           -
             type: text
-            text: 'Gerne beantworte ich Ihre Fragen zum Thema Hörabklärungen, Hörgeräteversorgung und Hilfsmitteln.'
+            text: 'Gerne beantworte ich Ihre Fragen zum Thema Hörabklärungen, Hörgeräteversorgung und Hilfsmittel.'
   -
     id: leirqh0k
     person: ed24822e-4e68-41a8-a5b2-444aa5a5976c
@@ -218,7 +218,7 @@ components:
         content:
           -
             type: text
-            text: 'Möchten Sie einen Termin bei unserem Pädakustiker oder unserer Ohrenärztin vereinbaren? Dann kontaktieren Sie mich gerne telefonisch.'
+            text: 'Sie möchten einen Termin bei unserem Pädakustiker oder unserer Ohrenärztin vereinbaren? Dann kontaktieren Sie mich gerne telefonisch.'
   -
     id: lek4daci
     slides:
@@ -242,5 +242,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677416925
+updated_at: 1677490807
 ---
