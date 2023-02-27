@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677529011
+updated_at: 1677529688
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -100,7 +100,7 @@ components:
     accordion_group:
       -
         id: hgSFkyIF
-        heading: 'Anmeldung Kosten'
+        heading: 'Anmeldung & Kosten'
         text:
           -
             type: paragraph
@@ -116,7 +116,7 @@ components:
             content:
               -
                 type: text
-                text: 'Wenn Sie die Schule am Landenhof für Ihr Kind ins Auge fassen, laden wir Sie gerne zu einem halbtägigen Besuch ein. Bleibt Ihr Interesse ungeschmälert, planen wir gemeinsam eine Schnupperwoche. Zeigt sich, dass sich Ihr Kind bei uns wohl fühlt und Ihre und unsere Eindrücke positiv ausfallen, kann die Aufnahme mit den involvierten Stellen weiter geplant werden.'
+                text: 'Wenn Eltern die Schule am Landenhof für Ihr Kind ins Auge fassen, laden wir sie gerne zu einem halbtägigen Besuch ein. Bleibt das Interesse ungeschmälert, planen wir gemeinsam eine Schnupperwoche. Zeigt sich, dass sich das Kind bei uns wohlfühlt und die Eindrücke auf beiden Seiten positiv ausfallen, planen wir die Aufnahme mit den involvierten Stellen weiter.'
           -
             type: paragraph
             content:
@@ -126,6 +126,8 @@ components:
           -
             type: paragraph
             content:
+              -
+                type: hard_break
               -
                 type: text
                 marks:
@@ -140,6 +142,100 @@ components:
                 text: 'Der Besuch der Schwerhörigenschule wird durch monatliche Leistungspauschalen sichergestellt, die vom Wohnkanton bezahlt werden. In der Regel klären die Eltern zusammen mit dem zuständigen Schulpsychologischen Dienst und der Schulbehörde vor Ort, ob eine Kostengutsprache erfolgen kann.'
       -
         id: len9e8ze
+        heading: 'Angebot & Zielgruppen'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Angebot
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Zyklus 1 und 2, Kindergarten und Primarschule'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Zyklus 3, Oberstufe mit Bezirks-, Sekundar- und Realschule'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Brückenjahr (10. Schuljahr)'
+          -
+            type: paragraph
+            content:
+              -
+                type: hard_break
+                marks:
+                  -
+                    type: bold
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Zielgruppen
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendlich mit Hörbeeinträchtigungen'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche mit auditiver Verarbeitungs- und Wahrnehmungsstörung (AVWS)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder und Jugendliche gehörloser Eltern (CODA)'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Nach individueller Abklärung nehmen wir auch Kinder und Jugendliche mit einer Autismus-Spektrum-Störung an unserer Schule auf'
     type: accordion_group
     enabled: true
 ---
