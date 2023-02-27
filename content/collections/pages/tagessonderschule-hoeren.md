@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677537564
+updated_at: 1677537743
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -392,5 +392,57 @@ components:
                 type: text
                 text: 'Der Besuch der Schwerhörigenschule wird durch monatliche Leistungspauschalen sichergestellt, die vom Wohnkanton bezahlt werden. In der Regel klären die Eltern zusammen mit dem zuständigen Schulpsychologischen Dienst und der Schulbehörde vor Ort, ob eine Kostengutsprache erfolgen kann.'
     type: accordion_group
+    enabled: true
+  -
+    id: lenekym1
+    heading: 'Ergänzende Angebote'
+    entries:
+      - 286e37fb-6795-4e6b-990e-425cde6f081c
+      - 76c0488d-6cec-4d38-bc7f-0980adeb7dba
+      - a20d97ae-de58-4e4f-8b11-02b282583c95
+    button_text: 'Mehr anzeigen'
+    type: slider
+    enabled: true
+  -
+    id: lenemvwj
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zu unserem Schulangebot Zyklus 1 & 2 (Kindergarten & Primar)? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: 1ff164f2-d51e-41a1-9c81-a2365114baf1
+    type: contact_teaser
+    enabled: true
+  -
+    id: lenendmw
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zu unserem Schulangebot Zyklus 3 (Oberstufe) oder zum Brückenjahr (10. Schuljahr)?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich. '
+    person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
+    type: contact_teaser
     enabled: true
 ---
