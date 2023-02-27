@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677531479
+updated_at: 1677531728
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -282,9 +282,11 @@ components:
     enabled: true
   -
     id: lenaro1h
-    heading: 'Tageshort & Wocheninternat'
+    heading: 'Ergänzende Angebote'
     entries:
       - 286e37fb-6795-4e6b-990e-425cde6f081c
+      - 76c0488d-6cec-4d38-bc7f-0980adeb7dba
+      - a20d97ae-de58-4e4f-8b11-02b282583c95
     button_text: 'Erfahren Sie mehr'
     button_link: 'https://landenhof-web.cherry.novu.ch/hoeren/wohnen'
     type: slider
