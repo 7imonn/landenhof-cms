@@ -92,9 +92,6 @@ tree:
           -
             id: a577c093-a8f2-4ef0-b317-98327b5505bd
             entry: 12bc0c34-36e0-4efe-9843-3edbf3d3e6bb
-          -
-            id: 78f909ac-000f-4555-af76-d3a628bac9ed
-            entry: 7fff6eb1-13fb-41b8-8f33-481db64651fd
       -
         id: 05123d6d-6bb2-482f-a445-01814728bb56
         entry: 6a3dccf0-98b4-42de-b107-e10f25db7c83
@@ -179,9 +176,6 @@ tree:
           -
             id: 6e4b7ddb-4042-4002-b484-ce9fa0eab9fc
             entry: 84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7
-          -
-            id: 26dfbb5d-2e02-4b45-8348-d4758b85e0a1
-            entry: 5446b6da-b02c-4f65-9a5a-7b9da3839008
   -
     id: 4d56fc6c-46fc-4bc6-9d5e-8cb45cf51738
     entry: 9cbf28ab-6be5-4fb9-8e99-71b70571a825
