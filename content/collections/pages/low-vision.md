@@ -7,7 +7,7 @@ heros:
     id: BwjCI2G6
     type: hero_default
     heading: 'Low Vision'
-    file: seiten_sehen/sehen_abklaeren/seiten_sehen_abklaeren_low_vision_2023-02.jpg
+    file: seiten_sehen/sehen_abklaeren/sehen_abklaeren_low_vision_2023-02.jpg
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
