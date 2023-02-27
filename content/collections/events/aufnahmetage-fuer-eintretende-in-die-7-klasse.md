@@ -1,7 +1,7 @@
 ---
 id: cdde409d-a604-46fa-b701-17c7dc75c37a
 blueprint: event
-event_card_layout: as_card
+event_card_layout: as_link
 title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 1'
 event_date: '2023-03-06'
 time: ganztags
@@ -13,6 +13,6 @@ categories:
   - tagessonderschule-hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677253730
+updated_by: fa5bd0b4-0b31-446a-8dc4-cb5e69c9b1af
+updated_at: 1677515221
 ---
