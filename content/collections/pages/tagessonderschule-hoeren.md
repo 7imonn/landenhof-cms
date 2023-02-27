@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677540866
+updated_at: 1677540921
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -348,7 +348,21 @@ components:
             content:
               -
                 type: text
-                text: 'Wir arbeiten eng mit der Berufsfachschule für Lernende mit Hör- und Kommunikationsbehinderung in Zürich zusammen. Die BSFH bietet eine auf Hörbeeinträchtigte zugeschnittene, qualifizierte Schulbildung. Voraussetzung für die Aufnahme in die Berufsschule sind ein Ausbildungsvertrag sowie eine Verfügung der Invalidenversicherung zur Finanzierung des Unterrichts. Die Lehrkräfte der BSFH gehen im Unterricht und bei Prüfungen auf die spezifischen Bedürfnisse schwerhöriger Menschen ein.'
+                text: 'Wir arbeiten eng mit der '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://www.bsfh.ch/'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Berufsfachschule für Lernende mit Hör- und Kommunikationsbehinderung'
+              -
+                type: text
+                text: ' in Zürich zusammen. Die BSFH bietet eine auf Hörbeeinträchtigte zugeschnittene, qualifizierte Schulbildung. Voraussetzung für die Aufnahme in die Berufsschule sind ein Ausbildungsvertrag sowie eine Verfügung der Invalidenversicherung zur Finanzierung des Unterrichts. Die Lehrkräfte der BSFH gehen im Unterricht und bei Prüfungen auf die spezifischen Bedürfnisse schwerhöriger Menschen ein.'
       -
         id: lenejf67
         heading: 'Anmeldung & Kosten'
