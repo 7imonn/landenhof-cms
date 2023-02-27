@@ -469,7 +469,21 @@ components:
         content:
           -
             type: text
-            text: 'Kinder und Jugendliche mit Beeinträchtigungen müssen mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bieten wir Unterstützung.'
+            text: 'Kinder und Jugendliche mit '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.pdag.ch'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Beeinträchtigunge
+          -
+            type: text
+            text: 'n müssen mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bieten wir Unterstützung.'
     type: text
     enabled: true
   -
@@ -647,5 +661,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677507449
+updated_at: 1677507500
 ---
