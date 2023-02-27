@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677530058
+updated_at: 1677530513
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -237,5 +237,47 @@ components:
                 type: text
                 text: 'Der Besuch der Schwerhörigenschule wird durch monatliche Leistungspauschalen sichergestellt, die vom Wohnkanton bezahlt werden. In der Regel klären die Eltern zusammen mit dem zuständigen Schulpsychologischen Dienst und der Schulbehörde vor Ort, ob eine Kostengutsprache erfolgen kann.'
     type: accordion_group
+    enabled: true
+  -
+    id: lena5wmk
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zu unserem Schulangebot Zyklus 1 & 2 (Kindergarten & Primar)? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: 1ff164f2-d51e-41a1-9c81-a2365114baf1
+    type: contact_teaser
+    enabled: true
+  -
+    id: lenaaveo
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zu unserem Schulangebot Zyklus 3 (Oberstufe) oder zu unserem 10. Schuljahr?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich. '
+    person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
+    type: contact_teaser
     enabled: true
 ---
