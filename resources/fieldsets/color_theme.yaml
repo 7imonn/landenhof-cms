@@ -19,5 +19,5 @@ fields:
       instructions: 'Bestimme die Farbe dieser Seite. Standardmässig wird die Bereichsfarbe genommen.'
       options:
         blue: Blau
-        green: 'Grün (Höhren)'
+        green: 'Grün (Hören)'
         pink: 'Pink (Sehen)'
