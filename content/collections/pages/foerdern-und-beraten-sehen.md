@@ -11,7 +11,7 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677423817
+updated_at: 1677614280
 lead:
   -
     type: paragraph
@@ -30,7 +30,7 @@ components:
         content:
           -
             type: text
-            text: 'Angebot Visiopädagogischer Dienst'
+            text: 'Visiopädagogischer Dienst'
       -
         type: paragraph
         content:
@@ -48,13 +48,13 @@ components:
         content:
           -
             type: text
-            text: "Wir beraten und begleiten auch mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbehinderung, von der Geburt bis zum Abschluss der obligatorischen Schulzeit. \_"
+            text: "Wir beraten und begleiten auch mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbeeinträchtigung, von der Geburt bis zum Abschluss der obligatorischen Schulzeit. \_"
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir organisieren regelmässig Informationsabende, Kinder- und Familientreffen und bieten Weiterbildungen für Lehrpersonen an.'
+            text: 'Wir organisieren regelmässig Informationsabende, Kinder- und Familientreffen und bieten Weiterbildungen für Lehrpersonen und Assistenzpersonen an.'
     type: text
     enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
