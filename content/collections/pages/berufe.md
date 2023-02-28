@@ -7,7 +7,7 @@ heros:
     id: EHQ4Mqg6
     type: hero_default
     heading: 'Berufe am Landenhof'
-    file: lottie/lottie_event_intern_blau.json
+    file: lottie/event-intern.json
     enabled: true
 lead:
   -
