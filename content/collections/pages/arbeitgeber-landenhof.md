@@ -62,6 +62,14 @@ components:
           -
             type: text
             text: 'Wir sind bestrebt, Mitarbeitende, die selbst von einer Hör- oder Sehbeeinträchtigung betroffen sind, zu beschäftigen und die dafür erforderlichen Rahmenbedingungen zu sichern und bei Bedarf zu schaffen. Weiter integrieren wir auch Menschen mit einer Teil-IV-Rente in unsere Teams.'
+      -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Als sozialverantwortlicher Arbeitgeber bieten wir unseren Mitarbeiter:innen ein interessantes Gesamtpaket mit diversen Benefits.'
     type: text
     enabled: true
   -
@@ -84,6 +92,6 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677541799
+updated_at: 1677575453
 color_theme: blue
 ---
