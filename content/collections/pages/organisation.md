@@ -12,7 +12,7 @@ heros:
           -
             type: text
             text: Organisation
-    file: lottie/lottie_standard_weiss.json
+    file: lottie/sehen-weiss.json
     is_white: false
     type: hero_small
     enabled: true

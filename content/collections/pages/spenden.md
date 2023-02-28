@@ -12,7 +12,7 @@ heros:
           -
             type: text
             text: 'Eine Spende für den Landenhof'
-    file: lottie/lottie_standard_weiss.json
+    file: lottie/sehen-weiss.json
     is_white: false
     type: hero_small
     enabled: true
