@@ -6,7 +6,7 @@ title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 3'
 event_date: '2023-03-08'
 time: ganztags
 location: 'Tagessonderschule Landenhof'
-file: lottie/lottie_event_hoeren_gruen.json
+file: lottie/event-hoeren.json
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
 color_theme: green
 categories:

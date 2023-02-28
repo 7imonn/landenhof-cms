@@ -6,7 +6,7 @@ title: Landenhof-Fasnacht
 event_date: '2023-03-01'
 time: '15.00 - 21.00 Uhr'
 location: 'Turnhalle Landenhof'
-file: lottie/lottie_event_hoeren_gruen.json
+file: lottie/event-hoeren.json
 person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
 color_theme: green
 categories:
