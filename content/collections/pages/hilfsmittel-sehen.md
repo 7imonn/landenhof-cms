@@ -11,6 +11,29 @@ heros:
     enabled: true
 components:
   -
+    id: leou7vii
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'So klären wir ab, ob das Kind etwa ein Monokular (Fernröhre), einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir arbeiten viel mit I-Pads. Auf diese laden wir Lehrmittel. Und zwar so, dass die Schüler:innen reinschreiben können und auch die Lehrpersonen Zugriff darauf haben. Oder wir scannen Lehrmittel ein, welche nicht digital vorliegen und machen sie «bearbeitbar» für die Schüler:innen. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Weiter stellen wir Hilfsmittel-Gesuche, holen Offerten ein und schreiben entsprechende Anträge zuhanden der IV.'
+    type: text
+    enabled: true
+  -
     id: lemkiul9
     content:
       -
@@ -35,12 +58,12 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677624291
+updated_at: 1677624973
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Hilfsmittel sind zentral für eine gelingende Inklusion von sehbeeinträchtigten Kindern und Jugendlichen in der Regelschule. Wir helfen, die beste technische Unterstützung zu finden.'
+        text: 'Hilfsmittel tragen massgeblich zu einer gelingenden Inklusion von sehbeeinträchtigten Kindern in Regelklassen bei. Wir helfen dabei, die beste technische Unterstützung zu finden.'
 ---
