@@ -80,18 +80,18 @@ components:
         id: leimhb99
         name: 'Benefits für Mitarbeitende (Lehrpersonen)'
         file: downloads/website_jk_benefits_ma_lp.pdf
-        open_in_tab: false
+        open_in_tab: true
       -
         id: leimkjo1
         name: 'Benefits für Mitarbeitende (Anstellung nach OR)'
         file: downloads/website_jk_benefits_ma_or.pdf
-        open_in_tab: false
+        open_in_tab: true
     type: downloads
     enabled: true
     button_text: 'Mehr anzeigen'
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677575865
+updated_at: 1677576151
 color_theme: blue
 ---
