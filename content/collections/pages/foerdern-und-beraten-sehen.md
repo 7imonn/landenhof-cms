@@ -11,7 +11,7 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677616040
+updated_at: 1677618181
 lead:
   -
     type: paragraph
@@ -36,13 +36,13 @@ components:
         content:
           -
             type: text
-            text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. '
+            text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
+            text: 'Wir unterstützen integrativ beschulte Schüler:innen und klären deren Bedarf nach Hilfsmitteln. Wir sensibilisieren Lehrpersonen und Schüler:innen der Regelschule für die Bedürfnisse sehbeeinträchtigter Kinder und Jugendlicher. Zusätzliche Unterstützung im Schulalltag erhalten die Schüler:innen von Assistenzpersonen des Visiopädagogischen Dienstes.'
       -
         type: paragraph
         content:
