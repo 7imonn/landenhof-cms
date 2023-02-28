@@ -11,7 +11,7 @@ heros:
     file: lottie/stufe1-sehen.json
 parent: 6f92ce29-f5ad-468a-8a3d-4f1de7c386cd
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677573003
+updated_at: 1677601712
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -44,7 +44,7 @@ components:
         content:
           -
             type: text
-            text: 'Kinder und Jugendliche mit Sehbeeinträchtigungen werden durch unseren Visiopädagogischen Dienst in der Regelschule begleitet oder können voraussichtlich ab dem Schuljahr 2024/25 am Landenhof die Tagessonderschule Sehen besuchen.'
+            text: 'Kinder und Jugendliche mit Sehbeeinträchtigungen werden durch unseren Visiopädagogischen Dienst in der Regelschule begleitet, oder können voraussichtlich ab dem Schuljahr 2024/25 am Landenhof die Tagessonderschule Sehen besuchen.'
     type: text
     enabled: true
 color_theme: pink
