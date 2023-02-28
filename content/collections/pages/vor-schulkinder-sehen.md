@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677601015
+updated_at: 1677602116
 components:
   -
     id: leof55xo
@@ -37,7 +37,7 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Individuelles Fördern der  kognitiven, sozialen und emotionalen Fähigkeiten'
+                    text: 'Individuelles Fördern der kognitiven, motorischen, sozialen und emotionalen Fähigkeiten'
           -
             type: list_item
             content:
@@ -99,7 +99,25 @@ components:
                     content:
                       -
                         type: text
-                        text: 'Säuglinge und kleine Kinder mit Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung'
+                        text: 'Säuglinge und Kleinkinder mit Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder mit einer Sehbeeinträchtigung (Low Vision) '
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder mit einer zerebralen visuellen Wahrnehmungsstörung (CVI = Cerebral Visual Impairment)'
       -
         id: leof6525
         heading: Anmeldung
