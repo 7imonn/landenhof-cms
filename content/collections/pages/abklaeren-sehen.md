@@ -25,7 +25,13 @@ components:
         content:
           -
             type: text
-            text: 'Im Laufe der Begleitung kann es sein, dass das Kind weitere spezialisierte Abklärungen braucht. So klären wir ab, ob das Kind sehbehindertenspezifische Hilfsmittel wie etwa ein Monokular (Fernröhre), einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. Weiter bieten wir auch eine Kantenfilterabklärung an für Kinder, die im Alltag geblendet sind und eine spezielle Sonnenbrille (Kantenfilterbrille) brauchen.'
+            text: 'Wurde eine Sehbeeinträchtigung festgestellt, wird das Kind durch den Visiopädagogischen Dienst begleitet. Im Laufe der Begleitung kann es sein, dass weitere spezialisierte Abklärungen nötig sind.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'So klären wir ab, ob das Kind sehbehindertenspezifische Hilfsmittel wie etwa ein Monokular (Fernröhre), einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. Weiter bieten wir auch eine Kantenfilterabklärung an für Kinder, die im Alltag geblendet sind und eine spezielle Sonnenbrille (Kantenfilterbrille) brauchen.'
       -
         type: heading
         attrs:
@@ -152,5 +158,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677622452
+updated_at: 1677623513
 ---
