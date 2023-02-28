@@ -6,7 +6,7 @@ heros:
   -
     id: lWV0f8h3
     type: hero_default
-    heading: Lehrpersonen
+    heading: 'Beratung Lehrpersonen'
     file: seiten_sehen/sehen_foerdern_beraten/sehen_foerdern_beraten_lehrpersonen_2023-01.JPG
     enabled: true
 components:
@@ -185,7 +185,7 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677617771
+updated_at: 1677627542
 lead:
   -
     type: paragraph
