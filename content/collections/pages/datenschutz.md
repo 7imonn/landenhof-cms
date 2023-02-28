@@ -7,7 +7,7 @@ heros:
     id: hsMrqfC9
     type: hero_default
     heading: Datenschutzerklärung
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 components:
   -

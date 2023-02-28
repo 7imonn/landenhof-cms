@@ -7,7 +7,7 @@ heros:
     id: c4IPdwVX
     type: hero_default
     heading: 'Der Landenhof als Arbeitgeber'
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 lead:
   -

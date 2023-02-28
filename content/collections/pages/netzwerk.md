@@ -7,7 +7,7 @@ heros:
     id: 4V4idoiB
     type: hero_default
     heading: 'Unser Netzwerk'
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 lead:
   -

@@ -8,7 +8,7 @@ heros:
     id: uAAtRZ8c
     type: hero_default
     heading: Jobs
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 parent: 82cbf166-f60a-49be-9748-e6639fa4e0e7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'

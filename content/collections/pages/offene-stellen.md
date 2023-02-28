@@ -7,7 +7,7 @@ heros:
     id: mRX1o8ef
     type: hero_default
     heading: 'Offene Stellen'
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 lead:
   -

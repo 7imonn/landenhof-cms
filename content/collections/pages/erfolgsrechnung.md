@@ -7,7 +7,7 @@ heros:
     id: 01494X7p
     type: hero_default
     heading: Erfolgsrechnung
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 components:
   -

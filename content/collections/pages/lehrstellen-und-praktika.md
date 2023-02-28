@@ -7,7 +7,7 @@ heros:
     id: bv7bpgT3
     type: hero_default
     heading: 'Lehrstellen und Praktika'
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
     link_text: 'Offene Stellen'
     link: 'entry::84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7'

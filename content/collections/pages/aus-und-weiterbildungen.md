@@ -7,7 +7,7 @@ heros:
     id: DcHn1Epy
     type: hero_default
     heading: 'Aus- & Weiterbildungen'
-    file: lottie/lottie_standard_blau.json
+    file: lottie/sehen-blau.json
     enabled: true
 lead:
   -
