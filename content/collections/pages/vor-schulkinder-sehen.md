@@ -7,7 +7,7 @@ heros:
     id: 4UWKpJYJ
     type: hero_default
     heading: (Vor-)Schulkinder
-    file: lottie/lottie_inhaltsseite_sehen_pink.json
+    file: lottie/stufe1-sehen.json
     enabled: true
 parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'

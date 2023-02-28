@@ -7,7 +7,7 @@ heros:
     id: O5YVjaDl
     type: hero_default
     heading: 'Tagessonderschule für Sehbeeinträchtigte'
-    file: lottie/lottie_inhaltsseite_sehen_pink.json
+    file: lottie/stufe1-sehen.json
     enabled: true
 components:
   -

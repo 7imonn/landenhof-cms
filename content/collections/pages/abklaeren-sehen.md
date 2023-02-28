@@ -7,7 +7,7 @@ heros:
     id: AesejJHq
     type: hero_default
     heading: 'Abklärungen für Sehbeeinträchtigte'
-    file: lottie/lottie_inhaltsseite_sehen_pink.json
+    file: lottie/stufe1-sehen.json
     enabled: true
 lead:
   -
