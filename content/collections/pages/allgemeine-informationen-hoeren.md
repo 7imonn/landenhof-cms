@@ -6,12 +6,12 @@ heros:
   -
     id: r1TfVtIz
     type: hero_default
-    heading: 'Unsere Angebote für Hörbeeinträchtigte'
+    heading: 'Unser Angebot für Hörbeeinträchtigte'
     file: lottie/stufe1-hoeren.json
     enabled: true
 parent: 1145a5b4-d67c-41a6-bb1f-49b1350c2322
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677572921
+updated_at: 1677572952
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -32,7 +32,7 @@ components:
         content:
           -
             type: text
-            text: 'Unsere Angebote für Menschen mit Hörbeeinträchtigungen'
+            text: 'Unser Angebot für Menschen mit Hörbeeinträchtigungen'
       -
         type: paragraph
         content:
