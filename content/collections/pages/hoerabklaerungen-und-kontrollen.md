@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677574622
+updated_at: 1677621199
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -126,7 +126,7 @@ components:
             content:
               -
                 type: text
-                text: !!binary SmUgbmFjaCBWZXICc2ljaGVydW5nc21vZGVsbCBtdXNzIGRpZSBadXdlaXN1bmcgw7xiZXIgZWluZW4gQXJ6dCwgZWluZSDDhHJ6dGluIGVyZm9sZ2VuIG9kZXIga2FubiB2b24gZGVuIEVsdGVybiBkaXJla3Qgdm9yZ2Vub21tZW4gd2VyZGVuLg==
+                text: 'Je nach Versicherungsmodell muss die Zuweisung über einen Arzt, eine Ärztin erfolgen oder kann von den Eltern direkt vorgenommen werden.'
       -
         id: lej7gd2o
         heading: Kosten
