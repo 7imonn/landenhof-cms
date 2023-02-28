@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677603359
+updated_at: 1677623108
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -20,26 +20,72 @@ lead:
     content:
       -
         type: text
-        text: 'Durch die pädagogisch-funktionelle Low Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
+        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung (Low Vision) oder eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
 color_theme: pink
 components:
   -
-    id: leohpq6k
+    id: leotfpad
     text:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
-            text: Zielgruppen
+            text: Low-Vision-Abklärung
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Säuglinge und Kleinkinder mit Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung'
+            text: 'Durch die pädagogisch-funktionelle Low-Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
     type: text
+    enabled: true
+  -
+    id: leotfzkq
+    accordion_group:
+      -
+        id: pjarGjGl
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Kinder und Jugendliche können auf Anfrage der Eltern, des Schulpsychologischen Dienstes, von Schulleitungen oder Lehrpersonen für eine Low Vision-Abklärung angemeldet werden.'
+      -
+        id: leotgpo6
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Der Visiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
+    type: accordion_group
+    enabled: true
+  -
+    id: leoth8dt
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: e14cdc79-4f35-4624-bb65-8ed376218d87
+    type: contact_teaser
     enabled: true
 ---
