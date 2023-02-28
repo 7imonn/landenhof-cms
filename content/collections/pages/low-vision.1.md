@@ -11,6 +11,46 @@ heros:
     enabled: true
 components:
   -
+    id: leorzbt7
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Low-Vision-Abklärung
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Durch die pädagogisch-funktionelle Low-Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
+    type: text
+    enabled: true
+  -
+    id: leos8eim
+    accordion_group:
+      -
+        id: czW3O5je
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Eltern können ihr Kind direkt bei uns anmelden. '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Fachleute benötigen für die Anmeldung eines Kindes das Einverständnis der Eltern.'
+    type: accordion_group
+    enabled: true
+  -
     id: lemkcdhg
     content:
       -
@@ -36,5 +76,12 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677486882
+updated_at: 1677621316
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Zeigt ein Säugling oder Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung (Low Vision) oder eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
 ---
