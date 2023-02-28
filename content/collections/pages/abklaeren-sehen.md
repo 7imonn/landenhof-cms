@@ -15,25 +15,17 @@ lead:
     content:
       -
         type: text
-        text: 'Die grössten Entwicklungsschritte des Sehens geschehen während der ersten Lebensmonate. Daher ist es wichtig, dass Kinder, die Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung zeigen, möglichst früh durch den Visiopädagogischen Dienst abgeklärt werden.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
+        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung (Low Vision) oder eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
 components:
   -
     id: lele305o
     text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Im Laufe der Begleitung kann es sein, dass das Kind weitere spezialisierte Abklärungen braucht. So klären wir ab, ob das Kind sehbehindertenspezifische Hilfsmittel wie etwa ein Monokular (Fernröhre), einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. Weiter bieten wir auch eine Kantenfilterabklärung an für Kinder, die im Alltag geblendet sind und eine spezielle Sonnenbrille (Kantenfilterbrille) brauchen.'
       -
         type: heading
         attrs:
@@ -160,5 +152,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677617859
+updated_at: 1677622452
 ---
