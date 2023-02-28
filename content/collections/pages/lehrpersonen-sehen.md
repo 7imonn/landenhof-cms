@@ -11,6 +11,144 @@ heros:
     enabled: true
 components:
   -
+    id: leop40si
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Angebot für Lehrpersonen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir beraten Lehrpersonen und andere schulische Fachpersonen. Themen unserer Beratung sind:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Information über die Sehbeeinträchtigung und deren Auswirkungen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierung für die Bedürfnisse von sehbeeinträchtigten Schüler:innen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Schulische Rahmenbedingungen und Unterrichtsgestaltung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einsatz von technischen Hilfsmitteln'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Massnahmen des Nachteilsausgleichs'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sensibilisierungslektionen für Mitschüler:innen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Weiterbildungs-Workshop
+    type: text
+    enabled: true
+  -
+    id: leope74o
+    accordion_group:
+      -
+        id: qgbVuHTn
+        heading: ZIelgruppen
+        text:
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder mit einer diagnostizierten Sehbeeinträchtigung (Low Vision)'
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder mit einer diagnostizierten zerebralen visuellen Wahrnehmungsstörung (CVI = Cerebral Visual Impairment)'
+      -
+        id: leopfgdb
+        heading: Anmeldung
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Bei Schüler:innen ist eine ärztlich diagnostizierte Sehbeeinträchtigung oder eine CVI-Verdachtsdiagnose (Cerebral Visual Impairment = zerebrale visuelle Wahrnehmungsstörung) Voraussetzung für eine Anmeldung bei uns.'
+      -
+        id: leopgpep
+        heading: Kosten
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Der Visiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
+    type: accordion_group
+    enabled: true
+  -
     id: lemk4vfc
     content:
       -
@@ -36,5 +174,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677486501
+updated_at: 1677616492
 ---
