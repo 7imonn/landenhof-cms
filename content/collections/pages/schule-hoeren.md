@@ -7,7 +7,7 @@ heros:
     id: IcfcCuvY
     type: hero_default
     heading: Schule
-    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
+    file: lottie/stufe1-hoeren.json
     enabled: true
 parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2

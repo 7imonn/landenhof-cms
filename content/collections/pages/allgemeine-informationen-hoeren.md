@@ -7,7 +7,7 @@ heros:
     id: r1TfVtIz
     type: hero_default
     heading: 'Unsere Angebote für Hörbeeinträchtigte'
-    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
+    file: lottie/stufe1-hoeren.json
     enabled: true
 parent: 1145a5b4-d67c-41a6-bb1f-49b1350c2322
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2

@@ -7,7 +7,7 @@ heros:
     id: XEzQYZJe
     type: hero_default
     heading: 'Abklärungen für Hörbeeinträchtigte'
-    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
+    file: lottie/stufe1-hoeren.json
     enabled: true
 lead:
   -

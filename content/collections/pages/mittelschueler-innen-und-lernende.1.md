@@ -7,7 +7,7 @@ heros:
     id: YYG5PDUY
     type: hero_default
     heading: 'Mittelschüler:innen & Lernende'
-    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
+    file: lottie/stufe1-hoeren.json
     enabled: true
 components:
   -

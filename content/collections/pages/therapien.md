@@ -7,7 +7,7 @@ heros:
     id: RiBFCtt6
     type: hero_default
     heading: Therapien
-    file: lottie/lottie_inhaltsseite_hoeren_gruen.json
+    file: lottie/stufe1-hoeren.json
     enabled: true
 lead:
   -
