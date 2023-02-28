@@ -11,7 +11,7 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677618181
+updated_at: 1677618249
 lead:
   -
     type: paragraph
@@ -42,7 +42,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir unterstützen integrativ beschulte Schüler:innen und klären deren Bedarf nach Hilfsmitteln. Wir sensibilisieren Lehrpersonen und Schüler:innen der Regelschule für die Bedürfnisse sehbeeinträchtigter Kinder und Jugendlicher. Zusätzliche Unterstützung im Schulalltag erhalten die Schüler:innen von Assistenzpersonen des Visiopädagogischen Dienstes.'
+            text: 'Wir unterstützen integrativ beschulte Schüler:innen, klären deren Bedarf nach Hilfsmitteln und sensibilisieren Lehrpersonen und Schüler:innen der Regelschule für die Bedürfnisse sehbeeinträchtigter Menschen. Zusätzliche Unterstützung im Schulalltag erhalten die Schüler:innen von Assistenzpersonen des Visiopädagogischen Dienstes.'
       -
         type: paragraph
         content:
