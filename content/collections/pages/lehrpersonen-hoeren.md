@@ -6,7 +6,7 @@ heros:
   -
     id: Aj37VmJ3
     type: hero_default
-    heading: Lehrpersonen
+    heading: 'Beratung Lehrpersonen'
     file: seiten_hoeren/hoeren_beraten/lehrpersonen/seiten_hoeren_lehrpersonen_2023-01.jpg
     enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
@@ -14,7 +14,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677174208
+updated_at: 1677619609
 lead:
   -
     type: paragraph
@@ -60,7 +60,7 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Sensibilisierung für die Bedürfnisse von hörbeeinträchtigten Schülerinnen und Schülern'
+                    text: 'Sensibilisierung für die Bedürfnisse von hörbeeinträchtigten Schüler:innen'
           -
             type: list_item
             content:
@@ -178,4 +178,20 @@ components:
     person: 46cc1b91-08e1-4667-ab0b-774e499586dd
     type: contact_teaser
     enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
 ---
