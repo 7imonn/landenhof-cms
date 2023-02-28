@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677600476
+updated_at: 1677601015
 components:
   -
     id: leof55xo
@@ -27,6 +27,57 @@ components:
             type: text
             text: 'Angebote für Vorschulkinder '
       -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Individuelles Fördern der  kognitiven, sozialen und emotionalen Fähigkeiten'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Anregung und Unterstützung einer vielfältigen Kommunikation und Interaktion'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Einsatz und Handling von technischen Hilfsmitteln'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Familientreffen
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Krabbel- und Fördergruppe im Aufbau'
+      -
         type: paragraph
     type: text
     enabled: true
@@ -36,6 +87,19 @@ components:
       -
         id: XEg6fqcb
         heading: Zielgruppen
+        text:
+          -
+            type: bullet_list
+            content:
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Säuglinge und kleine Kinder mit Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung'
       -
         id: leof6525
         heading: Anmeldung
@@ -45,21 +109,7 @@ components:
             content:
               -
                 type: text
-                text: "Zeigt ein Säugling oder ein Vorschulkind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, können sich die Eltern direkt an uns wenden. Eine\_"
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'statamic://entry::54422e76-6270-4f41-99e3-c5a308fcc39b'
-                      rel: null
-                      target: _blank
-                      title: null
-                text: 'Low Vision-Abklärung'
-              -
-                type: text
-                text: "\_kann für Klarheit sorgen. "
+                text: 'Eltern von Säuglingen oder Vorschulkindern können ihr Kind direkt bei uns anmelden. Fachleute benötigen für die Anmeldung eines Kindes das Einverständnis der Eltern.'
       -
         id: leof690a
         heading: Kosten
