@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677618830
+updated_at: 1677618908
 components:
   -
     id: leof55xo
@@ -298,6 +298,46 @@ components:
                 type: text
                 text: 'Der Visiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
     type: accordion_group
+    enabled: true
+  -
+    id: leoqy8re
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sehen Plus'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Wir beraten und begleiten auch mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbeeinträchtigung, von der Geburt bis zum Abschluss der obligatorischen Schulzeit. \_"
+    type: text
+    enabled: true
+  -
+    id: leoqz4g9
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: e14cdc79-4f35-4624-bb65-8ed376218d87
+    type: contact_teaser
     enabled: true
 color_theme: pink
 lead:
