@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677451815
+updated_at: 1677627242
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -20,8 +20,12 @@ components:
             link: 'entry::a488d51c-6a5b-41b6-8854-96e1a26f83ec'
           -
             id: lcovz5nz
-            link_title: 'Audiopädagogische Förderung'
+            link_title: 'Audiopädagogische Förderung & Beratung'
             link: 'entry::1f3a19ad-12e3-41e5-8df6-33a9051e47d3'
+          -
+            id: leovvyc4
+            link_title: Tagessonderschule
+            link: 'entry::a27a611d-7fab-432b-b12a-126c79b6b06f'
         icon: icons/ear.svg
         color_theme: green
       -
@@ -31,12 +35,16 @@ components:
         links:
           -
             id: lcow04lv
-            link_title: 'Low Vision Abklärung'
-            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+            link_title: Low-Vision-Abklärung
+            link: 'entry::54422e76-6270-4f41-99e3-c5a308fcc39b'
           -
             id: lcow05d8
             link_title: 'Heilpädagogische Früherziehung'
-            link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+            link: 'entry::9d286558-7abb-4b0f-a572-fa332cf8a039'
+          -
+            id: leovxiai
+            link_title: 'Beratung Lehrpersonen'
+            link: 'entry::a5772955-4f2c-41c9-86ca-f0b022f88383'
         icon: icons/eye.svg
         color_theme: pink
     type: icon_cards
