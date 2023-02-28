@@ -15,23 +15,25 @@ lead:
     content:
       -
         type: text
-        text: 'Der Visiopädagogische Dienst Landenhof (VPD) begleitet sehbeeinträchtigte Kinder, Jugendliche und deren Umfeld vom Zeitpunkt der Diagnose – also oft vom Säuglingsalter an – bis zum Abschluss der obligatorischen Schulzeit.'
+        text: 'Die grössten Entwicklungsschritte des Sehens geschehen während der ersten Lebensmonate. Daher ist es wichtig, dass Kinder, die Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung zeigen, möglichst früh durch den Visiopädagogischen Dienst abgeklärt werden.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
 components:
   -
     id: lele305o
     text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
       -
         type: heading
         attrs:
@@ -132,10 +134,31 @@ components:
                 text: 'Der Visiopädagogische Dienst des Landenhofs leistet sein Angebot im Auftrag des Kantons Aargau und ist deshalb kostenlos.'
     type: accordion_group
     enabled: true
+  -
+    id: leoqcmdb
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: e14cdc79-4f35-4624-bb65-8ed376218d87
+    type: contact_teaser
+    enabled: true
 parent: 1f903e41-a055-4e02-ab16-ede65fe42156
 color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677613851
+updated_at: 1677617859
 ---
