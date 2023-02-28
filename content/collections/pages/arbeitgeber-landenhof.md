@@ -79,7 +79,6 @@ components:
       -
         id: leimhb99
         name: 'Benefits für Mitarbeitende (Lehrpersonen)'
-        file: downloads/website_jk_benefits_ma_lp.pdf
         open_in_tab: true
       -
         id: leimkjo1
