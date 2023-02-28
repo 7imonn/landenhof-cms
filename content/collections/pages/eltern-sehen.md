@@ -11,6 +11,94 @@ heros:
     enabled: true
 components:
   -
+    id: leopabqt
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Angebot für Eltern'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Erstberatung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung ab Diagnosestellung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Unterstützung im Verarbeitungsprozess'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Information über die Sehbeeinträchtigung und deren Auswirkungen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Anregung und Unterstützung einer vielfältigen Interaktion mit dem Kind'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Vermittlung von Kontakten zu anderen Fachstellen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beratung bei Übergängen (Schuleintritt, Eintritt ins Berufsleben / in eine weiterführende Schule)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Familientreffen – Erfahrungsaustausch mit anderen betroffenen Familien'
+    type: text
+    enabled: true
+  -
     id: lemk9pmf
     content:
       -
@@ -36,5 +124,12 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677486740
+updated_at: 1677617703
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Wir beraten die Eltern von sehbeeinträchtigten Kindern und deren Umfeld in allen Fragen rund um die Sehbeeinträchtigung.'
 ---
