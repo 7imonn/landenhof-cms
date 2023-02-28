@@ -43,19 +43,22 @@ components:
         color_theme: pink
         icon: icons/eye.svg
         title: 'Beratung Lehrpersonen'
-        text: 'Der VPD sensibilisiert Lehrpersonen und Mitschüler:innen für die Bedürfnisse sehbeeinträchtigter Menschen. Erfahren Sie mehr.'
+        text: 'Der VPD sensibilisiert Lehrpersonen & Mitschüler:innen für die Bedürfnisse sehbeeinträchtigter Menschen.'
         links:
           -
-            id: leoupecn
-            link_title: 'Förderung (Vor-)Schulkinder'
-            link: 'entry::9d286558-7abb-4b0f-a572-fa332cf8a039'
-          -
             id: leouvlfj
-            link_title: 'Beratung Lehrpersonen'
-            link: 'entry::12bc0c34-36e0-4efe-9843-3edbf3d3e6bb'
+            link_title: 'Erfahren Sie mehr.'
+            link: 'entry::a5772955-4f2c-41c9-86ca-f0b022f88383'
+      -
+        id: leovgkso
+        color_theme: pink
+        icon: icons/eye.svg
+        title: Low-Vision-Abklärung
+        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klärt der VPD ab, ob eine Sehbeeinträchtigung vorliegt.'
+        links:
           -
-            id: leouwduu
-            link_title: Hilfsmittel
+            id: leovib10
+            link_title: 'Erfahren Sie mehr.'
             link: 'entry::46777538-aec1-4527-b6f4-69909d9b26d1'
     type: icon_cards
     enabled: true
@@ -64,5 +67,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677625841
+updated_at: 1677626559
 ---
