@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677600092
+updated_at: 1677600327
 components:
   -
     id: leof55xo
@@ -185,4 +185,11 @@ components:
     type: accordion_group
     enabled: true
 color_theme: pink
+lead:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Die grössten Entwicklungsschritte des Sehens geschehen während der ersten Lebensmonate. Daher ist es wichtig, dass Kinder, die beispielsweise mit sechs Wochen nicht lächeln, die Mutter nicht anschauen oder «durch sie hindurchschauen», beim Visiopädagogischen Dienst zur Abklärung angemeldet werden.'
 ---
