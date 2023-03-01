@@ -11,7 +11,7 @@ heros:
     file: seiten_hoeren/hoeren_beraten/eltern/seiten_hoeren_eltern_2023-02.jpg
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677627608
+updated_at: 1677656537
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -83,7 +83,7 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Vermittlung von Kontakten zu anderen Fachstellen'
+                    text: 'Enge Zusammenarbeit und Vermittlung von Kontakten zu anderen Fachstellen'
           -
             type: list_item
             content:
