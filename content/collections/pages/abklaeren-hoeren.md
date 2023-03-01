@@ -15,7 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Der Pädaudiologische Dienst Landenhof (PAD) ist die Fachstelle für Fragen und Beratung rund ums Thema Hören, Hörbeeinträchtigung und Hörgeräteversorgung bei Kindern und Jugendlichen.'
+        text: 'Der Pädaudiologische Dienst Landenhof (PAD) ist eine Fachstelle für Fragen und Beratung rund ums Thema Hören, Hörbeeinträchtigung und Hörgeräteversorgung bei Kindern und Jugendlichen.'
 components:
   -
     id: leirm4ca
@@ -123,7 +123,7 @@ components:
                     type: hard_break
                   -
                     type: text
-                    text: '- Knochenverankerte Hörgeräte (Cochlea Implantate, BAHA)'
+                    text: '- Knochenleitungshörgeräten'
                   -
                     type: hard_break
                   -
@@ -242,5 +242,5 @@ parent: 52fc632b-9c74-4aca-96e0-29ec940ce031
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677538187
+updated_at: 1677659602
 ---
