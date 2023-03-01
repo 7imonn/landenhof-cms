@@ -226,6 +226,22 @@ components:
     person: db0a9dd3-c08c-416a-9104-5048242282bb
     type: contact_teaser
     enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zur Förderung oder Begleitung von Säuglingen und Vorschulkindern? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
   -
     id: lehbj6na
     text:
@@ -378,6 +394,22 @@ components:
     person: 46cc1b91-08e1-4667-ab0b-774e499586dd
     type: contact_teaser
     enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zur Förderung oder Begleitung von Schulkindern? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
   -
     id: lek5ldsi
     slides:
@@ -402,5 +434,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677627577
+updated_at: 1677657388
 ---
