@@ -24,7 +24,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir arbeiten viel mit I-Pads. Auf diese laden wir Lehrmittel. Und zwar so, dass die Schüler:innen reinschreiben können und auch die Lehrpersonen Zugriff darauf haben. Oder wir scannen Lehrmittel ein, welche nicht digital vorliegen und machen sie «bearbeitbar» für die Schüler:innen. '
+            text: 'Unter anderem arbeiten viel mit I-Pads. Auf diese laden wir Lehrmittel. Und zwar so, dass die Schüler:innen reinschreiben können und auch die Lehrpersonen Zugriff darauf haben. Oder wir scannen Lehrmittel ein, welche nicht digital vorliegen und machen sie «bearbeitbar» für die Schüler:innen. '
       -
         type: paragraph
         content:
@@ -58,7 +58,7 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677627940
+updated_at: 1677654471
 lead:
   -
     type: paragraph
