@@ -102,6 +102,10 @@ tree:
       -
         id: 852343dd-9e0e-4370-8c21-b6ce95efd159
         entry: 46777538-aec1-4527-b6f4-69909d9b26d1
+        children:
+          -
+            id: 71ec6894-0e5d-458d-9cf9-767fbc4bdddb
+            entry: 702ecf34-2598-41b6-ac05-a85b1f34cbbe
   -
     id: 2b531181-6040-4344-a9a5-ab42162b7b39
     entry: 473865f0-aeac-4d91-9b26-63598ae6c401
