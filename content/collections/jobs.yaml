@@ -1,6 +1,7 @@
 title: Jobs
 template: default
 layout: layout
+mount: 82cbf166-f60a-49be-9748-e6639fa4e0e7
 revisions: false
 route: '{mount}/{slug}'
 date: true
