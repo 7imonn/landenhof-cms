@@ -9,10 +9,10 @@ heading:
       -
         type: text
         text: Leitungsteam
-file: lottie/sehen-weiss.json
+file: lottie/stufe1-hoeren-sehen.json
 is_white: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677357011
+updated_at: 1677755502
 lead:
   -
     type: paragraph
