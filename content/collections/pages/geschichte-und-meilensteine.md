@@ -1214,6 +1214,7 @@ components:
       -
         id: 4zOSA2RE
         image: ueber_den_landenhof/geschichte_und_meilensteine/geschichte_meilensteine_31.jpg
+        text: 'Nach 25 Jahren als Gesamtleiter übergibt Beat Näf (links) an seinen Nachfolger Stefan Buchmüller (rechts).'
     type: images
     enabled: true
   -
@@ -1284,5 +1285,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1676980563
+updated_at: 1677835267
 ---
