@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677856369
+updated_at: 1678089689
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -80,6 +80,18 @@ components:
     button_text: 'Zur Übersicht'
     button_link: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
     type: blog_slider
+    enabled: true
+  -
+    id: lewj7ilc
+    heading: Dokumente
+    files:
+      -
+        id: lewj7no9
+        name: 'Ferientermine bis 2026'
+        file: downloads/ferientermine_bis_2026.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
     enabled: true
 subtitle: 'Führendes Kompetenzzentrum'
 link_text: 'Offene Stellen'
