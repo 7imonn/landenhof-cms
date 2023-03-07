@@ -117,7 +117,7 @@ components:
     partner:
       -
         id: MqMtwhV4
-        logo: partnerlogos/logo_svehk.png
+        logo: partnerlogos/organisationen_selbstbetroffener/logo_svehk.png
         link: 'https://svehk.ch/'
     type: partner_logos
     enabled: true
