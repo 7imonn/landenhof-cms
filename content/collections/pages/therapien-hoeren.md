@@ -78,18 +78,7 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
-                        text: "Sprachentwicklungsstörungen\_"
-                      -
-                        type: text
-                        text: "\_"
+                        text: "Sprachentwicklungsstörungen\_\_"
               -
                 type: list_item
                 content:
@@ -98,14 +87,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: 'Störungen der Aussprache'
               -
                 type: list_item
@@ -124,14 +105,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: 'Störungen der Grammatik'
               -
                 type: list_item
@@ -141,14 +114,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: Sprachverständnisstörungen
               -
                 type: list_item
@@ -158,14 +123,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: Kommunikationsstörungen
               -
                 type: list_item
@@ -175,14 +132,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: 'Redeflussstörungen (Stottern/Poltern)'
               -
                 type: list_item
@@ -192,14 +141,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: Stimmstörungen
               -
                 type: list_item
@@ -209,14 +150,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: Näseln
               -
                 type: list_item
@@ -226,14 +159,6 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: link
-                            attrs:
-                              href: 'https://www.vs.ch/de/web/scj/definition-des-troubles'
-                              rel: null
-                              target: _blank
-                              title: null
                         text: Lese-Rechtschreibstörung
               -
                 type: list_item
@@ -647,5 +572,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677656853
+updated_at: 1678290353
 ---
