@@ -1,5 +1,6 @@
 ---
 id: 6ace0a1c-40b4-41de-872a-f31ffd55864c
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 2'
