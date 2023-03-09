@@ -1,5 +1,6 @@
 ---
 id: e386e1fa-0900-482a-aaba-ae1d6d48d2a4
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 4'
