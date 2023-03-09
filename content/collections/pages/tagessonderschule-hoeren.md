@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678380987
+updated_at: 1678381026
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -413,7 +413,7 @@ components:
     files:
       -
         id: lf1cly5d
-        name: 'Anmeldung Brückenjahr Schnuppertage'
+        name: 'Anmeldung Schnuppertage Brückenjahr'
         file: downloads/taso_hoeren_anmeldung_brueckenjahr_schnuppertage.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
