@@ -59,7 +59,7 @@ components:
           -
             id: leouvlfj
             link_title: 'Erfahren Sie mehr.'
-            link: 'entry::a5772955-4f2c-41c9-86ca-f0b022f88383'
+            link: 'entry::12bc0c34-36e0-4efe-9843-3edbf3d3e6bb'
     type: icon_cards
     enabled: true
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
@@ -67,5 +67,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677626798
+updated_at: 1678346629
 ---
