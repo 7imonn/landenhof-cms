@@ -14,16 +14,6 @@ lead:
       -
         type: text
         text: 'Eltern von Schüler:innen der Tagessonderschule Hören erhalten im Rahmen eines interessanten Programmes Einblicke in den Schulalltag. '
-person: 402454a8-8bfa-4386-9036-a372f4c20151
-color_theme: green
-categories:
-  - tagessonderschule-hoeren
-  - hoeren
-seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
-seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678781830
-content:
   -
     type: paragraph
     content:
@@ -58,11 +48,19 @@ content:
       -
         type: text
         text: ' 12.00 Uhr'
-      -
-        type: hard_break
-      -
-        type: hard_break
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'Eine Programm-Übersicht wird den Eltern bis am Montag, 20. März 2023 via Klapp zugestellt.'
+person: 402454a8-8bfa-4386-9036-a372f4c20151
+color_theme: green
+categories:
+  - tagessonderschule-hoeren
+  - hoeren
+seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
+seo_hidden: false
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1678781881
 ---
