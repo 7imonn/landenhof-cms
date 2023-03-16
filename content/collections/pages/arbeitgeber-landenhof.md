@@ -79,7 +79,7 @@ components:
       -
         id: leimkjo1
         name: 'Benefits für Mitarbeitende (Anstellung nach OR)'
-        file: downloads/website_jk_benefits_ma_or-1678998403.pdf
+        file: downloads/jk_benefits_ma_or.pdf
         open_in_tab: true
       -
         id: leo1mo3o
