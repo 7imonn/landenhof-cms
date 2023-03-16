@@ -84,7 +84,7 @@ components:
       -
         id: leo1mo3o
         name: 'Benefits für Mitarbeitende (Lehrpersonen)'
-        file: downloads/website_jk_benefits_ma_lp-1678998466.pdf
+        file: downloads/jk_benefits_ma_lp.pdf
         open_in_tab: true
     type: downloads
     enabled: true
