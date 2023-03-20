@@ -19,7 +19,7 @@ lead:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678186175
+updated_at: 1679308451
 components:
   -
     id: le4dvm96
@@ -202,7 +202,7 @@ components:
                 text: 'Sozialpädagog:in'
       -
         id: le4e00l4
-        heading: 'Berufe Hören - Beraten und Fördern'
+        heading: 'Berufe Hören - Fördern & Beraten'
         text:
           -
             type: paragraph
