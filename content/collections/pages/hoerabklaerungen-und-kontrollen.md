@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 9e1b6bdd-4f3b-4fa3-9a7a-4215ea51b8b2
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677658338
+updated_at: 1679645977
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 components:
@@ -64,6 +64,9 @@ components:
                   -
                     type: text
                     text: 'Hörabklärungen (Ton- und Sprachaudiogramm, Otoakustische Emissionen)'
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -73,6 +76,12 @@ components:
                   -
                     type: text
                     text: 'Regelmässige Kontrolle des Gehörs'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
               -
                 type: paragraph
                 content:
@@ -94,6 +103,9 @@ components:
                   -
                     type: text
                     text: '- unsere Leiterin Pädaudiologischer Dienst'
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
