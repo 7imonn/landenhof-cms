@@ -2,7 +2,7 @@
 id: 236a11d9-75b1-4012-b022-ed204fba7fba
 blueprint: event
 event_card_layout: as_accordion
-title: 'CS Cup 6. Klasse - 9.Klasse'
+title: 'CS Cup 6.-9.Klasse'
 event_date: '2023-05-03'
 time: '12.00 - 19.00 Uhr'
 location: diverse
@@ -81,5 +81,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1679986172
+updated_at: 1679986740
 ---
