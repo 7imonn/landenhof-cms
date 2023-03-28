@@ -1,5 +1,6 @@
 ---
 id: ae169f91-431a-4b76-b76d-a79f9c0e940a
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Besuchsmorgen Eltern Tagessonderschule Hören'
