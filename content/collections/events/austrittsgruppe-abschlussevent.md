@@ -1,6 +1,5 @@
 ---
 id: 1a6a3d71-4ea8-432c-88cc-8bf8a05d0150
-published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: Abschlussevent'
