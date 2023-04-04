@@ -1,5 +1,6 @@
 ---
 id: 09b0bf3a-4e4b-4889-a624-48152abec66c
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: Hilfsmittel A+B'
