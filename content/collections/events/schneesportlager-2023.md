@@ -75,6 +75,26 @@ components:
           -
             type: text
             text: ' (@schneesportlager_23)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nach dem Lager wird ein Bericht in unserem '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.landenhof.ch/blog'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Blog
+          -
+            type: text
+            text: ' aufgeschaltet.'
     type: text
     enabled: true
 person: 1ff164f2-d51e-41a1-9c81-a2365114baf1
@@ -86,5 +106,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1680783904
+updated_at: 1680784016
 ---
