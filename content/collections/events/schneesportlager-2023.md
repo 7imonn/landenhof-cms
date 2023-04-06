@@ -17,20 +17,19 @@ lead:
           -
             type: bold
         text: 'Schneesportlager Landenhof 2023 «Move the Beat»'
-  -
-    type: paragraph
-    content:
       -
-        type: text
-        text: 'Samedan / St. Moritz, Corvatsch'
-  -
-    type: paragraph
-    content:
+        type: hard_break
+        marks:
+          -
+            type: bold
       -
         type: text
         marks:
           -
             type: bold
+        text: 'Wann: '
+      -
+        type: text
         text: 'Sonntag, 9. April - Samstag, 13. April 2023'
       -
         type: hard_break
@@ -39,13 +38,10 @@ lead:
             type: bold
       -
         type: text
-        text: 'Teilnehmende:'
-      -
-        type: text
         marks:
           -
             type: bold
-        text: ' '
+        text: 'Wer: '
       -
         type: text
         text: 'Schüler:innen Tagessonderschule Hören & durch den APD Landenhof betreute Kinder und Jugendliche'
@@ -58,7 +54,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1680783618
+updated_at: 1680783763
 content:
   -
     type: paragraph
