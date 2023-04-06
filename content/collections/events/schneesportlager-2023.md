@@ -2,7 +2,7 @@
 id: 0a07db8f-3915-4d55-a553-39ae6878d438
 blueprint: event
 event_card_layout: as_link
-title: 'Schneesportlager 2023'
+title: 'Schneesportlager Landenhof 2023 (9. - 13. April 2023)'
 event_date: '2023-04-09'
 time: Ganztags
 location: 'Samedan / St. Moritz, Corvatsch'
@@ -22,29 +22,6 @@ lead:
         marks:
           -
             type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Wann: '
-      -
-        type: text
-        text: 'Sonntag, 9. April - Samstag, 13. April 2023'
-      -
-        type: hard_break
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Wer: '
-      -
-        type: text
-        text: 'Schüler:innen Tagessonderschule Hören & durch den APD Landenhof betreute Kinder und Jugendliche'
 components:
   -
     id: lg53c27x
@@ -54,12 +31,60 @@ components:
         content:
           -
             type: text
-            text: 'Wir freuen uns auf eine schöne und hoffentlich schneereiche Woche!'
+            marks:
+              -
+                type: bold
+            text: 'Wann: '
+          -
+            type: text
+            text: 'Sonntag, 9. April - Samstag, 13. April 2023'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
+            text: 'Teilnehmende:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Schüler:innen Tagessonderschule Hören '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'durch den APD Landenhof betreute Kinder und Jugendliche'
+              -
+                type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir freuen uns auf eine schöne und hoffentlich schneereiche Woche!'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
             text: 'Folgen Sie uns in der Lagerwoche auf '
           -
             type: text
@@ -71,10 +96,15 @@ components:
                   rel: null
                   target: _blank
                   title: null
+              -
+                type: bold
             text: Instagram
           -
             type: text
-            text: ' (@schneesportlager_23)'
+            marks:
+              -
+                type: bold
+            text: ' (@schneesportlager_23)!'
       -
         type: paragraph
         content:
@@ -106,5 +136,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1680784016
+updated_at: 1680784306
 ---
