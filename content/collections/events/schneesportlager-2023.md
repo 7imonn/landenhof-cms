@@ -1,7 +1,7 @@
 ---
 id: 0a07db8f-3915-4d55-a553-39ae6878d438
 blueprint: event
-event_card_layout: as_card
+event_card_layout: as_link
 title: 'Schneesportlager 2023'
 event_date: '2023-04-09'
 time: Ganztags
@@ -54,7 +54,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1680783846
+updated_at: 1680783863
 content:
   -
     type: paragraph
