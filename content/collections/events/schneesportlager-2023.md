@@ -45,6 +45,38 @@ lead:
       -
         type: text
         text: 'Schüler:innen Tagessonderschule Hören & durch den APD Landenhof betreute Kinder und Jugendliche'
+components:
+  -
+    id: lg53c27x
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir freuen uns auf eine schöne und hoffentlich schneereiche Woche!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Folgen Sie uns in der Lagerwoche auf '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://instagram.com/schneesportlager_23?igshid=YmMyMTA2M2Y='
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Instagram
+          -
+            type: text
+            text: ' (@schneesportlager_23)'
+    type: text
+    enabled: true
 person: 1ff164f2-d51e-41a1-9c81-a2365114baf1
 color_theme: green
 categories:
@@ -54,32 +86,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1680783863
-content:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Wir freuen uns auf eine schöne und hoffentlich schneereiche Woche!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Folgen Sie uns in der Lagerwoche auf '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://instagram.com/schneesportlager_23?igshid=YmMyMTA2M2Y='
-              rel: null
-              target: _blank
-              title: null
-        text: Instagram
-      -
-        type: text
-        text: ' (@schneesportlager_23)'
+updated_at: 1680783904
 ---
