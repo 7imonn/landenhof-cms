@@ -1,5 +1,6 @@
 ---
 id: 0a07db8f-3915-4d55-a553-39ae6878d438
+published: false
 blueprint: event
 event_card_layout: as_link
 title: 'Schneesportlager Landenhof (9. - 15. April 2023)'
