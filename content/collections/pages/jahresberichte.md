@@ -15,6 +15,11 @@ components:
     heading: Dokumente
     files:
       -
+        id: lgqc9hcv
+        name: 'Jahresbericht 2021/22'
+        file: downloads/lh_jb_2021_22_web.pdf
+        open_in_tab: true
+      -
         id: ldurx56c
         name: 'Jahresbericht 2020/21'
         file: downloads/jahresberichte/lh_jahresbericht_2020_21.PDF
@@ -65,5 +70,5 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677756616
+updated_at: 1682068783
 ---
