@@ -1,5 +1,6 @@
 ---
 id: 2be26732-1e88-4f37-93f5-4a17a8786f19
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Frühlingsferien: Vom 11. bis 21. April 2023'
