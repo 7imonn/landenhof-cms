@@ -17,7 +17,6 @@ components:
       -
         id: lgqc9hcv
         name: 'Jahresbericht 2021/22'
-        file: downloads/lh_jb_2021_22_web.pdf
         open_in_tab: true
       -
         id: ldurx56c
