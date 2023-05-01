@@ -1,5 +1,6 @@
 ---
 id: b3d3edc3-8adc-49b1-9fa4-99420e49e864
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Basis Check 8. Klasse'
