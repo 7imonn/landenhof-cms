@@ -1,5 +1,6 @@
 ---
 id: 236a11d9-75b1-4012-b022-ed204fba7fba
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'CS Cup 6.-9.Klasse'
