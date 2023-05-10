@@ -97,7 +97,6 @@ components:
         link: 'https://www.bbzstegen.de/'
       -
         id: lhhlf6wx
-        logo: partnerlogos/bildung_beratung_begleitung/logo_audiopaedagogik.eps
         link: 'https://xn--audiopdagogik-gfb.ch/'
     type: partner_logos
     enabled: true
