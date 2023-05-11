@@ -2,7 +2,7 @@
 id: 914a0aee-aae5-4463-a592-fbf9d5349b00
 blueprint: team_member
 title: 'Thomas Jäger'
-portrait: team/jaeger_thomas_w0a1105.jpg
+portrait: team/team_thomas_jaeger.jpg
 phone: '+41 62 737 05 25'
 functions:
   - leitung-technischer-dienst
