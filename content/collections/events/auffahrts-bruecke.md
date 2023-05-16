@@ -1,7 +1,7 @@
 ---
 id: 0ef18a92-9bfb-4a64-a60d-7766227357d2
 blueprint: event
-event_card_layout: as_card
+event_card_layout: as_accordion
 title: 'Auffahrt: Brücke'
 event_date: '2023-05-19'
 time: Ganztags
@@ -53,5 +53,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1684244087
+updated_at: 1684244161
 ---
