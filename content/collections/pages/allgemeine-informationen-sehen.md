@@ -11,7 +11,7 @@ heros:
     file: lottie/stufe1-sehen.json
 parent: 6f92ce29-f5ad-468a-8a3d-4f1de7c386cd
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678372756
+updated_at: 1684333091
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -44,7 +44,7 @@ components:
         content:
           -
             type: text
-            text: 'Zusammen entwickeln wir Strategien, damit sie ihren Sehrest, ihre anderen Sinne und Hilfsmittel optimal einsetzen können. '
+            text: 'Zusammen entwickeln wir Strategien, damit sie ihr verbleibendes Sehvermögen, ihre anderen Sinne und Hilfsmittel optimal einsetzen können. '
       -
         type: paragraph
         content:
