@@ -1,5 +1,6 @@
 ---
 id: 896c74b2-df1f-44c9-9950-f00d55c9793b
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sportlicher Austausch mit dem BBZ Stegen'
