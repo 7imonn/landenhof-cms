@@ -1,5 +1,6 @@
 ---
 id: 0ef18a92-9bfb-4a64-a60d-7766227357d2
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Auffahrt: Brücke'
