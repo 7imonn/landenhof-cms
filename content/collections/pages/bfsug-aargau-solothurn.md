@@ -56,7 +56,7 @@ components:
         content:
           -
             type: text
-            text: 'Die BFSUG Aargau Solothurn bietet Beratungen für schwerhörige und gehörlose Personen jeden Alters, Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen.'
+            text: 'Die BFSUG Aargau Solothurn bietet Beratungen für schwerhörige und gehörlose Personen jeden Alters. Sie berät auch Angehörige von Betroffenen, das berufliche oder soziale Umfeld sowie Fachleute aus anderen Bereichen.'
     type: text
     enabled: true
   -
@@ -77,7 +77,7 @@ components:
             content:
               -
                 type: text
-                text: 'Alle Beratungen unterliegen der Schweigepflicht und erfolgen in einfacher Sprache oder in Gebärdensprache.'
+                text: 'Alle Beratungen unterliegen der Schweigepflicht. Die Kommunikation wird angepasst, Beratungen können auch in einfacher Sprache oder Gebärdensprache erfolgen.'
       -
         id: ledyfuyj
         heading: 'Begleitung und Vermittlung'
@@ -163,5 +163,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1684822209
+updated_at: 1684822519
 ---
