@@ -39,8 +39,9 @@ sections:
         handle: art
         field:
           options:
-            Text: null
-            Box: null
+            text: Text
+            box: Box
+          default: text
           display: Art
           type: button_group
           icon: button_group
