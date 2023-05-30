@@ -41,6 +41,21 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+      -
+        handle: on_visit
+        field:
+          fields:
+            -
+              import: screen_info_element
+          mode: table
+          reorderable: true
+          display: 'Zu Besuch'
+          type: grid
+          icon: grid
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
   sidebar:
     display: Sidebar
     fields:
