@@ -1,0 +1,5 @@
+title: 'Info Screen'
+sections:
+  main:
+    display: Hauptteil
+    fields: {  }
