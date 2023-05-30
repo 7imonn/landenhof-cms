@@ -26,6 +26,16 @@ sections:
           visibility: visible
           always_save: false
       -
+        handle: info_header
+        field:
+          display: Info
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
         handle: art
         field:
           options:
