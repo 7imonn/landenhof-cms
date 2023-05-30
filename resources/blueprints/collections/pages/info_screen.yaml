@@ -26,23 +26,6 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: infos
-        field:
-          fields:
-            -
-              import: screen_info_element
-          mode: table
-          reorderable: true
-          display: Infos
-          type: grid
-          icon: grid
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-          if:
-            art: 'equals box'
-      -
         handle: art
         field:
           options:
@@ -95,6 +78,23 @@ sections:
           always_save: false
           if:
             art: 'equals text'
+      -
+        handle: infos
+        field:
+          fields:
+            -
+              import: screen_info_element
+          mode: table
+          reorderable: true
+          display: Infos
+          type: grid
+          icon: grid
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          if:
+            art: 'equals box'
       -
         handle: today
         field:
