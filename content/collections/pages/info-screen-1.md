@@ -52,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685431156
+updated_at: 1685442955
 on_visit:
   -
     id: li9wmjyy
@@ -91,5 +91,21 @@ galerie:
   - cdc-gdokeynofne-unsplash.jpg
   - cdc-gsri9cwcib0-unsplash.jpg
 art: text
+info_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hier kann auch ein kurzer informativer Text ohne Kachel platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen können für eine stärkere'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' Hervorhebung fett markiert'
+      -
+        type: text
+        text: ' werden.'
 color_theme: blue
 ---
