@@ -36,6 +36,19 @@ sections:
           visibility: visible
           always_save: false
       -
+        handle: art
+        field:
+          options:
+            Text: null
+            Box: null
+          display: Art
+          type: button_group
+          icon: button_group
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
         handle: today
         field:
           display: Heute
