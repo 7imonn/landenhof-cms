@@ -31,7 +31,7 @@ sections:
           fields:
             -
               import: screen_info_element
-          mode: table
+          mode: stacked
           add_row: 'Anlass hinzufügen'
           reorderable: true
           display: 'Aktuelle Anlässe'
