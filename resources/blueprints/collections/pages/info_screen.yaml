@@ -28,7 +28,7 @@ sections:
       -
         handle: info_header
         field:
-          display: Info
+          display: Infos
           type: section
           icon: section
           listable: hidden
