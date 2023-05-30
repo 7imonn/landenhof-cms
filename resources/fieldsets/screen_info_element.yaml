@@ -35,3 +35,20 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+  -
+    handle: from
+    field:
+      mode: single
+      time_enabled: false
+      time_seconds_enabled: false
+      full_width: false
+      inline: false
+      columns: 1
+      rows: 1
+      display: Tag
+      type: date
+      icon: date
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
