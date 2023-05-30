@@ -28,13 +28,20 @@ sections:
       -
         handle: infos
         field:
+          fields:
+            -
+              import: screen_info_element
+          mode: table
+          reorderable: true
           display: Infos
-          type: section
-          icon: section
+          type: grid
+          icon: grid
           listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false
+          if:
+            art: 'equals box'
       -
         handle: art
         field:
