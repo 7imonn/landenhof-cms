@@ -52,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685442955
+updated_at: 1685448001
 on_visit:
   -
     id: li9wmjyy
@@ -90,22 +90,22 @@ galerie:
   - buecherkauf_titel.jpg
   - cdc-gdokeynofne-unsplash.jpg
   - cdc-gsri9cwcib0-unsplash.jpg
-art: text
-info_text:
+infos:
   -
-    type: paragraph
-    content:
+    id: lia87qlv
+    text:
       -
-        type: text
-        text: 'Hier kann auch ein kurzer informativer Text ohne Kachel platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen können für eine stärkere'
-      -
-        type: text
-        marks:
+        type: paragraph
+        content:
           -
-            type: bold
-        text: ' Hervorhebung fett markiert'
-      -
-        type: text
-        text: ' werden.'
+            type: text
+            marks:
+              -
+                type: bold
+            text: '20.03.23 – 21.03.23: '
+          -
+            type: text
+            text: 'Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!'
+art: box
 color_theme: blue
 ---
