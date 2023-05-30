@@ -25,6 +25,22 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+      -
+        handle: current_events
+        field:
+          fields:
+            -
+              import: screen_info_element
+          mode: table
+          add_row: 'Anlass hinzufügen'
+          reorderable: true
+          display: 'Aktuelle Anlässe'
+          type: grid
+          icon: grid
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
   sidebar:
     display: Sidebar
     fields:
