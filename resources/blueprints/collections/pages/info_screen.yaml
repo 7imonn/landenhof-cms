@@ -50,7 +50,7 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: text
+        handle: info_text
         field:
           collapse: false
           always_show_set_button: false
@@ -86,6 +86,8 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          if:
+            art: 'equals text'
       -
         handle: today
         field:
