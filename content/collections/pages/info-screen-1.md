@@ -1,6 +1,5 @@
 ---
 id: 178994f7-7f4a-4064-b34d-c727ca658bc3
-published: false
 blueprint: info_screen
 title: 'Info Screen'
 current_events:
@@ -53,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685429355
+updated_at: 1685429599
 on_visit:
   -
     id: li9wmjyy
@@ -91,21 +90,5 @@ galerie:
   - buecherkauf_titel.jpg
   - cdc-gdokeynofne-unsplash.jpg
   - cdc-gsri9cwcib0-unsplash.jpg
-infos:
-  -
-    id: li9x47aw
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. Daher benötigt es kein Datum. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Es kann Textauszeichnungen enthalten.'
-art: box
+art: text
 ---
