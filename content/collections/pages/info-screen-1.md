@@ -52,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685449841
+updated_at: 1685449848
 on_visit:
   -
     id: li9wmjyy
