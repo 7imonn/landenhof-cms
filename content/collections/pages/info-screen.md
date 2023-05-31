@@ -51,7 +51,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685516301
+updated_at: 1685516318
 on_visit:
   -
     id: li9wmjyy
@@ -88,13 +88,22 @@ galerie:
   - cdc-gdokeynofne-unsplash.jpg
   - img_20230316_173514_1-1679281090.jpg
   - example.png
-art: text
-color_theme: blue
-info_text:
+infos:
   -
-    type: paragraph
-    content:
+    id: libcw793
+    text:
       -
-        type: text
-        text: '20.03.23 – 21.03.23: Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!'
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '20.03.23 – 21.03.23:'
+          -
+            type: text
+            text: ' Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!'
+art: box
+color_theme: blue
 ---
