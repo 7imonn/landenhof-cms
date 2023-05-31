@@ -13,31 +13,11 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685541949
+updated_at: 1685542169
 components:
   -
     id: leof55xo
     text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bevor eine visiopädagogische Beratung und Begleitung durch den VPD gestartet wird, braucht es eine '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::54422e76-6270-4f41-99e3-c5a308fcc39b'
-                  rel: null
-                  target: null
-                  title: null
-            text: Low-Vision-Abklärung
-          -
-            type: text
-            text: ', eine ärztlich diagnostizierte Sehbeeinträchtigung oder eine CVI-Verdachtsdiagnose.'
       -
         type: heading
         attrs:
@@ -176,6 +156,26 @@ components:
         id: leof6525
         heading: Anmeldung
         text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Bevor eine visiopädagogische Beratung und Begleitung durch den VPD gestartet wird, braucht es eine '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::54422e76-6270-4f41-99e3-c5a308fcc39b'
+                      rel: null
+                      target: null
+                      title: null
+                text: Low-Vision-Abklärung
+              -
+                type: text
+                text: ', eine ärztlich diagnostizierte Sehbeeinträchtigung oder eine CVI-Verdachtsdiagnose.'
           -
             type: paragraph
             content:
