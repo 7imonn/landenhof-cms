@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685542438
+updated_at: 1685543354
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -40,6 +40,12 @@ components:
           -
             type: text
             text: 'Durch die pädagogisch-funktionelle Low-Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Ein wichtiger Teil der Low-Vision-Abklärung ist es auch, erste Fragen und Anliegen der Eltern aufzunehmen und wenn möglich zu beantworten. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir sind auf Low-Vision-Abklärungen bei Babys und Kleinkindern spezialisiert. '
       -
         type: heading
         attrs:
