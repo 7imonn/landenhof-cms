@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685537820
+updated_at: 1685538342
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -51,6 +51,227 @@ components:
           -
             type: text
             text: 'Am Schluss der Abklärung folgt eine kurze Zusammenfassung/Beratung des Bedarfs an visiopädagogischen Unterstützungsmassnahmen.'
+    type: text
+    enabled: true
+  -
+    id: libpvmlc
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Ablauf
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Die Low-Vision-Abklärung besteht aus zwei Hauptteilen. '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Im ersten Teil werden folgende visuelle Funktionen abgeklärt:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visuelle Reflexe inkl. Blendeempfindlichkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Okulomotorische Funktionen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Binokular Funktionen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Gesichtsfeld
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Sehschärfe und Kontrast'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Vergrösserungsbedarf
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Im zweiten Teil werden folgende visuellen Wahrnehmungs- und Verarbeitungsleistungen beobachtet:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visuelle Aufmerksamkeit'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visuelle Exploration'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Augen-Hand-Koordination und Integration'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visuomotorische Funktionen'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Gesichtswahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Farbwahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Grössenwahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Richtungswahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Formwahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Formkonstanz
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Figur-Grundwahrnehmung
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Visuelle Objekterkennung'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Winkelsehen
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Raumlagewahrnehmung '
     type: text
     enabled: true
   -
