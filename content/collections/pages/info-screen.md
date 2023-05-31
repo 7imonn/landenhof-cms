@@ -51,7 +51,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685538097
+updated_at: 1685538118
 on_visit:
   -
     id: li9wmjyy
@@ -104,6 +104,7 @@ infos:
           -
             type: text
             text: ' Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!'
+    from: '2023-05-31'
   -
     id: libpuztf
     text:
@@ -113,6 +114,7 @@ infos:
           -
             type: text
             text: '20.03.23 – 21.03.23: Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!2'
+    from: '2023-05-30'
 art: box
 color_theme: blue
 ---
