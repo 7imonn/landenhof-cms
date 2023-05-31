@@ -51,7 +51,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685516358
+updated_at: 1685516381
 on_visit:
   -
     id: li9wmjyy
@@ -85,9 +85,9 @@ on_visit:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 galerie:
+  - buecherkauf_titel.jpg
   - cdc-gdokeynofne-unsplash.jpg
-  - img_20230316_173514_1-1679281090.jpg
-  - example.png
+  - cdc-gsri9cwcib0-unsplash.jpg
 infos:
   -
     id: libcw793
