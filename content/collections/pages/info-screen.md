@@ -51,7 +51,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685538118
+updated_at: 1685538144
 on_visit:
   -
     id: li9wmjyy
@@ -88,33 +88,22 @@ galerie:
   - buecherkauf_titel.jpg
   - cdc-gdokeynofne-unsplash.jpg
   - cdc-gsri9cwcib0-unsplash.jpg
-infos:
-  -
-    id: libcw793
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '20.03.23 – 21.03.23:'
-          -
-            type: text
-            text: ' Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!'
-    from: '2023-05-31'
-  -
-    id: libpuztf
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '20.03.23 – 21.03.23: Leistungstest Check S3 / 9. Klasse, Papier-Test Deutsch Schreiben – Viel Glück!2'
-    from: '2023-05-30'
-art: box
+art: text
 color_theme: blue
+info_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hier kann auch ein kurzer informativer Text ohne Kachel platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen k'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'önnen für eine stärkere Hervorhebu'
+      -
+        type: text
+        text: 'ng fett markiert werden.'
 ---
