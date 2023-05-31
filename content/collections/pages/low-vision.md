@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685538826
+updated_at: 1685540472
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -39,7 +39,7 @@ components:
         content:
           -
             type: text
-            text: 'Durch die pädagogisch-funktionelle Low-Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
+            text: 'Durch die pädagogisch-funktionelle Low-Vision-Abklärung werden die Sehentwicklung und das Sehverhalten des Kindes geprüft. Ausserdem werden sein allgemeiner Entwicklungsstand, sein Entwicklungspotenzial und seine besonderen Stärken miteinbezogen. Ein wichtiger Teil der Low-Vision-Abklärung ist es auch, erste Fragen und Anliegen der Eltern aufzunehmen und wenn möglich zu beantworten. Weiter wird der Bedarf nach Hilfsmitteln, einer optimalen Beleuchtungsgestaltung und das Beiziehen anderer Fachleute geklärt.'
       -
         type: heading
         attrs:
@@ -261,8 +261,6 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
-          -
             type: text
             text: 'Am Schluss der Abklärung folgt eine kurze Zusammenfassung/Beratung des Bedarfs an visiopädagogischen Unterstützungsmassnahmen.'
       -
@@ -278,228 +276,13 @@ components:
         content:
           -
             type: text
-            text: 'Bei der Low-Vision-Abklärung werden keine medizinischen Untersuchungen gemacht. Auch Brillen-Bestimmungen und Bestimmungen zu Fehlsichtigkeiten werden nicht vorgenommen. In beiden Fällen ist ein:e Augenarzt/Augenärztin aufzusuchen. Besteht ein Verdacht auf ein CVI, sind weitere Untersuchungen, hier bei der Neuropädiatrie, nötig sein.'
-    type: text
-    enabled: true
-  -
-    id: libpvmlc
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Ablauf
+            text: 'Bei der Low-Vision-Abklärung werden keine medizinische Untersuchungen gemacht. Es werden auch keine Fehlsichtigkeiten oder Brillenkorrekturen bestimmt. In solchen Fällen ist ein:e Augenarzt/Augenärztin aufzusuchen.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Die Low-Vision-Abklärung besteht aus zwei Hauptteilen. '
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Im ersten Teil werden folgende visuelle Funktionen abgeklärt:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Visuelle Reflexe inkl. Blendeempfindlichkeit'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Okulomotorische Funktionen'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Binokular Funktionen'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Gesichtsfeld
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Sehschärfe und Kontrast'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Vergrösserungsbedarf
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Im zweiten Teil werden folgende visuellen Wahrnehmungs- und Verarbeitungsleistungen beobachtet:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Visuelle Aufmerksamkeit'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Visuelle Exploration'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Augen-Hand-Koordination und Integration'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Visuomotorische Funktionen'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Gesichtswahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Farbwahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Grössenwahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Richtungswahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Formwahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Formkonstanz
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Figur-Grundwahrnehmung
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Visuelle Objekterkennung'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Winkelsehen
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Raumlagewahrnehmung '
+            text: 'Ergibt sich ein Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI), sind weitere Untersuchungen bei eine:r Spezialist:in (Neuropädiatrie) nötig.'
     type: text
     enabled: true
   -
