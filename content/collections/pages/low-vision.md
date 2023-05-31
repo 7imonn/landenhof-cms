@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685540667
+updated_at: 1685542329
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -262,7 +262,7 @@ components:
         content:
           -
             type: text
-            text: 'Am Schluss der Abklärung folgt eine kurze Zusammenfassung des Bedarfs an visiopädagogischen Unterstützungsmassnahmen.'
+            text: 'Am Schluss der Abklärung folgt eine kurze Zusammenfassung/Beratung des Bedarfs an visiopädagogischen Unterstützungsmassnahmen.'
       -
         type: heading
         attrs:
