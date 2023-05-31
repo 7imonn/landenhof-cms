@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685531647
+updated_at: 1685531734
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -60,7 +60,7 @@ components:
             content:
               -
                 type: text
-                text: 'Kinder und Jugendliche können auf Anfrage der Eltern, des Schulpsychologischen Dienstes, von Schulleitungen oder Lehrpersonen für eine Low Vision-Abklärung angemeldet werden.'
+                text: 'Kinder und Jugendliche können auf Anfrage der Eltern, des Schulpsychologischen Dienstes, von Schulleitungen oder Lehrpersonen (in Absprache mit den Eltern) für eine Low-Vision-Abklärung angemeldet werden.'
       -
         id: leotgpo6
         heading: Kosten
