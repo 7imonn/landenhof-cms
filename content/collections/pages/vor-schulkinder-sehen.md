@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685542169
+updated_at: 1685542218
 components:
   -
     id: leof55xo
@@ -37,7 +37,7 @@ components:
                 content:
                   -
                     type: text
-                    text: 'Abklärung von Babys und Kindern mit Verdacht auf Sehbeeinträchtigungen'
+                    text: 'Abklärung von Babys und Kindern mit Verdacht auf eine Sehbeeinträchtigung'
           -
             type: list_item
             content:
