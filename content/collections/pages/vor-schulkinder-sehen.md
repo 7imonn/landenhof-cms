@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685541425
+updated_at: 1685541578
 components:
   -
     id: leof55xo
@@ -97,7 +97,21 @@ components:
         content:
           -
             type: text
-            text: 'Bevor eine visiopädagogische Beratung und Begleitung durch den VPD gestartet wird, wird immer zuerst eine Low-Vision-Abklärung gemacht.'
+            text: 'Bevor eine visiopädagogische Beratung und Begleitung durch den VPD gestartet wird, wird immer zuerst eine '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::54422e76-6270-4f41-99e3-c5a308fcc39b'
+                  rel: null
+                  target: null
+                  title: null
+            text: Low-Vision-Abklärung
+          -
+            type: text
+            text: ' gemacht.'
     type: text
     enabled: true
   -
@@ -283,7 +297,7 @@ components:
                     content:
                       -
                         type: text
-                        text: 'Kinder mit einer Sehbeeinträchtigung (Low Vision) '
+                        text: 'Kinder mit einer mittelschweren bis schweren diagnostizierten Sehbeeinträchtigung (Low Vision, Visus ab 0.05) '
               -
                 type: list_item
                 content:
@@ -302,6 +316,15 @@ components:
                       -
                         type: text
                         text: 'Mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbeeinträchtigung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder von Eltern mit einer starken Sehbeeinträchtigung'
       -
         id: leofehvf
         heading: Anmeldung
