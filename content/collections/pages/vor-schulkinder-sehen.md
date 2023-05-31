@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1685533207
+updated_at: 1685541036
 components:
   -
     id: leof55xo
@@ -92,6 +92,12 @@ components:
                   -
                     type: text
                     text: 'Fördergruppe (Start Sommer 2023)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bevor eine visiopädagogische Beratung und Begleitung durch den VPD gestartet wird, wird immer zuerst eine Low-Vision-Abklärung gemacht.'
     type: text
     enabled: true
   -
