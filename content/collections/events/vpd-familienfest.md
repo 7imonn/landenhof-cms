@@ -1,5 +1,6 @@
 ---
 id: 01cf038b-3af4-4be1-81c6-5eea3837b790
+published: false
 blueprint: event
 event_card_layout: as_card
 title: VPD-Familienfest
