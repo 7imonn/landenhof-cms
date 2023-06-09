@@ -87,3 +87,16 @@ editor:
     - 'move assets assets'
     - 'rename assets assets'
     - 'delete assets assets'
+info_screen:
+  title: 'Info Screen'
+  permissions:
+    - 'access cp'
+    - 'view info_screens entries'
+    - 'edit info_screens entries'
+    - 'create info_screens entries'
+    - 'delete info_screens entries'
+    - 'publish info_screens entries'
+    - 'reorder info_screens entries'
+    - 'edit other authors info_screens entries'
+    - 'publish other authors info_screens entries'
+    - 'delete other authors info_screens entries'
