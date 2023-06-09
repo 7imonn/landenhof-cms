@@ -1,5 +1,5 @@
 ---
-id: 178994f7-7f4a-4064-b34d-c727ca658bc3
+id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 current_events:
@@ -50,8 +50,8 @@ current_events:
               -
                 type: bold
             text: 'Daher benötigt es kein Datum.'
-updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1685538302
+updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
+updated_at: 1686298922
 on_visit:
   -
     id: li9wmjyy
