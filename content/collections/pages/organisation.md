@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686568052
+updated_at: 1686568067
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -222,23 +222,6 @@ components:
             text: 'Ressort Organisation'
     type: text
     enabled: true
-  -
-    id: ldunug6j
-    heading: Dokumente
-    files:
-      -
-        id: ldunuzo0
-        name: 'Stiftungsurkunde Landenhof'
-        open_in_tab: true
-        file: downloads/lh_stiftungsurkunde_2023.pdf
-      -
-        id: lisr1l6h
-        name: Organigramm
-        file: downloads/organigramm_2023.pdf
-        open_in_tab: true
-    type: downloads
-    enabled: true
-    button_text: 'Mehr anzeigen'
   -
     id: ldunxysy
     text:
@@ -561,4 +544,21 @@ components:
             text: 'Unser Ökonomieteam packt bei den zahlreichen Feierlichkeiten mit an: Es stellt die Infrastruktur bereit und verwöhnt die Gäste mit einem abwechslungsreichen kulinarischen Angebot. Dem Team ist es ein besonderes Anliegen, die Wünsche der Organisationskomitees wenn immer möglich zu erfüllen. So trägt es sehr viel zu schönen und stimmungsvollen Anlässen bei!'
     type: text
     enabled: true
+  -
+    id: ldunug6j
+    heading: Dokumente
+    files:
+      -
+        id: ldunuzo0
+        name: 'Stiftungsurkunde Landenhof'
+        open_in_tab: true
+        file: downloads/lh_stiftungsurkunde_2023.pdf
+      -
+        id: lisr1l6h
+        name: Organigramm
+        file: downloads/organigramm_2023.pdf
+        open_in_tab: true
+    type: downloads
+    enabled: true
+    button_text: 'Mehr anzeigen'
 ---
