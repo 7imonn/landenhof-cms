@@ -28,7 +28,7 @@ sections:
       -
         handle: info_header
         field:
-          display: Infos
+          display: 'Infos Links'
           type: section
           icon: section
           listable: hidden
@@ -142,6 +142,44 @@ sections:
           display: 'Zu Besuch'
           type: grid
           icon: grid
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: aktuell
+        field:
+          collapse: false
+          always_show_set_button: false
+          previews: true
+          buttons:
+            - bold
+            - italic
+            - unorderedlist
+            - orderedlist
+            - removeformat
+            - quote
+            - table
+            - underline
+            - strikethrough
+            - superscript
+            - subscript
+          save_html: false
+          toolbar_mode: fixed
+          link_noopener: false
+          link_noreferrer: false
+          target_blank: false
+          reading_time: false
+          fullscreen: true
+          allow_source: true
+          enable_input_rules: true
+          enable_paste_rules: true
+          antlers: false
+          remove_empty_nodes: false
+          display: Aktuell
+          type: bard
+          icon: bard
+          instructions: 'Wenn es keine Events gibt.'
           listable: hidden
           instructions_position: above
           visibility: visible
