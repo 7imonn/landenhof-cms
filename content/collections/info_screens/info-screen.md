@@ -50,8 +50,8 @@ current_events:
               -
                 type: bold
             text: 'Daher benötigt es kein Datum.'
-updated_by: fb21535d-3bc5-408c-88ff-093eb3462715
-updated_at: 1686298922
+updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
+updated_at: 1686563768
 on_visit:
   -
     id: li9wmjyy
@@ -106,4 +106,11 @@ info_text:
       -
         type: text
         text: 'ng fett markiert werden.'
+aktuell:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Dieser Text kommt wenn es keine Events gibt. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
 ---
