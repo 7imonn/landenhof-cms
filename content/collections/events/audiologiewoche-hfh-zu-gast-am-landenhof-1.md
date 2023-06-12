@@ -1,5 +1,6 @@
 ---
 id: 9bc032c0-56a0-455a-ac1b-ad9455334c36
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Audiologiewoche HfH zu Gast am Landenhof - Tag 2'
