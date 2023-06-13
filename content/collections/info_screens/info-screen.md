@@ -35,24 +35,8 @@ current_events:
               -
                 type: bold
             text: 'Daher benötigt es kein Datum.'
-  -
-    id: liucmak3
-    from: '2023-06-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686664751
+updated_at: 1686664787
 on_visit:
   -
     id: li9wmjyy
