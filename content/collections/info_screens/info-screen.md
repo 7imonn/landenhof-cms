@@ -51,8 +51,8 @@ current_events:
               -
                 type: bold
             text: 'Daher benötigt es kein Datum.'
-updated_by: 05901467-cb00-43d6-83f6-bf29695b0a61
-updated_at: 1686569473
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1686655287
 on_visit:
   -
     id: li9wmjyy
@@ -86,10 +86,6 @@ on_visit:
               -
                 type: bold
             text: 'Daher benötigt es kein Datum.'
-galerie:
-  - buecherkauf_titel.jpg
-  - cdc-gdokeynofne-unsplash.jpg
-  - cdc-gsri9cwcib0-unsplash.jpg
 art: text
 color_theme: blue
 info_text:
