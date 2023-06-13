@@ -36,7 +36,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686664787
+updated_at: 1686664907
 on_visit:
   -
     id: li9wmjyy
@@ -76,8 +76,33 @@ galerie:
   - sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - sehen_vpd_familienanlass_2023-13-1686655397.JPG
-art: box
+art: text
 color_theme: blue
+info_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hier kann auch ein kurzer informativer Text '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'ohne Kachel'
+      -
+        type: text
+        text: ' platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'fett markiert'
+      -
+        type: text
+        text: ' werden.'
 aktuell:
   -
     type: paragraph
@@ -85,15 +110,4 @@ aktuell:
       -
         type: text
         text: 'Dieser Text erscheint, wenn keine Anlässe und Besuche erfasst sind. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
-infos:
-  -
-    id: liubh9pi
-    from: '2023-06-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Test-Text '
 ---
