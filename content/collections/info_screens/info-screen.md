@@ -21,7 +21,7 @@ current_events:
     from: '2023-06-13'
   -
     id: li9wjwby
-    from: '2023-05-31'
+    from: '2023-06-27'
     text:
       -
         type: paragraph
@@ -37,7 +37,7 @@ current_events:
             text: 'Daher benötigt es kein Datum.'
   -
     id: li9wqoz1
-    from: '2023-06-01'
+    from: '2023-06-27'
     text:
       -
         type: paragraph
@@ -52,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686655458
+updated_at: 1686655717
 on_visit:
   -
     id: li9wmjyy
@@ -69,10 +69,10 @@ on_visit:
               -
                 type: bold
             text: 'Es kann Textauszeichnungen enthalten.'
-    from: '2023-06-12'
+    from: '2023-06-13'
   -
     id: li9wmkl9
-    from: '2023-06-01'
+    from: '2023-06-27'
     text:
       -
         type: paragraph
@@ -102,10 +102,25 @@ info_text:
     content:
       -
         type: text
+        text: 'Hier kann auch ein kurzer informativer Text '
+      -
+        type: text
         marks:
           -
             type: bold
-        text: 'Herzlich willkommen am Landenhof!'
+        text: 'ohne Kachel '
+      -
+        type: text
+        text: 'platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'fett markiert'
+      -
+        type: text
+        text: ' werden.'
 aktuell:
   -
     type: paragraph
