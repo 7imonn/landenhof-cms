@@ -52,7 +52,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686655403
+updated_at: 1686655458
 on_visit:
   -
     id: li9wmjyy
@@ -102,6 +102,9 @@ info_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Herzlich willkommen am Landenhof!'
 aktuell:
   -
