@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686668290
+updated_at: 1686668364
 galerie:
   - sehen_vpd_familienanlass_2023-front-1686655356.JPG
   - sehen_vpd_familienanlass_2023-06-1686655374.JPG
@@ -39,131 +39,65 @@ info_text:
         text: ' werden.'
 aktuell:
   -
-    type: table
-    content:
-      -
-        type: table_row
-        content:
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Test Tabelle'
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Test Tabelle'
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Test Tabelle'
-      -
-        type: table_row
-        content:
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Test Tabelle'
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-      -
-        type: table_row
-        content:
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Test Tabelle'
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth: null
-              background: null
-            content:
-              -
-                type: paragraph
-  -
     type: paragraph
     content:
       -
         type: text
         text: 'Dieser Text erscheint, wenn keine Anlässe und Besuche erfasst sind. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
+current_events:
+  -
+    id: liuerz86
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. Daher benötigt es kein Datum. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Es kann Textauszeichnungen enthalten'
+          -
+            type: text
+            text: .
+  -
+    id: liueskei
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. Daher benötigt es kein Datum. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Es kann Textauszeichnungen enthalten'
+          -
+            type: text
+            text: .
+on_visit:
+  -
+    id: liuesc5j
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Besuch. Daher benötigt es kein Datum. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Es kann Textauszeichnungen enthalten'
+          -
+            type: text
+            text: .
 ---
