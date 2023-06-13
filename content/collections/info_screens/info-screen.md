@@ -20,7 +20,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686659701
+updated_at: 1686661947
 on_visit:
   -
     id: li9wmjyy
@@ -44,33 +44,8 @@ galerie:
   - sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - sehen_vpd_familienanlass_2023-13-1686655397.JPG
-art: text
+art: box
 color_theme: blue
-info_text:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Hier kann auch ein kurzer informativer Text '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'ohne Kachel '
-      -
-        type: text
-        text: 'platziert werden. Der Text sollte dabei nicht länger als 4 Zeilen sein. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'fett markiert'
-      -
-        type: text
-        text: ' werden.'
 aktuell:
   -
     type: paragraph
@@ -78,4 +53,20 @@ aktuell:
       -
         type: text
         text: 'Dieser Text erscheint, wenn keine Anlässe und Besuche erfasst sind. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
+infos:
+  -
+    id: liuaxcqn
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '20.03. - 21.03.2023'
+          -
+            type: text
+            text: ': Leistungstest Check S3 / 9. Klasse. Papier-Test «Deutsch Schreiben» - Viel Glück!'
 ---
