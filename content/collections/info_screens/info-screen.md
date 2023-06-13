@@ -20,7 +20,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686661947
+updated_at: 1686662512
 on_visit:
   -
     id: li9wmjyy
@@ -55,18 +55,13 @@ aktuell:
         text: 'Dieser Text erscheint, wenn keine Anlässe und Besuche erfasst sind. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
 infos:
   -
-    id: liuaxcqn
+    id: liubax7x
+    from: '2023-06-16'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: '20.03. - 21.03.2023'
-          -
-            type: text
-            text: ': Leistungstest Check S3 / 9. Klasse. Papier-Test «Deutsch Schreiben» - Viel Glück!'
+            text: 'Test-Text, um Datumsanzeige zu testen'
 ---
