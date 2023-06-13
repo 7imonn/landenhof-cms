@@ -36,7 +36,7 @@ current_events:
                 type: bold
             text: 'Daher benötigt es kein Datum.'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686664974
+updated_at: 1686665043
 on_visit:
   -
     id: li9wmjyy
@@ -63,7 +63,7 @@ on_visit:
         content:
           -
             type: text
-            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Besuch. Daher benötigt es kein Datum.'
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Besuch.'
 galerie:
   - sehen_vpd_familienanlass_2023-front-1686655356.JPG
   - sehen_vpd_familienanlass_2023-06-1686655374.JPG
