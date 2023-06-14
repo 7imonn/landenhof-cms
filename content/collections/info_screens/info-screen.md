@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686750059
+updated_at: 1686751325
 galerie:
   - sehen_vpd_familienanlass_2023-front-1686655356.JPG
   - sehen_vpd_familienanlass_2023-06-1686655374.JPG
@@ -87,6 +87,42 @@ current_events:
             text: .
   -
     id: liueskei
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. Daher benötigt es kein Datum. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Es kann Textauszeichnungen enthalten'
+          -
+            type: text
+            text: .
+  -
+    id: livs6pjs
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier steht ein kurzer Text zu einem tagesaktuellen Anlass. Daher benötigt es kein Datum. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Es kann Textauszeichnungen enthalten'
+          -
+            type: text
+            text: .
+  -
+    id: livs6sec
     text:
       -
         type: paragraph
