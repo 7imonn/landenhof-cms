@@ -13,18 +13,6 @@ fields:
       visibility: visible
       always_save: false
   -
-    handle: hasFilter
-    field:
-      default: false
-      display: 'Filter anzeigen'
-      type: toggle
-      icon: toggle
-      listable: hidden
-      instructions_position: above
-      visibility: visible
-      always_save: true
-      width: 50
-  -
     handle: show_all_events
     field:
       default: true
@@ -35,7 +23,6 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: true
-      width: 50
   -
     handle: events
     field:

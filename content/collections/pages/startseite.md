@@ -63,12 +63,9 @@ components:
     id: lbyxvpy5
     heading: Events
     hasFilter: true
-    show_all_events: false
+    show_all_events: true
     type: event_cards
     enabled: true
-    events:
-      - cf925f78-e35b-43be-ac31-c05c3389dacd
-      - 01854ebc-ddcb-4a9d-87c6-b580e5408249
   -
     id: ldyiuo82
     heading: 'News vom Landenhof'
