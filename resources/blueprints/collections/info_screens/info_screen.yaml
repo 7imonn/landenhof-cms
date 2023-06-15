@@ -181,7 +181,7 @@ sections:
           display: Aktuell
           type: bard
           icon: bard
-          instructions: 'Wenn es keine Events gibt.'
+          instructions: 'Wenn keine Anlässe oder Besuche erfasst sind.'
           listable: hidden
           instructions_position: above
           visibility: visible
