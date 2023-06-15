@@ -194,6 +194,12 @@ sections:
         field:
           type: slug
           localizable: true
+          instructions_position: above
+          listable: hidden
+          visibility: read_only
+          always_save: false
+          from: title
+          generate: true
       -
         handle: parent
         field:
@@ -203,5 +209,10 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+          instructions_position: above
+          visibility: read_only
+          always_save: false
+          mode: default
+          create: true
       -
         import: color_theme
