@@ -87,10 +87,19 @@ editor:
     - 'move assets assets'
     - 'rename assets assets'
     - 'delete assets assets'
-info_screen:
-  title: 'Info Screen'
+info_screen_und_events:
+  title: 'Info Screen und Events'
   permissions:
     - 'access cp'
+    - 'view events entries'
+    - 'edit events entries'
+    - 'create events entries'
+    - 'delete events entries'
+    - 'publish events entries'
+    - 'reorder events entries'
+    - 'edit other authors events entries'
+    - 'publish other authors events entries'
+    - 'delete other authors events entries'
     - 'view info_screens entries'
     - 'edit info_screens entries'
     - 'create info_screens entries'
