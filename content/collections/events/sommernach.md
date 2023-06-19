@@ -6,7 +6,7 @@ title: Sommernachtsfest
 event_date: '2023-08-23'
 time: '15.15 - 21.30 Uhr'
 location: Landenhof
-file: lottie/event-intern.json
+file: lottie/event-uebergeordnet.json
 lead:
   -
     type: paragraph

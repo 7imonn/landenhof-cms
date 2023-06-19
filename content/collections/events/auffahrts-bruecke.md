@@ -6,7 +6,7 @@ event_card_layout: as_accordion
 title: 'Auffahrt: Brücke'
 event_date: '2023-05-19'
 time: Ganztags
-file: lottie/event-intern.json
+file: lottie/event-uebergeordnet.json
 lead:
   -
     type: paragraph

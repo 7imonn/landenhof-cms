@@ -5,7 +5,7 @@ blueprint: event
 event_card_layout: as_accordion
 title: 'Frühlingsferien: Vom 11. bis 21. April 2023'
 event_date: '2023-04-11'
-file: lottie/event-intern.json
+file: lottie/event-uebergeordnet.json
 lead:
   -
     type: paragraph

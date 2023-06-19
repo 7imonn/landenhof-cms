@@ -6,7 +6,7 @@ event_card_layout: as_accordion
 title: 'Pfingsten 2023'
 event_date: '2023-05-28'
 time: Ganztags
-file: lottie/event-intern.json
+file: lottie/event-uebergeordnet.json
 lead:
   -
     type: paragraph

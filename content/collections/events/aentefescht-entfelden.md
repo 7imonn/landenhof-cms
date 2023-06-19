@@ -6,7 +6,7 @@ title: 'Äntefescht Entfelden'
 event_date: '2023-06-29'
 time: 'Do, 29. Juni - So, 2. Juli 2023'
 location: Entfelden
-file: lottie/event-intern.json
+file: lottie/event-uebergeordnet.json
 person: 85495d3c-5606-41de-a04e-ff67f6492ce6
 color_theme: blue
 categories:
