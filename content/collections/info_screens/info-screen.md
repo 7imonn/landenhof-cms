@@ -6,7 +6,7 @@ updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
 updated_at: 1686751641
 galerie:
   - sehen_vpd_familienanlass_2023-front-1686655356.JPG
-  - sehen_vpd_familienanlass_2023-06-1686655374.JPG
+  - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - sehen_vpd_familienanlass_2023-13-1686655397.JPG
