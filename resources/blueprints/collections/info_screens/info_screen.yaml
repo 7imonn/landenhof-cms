@@ -15,7 +15,7 @@ sections:
         field:
           mode: list
           container: assets
-          restrict: false
+          restrict: true
           allow_uploads: true
           show_filename: true
           display: Galerie
@@ -25,6 +25,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          folder: infoscreen
       -
         handle: info_header
         field:
