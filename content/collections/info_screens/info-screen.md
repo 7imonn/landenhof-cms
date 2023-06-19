@@ -7,7 +7,7 @@ updated_at: 1686751641
 galerie:
   - sehen_vpd_familienanlass_2023-front-1686655356.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
-  - sehen_vpd_familienanlass_2023-09-1686655379.JPG
+  - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - sehen_vpd_familienanlass_2023-13-1686655397.JPG
 art: box
