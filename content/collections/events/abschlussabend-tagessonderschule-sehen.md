@@ -2,7 +2,7 @@
 id: 01854ebc-ddcb-4a9d-87c6-b580e5408249
 blueprint: event
 event_card_layout: as_accordion
-title: 'Abschlussabend Tagessonderschule Sehen'
+title: 'Abschlussabend Tagessonderschule Hören'
 event_date: '2023-07-04'
 time: '16.00 - 20.00 Uhr'
 location: Landenhof
@@ -78,5 +78,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1686833957
+updated_at: 1687261481
 ---
