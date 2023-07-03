@@ -45,16 +45,6 @@ components:
     type: job_cards
     enabled: true
   -
-    id: lia9rsv3
-    heading: 'Beratung für Schwerhörige und Gehörlose Aargau Solothurn'
-    manual: true
-    jobs:
-      - 6f205c20-c30d-4039-bd52-bc373ae10cc5
-    button_text: 'Zur Übersicht'
-    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
-    type: job_cards
-    enabled: true
-  -
     id: lhhsuglo
     heading: 'Lehrstellen (ab August 2024)'
     manual: true
@@ -90,5 +80,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1687437481
+updated_at: 1688375792
 ---
