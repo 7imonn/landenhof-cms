@@ -11,7 +11,7 @@ heros:
     enabled: true
 color_theme: pink
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1687242370
+updated_at: 1688547279
 lead:
   -
     type: paragraph
@@ -36,7 +36,16 @@ components:
         content:
           -
             type: text
-            text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihren Sehrest und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
+            text: 'Wir unterstützen die Kinder und Jugendlichen dabei, ihre Sehfähigkeiten optimal zu entwickeln sowie kognitive, motorische, soziale und emotionale Fähigkeiten zu entfalten. Zusammen mit den Kindern und Jugendlichen entwickeln wir Strategien, damit sie ihr verbleibendes Sehvermögen'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'und ihre anderen Sinne optimal einsetzen können, möglichst selbstständig agieren und sich integrieren können.'
       -
         type: paragraph
         content:
