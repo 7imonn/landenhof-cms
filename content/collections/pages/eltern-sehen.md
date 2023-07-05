@@ -107,10 +107,16 @@ components:
                     content:
                       -
                         type: text
-                        text: 'Kinder mit einer diagnostizierten Sehbeeinträchtigung (Low Vision)'
-          -
-            type: bullet_list
-            content:
+                        text: 'Babys und Kinder mit Verdacht auf eine Sehbeeinträchtigung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder mit einer mittelschweren bis schweren diagnostizierten Sehbeeinträchtigung (Low Vision, Visus ab 0.05)'
               -
                 type: list_item
                 content:
@@ -129,6 +135,15 @@ components:
                       -
                         type: text
                         text: 'Mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbeeinträchtigung'
+              -
+                type: list_item
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Kinder von Eltern mit einer starken Sehbeeinträchtigung'
       -
         id: leor7ii0
         heading: Anmeldung
@@ -183,7 +198,7 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678373124
+updated_at: 1688547787
 lead:
   -
     type: paragraph
