@@ -1,5 +1,6 @@
 ---
 id: 01854ebc-ddcb-4a9d-87c6-b580e5408249
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Abschlussabend Tagessonderschule Hören'
