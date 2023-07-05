@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677250338
+updated_at: 1688539036
 components:
   -
     id: lefnuu3x
@@ -227,7 +227,7 @@ components:
         content:
           -
             type: text
-            text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Schwerhörigenschule und nehmen an den beiden Standortgesprächen teil.'
+            text: 'Unsere Sozialpädagog:innen unterstützen sie dabei, ihren Alltag zu planen, Hausaufgaben und Freizeitwünsche unter einen Hut zu bringen und lehren sie ganz alltägliche Dinge wie Kochen und Putzen. Die Sozialpädagog:innen stehen in engem Kontakt mit den Eltern und vertreten diese, wo es um erzieherische Verantwortung und praktische Fragen der Erziehung geht. Ebenso engen Kontakt pflegen sie mit den Lehrpersonen unserer Tagessonderschule Hören und nehmen an den beiden Standortgesprächen teil.'
       -
         type: paragraph
         content:
