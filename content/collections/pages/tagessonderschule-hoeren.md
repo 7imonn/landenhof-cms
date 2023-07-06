@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: 95b39122-d35d-4cb2-8d79-deadebc12bba
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678381026
+updated_at: 1688641813
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 color_theme: green
@@ -460,6 +460,18 @@ components:
             text: 'Gerne berate ich Sie persönlich. '
     person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
     type: contact_teaser
+    enabled: true
+  -
+    id: ljr1ptt0
+    heading: Dokumente
+    files:
+      -
+        id: ljr1q017
+        name: 'Ferientermine bis 2026'
+        file: downloads/ferientermine_bis_2026.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
     enabled: true
   -
     id: lenekym1
