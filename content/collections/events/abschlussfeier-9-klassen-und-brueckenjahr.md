@@ -1,5 +1,6 @@
 ---
 id: f154ac6b-06a4-4f63-aa4d-b79830bf54fb
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Abschlussfeier 9. Klassen und Brückenjahr'
