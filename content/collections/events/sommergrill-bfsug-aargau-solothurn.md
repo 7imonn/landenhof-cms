@@ -32,14 +32,6 @@ lead:
         text: '18.00 - 21.00 Uhr'
 components:
   -
-    id: ljwskzak
-    images:
-      -
-        id: eAY35GvV
-        image: sommergrill.jpg
-    type: images
-    enabled: true
-  -
     id: ljwsrld1
     text:
       -
@@ -106,12 +98,12 @@ components:
             text: 'Wir freuen uns auf euch!'
     type: text
     enabled: true
-person: 85495d3c-5606-41de-a04e-ff67f6492ce6
+person: 53c21c8b-7611-4aeb-a7e5-34d800908068
 color_theme: green
 categories:
   - hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1688989733
+updated_at: 1688989873
 ---
