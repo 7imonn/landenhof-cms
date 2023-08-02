@@ -169,7 +169,8 @@ return [
             'connection' => 'redis',
             'queue' => ['default'],
             'balance' => 'auto',
-            'maxProcesses' => 1,
+            'minProcesses' => 1,
+            'maxProcesses' => 10,
             'maxTime' => 0,
             'maxJobs' => 0,
             'memory' => 128,
@@ -182,7 +183,7 @@ return [
     'environments' => [
         'production' => [
             'supervisor-'.Str::slug(env('APP_NAME', 'laravel'), '-') => [
-                'maxProcesses' => 1,
+                'maxProcesses' => 10,
                 'balanceMaxShift' => 1,
                 'balanceCooldown' => 3,
             ],
