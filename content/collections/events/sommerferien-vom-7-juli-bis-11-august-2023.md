@@ -1,5 +1,6 @@
 ---
 id: 15ea1039-8bde-4a34-b3aa-bbeca54ceab7
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sommerferien: Vom 7. Juli bis 11. August 2023'
