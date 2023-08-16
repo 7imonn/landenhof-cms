@@ -92,24 +92,6 @@ components:
             text: BFSUG-Website
     type: text
     enabled: true
-  -
-    id: lldt3qp0
-    images:
-      -
-        id: 2ire0hM2
-        image: blog/hoeren/hoeren_sommernachtsfest_2022/hoeren_sommernachtsfest_2022-37.jpg
-    type: images
-    enabled: true
-  -
-    id: lldt4psg
-    files:
-      -
-        id: lldt4rj0
-        name: 'Flyer BFSUG Grill'
-        open_in_tab: true
-    button_text: 'Mehr anzeigen'
-    type: downloads
-    enabled: true
 person: 53c21c8b-7611-4aeb-a7e5-34d800908068
 color_theme: green
 categories:
@@ -117,5 +99,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692194880
+updated_at: 1692195086
 ---
