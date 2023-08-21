@@ -7,40 +7,35 @@ event_date: '2023-08-28'
 time: 'Ganzer Tag'
 location: 'Tagessonderschule Hören, Landenhof'
 file: lottie/event-hoeren.json
-components:
+lead:
   -
-    id: llkoh2rt
-    text:
+    type: paragraph
+    content:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In der Regel gelten diese Zeiten: '
+        type: text
+        text: 'In der Regel gelten diese Zeiten: '
+  -
+    type: paragraph
+    content:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Mo: 10-00 - 12.20 Uhr / 13.30 - 16.05 Uhr'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Di - Do: 8.50 - 12.15 Uhr / 13.30 - 16.05 Uhr'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Fr: 08.50 - 12.15 Uhr / 13.25 - 15.00 Uhr'
+        type: text
+        text: 'Mo: 10-00 - 12.20 Uhr / 13.30 - 16.05 Uhr'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bei Ausflügen gelten die Zeiten gemäss Programm.'
-    type: text
-    enabled: true
+        type: hard_break
+      -
+        type: text
+        text: 'Di - Do: 8.50 - 12.15 Uhr / 13.30 - 16.05 Uhr'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Fr: 08.50 - 12.15 Uhr / 13.25 - 15.00 Uhr'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bei Ausflügen gelten die Zeiten gemäss Programm.'
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
 color_theme: green
 categories:
@@ -49,5 +44,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692610523
+updated_at: 1692610565
 ---
