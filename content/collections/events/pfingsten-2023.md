@@ -3,7 +3,7 @@ id: 87a865fa-2924-48ac-b340-4a010cb06069
 published: false
 blueprint: event
 event_card_layout: as_accordion
-title: 'Pfingsten 2023'
+title: 'Pfingsten 2023 (28. und 29. Mai 2023)'
 event_date: '2023-05-28'
 time: Ganztags
 file: lottie/event-uebergeordnet.json
@@ -35,5 +35,8 @@ person: 85495d3c-5606-41de-a04e-ff67f6492ce6
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692609596
+updated_at: 1692609652
+color_theme: blue
+categories:
+  - landenhof-uebergeordnet
 ---
