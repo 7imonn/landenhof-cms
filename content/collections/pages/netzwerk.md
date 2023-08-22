@@ -117,6 +117,10 @@ components:
         id: le4s6dpu
         logo: partnerlogos/medizin/logo_unispital_zuerich.png
         link: 'https://www.usz.ch/'
+      -
+        id: llm5221b
+        logo: partnerlogos/medizin/logo_kantonsspital_aarau.JPG
+        link: 'https://www.ksa.ch/'
     type: partner_logos
     enabled: true
   -
@@ -133,5 +137,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692698613
+updated_at: 1692698640
 ---
