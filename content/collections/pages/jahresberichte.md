@@ -18,7 +18,6 @@ components:
         id: lgqc9hcv
         name: 'Jahresbericht 2021/22'
         open_in_tab: true
-        file: downloads/lh_jahresbericht_2021_22.pdf
       -
         id: ldurx56c
         name: 'Jahresbericht 2020/21'
