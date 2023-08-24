@@ -1,5 +1,6 @@
 ---
 id: bbe14b50-8741-4bd7-8617-99db4d52271d
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: Sommernachtsfest
