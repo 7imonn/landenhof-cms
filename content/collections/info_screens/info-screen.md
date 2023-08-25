@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
-updated_at: 1692957080
+updated_at: 1692957093
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -35,7 +35,7 @@ infos:
             text: ' Leistungscheck S3 / 9. Klasse, Papier-Test «Deutsch Schreiben»  - Viel Glück!'
   -
     id: llqersw9
-    from: '2023-08-29'
+    from: '2023-08-25'
     text:
       -
         type: paragraph
