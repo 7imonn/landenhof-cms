@@ -2,3 +2,8 @@ roles:
   - info_screen_und_events
 id: cfbccace-effa-43a7-94ab-bee56e7ab53d
 password_hash: $2y$10$tpZ3cUoo/Lt.wFLvSpNkQukDopYZzRXq5uMjKjsDwi7JXZ92BXVQy
+preferences:
+  favorites:
+    -
+      name: 'Info Screen ‹ Info Screens ‹ Sammlungen'
+      url: collections/info_screens/entries/b7e06d5c-0ccc-4d17-b365-14c9c14bc351
