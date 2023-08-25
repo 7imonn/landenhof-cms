@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
-updated_at: 1692957093
+updated_at: 1692957154
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -43,6 +43,16 @@ infos:
           -
             type: text
             text: '161616'
+  -
+    id: llqeycwi
+    from: '2023-08-28'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '26326'
 current_events:
   -
     id: livs7zxz
@@ -55,7 +65,7 @@ current_events:
             text: Wochenende
       -
         type: paragraph
-    from: '2023-08-25'
+    from: '2023-08-28'
 on_visit:
   -
     id: livsdhts
