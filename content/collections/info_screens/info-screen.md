@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
-updated_at: 1692957154
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1693220234
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -29,20 +29,9 @@ infos:
             marks:
               -
                 type: bold
-            text: '20.3. - 21.3.2023:'
-          -
-            type: text
-            text: ' Leistungscheck S3 / 9. Klasse, Papier-Test «Deutsch Schreiben»  - Viel Glück!'
+            text: 'HERZLICH WILLKOMMEN AM LANDENHOF!'
   -
     id: llqersw9
-    from: '2023-08-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '161616'
   -
     id: llqeycwi
     from: '2023-08-28'
