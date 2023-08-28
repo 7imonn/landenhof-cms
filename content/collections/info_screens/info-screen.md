@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693220348
+updated_at: 1693220544
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -19,17 +19,23 @@ aktuell:
         text: 'Dieser Text erscheint, wenn keine Anlässe und Besuche erfasst sind. Einzelne Wörter oder Textpassagen können für eine stärkere Hervorhebung fett markiert werden.'
 current_events:
   -
-    id: livs7zxz
+    id: llurqqqg
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: Wochenende
+            text: 'Donnerstag, 31. August 2023: Pizzaessen Kiga - P3'
+  -
+    id: llurrtgd
+    text:
       -
         type: paragraph
-    from: '2023-08-28'
+        content:
+          -
+            type: text
+            text: 'Projektwoche 7.-9. Klasse'
 on_visit:
   -
     id: livsdhts
