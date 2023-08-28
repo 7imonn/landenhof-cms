@@ -579,10 +579,10 @@ components:
             text: 'Landenhof-Schüler:innen und deren Eltern können sich bei Problemen oder Fragen direkt an unsere Psychologinnen wenden.'
     person: 06e9afca-2c3a-45b5-bc11-171d5ffb55ef
     type: contact_teaser
-    enabled: true
+    enabled: false
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693222707
+updated_at: 1693222828
 ---
