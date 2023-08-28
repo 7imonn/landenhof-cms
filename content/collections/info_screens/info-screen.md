@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693220601
+updated_at: 1693220716
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -46,8 +46,8 @@ on_visit:
         content:
           -
             type: text
-            text: hospitation
-    from: '2023-08-25'
+            text: 'Schnupperschülerin Selina Nadig, 6. Klasse, Haus Blau'
+    from: '2023-08-28'
 info_text:
   -
     type: paragraph
