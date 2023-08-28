@@ -568,9 +568,21 @@ components:
                 text: 'Mit einer ärztlichen Anordnung für Psychotherapie können Abklärungen und Psychotherapien über die Krankenkasse abgerechnet werden.'
     type: accordion_group
     enabled: true
+  -
+    id: llusqyty
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bei Fragen stehen wir Ihnen gerne telefonisch zur Verfügung.'
+    person: 06e9afca-2c3a-45b5-bc11-171d5ffb55ef
+    type: contact_teaser
+    enabled: true
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1678290353
+updated_at: 1693222173
 ---
