@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1693308712
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1693310479
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -20,24 +20,39 @@ aktuell:
 infos:
   -
     id: llw8a9c7
-    from: '2023-08-29'
+    from: '2023-08-30'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: ghgfh
-current_events:
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
   -
-    id: llurrtgd
+    id: llw90vj0
+    from: '2023-09-01'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Projektwoche 7.-9. Klasse'
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+current_events:
   -
     id: llurqqqg
     text:
@@ -46,8 +61,32 @@ current_events:
         content:
           -
             type: text
-            text: 'Pizzaessen Kiga - P3'
+            text: '18.00 – 21.00 Uhr: Sommergrill BFSUG - Viel Vergnügen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+      -
+        type: paragraph
+    from: '2023-08-30'
+  -
+    id: llw92l82
     from: '2023-08-31'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '12.00 – 13.30 Uhr: Pizzaessen der Primarstufe           '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '– En Guete!'
 on_visit:
   -
     id: livsdhts
@@ -57,5 +96,6 @@ on_visit:
         content:
           -
             type: text
-            text: 'Schnupperschülerin Selina Nadig, 6. Klasse, Haus Blau'
+            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula – Herzlich willkommen!'
+    from: '2023-08-30'
 ---
