@@ -1,6 +1,5 @@
 ---
 id: 2ca91844-5269-4137-b7db-644bd3096ac0
-published: false
 blueprint: event
 event_card_layout: as_link
 title: 'SVEHK-Elterntagung - 28. und 29. Oktober 2023'
@@ -96,7 +95,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693395145
+updated_at: 1693395159
 lead:
   -
     type: paragraph
