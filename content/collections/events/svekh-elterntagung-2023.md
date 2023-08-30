@@ -15,7 +15,7 @@ components:
         id: FXVeBbzx
         image: flyer_svehk_elterntagung_2023.png
     type: images
-    enabled: true
+    enabled: false
   -
     id: llxnea3g
     text:
@@ -79,12 +79,13 @@ components:
     enabled: true
   -
     id: llxnjuo8
-    heading: 'Flyer SVEHK-Elterntagung 2023'
+    heading: Flyer
     files:
       -
         id: llxnk7yq
         file: downloads/flyer_svehk-elterntagung_2023.pdf
         open_in_tab: true
+        name: 'Flyer SVEHK-Elterntagung 2023'
     button_text: 'Mehr anzeigen'
     type: downloads
     enabled: true
@@ -95,7 +96,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693395230
+updated_at: 1693395309
 lead:
   -
     type: paragraph
