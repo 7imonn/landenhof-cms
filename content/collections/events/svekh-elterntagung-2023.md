@@ -89,14 +89,14 @@ components:
     button_text: 'Mehr anzeigen'
     type: downloads
     enabled: true
-person: 218c4ad3-0398-4a8b-81bd-7d90ea1dccc5
+person: bb43a427-cede-4a1b-93d0-4586e888e07a
 color_theme: green
 categories:
   - hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693394996
+updated_at: 1693395145
 lead:
   -
     type: paragraph
