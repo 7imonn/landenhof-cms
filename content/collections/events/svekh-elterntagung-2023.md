@@ -9,14 +9,6 @@ location: 'Sportcamp Melchtal (Obwalden)'
 file: lottie/event-hoeren.json
 components:
   -
-    id: llxnlh7r
-    images:
-      -
-        id: FXVeBbzx
-        image: flyer_svehk_elterntagung_2023.png
-    type: images
-    enabled: false
-  -
     id: llxnea3g
     text:
       -
@@ -56,12 +48,7 @@ components:
             marks:
               -
                 type: bold
-            text: 'Weitere Informationen zur Elterntagung gibt es auf der'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
+            text: 'Weitere Informationen zur Elterntagung: '
           -
             type: text
             marks:
@@ -96,7 +83,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693395465
+updated_at: 1693395531
 lead:
   -
     type: paragraph
