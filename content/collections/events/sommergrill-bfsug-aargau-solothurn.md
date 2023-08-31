@@ -1,5 +1,6 @@
 ---
 id: 772270ff-7449-4378-87b9-ea9b861efa60
+published: false
 blueprint: event
 event_card_layout: as_link
 title: 'Sommergrill BFSUG Aargau Solothurn'
