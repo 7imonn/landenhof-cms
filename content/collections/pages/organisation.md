@@ -556,7 +556,7 @@ components:
       -
         id: lisr1l6h
         name: Organigramm
-        file: downloads/organigramm_2023.pdf
+        file: downloads/organigramm_sept_2023_extern.pdf
         open_in_tab: true
     type: downloads
     enabled: true
