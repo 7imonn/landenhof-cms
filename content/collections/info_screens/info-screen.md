@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
-updated_at: 1693494042
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1693561386
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -75,10 +75,6 @@ infos:
             text: '04.09 – 15.09.23: Leistungstest Check P3 – Viel Glück!'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: '13.45 - 15.40 Uhr: Besuch Elias mit Begleitung - Herzlich willkommen'
   -
     id: llxs98qr
     from: '2023-09-05'
@@ -269,4 +265,14 @@ on_visit:
           -
             type: text
             text: "\_"
+  -
+    id: lm0eps8z
+    from: '2023-09-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.45 - 15.40 Uhr: Besuch Elias mit Begleitung - Herzlich willkommen'
 ---
