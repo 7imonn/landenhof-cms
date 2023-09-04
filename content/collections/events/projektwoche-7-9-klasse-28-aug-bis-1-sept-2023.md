@@ -1,5 +1,6 @@
 ---
 id: c19bfb78-41db-4ab6-bf67-c74b3fc48e92
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Projektwoche 7.-9. Klasse (28. August bis 1. September 2023)'
