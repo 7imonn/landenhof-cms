@@ -1,5 +1,6 @@
 ---
 id: 7c363178-832f-485a-9f30-2a40368b3520
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: Auftaktveranstaltung Gruppe A+B'
