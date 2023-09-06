@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1693984214
+updated_at: 1693985438
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -160,6 +160,22 @@ current_events:
           -
             type: text
             text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 - Viel Glück!'
+  -
+    id: lm7f60wk
+    from: '2023-09-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.45 Uhr: QZ-Berufswahl, Aula - Viel Vergnügen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
 on_visit:
   -
     id: llxs22lt
