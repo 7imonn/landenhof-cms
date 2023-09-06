@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1693985438
+updated_at: 1693990566
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -169,7 +169,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.20 – 17.45 Uhr: QZ-Berufswahl, Aula - Viel Vergnügen!'
+            text: '16.20 – 17.45 Uhr: QZ-Berufswahl Schwerpunkt Berufswahlprozess, Aula - Viel Vergnügen!'
       -
         type: paragraph
         content:
