@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1693984133
+updated_at: 1693984214
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -159,7 +159,7 @@ current_events:
         content:
           -
             type: text
-            text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 -Viel Glück!'
+            text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 - Viel Glück!'
 on_visit:
   -
     id: llxs22lt
