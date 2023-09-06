@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1693983861
+updated_at: 1693984017
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -163,4 +163,30 @@ on_visit:
           -
             type: text
             text: "\_"
+  -
+    id: lm7eatg1
+    from: '2023-09-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.30 – 20.30 Uhr: Lehrpersonen-Weiterbildungsanlass VPD, Aula - Viel Vergnügen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: lm7ebntj
+    from: '2023-09-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch der Schule Quadrius, S240 - Herzlich willkommen!'
 ---
