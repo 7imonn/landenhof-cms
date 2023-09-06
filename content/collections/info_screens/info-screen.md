@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1693984017
+updated_at: 1693984133
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -140,6 +140,26 @@ current_events:
           -
             type: text
             text: '19.00 – 22.00 Uhr: Informationsanlass Taso Sehen, Aula – Viel Vergnügen!'
+  -
+    id: lm7ecx4r
+    from: '2023-09-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sporttag 7. Klasse – Brückenjahr - Viel Vergnügen!'
+  -
+    id: lm7edgns
+    from: '2023-09-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 -Viel Glück!'
 on_visit:
   -
     id: llxs22lt
