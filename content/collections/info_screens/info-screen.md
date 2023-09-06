@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1693561386
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1693983861
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -29,68 +29,6 @@ aktuell:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 infos:
-  -
-    id: llw8a9c7
-    from: '2023-08-30'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-  -
-    id: llw90vj0
-    from: '2023-09-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: llxs8u8r
-    from: '2023-09-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '04.09 – 15.09.23: Leistungstest Check P3 – Viel Glück!'
-      -
-        type: paragraph
-  -
-    id: llxs98qr
-    from: '2023-09-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. P. Dörig geöffnet!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
   -
     id: llxsa5xf
     from: '2023-09-06'
@@ -123,65 +61,55 @@ infos:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lm7e7inr
+    from: '2023-09-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lm7e86zo
+    from: '2023-09-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lm7e8q6p
+    from: '2023-09-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
 current_events:
-  -
-    id: llurqqqg
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 21.00 Uhr: Sommergrill BFSUG - Viel Vergnügen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
-    from: '2023-08-30'
-  -
-    id: llw92l82
-    from: '2023-08-31'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '12.00 – 13.30 Uhr: Pizzaessen der Primarstufe – En Guete!'
-  -
-    id: llxs3o6q
-    from: '2023-09-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '11.30 – 12.15 Uhr: Auftaktveranstaltung der Austrittsgruppen 23/24, Aula – Viel Vergnügen!'
-  -
-    id: llxs513p
-    from: '2023-09-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '05.09 – 06.09.23: Quartalswanderung vom Brückenjahr – Viel Vergnügen!'
-  -
-    id: llxs5w4q
-    from: '2023-09-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '05.09 – 10.09.23: Aargauische Berufsschau im Tägerhard-Gelände in Wettingen – Viel Vergnügen!'
   -
     id: llxs6qfl
     from: '2023-09-06'
@@ -214,36 +142,6 @@ current_events:
             text: '19.00 – 22.00 Uhr: Informationsanlass Taso Sehen, Aula – Viel Vergnügen!'
 on_visit:
   -
-    id: livsdhts
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula – Herzlich willkommen!'
-    from: '2023-08-30'
-  -
-    id: llxrzu2z
-    from: '2023-09-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.15 – 13.15 Uhr: Besuch der Schule Quadrius, S240 - Herzlich willkommen!'
-  -
-    id: llxs1cpg
-    from: '2023-09-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '17.30 - 20.30 Uhr: VPD Weiterbildung Kindergärtner:innen, Aula – Herzlich willkommen!'
-  -
     id: llxs22lt
     from: '2023-09-06'
     text:
@@ -265,14 +163,4 @@ on_visit:
           -
             type: text
             text: "\_"
-  -
-    id: lm0eps8z
-    from: '2023-09-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.45 - 15.40 Uhr: Besuch Elias mit Begleitung - Herzlich willkommen'
 ---
