@@ -3,12 +3,12 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694080766
+updated_at: 1694080814
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
-art: box
+art: text
 color_theme: blue
 aktuell:
   -
@@ -17,87 +17,6 @@ aktuell:
       -
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
-infos:
-  -
-    id: llxsa5xf
-    from: '2023-09-06'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: llxsf1nc
-    from: '2023-09-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lm7e7inr
-    from: '2023-09-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lm7e86zo
-    from: '2023-09-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lm7e8q6p
-    from: '2023-09-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
 current_events:
   -
     id: llxs6qfl
@@ -214,4 +133,11 @@ on_visit:
           -
             type: text
             text: '10.15 – 13.15 Uhr: Besuch der Schule Quadrius, S240 - Herzlich willkommen!'
+info_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'HERZLICH WILLKOMMEN AM LANDENHOF!'
 ---
