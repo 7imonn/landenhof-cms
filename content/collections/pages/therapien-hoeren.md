@@ -394,7 +394,7 @@ components:
         content:
           -
             type: text
-            text: 'Kinder und Jugendliche mit Beeinträchtigungen müssen mehr Hürden überwinden als Gleichaltrige ohne Beeinträchtigung. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, deren Bewältigung immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bietet der Psychologische Dienst des Landenhofs Unterstützung.'
+            text: 'Am Landenhof beschulte Kinder und Jugendliche erleben durch ihre Wahrnehmungsbeeinträchtigung in deutlich höherem Umfang Kommunikationsbarrieren und müssen dadurch oft höhere Hürden im Leben überwinden. Sie selbst, aber auch ihre Familien sehen sich mit diversen Schwierigkeiten konfrontiert, mit denen umzugehen immer wieder Kraft, Zuversicht, Kreativität und Mut erfordert. Hier bietet der Psychologische Dienst Unterstützung.'
     type: text
     enabled: true
   -
@@ -418,80 +418,13 @@ components:
             content:
               -
                 type: text
-                text: 'Mittels systemisch-integrativer Methoden aktivieren und stärken wir im passenden Setting die Ressourcen der Familien hin zu mehr Resilienz, Selbstfürsorge und Lebensqualität.'
+                text: 'Mittels systemisch-integrativer Methoden aktivieren und stärken wir im passenden Setting die Ressourcen der Schüler:innen und deren Familien hin zu mehr Resilienz, Selbstfürsorge und Lebensqualität.'
           -
             type: paragraph
             content:
               -
                 type: text
                 text: 'Weiter bieten wir kinder- und jugendpsychiatrische Abklärungen sowie bei Bedarf entsprechende psychotherapeutische und kinderpsychiatrische Behandlungen.'
-          -
-            type: paragraph
-            content:
-              -
-                type: hard_break
-              -
-                type: text
-                text: 'Behandelt werden können unter anderem:  '
-          -
-            type: bullet_list
-            content:
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Depressive und psychosomatische Erkrankungen'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Angst-, Zwangs- und Anpassungsstörungen'
-          -
-            type: paragraph
-            content:
-              -
-                type: hard_break
-              -
-                type: text
-                text: 'Zudem bieten wir Beratung bei:'
-          -
-            type: bullet_list
-            content:
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Erzieherischen Fragen'
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: Trennungssituationen
-              -
-                type: list_item
-                content:
-                  -
-                    type: paragraph
-                    content:
-                      -
-                        type: text
-                        text: 'Alltags- und Lebensthemen der Jugendlichen (z.B. Umgang mit Emotionen, Identitätssuche, Akzeptanz der Beeinträchtigungen)'
           -
             type: paragraph
             content:
@@ -511,7 +444,7 @@ components:
             content:
               -
                 type: text
-                text: 'Wir sind spezialisiert auf die Arbeit mit hör- und sehbeeinträchtigten Kindern und Jugendlichen. Zudem beraten und begleiten wir Kinder und Jugendliche mit einer Autismus-Spektrum-Störung sowie deren Familien. Unser Angebot richtet sich an alle Landenhof-Schüler:innen sowie deren Familien.'
+                text: 'Wir sind spezialisiert auf die Arbeit mit hör- und sehbeeinträchtigten Kindern und Jugendlichen. Zudem beraten und begleiten wir Kinder und Jugendliche mit einer Autismus-Spektrum-Störung sowie deren Familien. Unser Angebot richtet sich an alle Landenhof-Schüler:innen.'
           -
             type: paragraph
             content:
@@ -531,7 +464,13 @@ components:
                 text: 'Kinder- und Jugendpsychiatrie und Psychotherapie der Psychiatrischen Dienste Aargau (PDAG)'
               -
                 type: text
-                text: '. Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. Wir unterstehen der ärztlichen Schweigepflicht.'
+                text: '. Unser Team besteht aus drei Psychotherapeutinnen und wird von einer konsiliarpsychiatrischen Fachperson geleitet. '
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Wir unterstehen der ärztlichen Schweigepflicht.'
       -
         id: leftexfh
         heading: 'Anmeldung & Kosten'
@@ -565,7 +504,63 @@ components:
             content:
               -
                 type: text
-                text: 'Mit einer ärztlichen Anordnung für Psychotherapie können Abklärungen und Psychotherapien über die Krankenkasse abgerechnet werden.'
+                text: 'Die Abklärungen und Psychotherapien werden über die Grundversicherung der Krankenkasse abgerechnet.'
+      -
+        id: lm8y0svk
+        heading: 'Team Psychologischer Dienst'
+        text:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Sabrina Schatzmann, Fachpsychologin für Psychotherapie FSP, '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:sabrina.schatzmann@landenhof.ch'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: sabrina.schatzmann@landenhof.ch
+              -
+                type: text
+                text: ' '
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Karin Preisig, Fachpsychologin für Psychotherapie FSP, '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:karin.preisig@landenhof.ch'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'karin.preisig@landenhof.ch '
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Julia Lenzen, Fachpsychologin für Psychotherapie FSP, '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:julia.lenzen@landenhof.ch'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: julia.lenzen@landenhof.ch
     type: accordion_group
     enabled: true
   -
@@ -584,5 +579,5 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1693377657
+updated_at: 1694077595
 ---
