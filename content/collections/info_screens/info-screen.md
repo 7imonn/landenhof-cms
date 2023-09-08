@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694092278
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1694152370
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -38,16 +38,6 @@ current_events:
           -
             type: text
             text: '08.15 – 17.30 Uhr: Einführung in die Pädagogik für Schwerhörige und Gehörlose 2023/2024, Aula – Viel Vergnügen'
-  -
-    id: llxs80i6
-    from: '2023-09-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '19.00 – 22.00 Uhr: Informationsanlass Taso Sehen, Aula – Viel Vergnügen!'
   -
     id: lm7ecx4r
     from: '2023-09-12'
