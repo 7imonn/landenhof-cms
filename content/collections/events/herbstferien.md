@@ -4,7 +4,7 @@ blueprint: event
 event_card_layout: as_accordion
 title: Herbstferien
 event_date: '2023-10-02'
-time: '02.10.2023 bis 13.10.2023'
+time: '02. Oktober 2023 bis 13. Oktober 2023'
 file: lottie/event-uebergeordnet.json
 lead:
   -
@@ -57,5 +57,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694167969
+updated_at: 1694168011
 ---
