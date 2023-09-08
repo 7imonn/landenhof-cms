@@ -27,6 +27,18 @@ sections:
           always_save: false
           folder: infoscreen
       -
+        handle: show_decoration
+        field:
+          default: true
+          display: 'Zeige Dekoration'
+          type: toggle
+          icon: toggle
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          instructions: 'Wenn aktiviert wird links vom Bild ein weisses Dekorationselement angezeigt'
+      -
         handle: info_header
         field:
           display: 'Linke Seite'
