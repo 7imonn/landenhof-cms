@@ -10,7 +10,7 @@ galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
 art: text
 color_theme: blue
-aktuell:
+current:
   -
     type: paragraph
     content:

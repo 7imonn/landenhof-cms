@@ -150,7 +150,7 @@ sections:
           always_save: false
           add_row: 'Besuch hinzufügen'
       -
-        handle: aktuell
+        handle: current
         field:
           collapse: false
           always_show_set_button: false
