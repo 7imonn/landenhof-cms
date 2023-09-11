@@ -3,9 +3,8 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694431776
+updated_at: 1694431810
 galerie:
-  - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/monika_neumann_screen.jpg
