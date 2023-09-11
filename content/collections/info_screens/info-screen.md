@@ -3,9 +3,8 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694428750
+updated_at: 1694431287
 galerie:
-  - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - infoscreen/stefan_voramwald_screen.jpg
@@ -17,6 +16,11 @@ galerie:
   - infoscreen/polina_pikulik_screen.jpg
   - infoscreen/danja_rhyn_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
+  - infoscreen/alisha_fink_screen.jpg
+  - infoscreen/denise_williams_screen.jpg
+  - infoscreen/melina_humbert_droz_screen.jpg
+  - infoscreen/noela_sutter_screen.jpg
+  - infoscreen/thomas_ramseier_screen.jpg
 art: box
 color_theme: blue
 current:
