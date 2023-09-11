@@ -2,12 +2,21 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694162759
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1694419409
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
+  - infoscreen/daniela_moor_screen.jpg
+  - infoscreen/danja_rhyn_screen.jpg
+  - infoscreen/evelyne_bolleter_screen.jpg
+  - infoscreen/giulia_glutz_screen.jpg
+  - infoscreen/julia_lenzen_screen.jpg
+  - infoscreen/monika_neumann_screen.jpg
+  - infoscreen/polina_pikulik_screen.jpg
+  - infoscreen/sanja_schillig_screen.jpg
+  - infoscreen/stefan_voramwald_screen.jpg
 art: box
 color_theme: blue
 current:
