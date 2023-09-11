@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694431287
+updated_at: 1694431776
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
@@ -21,7 +21,7 @@ galerie:
   - infoscreen/melina_humbert_droz_screen.jpg
   - infoscreen/noela_sutter_screen.jpg
   - infoscreen/thomas_ramseier_screen.jpg
-art: box
+art: text
 color_theme: blue
 current:
   -
@@ -157,25 +157,11 @@ on_visit:
             type: text
             text: '10.15 – 13.15 Uhr: Besuch der Schule Quadrius, S240 - Herzlich willkommen!'
 show_decoration: false
-infos:
+info_text:
   -
-    id: lmacr09w
-    from: '2023-09-08'
-    text:
+    type: paragraph
+    content:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-      -
-        type: paragraph
+        type: text
+        text: 'Herzlich willkommen am Landenhof!'
 ---
