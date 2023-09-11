@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694431867
+updated_at: 1694431949
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - infoscreen/stefan_voramwald_screen.jpg
@@ -20,7 +20,7 @@ galerie:
   - infoscreen/melina_humbert_droz_screen.jpg
   - infoscreen/noela_sutter_screen.jpg
   - infoscreen/thomas_ramseier_screen.jpg
-art: box
+art: text
 color_theme: blue
 current:
   -
