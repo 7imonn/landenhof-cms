@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694419447
+updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
+updated_at: 1694422134
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-09-1686655379.JPG
@@ -83,6 +83,26 @@ current_events:
           -
             type: text
             text: "\_"
+  -
+    id: lmen5auk
+    from: '2023-09-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Sporttag der Oberstufe und BJ findet morgen Dienstag statt!'
+  -
+    id: lmen5uwz
+    from: '2023-09-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'HEUTE: Der Sporttag der Oberstufe und BJ - Viel Vergnügen und viel Erfolg!'
 on_visit:
   -
     id: llxs22lt
