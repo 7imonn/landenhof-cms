@@ -18,7 +18,6 @@ galerie:
   - infoscreen/polina_pikulik_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
   - infoscreen/stefan_voramwald_screen.jpg
-  - infoscreen/test.jpg
   - infoscreen/thomas_ramseier_screen.jpg
 art: text
 color_theme: blue
