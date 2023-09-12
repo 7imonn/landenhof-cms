@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694521382
+updated_at: 1694521401
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/monika_neumann_screen.jpg
@@ -19,7 +19,6 @@ galerie:
   - infoscreen/melina_humbert_droz_screen.jpg
   - infoscreen/noela_sutter_screen.jpg
   - infoscreen/thomas_ramseier_screen.jpg
-  - infoscreen/denise_williams_fertig.jpg
 art: text
 color_theme: blue
 current:
