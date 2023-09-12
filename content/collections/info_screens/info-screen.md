@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694431987
+updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
+updated_at: 1694495966
 galerie:
   - infoscreen/sehen_vpd_familienanlass_2023-10-1686655383.JPG
   - infoscreen/stefan_voramwald_screen.jpg
@@ -76,16 +76,6 @@ current_events:
           -
             type: text
             text: 'Der Sporttag der Oberstufe und BJ findet morgen Dienstag statt!'
-  -
-    id: lmen5uwz
-    from: '2023-09-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'HEUTE: Der Sporttag der Oberstufe und BJ - Viel Vergnügen und viel Erfolg!'
 on_visit:
   -
     id: llxs22lt
