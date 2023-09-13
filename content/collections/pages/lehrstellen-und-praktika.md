@@ -137,27 +137,6 @@ components:
     type: contact_teaser
     enabled: true
   -
-    id: ldylddr7
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Gerne beantworte ich deine Fragen zur '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Lehrstelle Kauffrau/Kaufmann EFZ'
-          -
-            type: text
-            text: .
-    person: 402454a8-8bfa-4386-9036-a372f4c20151
-    type: contact_teaser
-    enabled: true
-  -
     id: ldyklebn
     text:
       -
@@ -254,5 +233,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694596604
+updated_at: 1694596642
 ---
