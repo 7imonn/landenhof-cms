@@ -1,5 +1,6 @@
 ---
 id: 67f12b83-f022-4892-9dbe-87eed17a134f
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sporttag 7. Klasse bis Brückenjahr'
