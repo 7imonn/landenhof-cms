@@ -92,6 +92,10 @@ components:
         logo: partnerlogos/bildung_beratung_begleitung/logo_zgsz_rgb.PNG
         link: 'https://www.zgsz.ch/'
       -
+        id: lmhg2y9a
+        logo: partnerlogos/logo_never_walk_alone.jpg
+        link: 'https://www.never-walk-alone.ch/'
+      -
         id: lgq9v53m
         logo: partnerlogos/bildung_beratung_begleitung/logo_gehoerlosendorf_rgb_positiv.png
         link: 'https://www.gehoerlosendorf.ch/'
@@ -99,10 +103,6 @@ components:
         id: le4ob6j8
         logo: partnerlogos/bildung_beratung_begleitung/logo_bbz_stegen.JPG
         link: 'https://www.bbzstegen.de/'
-      -
-        id: lmhg2y9a
-        logo: partnerlogos/logo_never_walk_alone.jpg
-        link: 'https://www.never-walk-alone.ch/'
     type: partner_logos
     enabled: true
   -
@@ -141,5 +141,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694591704
+updated_at: 1694591788
 ---
