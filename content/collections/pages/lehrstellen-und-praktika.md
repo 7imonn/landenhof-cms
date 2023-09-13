@@ -95,22 +95,6 @@ components:
           -
             type: text
             text: 'Als Lernende:r Kauffrau/Kaufmann arbeitest du im Sekretariat Schule und Pädaudiologischer Dienst und in der Buchhaltung mit. Du erledigst unter anderem Korrespondenz per Mail und Brief, nimmst Kundenanfragen entgegen, legst Dokumente ab oder hilfst bei Versänden.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::58cd6a1d-f161-4671-bca2-54ffafa59ed8'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Lehrstelle frei ab August 2024'
     type: text
     enabled: true
   -
@@ -270,5 +254,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1683789033
+updated_at: 1694596569
 ---
