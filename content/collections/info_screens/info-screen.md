@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694521888
+updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
+updated_at: 1694583365
 galerie:
   - infoscreen/alisha_fink_screen.jpg
   - infoscreen/daniela_moor_screen.jpg
@@ -107,7 +107,7 @@ on_visit:
         content:
           -
             type: text
-            text: '18.30 – 20.30 Uhr: Lehrpersonen-Weiterbildungsanlass VPD, Aula - Viel Vergnügen!'
+            text: '18.30 – 20.30 Uhr: Lehrpersonen-Weiterbildungsanlass VPD, Aula'
       -
         type: paragraph
         content:
