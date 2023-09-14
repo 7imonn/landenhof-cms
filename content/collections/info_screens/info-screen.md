@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: cfbccace-effa-43a7-94ab-bee56e7ab53d
-updated_at: 1694668582
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1694699742
 galerie:
   - infoscreen/alisha_fink_screen.jpg
   - infoscreen/daniela_moor_screen.jpg
@@ -30,16 +30,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lm7ecx4r
-    from: '2023-09-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Sporttag 7. Klasse – Brückenjahr - Viel Vergnügen!'
-  -
     id: lm7edgns
     from: '2023-09-14'
     text:
@@ -50,32 +40,6 @@ current_events:
             type: text
             text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 - Viel Glück!'
   -
-    id: lm7f60wk
-    from: '2023-09-11'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.45 Uhr: QZ-Berufswahl Schwerpunkt Berufswahlprozess, Aula - Viel Vergnügen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lmen5auk
-    from: '2023-09-11'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Der Sporttag der Oberstufe und BJ findet morgen Dienstag statt!'
-  -
     id: lmipw2cn
     from: '2023-09-14'
     text:
@@ -85,55 +49,85 @@ current_events:
           -
             type: text
             text: '9.00-16.00 Uhr: Workshop Strategiereview der Geschäftsleitung in der Aula'
+  -
+    id: lmj8a1dp
+    from: '2023-09-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.45 – 12.15 Uhr: Fragerunde zu Gesundheitsthemen mit Schulärztin Frau Dr. Doutaz, 9. Klasse, Aula - Viel Lernspass!'
+  -
+    id: lmj8dqci
+    from: '2023-09-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: lmj8ei77
+    from: '2023-09-20'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lmj8fb6v
+    from: '2023-09-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lmj8g5xz
+    from: '2023-09-23'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.00 – 19.00 Uhr: APD Familientreffen – Viel Vergnügen!'
 on_visit:
   -
-    id: llxs22lt
-    from: '2023-09-06'
+    id: lmj89ca3
+    from: '2023-09-18'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.00 - 12.15 Uhr: Besuch Arjun mit Begleitung - Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lm7eatg1
-    from: '2023-09-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.30 – 20.30 Uhr: Lehrpersonen-Weiterbildungsanlass VPD, Aula'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lm7ebntj
-    from: '2023-09-11'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.15 – 13.15 Uhr: Besuch der Schule Quadrius, S240 - Herzlich willkommen!'
+            text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur – Herzlich willkommen!'
 show_decoration: false
 info_text:
   -
