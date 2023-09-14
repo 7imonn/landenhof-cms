@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1694702810
+updated_at: 1694702908
 galerie:
   - infoscreen/alisha_fink_screen.jpg
   - infoscreen/daniela_moor_screen.jpg
@@ -135,5 +135,5 @@ info_text:
     content:
       -
         type: text
-        text: 'Vom Montag, 18. September bis Freitag, 29. September bitten wir, den Waldweg aufgrund von Baumfällarbeiten nicht zu nutzen'
+        text: 'Vom Montag, 18. September bis Freitag, 29. September bitten wir, aufgrund von Baumfällarbeiten den Waldweg nicht zu nutzen!'
 ---
