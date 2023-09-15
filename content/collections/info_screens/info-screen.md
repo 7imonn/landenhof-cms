@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1694702908
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1694760243
 galerie:
   - infoscreen/alisha_fink_screen.jpg
   - infoscreen/daniela_moor_screen.jpg
@@ -19,7 +19,7 @@ galerie:
   - infoscreen/sanja_schillig_screen.jpg
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/thomas_ramseier_screen.jpg
-art: text
+art: box
 color_theme: blue
 current:
   -
@@ -129,11 +129,21 @@ on_visit:
             type: text
             text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur – Herzlich willkommen!'
 show_decoration: false
-info_text:
+infos:
   -
-    type: paragraph
-    content:
+    id: lmk8hcr4
+    from: '2023-09-15'
+    text:
       -
-        type: text
-        text: 'Vom Montag, 18. September bis Freitag, 29. September bitten wir, aufgrund von Baumfällarbeiten den Waldweg nicht zu nutzen!'
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
 ---
