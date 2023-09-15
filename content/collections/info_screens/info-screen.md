@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1694765115
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1694765143
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
@@ -149,22 +149,6 @@ on_visit:
 show_decoration: false
 infos:
   -
-    id: lmk8hcr4
-    from: '2023-09-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
     id: lmk9u9o8
     text:
       -
@@ -172,5 +156,5 @@ infos:
         content:
           -
             type: text
-            text: 'Waldweg zur Tramhaltestelle bitte meiden!'
+            text: 'Bitte Waldweg zur Tramhaltestelle meiden!'
 ---
