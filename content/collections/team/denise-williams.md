@@ -2,7 +2,7 @@
 id: 7ade44ee-bd98-48c5-ae53-68ab8f5af89b
 blueprint: team_member
 title: 'Denise Williams'
-portrait: team/frau-(1).png
+portrait: team/avatar_frau-1.png
 email: denise.williams@landenhof.ch
 phone: '+41 62 737 05 20'
 functions:
