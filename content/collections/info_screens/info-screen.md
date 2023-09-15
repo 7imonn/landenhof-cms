@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694765166
+updated_at: 1694766643
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
@@ -30,26 +30,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lm7edgns
-    from: '2023-09-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.00 – 12.15 Uhr und 13.30 - 15.00 Uhr: Basic Check 9.Klasse, Informatikraum 108 - Viel Glück!'
-  -
-    id: lmipw2cn
-    from: '2023-09-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '9.00-16.00 Uhr: Workshop Strategiereview der Geschäftsleitung in der Aula'
-  -
     id: lmj8a1dp
     from: '2023-09-21'
     text:
@@ -58,7 +38,7 @@ current_events:
         content:
           -
             type: text
-            text: '10.45 – 12.15 Uhr: Fragerunde zu Gesundheitsthemen mit Schulärztin Frau Dr. Doutaz, 9. Klasse, Aula - Viel Lernspass!'
+            text: '10.45 – 12.15 Uhr: Fragerunde zu Gesundheitsthemen mit Schulärztin Frau Dr. Doutaz, 9. Klasse, Aula - Viel Vergnügen!'
   -
     id: lmj8dqci
     from: '2023-09-19'
@@ -116,7 +96,7 @@ current_events:
         content:
           -
             type: text
-            text: '08.00 – 19.00 Uhr: APD Familientreffen – Viel Vergnügen!'
+            text: 'APD Familientreffen – Viel Vergnügen!'
   -
     id: lmk8us8l
     text:
@@ -143,7 +123,7 @@ on_visit:
         content:
           -
             type: text
-            text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur – Herzlich willkommen!'
+            text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur, Aula – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
