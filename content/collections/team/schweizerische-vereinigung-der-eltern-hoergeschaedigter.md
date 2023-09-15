@@ -2,7 +2,6 @@
 id: bb43a427-cede-4a1b-93d0-4586e888e07a
 blueprint: team_member
 title: 'Schweizerische Vereinigung der Eltern hörgeschädigter Kinder'
-portrait: team/avatar-circle.jpg
 email: event@svehk.ch
 phone: '+41 31 731 33 44'
 functions:
