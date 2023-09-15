@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694762557
+updated_at: 1694765024
 galerie:
   - infoscreen/alisha_fink_screen.jpg
   - infoscreen/daniela_moor_screen.jpg
@@ -125,7 +125,16 @@ current_events:
         content:
           -
             type: text
-            text: Sekretariat
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+    from: '2023-09-15'
+  -
+    id: lmkbbu6y
 on_visit:
   -
     id: lmj89ca3
@@ -137,15 +146,6 @@ on_visit:
           -
             type: text
             text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur – Herzlich willkommen!'
-  -
-    id: lmk8rg0f
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bitte Waldweg meiden!'
 show_decoration: false
 infos:
   -
