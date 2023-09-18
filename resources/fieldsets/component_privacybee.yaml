@@ -1,0 +1,13 @@
+title: 'Component PrivacyBee'
+fields:
+  -
+    handle: datenschutzerklaerung_privacybee
+    field:
+      display: 'Datenschutzerklärung PrivacyBee'
+      type: section
+      icon: section
+      instructions: 'Diese Komponente aktiviert automatisch den Dienst "PrivacyBee" auf dieser Seite'
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

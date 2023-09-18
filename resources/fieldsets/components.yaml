@@ -125,6 +125,11 @@ fields:
           fields:
             -
               import: component_raise_now_widget
+        privacybee:
+          display: 'Datenschutzerklärung PrivacyBee'
+          fields:
+            -
+              import: component_privacybee
       display: Komponenten
       type: replicator
       icon: replicator
