@@ -1,5 +1,6 @@
 ---
 id: 9dee4e45-10f1-4884-8cca-f39ba33fe439
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Basis Check 9. Klasse und Brückenjahr'
