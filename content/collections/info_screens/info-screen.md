@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1694766741
+updated_at: 1695104317
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
