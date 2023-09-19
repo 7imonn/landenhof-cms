@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695113678
+updated_at: 1695115292
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
@@ -164,13 +164,13 @@ current_events:
         content:
           -
             type: text
-            text: 'Schulschluss Freitag, 29. September 2023, nach Stundenplan'
+            text: 'Schulschluss: Freitag, 29. September 2023, nach Stundenplan'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Schulbeginn Dienstag, 16. Oktober 2023, 10.00 Uhr'
+            text: 'Schulbeginn: Montag, 16. Oktober 2023, 10.00 Uhr'
   -
     id: lmq2b0kv
     from: '2023-09-29'
