@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1695107145
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1695113678
 galerie:
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
@@ -112,18 +112,88 @@ current_events:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-    from: '2023-09-15'
-on_visit:
+    from: '2023-09-26'
   -
-    id: lmj89ca3
-    from: '2023-09-18'
+    id: lmq27vkf
+    from: '2023-09-27'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '13.30 – 16.30 Uhr: Besuch Heilpädagogischer Dienst Chur, Aula – Herzlich willkommen!'
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lmq28e9b
+    from: '2023-09-28'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen!'
+  -
+    id: lmq28owe
+    from: '2023-09-29'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lmq2a9k1
+    from: '2023-09-29'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulschluss Freitag, 29. September 2023, nach Stundenplan'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn Dienstag, 16. Oktober 2023, 10.00 Uhr'
+  -
+    id: lmq2b0kv
+    from: '2023-09-29'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ganz tolle Herbstferien und ein super Herbstlager - Bis bald!'
+on_visit:
+  -
+    id: lmj89ca3
+    from: '2023-09-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.30 – 21.30 Uhr: Infoanlass Taso Sehen VPD HFE, Aula – Herzlich willkommen!'
+      -
+        type: paragraph
 show_decoration: false
 infos:
   -
