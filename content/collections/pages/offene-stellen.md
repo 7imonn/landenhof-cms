@@ -58,6 +58,16 @@ components:
     type: job_cards
     enabled: true
   -
+    id: lmugfd57
+    heading: Verwaltung
+    manual: true
+    jobs:
+      - ad5a1bea-848e-4170-8734-6cd70520cabb
+    button_text: 'Zur Übersicht'
+    button_link: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+    type: job_cards
+    enabled: true
+  -
     id: lhhsuglo
     heading: 'Lehrstellen (ab August 2024)'
     manual: true
@@ -93,5 +103,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1695043214
+updated_at: 1695378262
 ---
