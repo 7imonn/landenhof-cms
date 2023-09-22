@@ -2,9 +2,10 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695115292
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1695370907
 galerie:
+  - infoscreen/valeriia_berezhna_fertig.jpg
   - infoscreen/stefan_voramwald_screen.jpg
   - infoscreen/sanja_schillig_screen.jpg
   - infoscreen/polina_pikulik_screen.jpg
