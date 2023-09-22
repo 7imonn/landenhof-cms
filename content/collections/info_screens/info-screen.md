@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1695371234
+updated_at: 1695371773
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/stefan_voramwald_screen.jpg
@@ -20,6 +20,7 @@ galerie:
   - infoscreen/evelyne_bolleter_screen.jpg
   - infoscreen/giulia_glutz_screen.jpg
   - infoscreen/julia_lenzen_screen.jpg
+  - infoscreen/vorlage_photoshop_2023.jpg
 art: box
 color_theme: blue
 current:
