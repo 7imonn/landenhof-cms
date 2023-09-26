@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695739724
+updated_at: 1695740039
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/stefan_voramwald_screen.jpg
@@ -30,16 +30,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lmj8g5xz
-    from: '2023-09-23'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'APD Familientreffen – Viel Vergnügen!'
   -
     id: lmk8us8l
     text:
@@ -114,6 +104,46 @@ current_events:
           -
             type: text
             text: 'Ganz tolle Herbstferien und ein super Herbstlager - Bis bald!'
+  -
+    id: ln0fpw48
+    from: '2023-10-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe, Aula - Herzlich willkommen!'
+  -
+    id: ln0fqgic
+    from: '2023-10-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '15.15 – 21.00 Uhr: Austrittsgruppe 9. Klasse Besuch Otoplastiklabor Gruppe A, - Viel Vergnügen!'
+  -
+    id: ln0fr9dr
+    from: '2023-10-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.00 – 20.00 Uhr: Austrittsgruppe 9. Klasse Jugendraum Wenk Gruppe B, - Viel Vergnügen!'
+  -
+    id: ln0fs4ff
+    from: '2023-10-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '11.35 – 12.15 Uhr: Auftakts Sitzung Nothilfekurs 9. Klassen, Aula – Viel Vergnügen!'
 on_visit:
   -
     id: lmj89ca3
@@ -127,6 +157,26 @@ on_visit:
             text: '18.30 – 21.30 Uhr: Infoanlass Taso Sehen VPD HFE, Aula – Herzlich willkommen!'
       -
         type: paragraph
+  -
+    id: ln0ftagp
+    from: '2023-10-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula - Herzlich willkommen!'
+  -
+    id: ln0ftn6v
+    from: '2023-10-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
