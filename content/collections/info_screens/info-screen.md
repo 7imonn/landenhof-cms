@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695740039
+updated_at: 1695740238
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/stefan_voramwald_screen.jpg
@@ -236,4 +236,14 @@ infos:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: ln0fxpm8
+    from: '2023-10-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen allen einen guten Start!'
 ---
