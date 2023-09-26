@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1695371825
+updated_at: 1695715611
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/stefan_voramwald_screen.jpg
@@ -130,16 +130,6 @@ current_events:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lmq28e9b
-    from: '2023-09-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen!'
   -
     id: lmq28owe
     from: '2023-09-29'
