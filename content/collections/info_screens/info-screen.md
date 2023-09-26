@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1695715611
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1695739724
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/stefan_voramwald_screen.jpg
@@ -30,64 +30,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lmj8a1dp
-    from: '2023-09-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.45 – 12.15 Uhr: Fragerunde zu Gesundheitsthemen mit Schulärztin Frau Dr. Doutaz, 9. Klasse, Aula - Viel Vergnügen!'
-  -
-    id: lmj8dqci
-    from: '2023-09-19'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lmj8ei77
-    from: '2023-09-20'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lmj8fb6v
-    from: '2023-09-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
   -
     id: lmj8g5xz
     from: '2023-09-23'
@@ -196,4 +138,52 @@ infos:
           -
             type: text
             text: 'Bitte Waldweg zur Tramhaltestelle meiden!'
+  -
+    id: ln0fmje9
+    from: '2023-10-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: ln0fmsq7
+    from: '2023-10-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: ln0fn0b5
+    from: '2023-10-20'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
 ---
