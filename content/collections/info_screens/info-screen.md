@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695820541
+updated_at: 1695820744
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -23,22 +23,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lmk8us8l
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-    from: '2023-09-26'
   -
     id: lmq27vkf
     from: '2023-09-27'
@@ -106,7 +90,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe Aula, - Herzlich willkommen!'
+            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe, Aula - Herzlich willkommen!'
   -
     id: ln0fqgic
     from: '2023-10-18'
