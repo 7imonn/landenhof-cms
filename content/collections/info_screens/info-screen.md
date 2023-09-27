@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1695816537
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1695819108
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -137,6 +137,16 @@ current_events:
           -
             type: text
             text: '11.35 – 12.15 Uhr: Auftakts Sitzung Nothilfekurs 9. Klassen, Aula – Viel Vergnügen!'
+  -
+    id: ln1qv5i4
+    from: '2023-09-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula (16.30 Uhr: Online Vortrag) - Herzlich willkommen!'
 on_visit:
   -
     id: lmj89ca3
@@ -179,16 +189,6 @@ on_visit:
           -
             type: text
             text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula - Herzlich willkommen!'
-  -
-    id: ln0ftn6v
-    from: '2023-10-19'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula - Herzlich willkommen!'
 show_decoration: true
 infos:
   -
