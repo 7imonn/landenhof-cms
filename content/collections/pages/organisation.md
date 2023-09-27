@@ -569,7 +569,7 @@ components:
         id: ldunuzo0
         name: 'Stiftungsurkunde Landenhof'
         open_in_tab: true
-        file: downloads/landenhof_stiftungsurkunde_2022_web.pdf
+        file: downloads/lh_stiftungsurkunde.pdf
       -
         id: lisr1l6h
         name: Organigramm
