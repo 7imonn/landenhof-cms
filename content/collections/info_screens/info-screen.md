@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1695819108
+updated_at: 1695819656
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -106,7 +106,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe, Aula - Herzlich willkommen!'
+            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe Aula, - Herzlich willkommen!'
   -
     id: ln0fqgic
     from: '2023-10-18'
@@ -116,7 +116,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.15 – 21.00 Uhr: Austrittsgruppe 9. Klasse Besuch Otoplastiklabor Gruppe A, - Viel Vergnügen!'
+            text: '15.15 – 21.00 Uhr: Austrittsgruppe 9. Klasse Besuch Otoplastiklabor Gruppe A - Viel Vergnügen!'
   -
     id: ln0fr9dr
     from: '2023-10-18'
@@ -126,7 +126,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.00 – 20.00 Uhr: Austrittsgruppe 9. Klasse Jugendraum Wenk Gruppe B, - Viel Vergnügen!'
+            text: '16.00 – 20.00 Uhr: Austrittsgruppe 9. Klasse Jugendraum Wenk Gruppe B - Viel Vergnügen!'
   -
     id: ln0fs4ff
     from: '2023-10-19'
