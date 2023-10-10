@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1696925652
+updated_at: 1696925723
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -173,7 +173,7 @@ on_visit:
           -
             type: text
             text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula - Herzlich willkommen!'
-show_decoration: true
+show_decoration: false
 infos:
   -
     id: lmk9u9o8
