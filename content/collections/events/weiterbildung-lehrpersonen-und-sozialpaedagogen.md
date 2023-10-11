@@ -15,10 +15,14 @@ lead:
         text: 'Schulschluss: Donnerstag, 23.11.2023, nach Stundenplan, spätestens um 16.00 Uhr'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         text: 'Schulfrei: Freitag, 24.11.2023 (Kompensation Besuchsmorgen und Elternweihnacht)'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -33,5 +37,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1697014761
+updated_at: 1697014836
 ---
