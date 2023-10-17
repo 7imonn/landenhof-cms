@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1696925723
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1697552353
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -175,15 +175,6 @@ on_visit:
             text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula - Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lmk9u9o8
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bitte Waldweg zur Tramhaltestelle meiden!'
   -
     id: ln0fmje9
     from: '2023-10-17'
