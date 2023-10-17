@@ -1,5 +1,6 @@
 ---
 id: fc7de8ea-a58d-4879-9e04-7885147799c6
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: Herbstferien
