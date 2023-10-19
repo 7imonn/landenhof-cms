@@ -1,5 +1,6 @@
 ---
 id: 1165410d-c014-498f-8025-08053622b3cd
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: Besuch Otoplastiklabor, Gruppe A'
