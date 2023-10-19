@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1697552353
+updated_at: 1697698380
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -123,7 +123,7 @@ current_events:
             text: '11.35 – 12.15 Uhr: Auftakts Sitzung Nothilfekurs 9. Klassen, Aula – Viel Vergnügen!'
   -
     id: ln1qv5i4
-    from: '2023-09-19'
+    from: '2023-10-19'
     text:
       -
         type: paragraph
