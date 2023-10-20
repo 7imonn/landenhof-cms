@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1697793085
+updated_at: 1697793241
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -46,45 +46,26 @@ current_events:
 on_visit:
   -
     id: lmj89ca3
-    from: '2023-09-26'
+    from: '2023-10-23'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '18.30 – 21.30 Uhr: Infoanlass Taso Sehen VPD HFE, Aula – Herzlich willkommen!'
+            text: '13.20 – 15.30 Uhr: Besuch Louis mit Begleitung – Herzlich willkommen!'
       -
         type: paragraph
   -
     id: ln1pbsf8
-    from: '2023-09-28'
+    from: '2023-10-24'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '18.00 - 20.00 Uhr: '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Lions Club Aarau Residenz'
-          -
-            type: text
-            text: ' - Herzlich willkommen!'
-  -
-    id: ln0ftagp
-    from: '2023-10-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula - Herzlich willkommen!'
+            text: '09.40 – 10.25 Uhr: Hospitation: Studierende Uni Bern – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
