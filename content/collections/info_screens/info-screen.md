@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1697792948
+updated_at: 1697793085
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -24,113 +24,25 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lmq27vkf
-    from: '2023-09-27'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lmq28owe
-    from: '2023-09-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lmq2a9k1
-    from: '2023-09-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: Freitag, 29. September 2023, nach Stundenplan'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 16. Oktober 2023, 10.00 Uhr'
-  -
-    id: lmq2b0kv
-    from: '2023-09-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ganz tolle Herbstferien und ein super Herbstlager - Bis bald!'
-  -
-    id: ln0fpw48
-    from: '2023-10-17'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '15.00 – 18.30 Uhr: Mietgliederversammlung Aargauer Sehhilfe, Aula - Herzlich willkommen!'
-  -
-    id: ln0fqgic
-    from: '2023-10-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '15.15 – 20.00 Uhr: Austrittsgruppe 9. Klasse Besuch Otoplastiklabor Gruppe A - Viel Vergnügen!'
-  -
-    id: ln0fr9dr
-    from: '2023-10-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.00 – 19.30 Uhr: Austrittsgruppe 9. Klasse Jugendraum Wenk Gruppe B - Viel Vergnügen!'
-  -
     id: ln0fs4ff
-    from: '2023-10-19'
+    from: '2023-10-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '11.35 – 12.15 Uhr: Auftakts Sitzung Nothilfekurs 9. Klassen, Aula – Viel Vergnügen!'
+            text: '08.00 – 12.00 Uhr: APD-Workshop für Lehrpersonen integriert geschulter Kinder aller Stufen mit einer Hörbeeinträchtigung – Herzlich willkommen!'
   -
     id: ln1qv5i4
-    from: '2023-10-19'
+    from: '2023-10-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula (16.30 Uhr: Online Vortrag) - Herzlich willkommen!'
+            text: '19.00 – 21.00 Uhr: Elternanlass der Austrittsgruppe, Aula – Herzlich willkommen!'
 on_visit:
   -
     id: lmj89ca3
