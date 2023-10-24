@@ -1,5 +1,6 @@
 ---
 id: 3308849f-2d9f-4c36-b999-fe536b046b41
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: 2. Besuch Jugendraum Wenk, Gruppe B'
