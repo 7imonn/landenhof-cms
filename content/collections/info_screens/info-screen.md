@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1698135028
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1698141566
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -43,19 +43,37 @@ current_events:
           -
             type: text
             text: '19.00 – 21.00 Uhr: Elternanlass der Austrittsgruppe, Aula – Herzlich willkommen!'
-on_visit:
   -
-    id: lmj89ca3
-    from: '2023-10-23'
+    id: lo45jf4u
+    from: '2023-10-31'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '13.20 – 15.30 Uhr: Besuch Louis mit Begleitung – Herzlich willkommen!'
+            text: '17.30 – 20.30 Uhr: Assistenzanlass VPD, Aula – Viel Vergnügen!'
+  -
+    id: lo45lli5
+    from: '2023-11-01'
+    text:
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: '17.00 – 18.30 Uhr: Austrittsgruppe 9. Klasse Freizeitangebot, Gruppe A, Aula'
+  -
+    id: lo45lwwu
+    from: '2023-11-01'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.00 – 17.30 Uhr: Austrittsgruppe 2. Besuch Jugendraum Wenk Gruppe B'
+on_visit:
   -
     id: ln1pbsf8
     from: '2023-10-24'
@@ -76,6 +94,22 @@ on_visit:
           -
             type: text
             text: '24.10. - 03.11.2023: Schnupperschüler im Kindergarten, Calypso - Herzlich willkommen!'
+  -
+    id: lo45mpte
+    from: '2023-10-31'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.20 – 16.15 Uhr: Besuch Chiara Maria Antonella mit Begleitung - Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
 show_decoration: false
 infos:
   -
@@ -106,7 +140,7 @@ infos:
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
   -
     id: ln0fn0b5
-    from: '2023-10-20'
+    from: '2023-10-31'
     text:
       -
         type: paragraph
@@ -132,7 +166,23 @@ infos:
             text: 'Wir wünschen euch einen schönen Donnerstag!'
   -
     id: lnye2nfw
-    from: '2023-10-27'
+    from: '2023-11-01'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lo45ioou
+    from: '2023-11-03'
     text:
       -
         type: paragraph
