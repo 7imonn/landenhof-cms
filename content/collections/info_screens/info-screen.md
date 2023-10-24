@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1698141566
+updated_at: 1698151976
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -63,16 +63,6 @@ current_events:
           -
             type: text
             text: '17.00 – 18.30 Uhr: Austrittsgruppe 9. Klasse Freizeitangebot, Gruppe A, Aula'
-  -
-    id: lo45lwwu
-    from: '2023-11-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.00 – 17.30 Uhr: Austrittsgruppe 2. Besuch Jugendraum Wenk Gruppe B'
 on_visit:
   -
     id: ln1pbsf8
@@ -196,4 +186,24 @@ infos:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lo4bt25e
+    from: '2023-10-30'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
+  -
+    id: lo4btvfl
+    from: '2023-11-02'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen schönen Donnerstag!'
 ---
