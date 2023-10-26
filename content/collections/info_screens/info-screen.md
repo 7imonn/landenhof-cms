@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1698151976
+updated_at: 1698332667
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -100,6 +100,16 @@ on_visit:
           -
             type: text
             text: "\_"
+  -
+    id: lo7bedgl
+    from: '2023-10-31'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.15 – 10.10 Uhr: Besuch Maylin mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
