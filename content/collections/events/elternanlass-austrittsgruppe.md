@@ -1,5 +1,6 @@
 ---
 id: 53c55efb-0899-4902-95e2-a21388f6e853
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Elternanlass Austrittsgruppe'
