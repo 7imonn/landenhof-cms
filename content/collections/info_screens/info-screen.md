@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1698388001
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1698760134
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -24,26 +24,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: ln0fs4ff
-    from: '2023-10-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.00 – 12.00 Uhr: APD-Workshop für Lehrpersonen integriert geschulter Kinder aller Stufen mit einer Hörbeeinträchtigung – Herzlich willkommen!'
-  -
-    id: ln1qv5i4
-    from: '2023-10-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '19.00 – 21.00 Uhr: Elternanlass der Austrittsgruppe, Aula – Herzlich willkommen!'
-  -
     id: lo45jf4u
     from: '2023-10-31'
     text:
@@ -63,27 +43,27 @@ current_events:
           -
             type: text
             text: '17.00 – 18.30 Uhr: Austrittsgruppe 9. Klasse Freizeitangebot, Gruppe A, Aula'
+  -
+    id: loedtqjn
+    from: '2023-11-09'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Zukunftstag 5. – 7. Klasse mit Spezialprogramm – Viel Vergnügen!'
+  -
+    id: loedu278
+    from: '2023-11-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Elternbesuchsmorgen – Herzlich willkommen!'
 on_visit:
-  -
-    id: ln1pbsf8
-    from: '2023-10-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.40 – 10.25 Uhr: Hospitation: Studierende Uni Bern – Herzlich willkommen!'
-  -
-    id: lo41prl4
-    from: '2023-10-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '24.10. - 03.11.2023: Schnupperschüler im Kindergarten, Calypso - Herzlich willkommen!'
   -
     id: lo45mpte
     from: '2023-10-31'
@@ -113,32 +93,6 @@ on_visit:
 show_decoration: false
 infos:
   -
-    id: ln0fmje9
-    from: '2023-10-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
-  -
-    id: ln0fmsq7
-    from: '2023-10-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
     id: ln0fn0b5
     from: '2023-10-31'
     text:
@@ -154,16 +108,6 @@ infos:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: ln0fxpm8
-    from: '2023-10-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen schönen Donnerstag!'
   -
     id: lnye2nfw
     from: '2023-11-01'
@@ -197,16 +141,6 @@ infos:
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
   -
-    id: lo4bt25e
-    from: '2023-10-30'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
-  -
     id: lo4btvfl
     from: '2023-11-02'
     text:
@@ -217,8 +151,8 @@ infos:
             type: text
             text: 'Wir wünschen euch einen schönen Donnerstag!'
   -
-    id: lo88ctdz
-    from: '2023-10-27'
+    id: loedri2o
+    from: '2023-11-08'
     text:
       -
         type: paragraph
@@ -232,4 +166,46 @@ infos:
           -
             type: text
             text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: loedruys
+    from: '2023-11-10'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: loedswr7
+    from: '2023-11-07'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: loedwtq7
+    from: '2023-11-06'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
 ---
