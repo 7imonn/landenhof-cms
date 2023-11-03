@@ -1,5 +1,6 @@
 ---
 id: a2be9104-d194-4fb0-9e0f-876cd6276067
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: 9. Klasse Freizeitangebote, Gruppe A'
