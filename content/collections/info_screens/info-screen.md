@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1699454013
+updated_at: 1699454299
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -62,7 +62,7 @@ current_events:
         content:
           -
             type: text
-            text: '08.30 – 12.00 Uhr: Nothilfekurs 9. Klasse, Aula und Klassenzimmer – Viel Vergnügen!'
+            text: '08.30 – 12.00 Uhr: Nothilfekurs 9. Klassen, Aula und Klassenzimmer – Viel Vergnügen!'
   -
     id: lopuvx49
     from: '2023-11-14'
@@ -84,7 +84,17 @@ current_events:
             type: text
             text: '16.15 – 17.30 Uhr: Austrittsgruppe 9. Klasse Invalidenversicherung, Gruppe A+B, Aula – Viel Vergnügen!'
   -
-    id: lopv0udk
+    id: lopv2qbe
+    from: '2023-11-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen!'
+  -
+    id: lopv3bve
     from: '2023-11-17'
     text:
       -
