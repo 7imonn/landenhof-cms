@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1699454299
+updated_at: 1699534060
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -72,17 +72,7 @@ current_events:
         content:
           -
             type: text
-            text: '13.30 – ca. 14.20 Uhr: Impfaktion mit Frau Dr. Doutaz, 7.+8. Klasse, S325 – toi toi toi!'
-  -
-    id: lopuwmyh
-    from: '2023-11-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.15 – 17.30 Uhr: Austrittsgruppe 9. Klasse Invalidenversicherung, Gruppe A+B, Aula – Viel Vergnügen!'
+            text: '13.30 – ca. 14.20 Uhr: Impfaktion mit Frau Dr. Doutaz, 7.+8. Klasse, S325 – Toi toi toi!'
   -
     id: lopv2qbe
     from: '2023-11-16'
