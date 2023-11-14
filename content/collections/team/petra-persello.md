@@ -2,7 +2,7 @@
 id: e14cdc79-4f35-4624-bb65-8ed376218d87
 blueprint: team_member
 title: 'Petra Persello'
-portrait: team/team_persello_petra_02.jpg
+portrait: team/team_persello_petra.jpg
 email: petra.persello@landenhof.ch
 phone: '+41 62 737 05 90'
 functions:
