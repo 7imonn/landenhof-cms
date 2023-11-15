@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1700055862
+updated_at: 1700062781
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -57,7 +57,38 @@ current_events:
         content:
           -
             type: text
-            text: '20.11 – 23.11.23: Berufswahl konkret, Teil 3, drei Tage Schnuppern, Kontaktwoche Berufswelt, 8. Klasse – Viel Vergnügen!'
+            text: '20.11 – 23.11.23: Kontaktwoche Berufswelt, 8. Klasse – Viel Vergnügen!'
+    from: '2023-11-20'
+  -
+    id: lozxbr2j
+    from: '2023-11-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.00 – 18.00 Uhr: VPF HFE Anlass – Herzlich willkommen!'
+  -
+    id: lozxcark
+    from: '2023-11-23'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 16.30 Uhr: Ferum Frühbereich – Herzlich willkommen!'
+  -
+    id: lozxctlo
+    from: '2023-11-24'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 17.00 Uhr: Weiterbildung Lehrpersonen und Sozialpädagogen, Aula und Turnhalle – Viel Vergnügen!'
 on_visit:
   -
     id: loy1tuv7
@@ -71,6 +102,16 @@ on_visit:
             text: '09.00 - 11.00 Uhr: Besuch Erin mit Begleitung - Herzlich willkommen!'
   -
     id: loztcry4
+    from: '2023-11-20'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen?'
+  -
+    id: lozx9pwm
     from: '2023-11-21'
     text:
       -
@@ -171,4 +212,14 @@ infos:
           -
             type: text
             text: 'Schulbeginn Montag, 27. November 2023, 10.00 Uhr'
+  -
+    id: lozxh9yt
+    from: '2023-11-24'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
 ---
