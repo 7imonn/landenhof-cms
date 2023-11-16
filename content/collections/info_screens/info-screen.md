@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1700141384
+updated_at: 1700141545
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -153,7 +153,7 @@ infos:
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart?'
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
   -
     id: lozt8htk
     from: '2023-11-21'
@@ -195,7 +195,7 @@ infos:
         content:
           -
             type: text
-            text: 'Schulschluss spätestens um 16.00 Uhr nach Stundenplan. Wir wünschen allen ein schönes Wochenende!'
+            text: 'Unterricht nach Stundenplan, Schulschluss spätestens um 16.00 Uhr. Wir wünschen allen ein schönes Wochenende!'
       -
         type: paragraph
         content:
