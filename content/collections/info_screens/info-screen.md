@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1700115685
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1700141384
 galerie:
   - infoscreen/valeriia_berezhna_fertig-1695371220.jpg
   - infoscreen/p8237787.JPG
@@ -78,7 +78,7 @@ current_events:
         content:
           -
             type: text
-            text: '13.30 – 16.30 Uhr: Ferum Frühbereich – Herzlich willkommen!'
+            text: '13.30 – 16.30 Uhr: Forum Frühbereich – Herzlich willkommen!'
   -
     id: lozxctlo
     from: '2023-11-24'
@@ -99,7 +99,7 @@ on_visit:
         content:
           -
             type: text
-            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen?'
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
   -
     id: lozx9pwm
     from: '2023-11-21'
@@ -109,7 +109,7 @@ on_visit:
         content:
           -
             type: text
-            text: 'Besuch Milena mit Begleitung – Herzlich willkommen!'
+            text: '13.20 - 16.00 Uhr: Besuch Milena mit Begleitung – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
