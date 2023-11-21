@@ -3,16 +3,16 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1700574640
+updated_at: 1700574707
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
   - infoscreen/p8237851.JPG
   - infoscreen/patricia_lienhard_fertig.jpg
   - infoscreen/p8237897.JPG
-  - infoscreen/p8237911.JPG
   - infoscreen/p8237963.JPG
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
+  - infoscreen/p8237812.JPG
 art: box
 color_theme: blue
 current:
