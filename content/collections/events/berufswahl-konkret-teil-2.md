@@ -1,5 +1,6 @@
 ---
 id: f8a2d9c0-6a8e-4c1c-95ab-87e3dadfaec9
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Berufswahl konkret, Teil 2'
