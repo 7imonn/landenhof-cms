@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1700667081
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1700734592
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -25,7 +25,7 @@ current:
 current_events:
   -
     id: lozxcark
-    from: '2023-11-23'
+    from: '2023-11-27'
     text:
       -
         type: paragraph
