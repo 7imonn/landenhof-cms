@@ -31,12 +31,19 @@ return [
     'ip_whitelist' => [
         // Keep empty to allow all IP addresses
         '127.0.0.1',
-        '78.47.88.225',
-        '213.3.16.172',
+        '78.47.88.225', // prometheus
+        '85.195.233.244', // office bern
+        '212.51.146.222', // office zurich
+
     ],
 
     /*
      * You can change the Middleware which is used for the IP whitelisting.  You can add your own, like a token based authentication.
      */
     'middleware' => \LKDevelopment\HorizonPrometheusExporter\Http\Middleware\IPWhitelistingMiddleware::class,
+
+    /*
+     * Allow storage to be wiped after a render of data in metrics controller
+     */
+    'wipe_storage_after_render' => false,
 ];
