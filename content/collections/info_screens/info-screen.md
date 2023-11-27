@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1700734592
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1701071910
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -126,6 +126,16 @@ on_visit:
           -
             type: text
             text: '13.20 – 15.45 Uhr: Besuch Nuria mit Begleitung – Herzlich willkommen!'
+  -
+    id: lpgm94sz
+    from: '2023-11-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '27.11 – 01.12.2023: Schnupperschülerin in der 5. Klasse, Herkules – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
