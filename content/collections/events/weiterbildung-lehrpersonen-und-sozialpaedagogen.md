@@ -1,5 +1,6 @@
 ---
 id: 6a7e8d14-5a07-4d3c-99b1-3cfe7f0a1519
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Weiterbildung Lehrpersonen und Sozialpädagogen'
