@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1701271885
+updated_at: 1701272103
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -96,7 +96,7 @@ on_visit:
             text: '08.15 – 12.15 Uhr: Besuch Medizinstudenten: innen Uni Basel – Herzlich willkommen!'
   -
     id: lpjwbpyk
-    from: '2023-11-29'
+    from: '2023-12-06'
     text:
       -
         type: paragraph
@@ -104,6 +104,16 @@ on_visit:
           -
             type: text
             text: '09.30 - 11.45 Uhr: Besuch Elynn mit Begleitung - Herzlich willkommen!'
+  -
+    id: lpjxewiy
+    from: '2023-12-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
 show_decoration: false
 infos:
   -
@@ -148,16 +158,6 @@ infos:
           -
             type: text
             text: 'Wir wünschen euch einen tollen Wochenstart!'
-  -
-    id: lpjvtsye
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
   -
     id: lpjvubup
     from: '2023-12-05'
