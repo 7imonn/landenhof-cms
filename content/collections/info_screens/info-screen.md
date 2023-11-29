@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1701272103
+updated_at: 1701273768
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -93,7 +93,7 @@ on_visit:
         content:
           -
             type: text
-            text: '08.15 – 12.15 Uhr: Besuch Medizinstudenten: innen Uni Basel – Herzlich willkommen!'
+            text: '08.15 – 12.15 Uhr: Besuch Medizinstudent: innen Uni Basel – Herzlich willkommen!'
   -
     id: lpjwbpyk
     from: '2023-12-06'
