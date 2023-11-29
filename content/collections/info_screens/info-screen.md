@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1701270506
+updated_at: 1701271494
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -42,7 +42,7 @@ current_events:
         content:
           -
             type: text
-            text: '17.00 – 18.00 Uhr: Calypso Adventsfenster - Viel Vergnügen!'
+            text: '17.00 – 18.00 Uhr: Adventsfenster Calypso - Viel Vergnügen!'
   -
     id: lpjvvvpt
     from: '2023-12-05'
@@ -52,7 +52,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.20 – 17.40 Uhr: QZ-Berufswahl, Aula – Herzlich willkommen!'
+            text: '16.20 – 17.45 Uhr: QZ-Berufswahl, Aula – Herzlich willkommen!'
   -
     id: lpjw058s
     from: '2023-12-06'
@@ -103,7 +103,7 @@ on_visit:
         content:
           -
             type: text
-            text: '09.00 - 11.45 Uhr: Besuch Elynn mit Begleitung - Herzlich willkommen!'
+            text: '09.30 - 11.45 Uhr: Besuch Elynn mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
