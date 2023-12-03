@@ -2,17 +2,16 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1701360274
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1701628009
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
   - infoscreen/p8237851.JPG
-  - infoscreen/p8237897.JPG
   - infoscreen/p8237963.JPG
+  - infoscreen/melanie_siegrist_fertig.jpg
   - infoscreen/sehen_vpd_familienanlass_2023-06-1686655374.JPG
   - infoscreen/p8237812.JPG
-  - infoscreen/melanie_siegrist_fertig.jpg
 art: box
 color_theme: blue
 current:
