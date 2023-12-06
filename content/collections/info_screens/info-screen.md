@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1701628009
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1701878202
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -23,36 +23,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lp9x1uwn
-    from: '2023-11-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '17.30 – 20.00 Uhr: Adventsapéro der BFSUG – Viel Vergnügen!'
-  -
-    id: lpjvvoft
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '17.00 – 18.00 Uhr: Adventsfenster Calypso - Viel Vergnügen!'
-  -
-    id: lpjvvvpt
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.45 Uhr: QZ-Berufswahl, Aula – Herzlich willkommen!'
-  -
     id: lpjw058s
     from: '2023-12-06'
     text:
@@ -62,27 +32,37 @@ current_events:
           -
             type: text
             text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse Invalidenversicherung, Gruppe A+B, Aula – Viel Vergnügen!'
+  -
+    id: lpty7a1c
+    from: '2023-12-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'ab 18.30 Uhr: Weihnachtsessen der Mitarbeitenden – Viel Vergnügen!'
+  -
+    id: lptyaioj
+    from: '2023-12-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – ca. 11.00 Uhr: Weihnachtsfeier für alle Schüler:innen und Eltern - Viel Vergnügen!'
+  -
+    id: lptybrlt
+    from: '2023-12-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
 on_visit:
-  -
-    id: lp9x65r8
-    from: '2023-11-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.20 – 16.00 Uhr: Hospitation in der P6 und Real b – Herzlich willkommen!'
-  -
-    id: lpi6pf2b
-    from: '2023-12-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 - 11.00 Uhr: Besuch Erin mit Begleitung – Herzlich willkommen!'
   -
     id: lpjwb17a
     from: '2023-12-06'
@@ -103,96 +83,8 @@ on_visit:
           -
             type: text
             text: '09.30 - 11.45 Uhr: Besuch Elynn mit Begleitung - Herzlich willkommen!'
-  -
-    id: lpjxewiy
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
-  -
-    id: lpkzgr2t
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.50 - 12.15 Uhr: Besuch Jana mit Begleitung – Herzlich willkommen!'
-  -
-    id: lpldy73k
-    from: '2023-12-07'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.40 - 11.30 Uhr: Besuch Emil mit Begleitung – Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lp9x0cgk
-    from: '2023-11-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lp9x0hn6
-    from: '2023-12-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
-  -
-    id: lpjvtlfo
-    from: '2023-12-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
-  -
-    id: lpjvubup
-    from: '2023-12-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
   -
     id: lpjvukmj
     from: '2023-12-06'
@@ -235,4 +127,56 @@ infos:
           -
             type: text
             text: 'Wir wünschen euch einen schönen Donnerstag!'
+  -
+    id: lpty5eln
+    from: '2023-12-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
+  -
+    id: lpty600v
+    from: '2023-12-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 - 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+  -
+    id: lpty6r0s
+    from: '2023-12-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
+  -
+    id: lpty6zcg
+    from: '2023-12-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.15 - 13.45 Uhr: PAD Sprechstunde'
 ---
