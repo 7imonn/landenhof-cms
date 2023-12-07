@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1701878459
+updated_at: 1701934022
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -93,6 +93,16 @@ on_visit:
           -
             type: text
             text: '08.40 – 10.30 Uhr: Besuch Malik mit Begleitung - Herzlich willkommen!'
+  -
+    id: lpuuix4g
+    from: '2023-12-07'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.40 - 10.45 Uhr: Besuch Emil mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
