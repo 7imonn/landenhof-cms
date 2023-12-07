@@ -1,5 +1,6 @@
 ---
 id: 91ffeda9-5a90-4e62-891b-87ec225f5ce3
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Austrittsgruppe: 9. Klasse, Invalidenversicherung, Gruppe A + B'
