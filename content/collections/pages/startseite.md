@@ -3,7 +3,7 @@ id: c0a53f6a-b1db-4743-8846-000e71cc87a1
 blueprint: page
 title: Startseite
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1701608388
+updated_at: 1701935224
 heading: 'Der Landenhof begleitet hör- und sehbeeinträchtigte Kinder und Jugendliche sowie deren Umfeld'
 components:
   -
@@ -67,7 +67,6 @@ components:
     type: event_cards
     enabled: true
     events:
-      - 91ffeda9-5a90-4e62-891b-87ec225f5ce3
       - db692156-92a6-4d59-9557-29d9b4065a32
       - b02c8b8f-1ef9-47bb-8afb-97ac51d9e721
       - 44027529-4bd1-4dfc-8c9b-6fa95fc59df2
