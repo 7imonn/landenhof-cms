@@ -48,7 +48,7 @@ components:
       -
         id: lq0pcdmx
         name: Übersicht
-        file: downloads/taso_sehen_ppp.pdf
+        file: downloads/taso_sehen_ppp-1702303035.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
