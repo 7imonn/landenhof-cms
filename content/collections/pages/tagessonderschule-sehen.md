@@ -32,7 +32,7 @@ components:
         content:
           -
             type: text
-            text: 'Das Angebot startet im August 2024 mit 2 altersdurchmischten Klassen (eine Klasse Zyklus 1-2, ohne Kindergarten; eine Klasse Zyklus 3). '
+            text: 'Das Angebot startet im August 2024 mit voraussichtlich zwei altersdurchmischten Klassen (eine Klasse Zyklus 1-2, ohne Kindergarten; eine Klasse Zyklus 3). '
       -
         type: paragraph
         content:
@@ -121,5 +121,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702287274
+updated_at: 1702302147
 ---
