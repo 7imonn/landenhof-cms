@@ -47,7 +47,7 @@ components:
     files:
       -
         id: lq0pcdmx
-        name: Übersicht
+        name: 'Übersicht Projekt und Angebot'
         file: downloads/taso_sehen_ppp.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
@@ -59,7 +59,7 @@ components:
     files:
       -
         id: lq0p6zt3
-        name: 'Grafik Aufnahmeprozess VPD Kindergarten (HFE) und Regelschule (B&B)'
+        name: 'Grafik Aufnahmeprozess'
         file: downloads/taso_sehen_aufnahmeprozess_vpd_hfe_bb.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
@@ -109,5 +109,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702303070
+updated_at: 1702303172
 ---
