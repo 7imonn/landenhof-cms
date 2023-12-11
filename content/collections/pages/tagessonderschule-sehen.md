@@ -26,21 +26,19 @@ components:
         content:
           -
             type: text
-            text: 'Im Auftrag des Kantons Aargau bauen wir eine Tagessonderschule für Kinder und Jugendliche mit Sehbeeinträchtigungen auf. Dadurch können betroffene Aargauer Kinder und Jugendliche wohnortnah eine Tagessonderschule besuchen. '
+            text: 'Im Auftrag des Kantons Aargau bauen wir eine Tagessonderschule für Kinder und Jugendliche mit Sehbeeinträchtigungen auf. Dadurch können sehbeeinträchtigte Kinder und Jugendliche aus dem Kanton Aargau wohnortnah eine Tagessonderschule besuchen. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Das Angebot startet im August 2024 mit 2 altersdurchmischten Klassen (eine Klasse Zyklus 1-2, eine Klasse Zyklus 3, kein Kindergarten). '
+            text: 'Das Angebot startet im August 2024 mit 2 altersdurchmischten Klassen (eine Klasse Zyklus 1-2, ohne Kindergarten; eine Klasse Zyklus 3). '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Aktuelle Informationen zum Projekt Tagessonderschule Sehen sowie zum Aufnahmeprozess finden Sie in den unten aufgeführten Dokumenten.'
-      -
-        type: paragraph
+            text: 'Aktuelle Informationen zum Projekt/Angebot Tagessonderschule Sehen und zum Aufnahmeprozess finden Sie in den unten aufgeführten Dokumenten.'
     type: text
     enabled: true
   -
@@ -123,5 +121,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702286912
+updated_at: 1702287073
 ---
