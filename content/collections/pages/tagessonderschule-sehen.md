@@ -60,7 +60,7 @@ components:
       -
         id: lq0p6zt3
         name: 'Grafik Aufnahmeprozess VPD Kindergarten (HFE) und Regelschule (B&B)'
-        file: downloads/taso_sehen_aufnahmeprozess_hfe_bb-1702302945.pdf
+        file: downloads/taso_sehen_aufnahmeprozess_vpd_hfe_bb.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
