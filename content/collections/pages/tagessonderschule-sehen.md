@@ -38,7 +38,7 @@ components:
         content:
           -
             type: text
-            text: 'Weiterführende Informationen zum Angebot sowie zum Aufnahmeprozess finden Sie in den unten aufgeführten Dokumenten.'
+            text: 'Aktuelle Informationen zum Projekt Tagessonderschule Sehen sowie zum Aufnahmeprozess finden Sie in den unten aufgeführten Dokumenten.'
       -
         type: paragraph
     type: text
@@ -78,7 +78,7 @@ components:
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
-    enabled: true
+    enabled: false
   -
     id: leououd2
     icon_cards:
@@ -106,10 +106,22 @@ components:
             link: 'entry::12bc0c34-36e0-4efe-9843-3edbf3d3e6bb'
     type: icon_cards
     enabled: false
+  -
+    id: lq0phd9a
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bei Interesse und Fragen zur Aufnahme an die Tagessonderschule Sehen stehe ich Ihnen gerne zur Verfügung.'
+    person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
+    type: contact_teaser
+    enabled: true
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
 color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702286573
+updated_at: 1702286733
 ---
