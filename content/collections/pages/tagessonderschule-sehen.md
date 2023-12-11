@@ -26,10 +26,58 @@ components:
         content:
           -
             type: text
-            text: 'Im Auftrag des Kantons Aargau bauen wir eine Tagessonderschule für Kinder und Jugendliche mit Sehbeeinträchtigungen auf. Dadurch können betroffene Aargauer Kinder und Jugendliche wohnortnah eine Tagessonderschule besuchen. Das Angebot startet im August 2024. '
+            text: 'Im Auftrag des Kantons Aargau bauen wir eine Tagessonderschule für Kinder und Jugendliche mit Sehbeeinträchtigungen auf. Dadurch können betroffene Aargauer Kinder und Jugendliche wohnortnah eine Tagessonderschule besuchen. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Das Angebot startet im August 2024 mit 2 altersdurchmischten Klassen (eine Klasse Zyklus 1-2, eine Klasse Zyklus 3, kein Kindergarten). '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Weiterführende Informationen zum Angebot sowie zum Aufnahmeprozess finden Sie in den unten aufgeführten Dokumenten.'
       -
         type: paragraph
     type: text
+    enabled: true
+  -
+    id: lq0pc747
+    heading: 'Angebot Tagessonderschule Sehen'
+    files:
+      -
+        id: lq0pcdmx
+        name: Übersicht
+        file: downloads/taso_sehen_ppp.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
+    enabled: true
+  -
+    id: lq0p5uyu
+    heading: 'Aufnahmeprozess für Kinder und Jugendliche, die durch den Visiopädagogischen Dienst begleitet werden.'
+    files:
+      -
+        id: lq0p6zt3
+        name: 'Grafik Aufnahmeprozess VPD Kindergarten (HFE) und Regelschule (B&B)'
+        file: downloads/taso_sehen_aufnahmeprozess_hfe_bb.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
+    enabled: true
+  -
+    id: lq0p95bk
+    heading: 'Aufnahmeprozess für ausserkantonal beschulte Kinder und Jugendliche'
+    files:
+      -
+        id: lq0p9l5p
+        name: 'Grafik Aufnahmeprozess ausserkantonal'
+        file: downloads/taso_sehen_aufnahmeprozess_ausserkantonal.pdf
+        open_in_tab: true
+    button_text: 'Mehr anzeigen'
+    type: downloads
     enabled: true
   -
     id: leououd2
@@ -57,11 +105,11 @@ components:
             link_title: 'Erfahren Sie mehr.'
             link: 'entry::12bc0c34-36e0-4efe-9843-3edbf3d3e6bb'
     type: icon_cards
-    enabled: true
+    enabled: false
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
 color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1701941990
+updated_at: 1702286533
 ---
