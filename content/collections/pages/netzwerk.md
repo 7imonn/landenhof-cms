@@ -101,7 +101,7 @@ components:
         link: 'https://www.gehoerlosendorf.ch/'
       -
         id: lq2829rn
-        logo: partnerlogos/organisationen_selbstbetroffener/logo_visoparents.svg
+        logo: partnerlogos/bildung_beratung_begleitung/logo_visoparents.svg
         link: 'https://www.visoparents.ch/'
       -
         id: lmhg2y9a
