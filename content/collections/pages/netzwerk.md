@@ -93,7 +93,7 @@ components:
         link: 'https://www.zgsz.ch/'
       -
         id: lmhg2y9a
-        logo: partnerlogos/logo_never_walk_alone.jpg
+        logo: partnerlogos/bildung_beratung_begleitung/logo_never_walk_alone.jpg
         link: 'https://www.never-walk-alone.ch/'
       -
         id: lgq9v53m
