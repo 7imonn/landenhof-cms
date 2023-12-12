@@ -56,6 +56,10 @@ components:
         logo: partnerlogos/bildung_beratung_begleitung/logo_bfsug_ch_gelb.JPG
         link: 'https://www.bfsug.ch/'
       -
+        id: lq27lah7
+        logo: partnerlogos/bildung_beratung_begleitung/logo_aargauer_sehhilfe.jpg
+        link: 'https://www.aargauer-sehhilfe.ch/'
+      -
         id: 0ZXhBhqb
         logo: partnerlogos/bildung_beratung_begleitung/logo_bsfh.jpg
         link: 'https://www.bsfh.ch/'
@@ -149,5 +153,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702375300
+updated_at: 1702377524
 ---
