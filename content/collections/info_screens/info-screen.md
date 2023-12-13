@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1702478515
+updated_at: 1702479780
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237859.JPG
@@ -152,7 +152,7 @@ infos:
         content:
           -
             type: text
-            text: 'Wie wünschen euch einen schönen Donnerstag!'
+            text: 'Wir wünschen euch einen schönen Donnerstag!'
   -
     id: lq3vbpg5
     from: '2023-12-22'
@@ -177,13 +177,13 @@ infos:
         content:
           -
             type: text
-            text: 'Schulschluss Freitag, 22. Dezember 2023 nach Stundenplan spätestens um 15.00 Uhr.'
+            text: 'Schulschluss nach Stundenplan, spätestens um 15.00 Uhr.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: "\_Schulbeginn Montag, 8. Januar 2024, 10.00 Uhr"
+            text: 'Schulbeginn: Montag, 8. Januar 2024, 10.00 Uhr'
       -
         type: paragraph
         content:
@@ -192,5 +192,6 @@ infos:
             marks:
               -
                 type: bold
-            text: 'Wir wünschen euch allen wunderschöne Weihnachtferien und einen guten Rutsch ins neue Jahr!'
+            text: 'Wir wünschen euch allen wunderschöne Weihnachtsferien und einen guten Rutsch ins neue Jahr!'
+    from: '2023-12-22'
 ---
