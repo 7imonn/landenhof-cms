@@ -7,7 +7,6 @@ updated_at: 1702549246
 galerie:
   - infoscreen/schulsport_2024_1.jpg
   - infoscreen/schulsport_2024_2.jpg
-  - infoscreen/schulsport_2024_0-1702548465.jpg
 art: box
 color_theme: blue
 current:
