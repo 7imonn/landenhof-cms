@@ -188,6 +188,5 @@ infos:
     from: '2023-12-22'
 galerie:
   - infoscreen/melanie_siegrist_fertig.jpg
-  - infoscreen/ausschreibung-schulsport-entfelden---2.-semester-2023_24-(002).pdf
   - infoscreen/informationen-eltern-schulsport-entfelden-2.-semester-(003).pdf
 ---
