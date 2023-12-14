@@ -10,7 +10,6 @@ galerie:
   - infoscreen/p8237812.JPG
   - infoscreen/p8237851.JPG
   - infoscreen/schulsport_2024_0.jpg
-  - infoscreen/schulsport_2024_1.jpg
 art: box
 color_theme: blue
 current:
