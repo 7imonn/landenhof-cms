@@ -9,7 +9,6 @@ galerie:
   - infoscreen/p8237851.JPG
   - infoscreen/melanie_siegrist_fertig.jpg
   - infoscreen/p8237812.JPG
-  - infoscreen/schulsport_2024_1.jpg
   - infoscreen/schulsport_2024_2.jpg
 art: box
 color_theme: blue
