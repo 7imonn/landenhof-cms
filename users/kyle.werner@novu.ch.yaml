@@ -12,3 +12,5 @@ preferences:
       after_save: create_another
     blog_posts:
       after_save: continue_editing
+    info_screens:
+      after_save: continue_editing
