@@ -3,15 +3,12 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1702547532
+updated_at: 1702547690
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237851.JPG
   - infoscreen/melanie_siegrist_fertig.jpg
   - infoscreen/p8237812.JPG
-  - infoscreen/schulsport_2024_0.jpg
-  - infoscreen/schulsport_2024_1.jpg
-  - infoscreen/schulsport_2024_2.jpg
 art: box
 color_theme: blue
 current:
