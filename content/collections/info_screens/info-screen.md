@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1702624748
+updated_at: 1702624781
 art: box
 color_theme: blue
 current:
@@ -188,4 +188,7 @@ infos:
     from: '2023-12-22'
 galerie:
   - infoscreen/schulsport_2024_0-1702551301.jpg
+  - infoscreen/p8237787.JPG
+  - infoscreen/p8237812.JPG
+  - infoscreen/p8237897.JPG
 ---
