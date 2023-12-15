@@ -191,5 +191,4 @@ galerie:
   - infoscreen/melanie_siegrist_fertig.jpg
   - infoscreen/p8237859.JPG
   - infoscreen/p8237851.JPG
-  - infoscreen/schulsport_2024_2.jpg
 ---
