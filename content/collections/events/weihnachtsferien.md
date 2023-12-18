@@ -21,10 +21,50 @@ lead:
         text: 'Schulbeginn: Montag, 8. Januar 2024, 10.00 Uhr'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
-        text: 'Wir wünschen allen schöne Ferien!'
+        marks:
+          -
+            type: bold
+        text: 'Öffnungszeiten Sekretariat'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Das Sekretariat bleibt vom '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Freitag, 22. Dezember 2023, 15.15 Uhr bis Sonntag, 7. Januar 2024 '
+      -
+        type: text
+        text: geschlossen.
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Ab Montag, 8. Januar 2024'
+      -
+        type: text
+        text: ' sind wir gerne wieder zu den üblichen Öffnungszeiten für Sie da.'
+  -
+    type: paragraph
+    content:
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Wir wünschen allen schöne und erholsame Weihnachtsferien!'
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
 color_theme: green
 categories:
@@ -33,6 +73,6 @@ categories:
   - hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1697015389
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1702894273
 ---
