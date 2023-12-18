@@ -2,7 +2,7 @@
 id: 44027529-4bd1-4dfc-8c9b-6fa95fc59df2
 blueprint: event
 event_card_layout: as_accordion
-title: 'Weihnachtsferien 25. Dez. 2023 - 5 . Jan. 2024'
+title: 'Weihnachtsferien 25.12.2023 - 5.1.2024'
 event_date: '2023-12-25'
 time: '25. Dezember 2023 bis 5. Januar 2024'
 file: lottie/event-hoeren.json
@@ -74,5 +74,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1702895349
+updated_at: 1702895377
 ---
