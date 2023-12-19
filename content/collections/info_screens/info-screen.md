@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1702979121
+updated_at: 1702979158
 art: box
 color_theme: blue
 current:
@@ -15,36 +15,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lpty7a1c
-    from: '2023-12-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'ab 18.30 Uhr: Weihnachtsessen der Mitarbeitenden – Viel Vergnügen!'
-  -
-    id: lptyaioj
-    from: '2023-12-16'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – ca. 11.00 Uhr: Weihnachtsfeier für alle Schüler:innen und Eltern - Viel Vergnügen!'
-  -
-    id: lptybrlt
-    from: '2023-12-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Bewegungsjagden im Gebiet – Bitte Wald meiden!'
-  -
     id: lq3vegms
     from: '2023-12-22'
     text:
@@ -54,39 +24,8 @@ current_events:
           -
             type: text
             text: 'Ab 15.15 Uhr: Weihnachtsapéro für die Mitarbeitenden – Viel Vergnügen!'
-on_visit:
-  -
-    id: lptyh2qb
-    from: '2023-12-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.40 – 10.30 Uhr: Besuch Malik mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lpty6zcg
-    from: '2023-12-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lq3v67yx
-    from: '2023-12-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
   -
     id: lq3v7wny
     from: '2023-12-19'
