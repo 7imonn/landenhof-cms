@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1703080729
+updated_at: 1703083134
 art: box
 color_theme: blue
 current:
@@ -33,7 +33,17 @@ current_events:
         content:
           -
             type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula - Herzlich willkommen'
+            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula - Herzlich willkommen!'
+  -
+    id: lqdvoucw
+    from: '2024-01-10'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Neujahrsanlass Chlini Gigante – Viel Vergnügen!'
 on_visit:
   -
     id: lqdty73q
