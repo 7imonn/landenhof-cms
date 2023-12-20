@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1703083134
+updated_at: 1703086441
 art: box
 color_theme: blue
 current:
@@ -43,7 +43,7 @@ current_events:
         content:
           -
             type: text
-            text: 'Neujahrsanlass Chlini Gigante – Viel Vergnügen!'
+            text: '16:00 - 21:00 Uhr: Neujahrsanlass Chlini Gigante – Viel Vergnügen!'
 on_visit:
   -
     id: lqdty73q
@@ -145,7 +145,7 @@ infos:
         content:
           -
             type: text
-            text: '10.25 – 10.45: PAD Sprechstunde'
+            text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
   -
     id: lqdtwdjo
     from: '2024-01-10'
@@ -155,7 +155,7 @@ infos:
         content:
           -
             type: text
-            text: '10.25 – 10.45: PAD Sprechstunde'
+            text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
   -
     id: lqdtws6g
     from: '2024-01-12'
@@ -165,7 +165,7 @@ infos:
         content:
           -
             type: text
-            text: '10.25 – 10.45: PAD Sprechstunde'
+            text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
 galerie:
   - infoscreen/schulsport_2024_0-1702551301.jpg
   - infoscreen/p8237787.JPG
