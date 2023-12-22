@@ -2,9 +2,8 @@
 id: 0b6c3421-20cb-4f05-9350-f286eaa1e861
 blueprint: event
 event_card_layout: as_accordion
-title: 'Weiterbildung Lehrpersonen und Sozialpädagogen (Dupliziert)'
-event_date: '2023-11-24'
-time: ganztags
+title: 'Weiterbildung Schule und Internat'
+event_date: '2024-02-23'
 file: lottie/event-hoeren.json
 lead:
   -
@@ -12,23 +11,13 @@ lead:
     content:
       -
         type: text
-        text: 'Schulschluss: Donnerstag, 23.11.2023, nach Stundenplan, spätestens um 16.00 Uhr'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Schulfrei: Freitag, 24.11.2023 (Kompensation Besuchsmorgen und Elternweihnacht)'
-  -
-    type: paragraph
+        text: 'Schulschluss: Freitag, 23. Februar 2024, nach Stundenplan, spätestens um 12.00 Uhr'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Schulbeginn: Montag, 27.11.2023, 10.00 Uhr'
+        text: ' (Kompensation Besuchsmorgen 23.03.2024)'
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
 color_theme: green
 categories:
@@ -37,5 +26,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1697014875
+updated_at: 1703238917
 ---
