@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1703086645
+updated_at: 1703239791
 art: box
 color_theme: blue
 current:
@@ -65,6 +65,16 @@ on_visit:
           -
             type: text
             text: '08.50 – 12.15 Uhr: Schulzahnprophylaxe 3.-6. Klasse, im Klassenzimmer'
+  -
+    id: lqggyclk
+    from: '2024-01-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 - 11.00 Uhr: Besuch Maximilian mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
