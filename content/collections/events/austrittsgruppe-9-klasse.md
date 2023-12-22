@@ -1,11 +1,10 @@
 ---
 id: 30a00301-5e08-4ef7-9e64-1e2e4dde9043
-published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Austrittsgruppe 9. Klasse'
-event_date: '2023-03-07'
-time: '11.30 - 12.00 Uhr'
+event_date: '2024-01-17'
+time: '15.15 - 16.45 Uhr'
 location: 'Aula, Landenhof'
 file: lottie/event-hoeren.json
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
@@ -15,18 +14,19 @@ categories:
   - tagessonderschule-hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677254256
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1703233904
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gruppe A+B+C'
-      -
-        type: hard_break
+        text: Audiologie
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: 'Vorbereitung Abschlussevent'
+        text: 'Gruppe A'
 ---
