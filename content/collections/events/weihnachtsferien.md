@@ -1,5 +1,6 @@
 ---
 id: 44027529-4bd1-4dfc-8c9b-6fa95fc59df2
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Weihnachtsferien 25.12.2023 - 5.1.2024'
