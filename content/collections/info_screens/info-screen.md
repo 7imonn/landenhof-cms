@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1704806263
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1704902650
 art: box
 color_theme: blue
 current:
@@ -14,16 +14,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lq3vegms
-    from: '2023-12-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ab 15.15 Uhr: Weihnachtsapéro für die Mitarbeitenden – Viel Vergnügen!'
   -
     id: lqdtxa8u
     from: '2024-01-11'
@@ -44,6 +34,16 @@ current_events:
           -
             type: text
             text: '16:00 - 21:00 Uhr: Neujahrsanlass Chlini Gigante – Viel Vergnügen!'
+  -
+    id: lr7yyhcv
+    from: '2024-01-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '15.15 - 16.45 Uhr: Austrittsgruppe 9. Klasse Audiologie, Gruppe A, Aula - Viel Vergnügen!'
 on_visit:
   -
     id: lqdty73q
@@ -75,87 +75,28 @@ on_visit:
           -
             type: text
             text: '09.00 - 11.00 Uhr: Besuch Maximilian mit Begleitung - Herzlich willkommen!'
+  -
+    id: lr7yzxlo
+    from: '2024-01-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 11.00 Uhr: Besuch Miran mit Begleitung - Herzlich willkommen!'
+  -
+    id: lr7z08um
+    from: '2024-01-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 11.00 Uhr: Besuch Cedric mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lq3v8byn
-    from: '2023-12-20'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-  -
-    id: lq3v8mwi
-    from: '2023-12-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen schönen Donnerstag!'
-  -
-    id: lq3vbpg5
-    from: '2023-12-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-      -
-        type: paragraph
-  -
-    id: lq3vc73n
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss nach Stundenplan, spätestens um 15.00 Uhr.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 8. Januar 2024, 10.00 Uhr.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Wir wünschen euch allen wunderschöne Weihnachtsferien und einen guten Rutsch ins neue Jahr!'
-    from: '2023-12-22'
-  -
-    id: lqdtvjah
-    from: '2024-01-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen grossartigen Start im neuen Jahr!'
-  -
-    id: lqdtw0oa
-    from: '2024-01-09'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
   -
     id: lqdtwdjo
     from: '2024-01-10'
@@ -176,6 +117,46 @@ infos:
           -
             type: text
             text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lr7yu8co
+    from: '2023-12-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
+  -
+    id: lr7yupqx
+    from: '2024-01-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lr7yvr2w
+    from: '2024-01-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lr7yw6pa
+    from: '2024-01-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
   - infoscreen/p8237787.JPG
   - infoscreen/p8237812.JPG
