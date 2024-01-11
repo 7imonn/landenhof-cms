@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1704979194
+updated_at: 1704979272
 art: box
 color_theme: blue
 current:
@@ -129,7 +129,7 @@ infos:
             text: '10.25 – 10.45 Uhr: PAD Sprechstunde'
   -
     id: lr7yu8co
-    from: '2023-12-15'
+    from: '2024-01-15'
     text:
       -
         type: paragraph
