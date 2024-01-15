@@ -1,5 +1,6 @@
 ---
 id: 45639d3e-0b77-4d08-ac79-b4ead4d68074
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Schulzahnprophylaxe Kiga bis 2. Klasse'
