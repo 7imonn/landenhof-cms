@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706019887
+updated_at: 1706020363
 art: box
 color_theme: blue
 current:
@@ -95,7 +95,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.20 – 17.40 Uhr: QZ-Berufswahl, Aula - Herzlich willkommen!'
+            text: '10.40 – 12.25 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
   -
     id: lrqg6hsp
     from: '2024-02-12'
@@ -127,16 +127,6 @@ on_visit:
           -
             type: text
             text: '09.00 – 11.00 Uhr: Besuch Amelie mit Begleitung - Herzlich willkommen!'
-  -
-    id: lrqffusk
-    from: '2024-02-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.40 – 12.25 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
