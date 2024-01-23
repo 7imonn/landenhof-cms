@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706018793
+updated_at: 1706019430
 art: box
 color_theme: blue
 current:
@@ -69,7 +69,7 @@ current_events:
         content:
           -
             type: text
-            text: '12.30 – 10.45 Uhr: Nothilfekurs für Mitarbeiter:innen'
+            text: '10.45 - 12.30 Uhr: Nothilfekurs für Mitarbeiter:innen'
       -
         type: paragraph
         content:
@@ -85,7 +85,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.15 – 17.45 Uhr: Austrittgruppe 9. Klasse Medienkompetenz, Aula, Gruppe A + B – Viel Vergnügen!'
+            text: '16.15 – 17.45 Uhr: Austrittgruppe 9. Klasse Medienkompetenz, Aula, Gruppe A + B –  Viel Vergnügen!'
   -
     id: lrqfevj9
     from: '2024-02-15'
@@ -126,7 +126,17 @@ on_visit:
         content:
           -
             type: text
-            text: '10.40 – 12.25 Uhr: Theorie Verkehrsinstruktion zur Radfahrprüfung P4 mit Stephan Roth, S207 – Viel Vergnügen!'
+            text: '10.40 – 12.25 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
+  -
+    id: lrqfw1dn
+    from: '2024-02-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.00 – 09.30 Uhr: Semesterbeginn mit Institutionskonferenz – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
