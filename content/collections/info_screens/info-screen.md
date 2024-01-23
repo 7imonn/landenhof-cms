@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706019430
+updated_at: 1706019626
 art: box
 color_theme: blue
 current:
@@ -69,7 +69,7 @@ current_events:
         content:
           -
             type: text
-            text: '10.45 - 12.30 Uhr: Nothilfekurs für Mitarbeiter:innen'
+            text: '10.30 - 12.30 Uhr: Nothilfekurs für Mitarbeiter:innen'
       -
         type: paragraph
         content:
