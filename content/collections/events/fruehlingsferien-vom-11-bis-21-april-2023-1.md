@@ -34,6 +34,8 @@ lead:
         text: 'Montag – Donnerstag, 8.30 – 11.30 Uhr.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -47,6 +49,6 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1705996019
+updated_at: 1705996083
 time: '29. Januar bis 09. Februar 2024'
 ---
