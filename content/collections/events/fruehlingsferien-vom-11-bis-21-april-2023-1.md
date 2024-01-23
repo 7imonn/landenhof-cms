@@ -12,43 +12,37 @@ lead:
       -
         type: text
         text: 'Schulschluss: Freitag, 26. Januar 2024, nach Stundenplan'
-  -
-    type: paragraph
-    content:
+      -
+        type: hard_break
       -
         type: text
         text: 'Schulbeginn: Montag, 12. Februar 2024, 10.00 Uhr'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
+      -
+        type: hard_break
+      -
+        type: hard_break
       -
         type: text
         text: 'Das Sekretariat ist während beiden Ferienwochen wie folgt offen:'
-  -
-    type: paragraph
-    content:
+      -
+        type: hard_break
       -
         type: text
         text: 'Montag – Donnerstag, 8.30 – 11.30 Uhr.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
+      -
+        type: hard_break
+      -
+        type: hard_break
       -
         type: text
         text: 'Wir wünschen allen schöne Ferien! '
-      -
-        type: hard_break
 person: 85495d3c-5606-41de-a04e-ff67f6492ce6
 color_theme: blue
 categories:
   - landenhof-uebergeordnet
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1705996461
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1706010664
 time: '29. Januar bis 09. Februar 2024'
 ---
