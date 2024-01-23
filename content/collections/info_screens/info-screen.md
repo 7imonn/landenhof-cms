@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706020363
+updated_at: 1706022535
 art: box
 color_theme: blue
 current:
@@ -95,7 +95,7 @@ current_events:
         content:
           -
             type: text
-            text: '10.40 – 12.25 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
+            text: '10.40 – 12.15 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
   -
     id: lrqg6hsp
     from: '2024-02-12'
