@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706019626
+updated_at: 1706019887
 art: box
 color_theme: blue
 current:
@@ -96,6 +96,16 @@ current_events:
           -
             type: text
             text: '16.20 – 17.40 Uhr: QZ-Berufswahl, Aula - Herzlich willkommen!'
+  -
+    id: lrqg6hsp
+    from: '2024-02-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.00 – 09.30 Uhr: Semesterbeginn mit Institutionskonferenz – Viel Vergnügen!'
 on_visit:
   -
     id: lrjb99fl
@@ -127,16 +137,6 @@ on_visit:
           -
             type: text
             text: '10.40 – 12.25 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
-  -
-    id: lrqfw1dn
-    from: '2024-02-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.00 – 09.30 Uhr: Semesterbeginn mit Institutionskonferenz – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
