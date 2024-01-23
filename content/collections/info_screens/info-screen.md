@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706017452
+updated_at: 1706018793
 art: box
 color_theme: blue
 current:
@@ -60,17 +60,43 @@ current_events:
           -
             type: text
             text: 'Schulbeginn: Montag, 12. Februar 2024, 10.00 Uhr'
-on_visit:
   -
-    id: lr7z08um
-    from: '2024-01-19'
+    id: lrqfdnlh
+    from: '2024-02-13'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '09.00 – 11.00 Uhr: Besuch Cedric mit Begleitung - Herzlich willkommen!'
+            text: '12.30 – 10.45 Uhr: Nothilfekurs für Mitarbeiter:innen'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 15.30 Uhr: Nothilfekurs für Mitarbeiter:innen'
+  -
+    id: lrqfea2b
+    from: '2024-02-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.15 – 17.45 Uhr: Austrittgruppe 9. Klasse Medienkompetenz, Aula, Gruppe A + B – Viel Vergnügen!'
+  -
+    id: lrqfevj9
+    from: '2024-02-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – 17.40 Uhr: QZ-Berufswahl, Aula - Herzlich willkommen!'
+on_visit:
   -
     id: lrjb99fl
     from: '2024-01-25'
@@ -91,18 +117,18 @@ on_visit:
           -
             type: text
             text: '09.00 – 11.00 Uhr: Besuch Amelie mit Begleitung - Herzlich willkommen!'
-show_decoration: false
-infos:
   -
-    id: lr7yw6pa
-    from: '2024-01-19'
+    id: lrqffusk
+    from: '2024-02-15'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+            text: '10.40 – 12.25 Uhr: Theorie Verkehrsinstruktion zur Radfahrprüfung P4 mit Stephan Roth, S207 – Viel Vergnügen!'
+show_decoration: false
+infos:
   -
     id: lrjb4jsz
     from: '2024-01-23'
@@ -125,14 +151,44 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lrjbh7zx
-    from: '2024-01-22'
+    from: '2024-02-12'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
+            text: 'Wir wünschen euch einen tollen Start ins 2. Semester – Viel Erfolg!'
+  -
+    id: lrqfbsqn
+    from: '2024-02-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lrqfc5ct
+    from: '2024-02-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lrqfcnd9
+    from: '2024-02-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
   - infoscreen/claudia_arnold_fertig.jpg
   - infoscreen/franziska_baggenstos_fertig.jpg
