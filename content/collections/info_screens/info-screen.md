@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706023801
+updated_at: 1706543880
 art: box
 color_theme: blue
 current:
@@ -127,6 +127,16 @@ on_visit:
           -
             type: text
             text: '09.00 – 11.00 Uhr: Besuch Amelie mit Begleitung - Herzlich willkommen!'
+  -
+    id: lrz44lq4
+    from: '2024-02-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 - 16.30 Uhr: Besuch Cyrill mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
