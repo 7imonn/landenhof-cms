@@ -1,5 +1,6 @@
 ---
 id: f789d86d-f379-48e0-98a0-85efa1a823d4
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sportferien: Vom 29. Januar bis 09. Februar 2024'
