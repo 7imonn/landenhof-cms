@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1707840451
+updated_at: 1707840731
 art: box
 color_theme: blue
 current:
@@ -127,6 +127,16 @@ on_visit:
           -
             type: text
             text: '09.00 – 10.45 Uhr: Besuch Fiona mit Begleitung - Herzlich willkommen!'
+  -
+    id: lskk9nnf
+    from: '2024-02-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
