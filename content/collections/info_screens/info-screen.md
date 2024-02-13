@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1706543880
+updated_at: 1707839882
 art: box
 color_theme: blue
 current:
@@ -14,52 +14,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lrjb6apl
-    from: '2024-01-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula – Herzlich willkommen!'
-  -
-    id: lrjb7aop
-    from: '2024-01-23'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '23.01.24 – 25.01.24: Leistungstest Check S2 / 8. Klassen, Papier-Tests – Viel Glück!'
-  -
-    id: lrolgtg6
-    from: '2024-01-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch allen schöne Ferien!'
-  -
-    id: lrolh08n
-    from: '2024-01-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: Freitag, 26. Januar 2024, nach Stundenplan'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 12. Februar 2024, 10.00 Uhr'
   -
     id: lrqfdnlh
     from: '2024-02-13'
@@ -97,36 +51,52 @@ current_events:
             type: text
             text: '10.40 – 12.15 Uhr: Theorie zur Radfahrprüfung P4, S207 – Viel Vergnügen!'
   -
-    id: lrqg6hsp
-    from: '2024-02-12'
+    id: lskjnwl1
+    from: '2024-02-21'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '08.00 – 09.30 Uhr: Semesterbeginn mit Institutionskonferenz – Viel Vergnügen!'
+            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse Integration und Hörtaktik, Gruppe A – Viel Vergnügen'
+  -
+    id: lskjp0w3
+    from: '2024-02-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.00 Uhr: Nothilfekurs 9. Klasse, Aarau – Viel Vergnügen!'
+  -
+    id: lskjpxi5
+    from: '2024-02-23'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 17.00 Uhr: Weiterbildung Schule und Internat, Turnhalle – Viel Vergnügen!'
+  -
+    id: lskjqdif
+    from: '2024-02-23'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulschluss spätestens um 12.00 Uhr. Das Sekretariat bleibt am Nachmittag geschlossen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen allen ein schönes Wochenende!'
 on_visit:
-  -
-    id: lrjb99fl
-    from: '2024-01-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 11.15 Uhr: Besuch Nicolas mit Begleitung - Herzlich willkommen!'
-  -
-    id: lrjb9n3v
-    from: '2024-01-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 11.00 Uhr: Besuch Amelie mit Begleitung - Herzlich willkommen!'
   -
     id: lrz44lq4
     from: '2024-02-14'
@@ -137,38 +107,18 @@ on_visit:
           -
             type: text
             text: '13.30 - 16.30 Uhr: Besuch Cyrill mit Begleitung - Herzlich willkommen!'
+  -
+    id: lskjrbf9
+    from: '2024-02-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 10.45 Uhr: Besuch Fiona mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lrjb4jsz
-    from: '2024-01-23'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lrjb4r68
-    from: '2024-01-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lrjbh7zx
-    from: '2024-02-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Start ins 2. Semester – Viel Erfolg!'
   -
     id: lrqfbsqn
     from: '2024-02-13'
@@ -192,6 +142,46 @@ infos:
   -
     id: lrqfcnd9
     from: '2024-02-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lskjj9wl
+    from: '2024-02-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '19.02. – 28.03.24: Leistungstest Check S2, 8. Klasse, Online-Tests – Viel Glück!'
+  -
+    id: lskjkeb4
+    from: '2024-02-20'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lskjkvgq
+    from: '2024-02-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lskjl4v1
+    from: '2024-02-23'
     text:
       -
         type: paragraph
