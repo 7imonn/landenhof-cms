@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1707839882
+updated_at: 1707840130
 art: box
 color_theme: blue
 current:
@@ -59,7 +59,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse Integration und Hörtaktik, Gruppe A – Viel Vergnügen'
+            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse Integration und Hörtaktik, Gruppe A – Viel Vergnügen!'
   -
     id: lskjp0w3
     from: '2024-02-22'
