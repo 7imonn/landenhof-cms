@@ -18,9 +18,10 @@ lead:
       -
         type: text
         text: ' (Kompensation Besuchsmorgen 23.03.2024)'
-  -
-    type: paragraph
-    content:
+      -
+        type: hard_break
+      -
+        type: hard_break
       -
         type: text
         text: 'Das Sekretariat bleibt am Nachmittag geschlossen!'
@@ -34,5 +35,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1707895130
+updated_at: 1707895238
 ---
