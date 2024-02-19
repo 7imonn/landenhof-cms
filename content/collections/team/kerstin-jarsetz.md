@@ -4,10 +4,10 @@ blueprint: team_member
 title: 'Kerstin Jarsetz'
 portrait: team/avatar_frau.png
 email: kerstin.jarsetz@landenhof.ch
-phone: '+41 62 737 05 18'
+phone: '+41 62 737 05 28'
 functions:
   - leitung-reinigung-und-waescherei
 is_gl_member: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1708080238
+updated_at: 1708327704
 ---
