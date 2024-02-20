@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1708442117
+updated_at: 1708442245
 art: box
 color_theme: blue
 current:
@@ -79,7 +79,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.00 – 21.00 Uhr: Landenhof Fasnacht, Turnhalle – Viel Vergnügen'
+            text: '15.00 – 21.00 Uhr: Landenhof Fasnacht, Turnhalle – Viel Vergnügen!'
       -
         type: paragraph
         content:
@@ -95,7 +95,7 @@ current_events:
         content:
           -
             type: text
-            text: '08.00 – 12.00 Uhr: Nothilfekurs 9. Klasse, Praktische Arbeit + Prüfung – Viel Erfolg!'
+            text: '08.00 – 12.00 Uhr: Nothilfekurs 9. Klasse, Praktische Arbeit+Prüfung – Viel Erfolg!'
 on_visit:
   -
     id: lskjrbf9
