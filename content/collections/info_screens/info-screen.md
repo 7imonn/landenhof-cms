@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1708528729
+updated_at: 1708529498
 art: box
 color_theme: blue
 current:
@@ -147,6 +147,16 @@ on_visit:
           -
             type: text
             text: '09.00 – 11.00 Uhr: Besuch am Landenhof – Herzlich willkommen!'
+  -
+    id: lsvybejj
+    from: '2024-02-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '26.02. + 01.03.2023: Schnupperschülerin in der 2. Sekundarschule a, Haus Gelb – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
