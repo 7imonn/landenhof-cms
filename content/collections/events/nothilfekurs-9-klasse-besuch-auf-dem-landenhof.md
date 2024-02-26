@@ -1,5 +1,6 @@
 ---
 id: 45c2e0f3-0fd7-4700-9211-34c240dde23f
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Nothilfekurs 9. Klasse'
