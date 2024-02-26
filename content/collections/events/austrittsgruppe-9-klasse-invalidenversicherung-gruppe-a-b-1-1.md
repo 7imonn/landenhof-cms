@@ -1,5 +1,6 @@
 ---
 id: 3d8fc3e6-f448-4c17-82d3-92352ee176a0
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Austrittsgruppe: 9. Klasse'
