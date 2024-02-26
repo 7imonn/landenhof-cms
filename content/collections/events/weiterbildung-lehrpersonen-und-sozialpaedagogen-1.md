@@ -1,5 +1,6 @@
 ---
 id: 0b6c3421-20cb-4f05-9350-f286eaa1e861
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Weiterbildung Schule und Internat'
