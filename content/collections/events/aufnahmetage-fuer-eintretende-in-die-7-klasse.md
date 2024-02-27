@@ -1,6 +1,5 @@
 ---
 id: cdde409d-a604-46fa-b701-17c7dc75c37a
-published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 1'
@@ -15,5 +14,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709027951
+updated_at: 1709027961
 ---
