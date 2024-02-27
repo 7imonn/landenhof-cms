@@ -1,23 +1,16 @@
 ---
 id: 0a07db8f-3915-4d55-a553-39ae6878d438
-published: false
 blueprint: event
 event_card_layout: as_link
-title: 'Schneesportlager Landenhof (9. - 15. April 2023)'
-event_date: '2023-04-09'
-time: Ganztags
+title: 'Schneesportlager Landenhof'
+event_date: '2024-04-07'
+time: '7. - 13. April 2024'
 location: 'Samedan / St. Moritz, Corvatsch'
 file: lottie/event-hoeren.json
 lead:
   -
     type: paragraph
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Schneesportlager Landenhof 2023 «Move the Beat»'
       -
         type: hard_break
         marks:
@@ -136,6 +129,6 @@ categories:
   - apd
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692609669
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1709043392
 ---
