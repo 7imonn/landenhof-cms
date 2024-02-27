@@ -2,8 +2,8 @@
 id: 25d35f95-b68a-4fde-abdd-0b1c6a2cb5a5
 blueprint: event
 event_card_layout: as_accordion
-title: 'Sensibilisierungsworkshop Taso Sehen (Dupliziert)'
-event_date: '2024-03-14'
+title: 'Sensibilisierungsworkshop Taso Sehen'
+event_date: '2024-03-15'
 time: '10.45 - 12.15 Uhr und 13.30 - 15.00 Uhr'
 location: 'Aula, Landenhof'
 file: lottie/event-hoeren.json
@@ -24,5 +24,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709041337
+updated_at: 1709041404
 ---
