@@ -15,8 +15,14 @@ lead:
         type: text
         text: 'für Schüler:innen der P2 bis Brückenjahr'
 person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
+color_theme: pink
+categories:
+  - sehen
+  - hoeren
+  - landenhof-uebergeordnet
+  - tagessonderschule-hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709041229
+updated_at: 1709041337
 ---
