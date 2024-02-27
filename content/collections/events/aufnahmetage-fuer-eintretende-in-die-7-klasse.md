@@ -4,7 +4,7 @@ published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Aufnahmetage für Eintretende in die 7. Klasse - Tag 1'
-event_date: '2023-03-06'
+event_date: '2024-03-04'
 time: Ganztags
 location: 'Tagessonderschule Landenhof'
 file: lottie/event-hoeren.json
@@ -14,6 +14,6 @@ categories:
   - tagessonderschule-hoeren
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692609288
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1709027951
 ---
