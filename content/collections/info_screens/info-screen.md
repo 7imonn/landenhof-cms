@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709125791
+updated_at: 1709129902
 art: box
 color_theme: blue
 current:
@@ -40,6 +40,56 @@ current_events:
           -
             type: text
             text: '08.00 – 12.00 Uhr: Nothilfekurs 9. Klasse, Praktische Arbeit + Prüfung – Viel Erfolg!'
+  -
+    id: lt5vki0d
+    from: '2024-03-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '04.03 – 07.03.2024: Aufnahmetage für Eintretende in die 7. Klasse 2024/25 – Viel Vergnügen!'
+  -
+    id: lt5vlhdx
+    from: '2024-03-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 15.30 Uhr: Fahrschule für Radfahrerprüfung, P4 – Viel Vergnügen!'
+  -
+    id: lt5vnqxz
+    from: '2024-03-06'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.00 – 20.00Uhr: Infoveranstaltung Procom, Webcockpit – Viel Vergnügen!'
+  -
+    id: lt5vopi6
+    from: '2024-03-07'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 11.00 Uhr: Fahrschule für Radfahrerprüfung, P5 – Viel Vergnügen'
+  -
+    id: lt5vox01
+    from: '2024-03-07'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.00 – 21.00 Uhr: Austrittsgruppe 9. Klasse Treffen mit Ehemaligen, Gruppe A + B, Aula – Viel Vergnügen!'
 on_visit:
   -
     id: lsuiba25
@@ -51,6 +101,16 @@ on_visit:
           -
             type: text
             text: '09.00 – 11.00 Uhr: Besuch am Landenhof – Herzlich willkommen!'
+  -
+    id: lt5vrlmx
+    from: '2024-03-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 16.30 Uhr: Treffen Regio West, Aula – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
