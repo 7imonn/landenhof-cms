@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709134730
+updated_at: 1709135858
 art: box
 color_theme: blue
 current:
@@ -130,7 +130,7 @@ on_visit:
         content:
           -
             type: text
-            text: '04.03 - 08.03.2024: Schnupperschülerin in der 2. Klasse b, Calypso – Herzlich willkommen!'
+            text: '04.03 - 08.03.2024: Schnupperschüler in der 2. Klasse b, Calypso – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
