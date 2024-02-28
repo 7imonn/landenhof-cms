@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709129902
+updated_at: 1709130393
 art: box
 color_theme: blue
 current:
@@ -69,7 +69,7 @@ current_events:
         content:
           -
             type: text
-            text: '18.00 – 20.00Uhr: Infoveranstaltung Procom, Webcockpit – Viel Vergnügen!'
+            text: '18.00 – 20.00 Uhr: Infoveranstaltung Procom, Webcockpit – Viel Vergnügen!'
   -
     id: lt5vopi6
     from: '2024-03-07'
@@ -111,6 +111,16 @@ on_visit:
           -
             type: text
             text: '13.30 – 16.30 Uhr: Treffen Regio West, Aula – Herzlich willkommen!'
+  -
+    id: lt5vznnh
+    from: '2024-03-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
