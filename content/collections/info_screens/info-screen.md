@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709276734
+updated_at: 1709276836
 art: box
 color_theme: blue
 current:
@@ -130,7 +130,7 @@ on_visit:
         content:
           -
             type: text
-            text: '04.03 - 08.03.2024: Schnupperschüler in der 2. Klasse b, Calypso – Herzlich willkommen!'
+            text: '04.03. - 08.03.2024: Schnupperschüler in der 2. Klasse b, Calypso – Herzlich willkommen!'
   -
     id: lt6vjpby
     from: '2024-03-08'
@@ -150,7 +150,7 @@ on_visit:
         content:
           -
             type: text
-            text: '04.03 - 08.03.2024: Schnupperschüler in der 3. Sek a, Chlini Gigante – Herzlich willkommen!'
+            text: '04.03. - 08.03.2024: Schnupperschüler in der 3. Sek a, Chlini Gigante – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
