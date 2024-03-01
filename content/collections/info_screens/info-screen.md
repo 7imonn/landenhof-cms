@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709276836
+updated_at: 1709276865
 art: box
 color_theme: blue
 current:
@@ -49,7 +49,7 @@ current_events:
         content:
           -
             type: text
-            text: '04.03 – 07.03.2024: Aufnahmetage für Eintretende in die 7. Klasse 2024/25 – Viel Vergnügen!'
+            text: '04.03. – 07.03.2024: Aufnahmetage für Eintretende in die 7. Klasse 2024/25 – Viel Vergnügen!'
   -
     id: lt5vlhdx
     from: '2024-03-04'
