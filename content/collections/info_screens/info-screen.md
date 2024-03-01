@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709190042
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1709276734
 art: box
 color_theme: blue
 current:
@@ -141,6 +141,16 @@ on_visit:
           -
             type: text
             text: '09.30 - 11.30 Uhr: Besuch Mariam mit Begleitung – Herzlich willkommen!'
+  -
+    id: lt8b7kbw
+    from: '2024-03-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '04.03 - 08.03.2024: Schnupperschüler in der 3. Sek a, Chlini Gigante – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
