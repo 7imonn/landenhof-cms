@@ -97,7 +97,7 @@ components:
         content:
           -
             type: text
-            text: 'Auch wenn wir aktuell vielleicht keine passende offene Stelle haben, prüfen wir Ihr Dossier gerne.'
+            text: 'Auch wenn wir aktuell vielleicht keine passende offene Stelle haben, prüfen wir dein Dossier gerne.'
     person: c3c570df-a6d4-4549-a0d8-c82476cf32af
     type: contact_teaser
     enabled: true
@@ -114,5 +114,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1709283473
+updated_at: 1709295528
 ---
