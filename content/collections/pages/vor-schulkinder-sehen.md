@@ -13,7 +13,7 @@ parent: dd03c268-f866-42f1-97a0-4f8b9de479f7
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692003167
+updated_at: 1709627166
 components:
   -
     id: leof55xo
@@ -195,6 +195,27 @@ components:
     type: accordion_group
     enabled: true
   -
+    id: lte3tlzu
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zur Förderung oder Begleitung von Säuglingen und Vorschulkindern? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: b6aa2b6b-ff0e-4bc1-aae6-e0b2e1e3e716
+    type: contact_teaser
+    enabled: true
+  -
     id: leofcfnd
     text:
       -
@@ -362,6 +383,27 @@ components:
     type: accordion_group
     enabled: true
   -
+    id: leoqz4g9
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Haben Sie Fragen zur Förderung oder Begleitung von Schulkindern? '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Gerne berate ich Sie persönlich.'
+    person: 213e8dff-a8ce-43fa-af20-156f8e0dfbfa
+    type: contact_teaser
+    enabled: true
+  -
     id: leoqy8re
     text:
       -
@@ -379,27 +421,6 @@ components:
             type: text
             text: "Wir beraten und begleiten auch mehrfachbeeinträchtigte Kinder und Jugendliche mit einer Sehbeeinträchtigung, von der Geburt bis zum Abschluss der obligatorischen Schulzeit. \_"
     type: text
-    enabled: true
-  -
-    id: leoqz4g9
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Haben Sie Fragen?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Gerne berate ich Sie persönlich.'
-    person: e14cdc79-4f35-4624-bb65-8ed376218d87
-    type: contact_teaser
     enabled: true
 color_theme: pink
 lead:
