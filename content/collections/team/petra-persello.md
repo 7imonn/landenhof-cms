@@ -7,7 +7,7 @@ email: petra.persello@landenhof.ch
 phone: '+41 62 737 05 90'
 functions:
   - leitung-visiopaedagogischer-dienst
-updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
-updated_at: 1676466540
-is_gl_member: true
+updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
+updated_at: 1709630865
+is_gl_member: false
 ---
