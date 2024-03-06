@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709642154
+updated_at: 1709736240
 art: box
 color_theme: blue
 current:
@@ -14,52 +14,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lsui8mca
-    from: '2024-02-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '15.00 – 21.00 Uhr: Landenhof Fasnacht, Turnhalle – Viel Vergnügen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Donnerstag, 29. Februar 2024, 08.50 Uhr'
-  -
-    id: lsui9e4c
-    from: '2024-03-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.00 – 12.00 Uhr: Nothilfekurs 9. Klasse, Praktische Arbeit + Prüfung – Viel Erfolg!'
-  -
-    id: lt5vki0d
-    from: '2024-03-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '04.03. – 07.03.2024: Aufnahmetage für Eintretende in die 7. Klasse 2024/25 – Viel Vergnügen!'
-  -
-    id: lt5vlhdx
-    from: '2024-03-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.30 – 15.30 Uhr: Fahrschule für Radfahrerprüfung, P4 – Viel Vergnügen!'
   -
     id: lt5vnqxz
     from: '2024-03-06'
@@ -90,47 +44,37 @@ current_events:
           -
             type: text
             text: '17.00 – 19.00 Uhr: Austrittsgruppe 9. Klasse, Treffen mit Ehemaligen, Gruppe A + B, H300 – Viel Vergnügen!'
+  -
+    id: ltfwriyr
+    from: '2024-03-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '11.30 – 12.00 Uhr: Austrittsgruppe 9. Klasse, Vorbereitung Abschlussevent, Gruppe A + B, Aula – Viel Vergnügen!'
+  -
+    id: ltfwrvai
+    from: '2024-03-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, - Viel Vergnügen!'
+  -
+    id: ltfwsdyl
+    from: '2024-03-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '14.03 + 15.03.24: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
 on_visit:
-  -
-    id: lsuiba25
-    from: '2024-02-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 11.00 Uhr: Besuch am Landenhof – Herzlich willkommen!'
-  -
-    id: lt5vrlmx
-    from: '2024-03-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.30 – 16.30 Uhr: Treffen Regio West, Aula – Herzlich willkommen!'
-  -
-    id: lt5vznnh
-    from: '2024-03-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
-  -
-    id: lt5yl8gn
-    from: '2024-03-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '04.03. - 08.03.2024: Schnupperschüler in der 2. Klasse b, Calypso – Herzlich willkommen!'
   -
     id: lt6vjpby
     from: '2024-03-08'
@@ -142,16 +86,6 @@ on_visit:
             type: text
             text: '09.30 - 11.30 Uhr: Besuch Mariam mit Begleitung – Herzlich willkommen!'
   -
-    id: lt8b7kbw
-    from: '2024-03-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '04.03. - 08.03.2024: Schnupperschüler in der 3. Sek a, Chlini Gigante – Herzlich willkommen!'
-  -
     id: ltct7u0y
     from: '2024-03-06'
     text:
@@ -161,38 +95,18 @@ on_visit:
           -
             type: text
             text: '08.40 - 10.45 Uhr: Besuch Albion mit Begleitung – Herzlich willkommen!'
+  -
+    id: ltfwsttx
+    from: '2024-03-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 - 11.15 Uhr: Besuch Aryo mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lsui7x11
-    from: '2024-02-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lsui88sg
-    from: '2024-03-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lt5tazly
-    from: '2024-03-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. P. Dörig geöffnet!'
   -
     id: lt5tbm5g
     from: '2024-03-06'
@@ -206,6 +120,46 @@ infos:
   -
     id: lt5tcxu1
     from: '2024-03-08'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: ltfwp9zp
+    from: '2024-03-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.30 – 14.30 Uhr: Schulärztliche Untersuchung in der 9. Klasse, Aarau – Viel Glück!'
+  -
+    id: ltfwpk0j
+    from: '2024-03-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: ltfwpz8w
+    from: '2024-03-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: ltfwq5my
+    from: '2024-03-15'
     text:
       -
         type: paragraph
