@@ -47,7 +47,7 @@ components:
       -
         id: ldus4ghe
         name: 'Jahresbericht 2015/16'
-        file: downloads/jahresberichte/lh_jahresbericht_2015_16.PDF
+        file: ueber_den_landenhof/jahresberichte/lh_jahresbericht_2015_16.PDF
         open_in_tab: true
       -
         id: ldurs2pc
