@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709737593
+updated_at: 1709741817
 art: box
 color_theme: blue
 current:
@@ -90,6 +90,26 @@ current_events:
           -
             type: text
             text: '10.45 – 12.15 Uhr und 13.30 – 15.00 Uhr: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
+  -
+    id: ltfzw6oi
+    from: '2024-03-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs – Viel Vergnügen'
+  -
+    id: ltfzxe5c
+    from: '2024-03-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.30 – 12.15 Uhr: Einführung in die Pädagogik für Schwerhörige und Gehörlose 2023/24, Aula – Viel Vergnügen'
 on_visit:
   -
     id: lt6vjpby
@@ -131,6 +151,36 @@ on_visit:
           -
             type: text
             text: 'Ab 16.00 Uhr: Gewerbeanlass Unterentfelden – Viel Vergnügen!'
+  -
+    id: ltfzdx0d
+    from: '2024-03-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schnupperschüler im Kindergarten, Calypso – Herzlich willkommen!'
+  -
+    id: ltfzwor0
+    from: '2024-03-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.20 – ca. 18.00 Uhr: QZ-Berufswahl mit BSFH, Aula – Viel Vergnügen'
+  -
+    id: ltfzwwnl
+    from: '2024-03-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '14.03 + 15.03.24: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
