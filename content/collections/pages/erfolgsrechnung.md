@@ -1568,7 +1568,6 @@ components:
       -
         id: leh387lc
         name: 'Revisionsbericht 2021'
-        file: downloads/zahlen_fakten/zahlen_fakten_revisionsbericht_2021.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
