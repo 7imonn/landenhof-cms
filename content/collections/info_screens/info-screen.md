@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709736240
+updated_at: 1709737466
 art: box
 color_theme: blue
 current:
@@ -73,7 +73,23 @@ current_events:
         content:
           -
             type: text
-            text: '14.03 + 15.03.24: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
+            text: '10.45 – 12.15 Uhr und 13.30 – 15.00 Uhr: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: ltfxjevm
+    from: '2024-03-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.45 – 12.15 Uhr und 13.30 – 15.00 Uhr: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
 on_visit:
   -
     id: lt6vjpby
