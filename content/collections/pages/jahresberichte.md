@@ -52,7 +52,7 @@ components:
       -
         id: ldurs2pc
         name: 'Jahresbericht 2014/15'
-        file: downloads/jahresberichte/lh_jahresbericht_2014_15.PDF
+        file: ueber_den_landenhof/jahresberichte/lh_jahresbericht_2014_15.PDF
         open_in_tab: true
       -
         id: ldurrksy
