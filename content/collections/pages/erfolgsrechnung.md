@@ -1567,14 +1567,15 @@ components:
     files:
       -
         id: leh387lc
-        name: 'Revisionsbericht 2021'
+        name: 'Revisionsbericht 2022'
         open_in_tab: true
+        file: downloads/zahlen_fakten_revisionsbericht_2022.pdf
     button_text: 'Mehr anzeigen'
     type: downloads
     enabled: true
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1709719653
+updated_at: 1709720245
 color_theme: blue
 ---
