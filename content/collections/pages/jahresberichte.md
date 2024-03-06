@@ -37,7 +37,7 @@ components:
       -
         id: lduryte3
         name: 'Jahresbericht 2017/18'
-        file: downloads/jahresberichte/lh_jahresbericht_2017_18.PDF
+        file: ueber_den_landenhof/jahresberichte/lh_jahresbericht_2017_18.PDF
         open_in_tab: true
       -
         id: ldurzdeo
