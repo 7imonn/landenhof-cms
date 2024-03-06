@@ -57,7 +57,7 @@ components:
       -
         id: ldurrksy
         name: 'Jahresbericht 2013/14'
-        file: downloads/jahresberichte/lh_jahresbericht_2013_14.PDF
+        file: ueber_den_landenhof/jahresberichte/lh_jahresbericht_2013_14.PDF
         open_in_tab: true
       -
         id: ldur1vor
