@@ -43,10 +43,7 @@ components:
                     content:
                       -
                         type: text
-                        marks:
-                          -
-                            type: bold
-                        text: '2021'
+                        text: '2022'
               -
                 type: table_header
                 attrs:
@@ -63,7 +60,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: '2020'
+                        text: '2021'
           -
             type: table_row
             content:
@@ -118,7 +115,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-1'363'185.05"
+                        text: "-867'912.50"
               -
                 type: table_cell
                 attrs:
@@ -132,7 +129,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-1'796'804.80"
+                        text: "-1'363'185.05"
           -
             type: table_row
             content:
@@ -164,7 +161,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-1''048'913.10"
+                        text: "-1'148'717.45"
               -
                 type: table_cell
                 attrs:
@@ -178,7 +175,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-840'751.30"
+                        text: "-1''048'913.10"
           -
             type: table_row
             content:
@@ -210,7 +207,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-419'401.79"
+                        text: "-424'694.57"
               -
                 type: table_cell
                 attrs:
@@ -224,7 +221,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-396'566.10"
+                        text: "-419'401.79"
           -
             type: table_row
             content:
@@ -256,7 +253,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-167'111.55"
+                        text: "-275'676.29"
               -
                 type: table_cell
                 attrs:
@@ -270,7 +267,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-118'074.67"
+                        text: "-167'111.55"
           -
             type: table_row
             content:
@@ -302,7 +299,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-8'347'118.97"
+                        text: "-8'760'088.95"
               -
                 type: table_cell
                 attrs:
@@ -316,7 +313,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-8'173'696.23"
+                        text: "-8'347'118.97"
           -
             type: table_row
             content:
@@ -348,7 +345,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-133'784.00"
+                        text: "-149'692.00"
               -
                 type: table_cell
                 attrs:
@@ -362,7 +359,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-76'300.00"
+                        text: "-133'784.00"
           -
             type: table_row
             content:
@@ -400,7 +397,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "-11'479'514.46"
+                        text: "-11'626'781.76"
               -
                 type: table_cell
                 attrs:
@@ -417,7 +414,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "-11'402'193.10"
+                        text: "-11'479'514.46"
           -
             type: table_row
             content:
@@ -452,7 +449,10 @@ components:
                     content:
                       -
                         type: text
-                        text: "-11'479'514.46"
+                        marks:
+                          -
+                            type: bold
+                        text: "-11'626'781.76"
               -
                 type: table_cell
                 attrs:
@@ -466,7 +466,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-11'402'193.10"
+                        text: "-11'479'514.46"
           -
             type: table_row
             content:
@@ -498,7 +498,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "8'441'077.40"
+                        text: "8'313'104.75"
               -
                 type: table_cell
                 attrs:
@@ -512,7 +512,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "8'458'046.95"
+                        text: "8'441'077.40"
           -
             type: table_row
             content:
@@ -547,7 +547,10 @@ components:
                     content:
                       -
                         type: text
-                        text: "-3'038'437.06"
+                        marks:
+                          -
+                            type: bold
+                        text: "-3'313'677.01"
               -
                 type: table_cell
                 attrs:
@@ -561,7 +564,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-2'944'146.15"
+                        text: "-3'038'437.06"
           -
             type: table_row
             content:
@@ -616,7 +619,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "480'656.20"
+                        text: "460'123.45"
               -
                 type: table_cell
                 attrs:
@@ -630,7 +633,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "566'968.01"
+                        text: "480'656.20"
           -
             type: table_row
             content:
@@ -662,7 +665,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "177'008.20"
+                        text: "208'250.45"
               -
                 type: table_cell
                 attrs:
@@ -676,7 +679,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "170'381.23"
+                        text: "177'008.20"
           -
             type: table_row
             content:
@@ -708,7 +711,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "116'353.18"
+                        text: "136'260.10"
               -
                 type: table_cell
                 attrs:
@@ -722,7 +725,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "110'158.87"
+                        text: "116'353.18"
           -
             type: table_row
             content:
@@ -754,7 +757,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "23'587.92"
+                        text: "35'159.78"
               -
                 type: table_cell
                 attrs:
@@ -768,7 +771,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "51'326.07"
+                        text: "23'587.92"
           -
             type: table_row
             content:
@@ -800,7 +803,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "157'099.94"
+                        text: "169'115.28"
               -
                 type: table_cell
                 attrs:
@@ -814,7 +817,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "165'034.97"
+                        text: "157'099.94"
           -
             type: table_row
             content:
@@ -846,7 +849,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "221'538.10"
+                        text: "232'822.08"
               -
                 type: table_cell
                 attrs:
@@ -860,7 +863,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "229'865.59"
+                        text: "221'538.10"
           -
             type: table_row
             content:
@@ -892,7 +895,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "1'553'021.30"
+                        text: "1'624'483.50"
               -
                 type: table_cell
                 attrs:
@@ -906,7 +909,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "1'312'921.59"
+                        text: "1'553'021.30"
           -
             type: table_row
             content:
@@ -944,7 +947,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "2'729'264.84"
+                        text: "2'866'214.64"
               -
                 type: table_cell
                 attrs:
@@ -961,7 +964,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "2'606'656.33"
+                        text: "2'729'264.84"
           -
             type: table_row
             content:
@@ -999,7 +1002,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "-309'172.22"
+                        text: "-447'462.37"
               -
                 type: table_cell
                 attrs:
@@ -1016,7 +1019,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "-337'489.82"
+                        text: "-309'172.22"
           -
             type: table_row
             content:
@@ -1048,7 +1051,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "525'499.90"
+                        text: "530'053.30"
               -
                 type: table_cell
                 attrs:
@@ -1062,7 +1065,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "497'459.95"
+                        text: "525'499.90"
           -
             type: table_row
             content:
@@ -1100,7 +1103,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "216'327.68"
+                        text: "82'590.93"
               -
                 type: table_cell
                 attrs:
@@ -1117,7 +1120,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "159'970.13"
+                        text: "216'327.68"
           -
             type: table_row
             content:
@@ -1149,7 +1152,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "32'622.03"
+                        text: "22'003.72"
               -
                 type: table_cell
                 attrs:
@@ -1163,7 +1166,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "37'685.54"
+                        text: "32'622.03"
           -
             type: table_row
             content:
@@ -1195,7 +1198,7 @@ components:
                     content:
                       -
                         type: text
-                        text: '-33.85'
+                        text: '-594.25'
               -
                 type: table_cell
                 attrs:
@@ -1209,7 +1212,7 @@ components:
                     content:
                       -
                         type: text
-                        text: '-135.20'
+                        text: '-33.85'
           -
             type: table_row
             content:
@@ -1247,7 +1250,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "248'915.86"
+                        text: "104'000.40"
               -
                 type: table_cell
                 attrs:
@@ -1264,7 +1267,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "197'520.47"
+                        text: "248'915.86"
           -
             type: table_row
             content:
@@ -1296,7 +1299,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-6'312.74"
+                        text: "-48'282.50"
               -
                 type: table_cell
                 attrs:
@@ -1310,7 +1313,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-19'423.79"
+                        text: "-6'312.74"
           -
             type: table_row
             content:
@@ -1342,7 +1345,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-70'366.53"
+                        text: "-141'990.75"
               -
                 type: table_cell
                 attrs:
@@ -1356,7 +1359,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-28'421.27"
+                        text: "-70'366.53"
           -
             type: table_row
             content:
@@ -1388,7 +1391,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-19'429.82"
+                        text: "-10'861.83"
               -
                 type: table_cell
                 attrs:
@@ -1402,7 +1405,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "2'215.22"
+                        text: "-19'429.82"
           -
             type: table_row
             content:
@@ -1434,7 +1437,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "98'812.60"
+                        text: "-109'945.90"
               -
                 type: table_cell
                 attrs:
@@ -1448,7 +1451,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "92'613.75"
+                        text: "98'812.60"
           -
             type: table_row
             content:
@@ -1480,7 +1483,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-98'812.60"
+                        text: "100'149.55"
               -
                 type: table_cell
                 attrs:
@@ -1494,7 +1497,7 @@ components:
                     content:
                       -
                         type: text
-                        text: "-92'613.75"
+                        text: "-98'812.60"
           -
             type: table_row
             content:
@@ -1532,7 +1535,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "152'806.77"
+                        text: "-106'931.03"
               -
                 type: table_cell
                 attrs:
@@ -1549,7 +1552,7 @@ components:
                         marks:
                           -
                             type: bold
-                        text: "151'890.63"
+                        text: "152'806.77"
     type: text
     enabled: true
   -
@@ -1567,6 +1570,6 @@ components:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1677500064
+updated_at: 1709719405
 color_theme: blue
 ---
