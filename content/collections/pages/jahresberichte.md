@@ -42,7 +42,7 @@ components:
       -
         id: ldurzdeo
         name: 'Jahresbericht 2016/17'
-        file: downloads/jahresberichte/lh_jahresbericht_2016_17.PDF
+        file: ueber_den_landenhof/jahresberichte/lh_jahresbericht_2016_17.PDF
         open_in_tab: true
       -
         id: ldus4ghe
