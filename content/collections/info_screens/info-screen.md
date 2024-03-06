@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709737466
+updated_at: 1709737593
 art: box
 color_theme: blue
 current:
@@ -121,6 +121,16 @@ on_visit:
           -
             type: text
             text: '09.00 - 11.15 Uhr: Besuch Aryo mit Begleitung - Herzlich willkommen!'
+  -
+    id: ltfxkraz
+    from: '2024-03-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ab 16.00 Uhr: Gewerbeanlass Unterentfelden – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
