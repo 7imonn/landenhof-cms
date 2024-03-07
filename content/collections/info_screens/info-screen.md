@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1709741817
+updated_at: 1709814994
 art: box
 color_theme: blue
 current:
@@ -63,7 +63,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, - Viel Vergnügen!'
+            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, Aula - Viel Vergnügen!'
   -
     id: ltfwsdyl
     from: '2024-03-14'
@@ -142,16 +142,6 @@ on_visit:
             type: text
             text: '09.00 - 11.15 Uhr: Besuch Aryo mit Begleitung - Herzlich willkommen!'
   -
-    id: ltfxkraz
-    from: '2024-03-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ab 16.00 Uhr: Gewerbeanlass Unterentfelden – Viel Vergnügen!'
-  -
     id: ltfzdx0d
     from: '2024-03-11'
     text:
@@ -170,7 +160,7 @@ on_visit:
         content:
           -
             type: text
-            text: '16.20 – ca. 18.00 Uhr: QZ-Berufswahl mit BSFH, Aula – Viel Vergnügen'
+            text: '16.20 – ca. 18.00 Uhr: QZ-Berufswahl mit BSFH, Aula – Viel Vergnügen!'
   -
     id: ltfzwwnl
     from: '2024-03-14'
@@ -180,7 +170,7 @@ on_visit:
         content:
           -
             type: text
-            text: '14.03 + 15.03.24: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
+            text: '14.03. + 15.03.24: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
