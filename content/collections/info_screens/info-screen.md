@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709883978
+updated_at: 1709884581
 art: box
 color_theme: blue
 current:
@@ -109,7 +109,7 @@ current_events:
         content:
           -
             type: text
-            text: '09.30 – 12.15 Uhr: Einführung in die Pädagogik für Schwerhörige und Gehörlose 2023/24, Aula – Viel Vergnügen'
+            text: '09.30 – 12.15 Uhr: Einführung in die Pädagogik für Schwerhörige und Gehörlose 2023/24, Aula – Viel Vergnügen!'
 on_visit:
   -
     id: lt6vjpby
