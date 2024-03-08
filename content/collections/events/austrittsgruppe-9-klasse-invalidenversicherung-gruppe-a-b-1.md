@@ -1,5 +1,6 @@
 ---
 id: 0b0ae200-621e-4714-8a23-8904d36b1c03
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Austrittsgruppe: 9. Klasse'
@@ -16,7 +17,7 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709028705
+updated_at: 1709889141
 lead:
   -
     type: paragraph
