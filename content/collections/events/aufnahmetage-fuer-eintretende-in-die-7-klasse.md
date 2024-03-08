@@ -1,5 +1,6 @@
 ---
 id: cdde409d-a604-46fa-b701-17c7dc75c37a
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Aufnahmetage für Eintretende in die 7. Klasse 2024/2025'
