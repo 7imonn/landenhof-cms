@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710142093
+updated_at: 1710142197
 art: box
 color_theme: blue
 current:
@@ -190,7 +190,7 @@ on_visit:
         content:
           -
             type: text
-            text: '08.40 – 10.40 Uhr: Schulbesuch in der 2. Klasse – Herzlich willkommen'
+            text: '08.40 – 10.40 Uhr: Schulbesuch in der 2. Klasse – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
