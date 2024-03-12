@@ -1,5 +1,6 @@
 ---
 id: bb4e7e95-508f-4a73-898d-e713a19b5c77
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Schulärztliche Untersuchung in der 9. Klasse'
