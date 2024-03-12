@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710142197
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1710227193
 art: box
 color_theme: blue
 current:
@@ -63,7 +63,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.15 – 16.45 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, Aula - Viel Vergnügen!'
+            text: '14.30 – 15.55 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, Aula - Viel Vergnügen!'
   -
     id: ltfwsdyl
     from: '2024-03-14'
