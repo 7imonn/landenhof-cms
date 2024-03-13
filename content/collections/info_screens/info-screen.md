@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710341423
+updated_at: 1710343805
 art: box
 color_theme: blue
 current:
@@ -79,7 +79,7 @@ current_events:
         content:
           -
             type: text
-            text: 'ab 19.00 Uhr: APD Elternabend – Herzlich willkommen!'
+            text: 'ab 19.00 Uhr: APD Elternanlass – Herzlich willkommen!'
   -
     id: ltpwuple
     from: '2024-03-22'
@@ -89,7 +89,7 @@ current_events:
         content:
           -
             type: text
-            text: '14.30 – 18.30 Uhr: GV Aargauer Sehhilfe – Herzlich willkommen!'
+            text: '14.30 – 18.30 Uhr: GV Aargauer Sehhilfe, H300 – Herzlich willkommen!'
   -
     id: ltpx0g4s
     from: '2024-03-23'
@@ -99,7 +99,7 @@ current_events:
         content:
           -
             type: text
-            text: '08.50 – ca. 12.00 Uhr: Elternbesuchsmorgen – Herzlich willkommen!'
+            text: 'Elternbesuchsmorgen – Herzlich willkommen!'
 on_visit:
   -
     id: ltfwsttx
