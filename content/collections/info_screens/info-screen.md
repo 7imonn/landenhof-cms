@@ -253,6 +253,4 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-galerie:
-  - infoscreen/b1_.jpg
 ---
