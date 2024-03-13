@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1710334240
+updated_at: 1710334265
 art: box
 color_theme: blue
 current:
@@ -254,11 +254,5 @@ infos:
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
-  - infoscreen/claudia_arnold_fertig.jpg
-  - infoscreen/franziska_baggenstos_fertig.jpg
-  - infoscreen/julia_janushcevich-_fertig.jpg
-  - infoscreen/monika_frei_fertig.jpg
-  - infoscreen/daniela_gasser_von_arx_fertig.jpg
-  - infoscreen/patricia_wiedemeier_fertig.jpg
   - infoscreen/b1_.jpg
 ---
