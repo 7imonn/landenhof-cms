@@ -1,5 +1,6 @@
 ---
 id: 25d35f95-b68a-4fde-abdd-0b1c6a2cb5a5
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sensibilisierungsworkshop Taso Sehen'
