@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710748070
+updated_at: 1710748092
 art: box
 color_theme: blue
 current:
@@ -160,7 +160,7 @@ on_visit:
         content:
           -
             type: text
-            text: '09.15 - 11.15Uhr: Besuch Melina mit Begleitung - Herzlich willkommen!'
+            text: '09.15 - 11.15 Uhr: Besuch Melina mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
