@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710861529
+updated_at: 1710862663
 art: box
 color_theme: blue
 current:
@@ -14,52 +14,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: ltfwrvai
-    from: '2024-03-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '14.30 – 15.55 Uhr: Austrittsgruppe 9. Klasse, Notfälle und Beratungsstellen, Gruppe A + B, Aula - Viel Vergnügen!'
-  -
-    id: ltfwsdyl
-    from: '2024-03-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.45 – 12.15 Uhr und 13.30 – 15.00 Uhr: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: ltfxjevm
-    from: '2024-03-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.45 – 12.15 Uhr und 13.30 – 15.00 Uhr: Sensibilisierungsworkshop Taso Sehen für Schüler:innen der P2 bis Brückenjahr, Aula – Viel Vergnügen!'
-  -
-    id: ltfzxe5c
-    from: '2024-03-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.30 – 12.15 Uhr: Einführung in die Pädagogik für Schwerhörige und Gehörlose 2023/24, Aula – Viel Vergnügen!'
   -
     id: ltpws5h1
     from: '2024-03-19'
@@ -100,57 +54,27 @@ current_events:
           -
             type: text
             text: 'Elternbesuchsmorgen – Herzlich willkommen!'
+  -
+    id: ltyjapr7
+    from: '2024-03-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.00 – 16.30 Uhr: Velofahrprüfung 4./5. Klasse – Viel Glück!'
+  -
+    id: ltyjb66z
+    from: '2024-03-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Veranstaltung Hilfsmittel, Gruppe A – Viel Vergnügen!'
 on_visit:
-  -
-    id: ltfwsttx
-    from: '2024-03-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 - 11.15 Uhr: Besuch Aryo mit Begleitung - Herzlich willkommen!'
-  -
-    id: ltfzwwnl
-    from: '2024-03-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '14.03. + 15.03.24: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
-  -
-    id: ltmmfu6f
-    from: '2024-03-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.40 – 10.40 Uhr: Schulbesuch in der 2. Klasse – Herzlich willkommen!'
-  -
-    id: ltpx4c38
-    from: '2024-03-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.03 – 28.03.24: Schnupperschüler in der 2. Realschule a, Chlini Gigante – Herzlich willkommen!'
-  -
-    id: ltsh60pw
-    from: '2024-03-18'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.03. – 28.03.24: Schnupperschüler in der 3. Primar, Herkules – Herzlich willkommen!'
   -
     id: ltwn7hft
     from: '2024-03-22'
@@ -171,28 +95,50 @@ on_visit:
           -
             type: text
             text: '21.03 + 22.03.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen'
+  -
+    id: ltyjc6wq
+    from: '2024-03-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '25.03. – 05.04.2024: Schnupperschüler in der 2. Sekundarschule b, Haus Blau – Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: ltyjchew
+    from: '2024-03-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 11.15 Uhr: Hospitation am Landenhof – Herzlich willkommen!'
+  -
+    id: ltyjd4qx
+    from: '2024-03-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.45 – 15.45 Uhr: Besuch Esme mit Begleitung - Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
 show_decoration: false
 infos:
-  -
-    id: ltfwpz8w
-    from: '2024-03-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: ltfwq5my
-    from: '2024-03-15'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: ltpwlyxj
     from: '2024-03-19'
@@ -223,6 +169,58 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: ltyj85ut
+    from: '2024-03-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: ltyj8h0b
+    from: '2024-03-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+  -
+    id: ltyj975j
+    from: '2024-03-28'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn: Dienstag, 2. April 2024, 10.00 Uhr'
+  -
+    id: ltyj9u8r
+    from: '2024-03-28'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Wir wünschen euch\_frohe Ostern\_und erholsame Feiertage!"
 galerie:
   - infoscreen/b1_1.jpg
   - infoscreen/b2_1.jpg
