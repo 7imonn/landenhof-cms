@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710748092
+updated_at: 1710861529
 art: box
 color_theme: blue
 current:
@@ -161,6 +161,16 @@ on_visit:
           -
             type: text
             text: '09.15 - 11.15 Uhr: Besuch Melina mit Begleitung - Herzlich willkommen!'
+  -
+    id: ltyiq8ty
+    from: '2024-03-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '21.03 + 22.03.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen'
 show_decoration: false
 infos:
   -
