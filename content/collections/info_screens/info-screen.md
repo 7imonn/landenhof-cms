@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710862663
+updated_at: 1710863052
 art: box
 color_theme: blue
 current:
@@ -74,6 +74,16 @@ current_events:
           -
             type: text
             text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Veranstaltung Hilfsmittel, Gruppe A – Viel Vergnügen!'
+  -
+    id: ltyjokfr
+    from: '2024-03-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S308 – Viel Vergnügen'
 on_visit:
   -
     id: ltwn7hft
