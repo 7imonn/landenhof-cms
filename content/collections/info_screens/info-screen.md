@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710863052
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1710927897
 art: box
 color_theme: blue
 current:
@@ -16,14 +16,14 @@ current:
 current_events:
   -
     id: ltpws5h1
-    from: '2024-03-19'
+    from: '2024-03-22'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '19.03 – 21.03.24: Leistungstest Check S3 / 9. Klasse, Papier-Tests – Viel Glück!'
+            text: '10.25 - 10.40 Uhr: Information zum Schneesportlager 2024, Aula'
   -
     id: ltpwu3xn
     from: '2024-03-21'
