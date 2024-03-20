@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1710927897
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1710939456
 art: box
 color_theme: blue
 current:
@@ -63,7 +63,7 @@ current_events:
         content:
           -
             type: text
-            text: '13.00 – 16.30 Uhr: Velofahrprüfung 4./5. Klasse – Viel Glück!'
+            text: '13.00 – 15.00 Uhr: Velofahrprüfung 4./5. Klasse – Viel Glück!'
   -
     id: ltyjb66z
     from: '2024-03-27'
@@ -73,7 +73,7 @@ current_events:
         content:
           -
             type: text
-            text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Veranstaltung Hilfsmittel, Gruppe A – Viel Vergnügen!'
+            text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Hilfsmittel, Gruppe A – Viel Vergnügen!'
   -
     id: ltyjokfr
     from: '2024-03-25'
@@ -83,7 +83,7 @@ current_events:
         content:
           -
             type: text
-            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S308 – Viel Vergnügen'
+            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S308 – Viel Vergnügen!'
 on_visit:
   -
     id: ltwn7hft
@@ -130,7 +130,7 @@ on_visit:
         content:
           -
             type: text
-            text: '09.00 – 11.15 Uhr: Hospitation am Landenhof – Herzlich willkommen!'
+            text: '09.00 – 11.15 Uhr: Besuch in der Primarschule – Herzlich willkommen!'
   -
     id: ltyjd4qx
     from: '2024-03-27'
@@ -214,7 +214,7 @@ infos:
         content:
           -
             type: text
-            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr.'
+            text: 'Schulschluss: nach Stundenplan, spätestens um 15.00 Uhr.'
       -
         type: paragraph
         content:
