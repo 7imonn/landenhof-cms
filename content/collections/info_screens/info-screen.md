@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1710939530
+updated_at: 1711004226
 art: box
 color_theme: blue
 current:
@@ -147,6 +147,16 @@ on_visit:
           -
             type: text
             text: "\_"
+  -
+    id: lu0vmkp5
+    from: '2024-03-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '25.03 + 28.03.24: Schnupperschülerin im Brückenjahr - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
