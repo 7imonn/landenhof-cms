@@ -135,7 +135,7 @@ components:
             content:
               -
                 type: text
-                text: "Bei Schüler:innen ist eine ärztlich diagnostizierte Sehbeeinträchtigung oder eine CVI-Verdachtsdiagnose (Cerebral Visual Impairment = zerebrale visuelle Wahrnehmungsstörung) Voraussetzung für eine Anmeldung bei uns. Liegt noch keine Diagnose vor, kann eine\_"
+                text: "Bei Schüler:innen ist eine ärztlich diagnostizierte Sehbeeinträchtigung oder eine CVI-Diagnose (Cerebral Visual Impairment = zerebrale visuelle Wahrnehmungsstörung) Voraussetzung für eine Anmeldung bei uns. Liegt noch keine Diagnose vor, kann eine\_"
               -
                 type: text
                 marks:
@@ -188,5 +188,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1711448432
+updated_at: 1711448473
 ---
