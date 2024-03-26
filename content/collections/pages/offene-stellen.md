@@ -27,6 +27,7 @@ components:
     button_text: 'Zur Übersicht'
     jobs:
       - 6e9c890d-f414-414f-a406-ede954d64e0d
+      - 81f1dbf0-2e2a-49f8-9a99-2686a53566f0
   -
     id: lhhga69b
     heading: 'Sozialpädagogik (Wocheninternat & Tageshort)'
@@ -125,5 +126,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1711354974
+updated_at: 1711446383
 ---
