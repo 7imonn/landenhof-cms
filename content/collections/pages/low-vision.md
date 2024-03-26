@@ -11,7 +11,7 @@ heros:
     enabled: true
 parent: a462660d-3db9-4831-a009-c8a936d9e59b
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1709626867
+updated_at: 1711448612
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -20,7 +20,7 @@ lead:
     content:
       -
         type: text
-        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung oder ein Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
+        text: 'Zeigt ein Kind oder ein:e Jugendliche:r Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung oder ein Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
 color_theme: pink
 components:
   -
@@ -288,7 +288,7 @@ components:
         content:
           -
             type: text
-            text: 'Ergibt sich ein Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI), sind weitere Untersuchungen bei einer Spezialistin/einem Spezialisten (Neuropädiatrie) nötig.'
+            text: 'Ergibt sich ein Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI), sind weitere Untersuchungen bei einer Spezialistin/einem Spezialisten (Neuropsychologie) nötig.'
     type: text
     enabled: true
   -
