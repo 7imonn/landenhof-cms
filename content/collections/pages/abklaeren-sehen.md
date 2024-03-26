@@ -15,7 +15,7 @@ lead:
     content:
       -
         type: text
-        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung (Low Vision) oder eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
+        text: 'Zeigt ein Kind oder ein:e Jugendliche:r Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klären wir ab, ob eine Sehbeeinträchtigung (Low Vision) vorliegt, oder oder eine zerebrale visuelle Wahrnehmungsstörung (CVI) vorliegt.'
 components:
   -
     id: lele305o
@@ -25,13 +25,37 @@ components:
         content:
           -
             type: text
-            text: 'Wurde eine Sehbeeinträchtigung festgestellt, wird das Kind durch den Visiopädagogischen Dienst begleitet. Im Laufe der Begleitung kann es sein, dass weitere spezialisierte Abklärungen nötig sind.'
+            text: 'Wurde eine '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Sehbeeinträchtigung (Low Vision) festgestellt'
+          -
+            type: text
+            text: ', wird das Kind / die Jugendliche durch den Visiopädagogischen Dienst begleitet. Im Laufe der Begleitung kann es sein, dass weitere spezialisierte Abklärungen nötig sind.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'So klären wir etwa ab, ob das Kind sehbehindertenspezifische Hilfsmittel wie zum Beispiel ein Monokular, einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. Weiter bieten wir auch eine Kantenfilterabklärung an für Kinder, die im Alltag geblendet sind und eine spezielle Sonnenbrille (Kantenfilterbrille) brauchen.'
+            text: 'So klären wir etwa ab, ob das Kind / der Jugendliche sehbehindertenspezifische Hilfsmittel wie zum Beispiel ein Monokular, einen Schrägpultaufsatz oder eine spezielle Beleuchtung braucht. Weiter bieten wir auch eine Kantenfilterabklärung an für Kinder, die im Alltag geblendet sind und eine spezielle Sonnenbrille (Kantenfilterbrille) brauchen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ergibt sich ein '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Verdacht auf eine zerebrale visuelle Wahrnehmungsstörung (CVI)'
+          -
+            type: text
+            text: ', sind weitere Untersuchungen bei einer Spezialistin/einem Spezialisten (Neuropsychologie) nötig. Nach einer Vortriage (Vorabklärung) bezüglich CVI verweist der Visiopädagogische Dienst an die Speziealist:innen.'
       -
         type: heading
         attrs:
@@ -164,5 +188,5 @@ color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1709626789
+updated_at: 1711448432
 ---
