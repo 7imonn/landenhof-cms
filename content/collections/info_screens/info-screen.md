@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1711553433
+updated_at: 1711553613
 art: box
 color_theme: blue
 current:
@@ -134,7 +134,7 @@ infos:
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen guten Start in die Woche'
+            text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
     id: lu9ykjau
     from: '2024-04-02'
