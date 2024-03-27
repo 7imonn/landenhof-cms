@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1711535656
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1711553433
 art: box
 color_theme: blue
 current:
@@ -25,46 +25,6 @@ current_events:
             type: text
             text: "Wir wünschen euch\_frohe Ostern\_und erholsame Feiertage!"
   -
-    id: ltpwu3xn
-    from: '2024-03-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'ab 19.00 Uhr: APD Elternanlass – Herzlich willkommen!'
-  -
-    id: ltpwuple
-    from: '2024-03-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '14.30 – 18.30 Uhr: GV Aargauer Sehhilfe, H300 – Herzlich willkommen!'
-  -
-    id: ltpx0g4s
-    from: '2024-03-23'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Elternbesuchsmorgen – Herzlich willkommen!'
-  -
-    id: ltyjapr7
-    from: '2024-03-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.00 – 15.00 Uhr: Velofahrprüfung 4./5. Klasse – Viel Glück!'
-  -
     id: ltyjb66z
     from: '2024-03-27'
     text:
@@ -75,62 +35,26 @@ current_events:
             type: text
             text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Hilfsmittel, Gruppe A – Viel Vergnügen!'
   -
-    id: ltyjokfr
-    from: '2024-03-25'
+    id: lu9ymvfs
+    from: '2024-04-03'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S308 – Viel Vergnügen!'
+            text: '09.00 – ca. 15.00 Uhr: Austrittsgruppe 9. Klasse, Besuch der BSFH Oerlikon – Viel Vergnügen!'
+  -
+    id: lu9ynle6
+    from: '2024-04-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch allen schöne Frühlingsferien – Viel Spass!'
 on_visit:
-  -
-    id: ltwn7hft
-    from: '2024-03-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.15 - 11.15 Uhr: Besuch Melina mit Begleitung - Herzlich willkommen!'
-  -
-    id: ltyiq8ty
-    from: '2024-03-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '21.03 + 22.03.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen'
-  -
-    id: ltyjc6wq
-    from: '2024-03-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '25.03. – 05.04.2024: Schnupperschüler in der 2. Sekundarschule b, Haus Blau – Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: ltyjchew
-    from: '2024-03-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 11.15 Uhr: Besuch in der Primarschule – Herzlich willkommen!'
   -
     id: ltyjd4qx
     from: '2024-03-27'
@@ -148,63 +72,33 @@ on_visit:
             type: text
             text: "\_"
   -
-    id: lu0vmkp5
-    from: '2024-03-25'
+    id: lu9ynw69
+    from: '2024-04-02'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '25.03 + 28.03.24: Schnupperschülerin im Brückenjahr - Herzlich willkommen!'
-show_decoration: false
-infos:
+            text: '13.15 – ca. 17.00 Uhr: Hospitation in der P2b und Sek b – Herzlich willkommen!'
   -
-    id: ltpwlyxj
-    from: '2024-03-19'
+    id: lu9yoai9
+    from: '2024-04-04'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: ltpwqyqf
-    from: '2024-03-20'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: ltpwr6r1
-    from: '2024-03-22'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: ltyj85ut
-    from: '2024-03-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+            text: '09.00 – 11.15 Uhr: Besuch Serafine mit Begleitung - Herzlich willkommen!'
       -
         type: paragraph
         content:
           -
             type: text
             text: "\_"
+show_decoration: false
+infos:
   -
     id: ltyj8h0b
     from: '2024-03-27'
@@ -231,6 +125,62 @@ infos:
           -
             type: text
             text: 'Schulbeginn: Dienstag, 2. April 2024, 10.00 Uhr'
+  -
+    id: lu9yk9q0
+    from: '2024-04-02'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen guten Start in die Woche'
+  -
+    id: lu9ykjau
+    from: '2024-04-02'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lu9ykyhe
+    from: '2024-04-03'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lu9yli3p
+    from: '2024-04-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lu9yloz5
+    from: '2024-04-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn: Montag, 22. April 2024, 10.00 Uhr'
 galerie:
   - infoscreen/samuel_ruf_fertig.jpg
   - infoscreen/b16_1.jpg
