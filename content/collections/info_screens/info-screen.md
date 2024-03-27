@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1711553613
+updated_at: 1711555220
 art: box
 color_theme: blue
 current:
@@ -54,6 +54,32 @@ current_events:
           -
             type: text
             text: 'Wir wünschen euch allen schöne Frühlingsferien – Viel Spass!'
+  -
+    id: lu9zr5d2
+    from: '2024-04-02'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen guten Start in die Woche!'
+  -
+    id: lu9zrwth
+    from: '2024-04-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn: Montag, 22. April 2024, 10.00 Uhr'
 on_visit:
   -
     id: ltyjd4qx
@@ -126,16 +152,6 @@ infos:
             type: text
             text: 'Schulbeginn: Dienstag, 2. April 2024, 10.00 Uhr'
   -
-    id: lu9yk9q0
-    from: '2024-04-02'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen guten Start in die Woche!'
-  -
     id: lu9ykjau
     from: '2024-04-02'
     text:
@@ -165,22 +181,6 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lu9yloz5
-    from: '2024-04-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 22. April 2024, 10.00 Uhr'
 galerie:
   - infoscreen/samuel_ruf_fertig.jpg
   - infoscreen/b16_1.jpg
