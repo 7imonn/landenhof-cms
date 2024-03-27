@@ -1,11 +1,9 @@
 ---
 id: 87a865fa-2924-48ac-b340-4a010cb06069
-published: false
 blueprint: event
 event_card_layout: as_accordion
-title: 'Pfingsten 2023 (28. und 29. Mai 2023)'
-event_date: '2023-05-28'
-time: Ganztags
+title: Pfingsten
+event_date: '2024-05-20'
 file: lottie/event-uebergeordnet.json
 lead:
   -
@@ -13,17 +11,17 @@ lead:
     content:
       -
         type: text
-        text: 'Schulschluss Freitag, 26. Mai 2023: nach Stundenplan'
+        text: 'Schulschluss: Freitag, 17. Mai 2024, nach Stundenplan'
       -
         type: hard_break
       -
         type: text
-        text: 'Schulfrei: Montag, 29. Mai 2023'
+        text: 'Schulfrei: Montag, 20. Mai 2024'
       -
         type: hard_break
       -
         type: text
-        text: 'Schulbeginn Dienstag, 30. Mai 2023: 10.00 Uhr'
+        text: 'Schulbeginn: Dienstag, 21. Mai 2024 um 10.00 Uhr'
       -
         type: hard_break
       -
@@ -34,8 +32,8 @@ lead:
 person: 85495d3c-5606-41de-a04e-ff67f6492ce6
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692609652
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1711531752
 color_theme: blue
 categories:
   - landenhof-uebergeordnet
