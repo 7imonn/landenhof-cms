@@ -4,7 +4,7 @@ published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Schulzahnprophylaxe 3.-6. Klasse'
-event_date: '2024-01-12'
+event_date: '2024-04-26'
 time: '08.50 - 12.15 Uhr'
 location: Klassenzimmer
 file: lottie/event-hoeren.json
@@ -15,5 +15,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1703233763
+updated_at: 1711527611
 ---
