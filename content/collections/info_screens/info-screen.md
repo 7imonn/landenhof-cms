@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1711445195
+updated_at: 1711535656
 art: box
 color_theme: blue
 current:
@@ -16,14 +16,14 @@ current:
 current_events:
   -
     id: ltpws5h1
-    from: '2024-03-22'
+    from: '2024-03-28'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.40 Uhr: Information zum Schneesportlager 2024, Aula'
+            text: "Wir wünschen euch\_frohe Ostern\_und erholsame Feiertage!"
   -
     id: ltpwu3xn
     from: '2024-03-21'
@@ -231,16 +231,6 @@ infos:
           -
             type: text
             text: 'Schulbeginn: Dienstag, 2. April 2024, 10.00 Uhr'
-  -
-    id: ltyj9u8r
-    from: '2024-03-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Wir wünschen euch\_frohe Ostern\_und erholsame Feiertage!"
 galerie:
   - infoscreen/samuel_ruf_fertig.jpg
   - infoscreen/b16_1.jpg
