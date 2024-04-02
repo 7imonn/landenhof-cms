@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1688539073
+updated_at: 1712061759
 components:
   -
     id: lefnuu3x
@@ -408,7 +408,7 @@ components:
           -
             type: text
             text: 'Gerne beantworte ich Ihre Fragen zu den Themen Tageshort, Wocheninternat und Sammeltransporte.'
-    person: f6ac5bbe-16fa-4c77-9ce6-4bb283b28e79
+    person: 19d4f414-a8f3-4107-ae9f-2a1ef9cbf5b8
     type: contact_teaser
     enabled: true
 ---
