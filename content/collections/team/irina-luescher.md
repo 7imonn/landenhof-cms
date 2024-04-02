@@ -8,6 +8,6 @@ phone: '+41 62 737 05 17'
 functions:
   - leitung-sozialpaedagogik
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1709283734
-is_gl_member: true
+updated_at: 1712061536
+is_gl_member: false
 ---
