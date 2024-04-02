@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712037695
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1712039891
 art: box
 color_theme: blue
 current:
@@ -192,6 +192,7 @@ infos:
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
+  - infoscreen/mathias_sager_fertig-1712039878.jpg
   - infoscreen/samuel_ruf_fertig.jpg
   - infoscreen/b16_1.jpg
   - infoscreen/b15_1.jpg
