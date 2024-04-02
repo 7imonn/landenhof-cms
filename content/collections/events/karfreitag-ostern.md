@@ -1,5 +1,6 @@
 ---
 id: da26fd3c-5ad4-42d2-9862-ee22cf1d5fc8
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: Karfreitag/Ostern
@@ -33,5 +34,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1709042375
+updated_at: 1712038647
 ---
