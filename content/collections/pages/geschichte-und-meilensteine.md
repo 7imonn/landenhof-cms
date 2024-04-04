@@ -1243,8 +1243,11 @@ components:
           -
             type: text
             text: 'Seit dem 1. Januar 2021 ist auch die Heilpädagogische Früherziehung (HFE) Teil des Visiopädagogischen Dienstes am Landenhof. Die HFE VPD richtet sich an Kinder mit einer Sehbeeinträchtigung oder mit auffälligem Sehverhalten im Vorschulalter (von der Geburt bis zur Einschulung). Mit der Erweiterung um die Heilpädagogische Früherziehung VPD stärkt der Landenhof den neuen Schwerpunkt Sehen und baut sein ambulantes Angebot weiter aus.'
-          -
-            type: hard_break
+    type: text
+    enabled: true
+  -
+    id: lukyxguj
+    text:
       -
         type: paragraph
         content:
@@ -1274,16 +1277,86 @@ components:
           -
             type: text
             text: 'Seit dem 7. Juni 2022 heisst der Landenhof offiziell «Landenhof Zentrum für Hören und Sehen».'
-      -
-        type: paragraph
-      -
-        type: paragraph
     type: text
+    enabled: true
+  -
+    id: lukyxzsx
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '2023'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Neuer (Web-)Auftritt'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Neues Logo, neue Farben! Seit dem 1. März 2023 hat der Landenhof einen neuen (Web-)Auftritt. '
+          -
+            type: hard_break
+          -
+            type: text
+            text: !!binary RHVyY2ggZGllIEVyd2VpdGVydW5nIHVtIGRlbiBGw7ZyZGVyAnNjaHdlcnB1bmt0IFNlaGVuIHd1cmRlbiBhdWNoIEFucGFzAnN1bmdlbiBpbiBkZXIgKHZpc3VlbGxlbikgS29tbXVuaWthdGlvbiBuw7Z0aWcsIHVtIGRlbiBCZWTDvHJmbmlzc2VuIHZvbiBNZW5zY2hlbiBtaXQgZWluZXIgU2VoYmVlaW50csOkY2h0aWd1bmcgZ2VyZWNodCB6dSB3ZXJkZW4uIERhYmVpIGdhbHQgZXMgaW5zAmJlc29uZGVyZSwgZGVyIFdhaGwgZGVyIEZhcmJlbiB1bmQgZGVyIFNjaHJpZnQgZWluIGJlc29uZGVyZXMgQXVnZW5tZXJrIHp1IHNjaGVua2VuLiBEZXIgQXVmdHJpdHQgZGVzIExhbmRlbmhvZnMgaXN0IG5ldSBkcmVpZmFyYmlnOiBCbGF1IChMYW5kZW5ob2Ygw7xiZXJnZW9yZG5ldCkgLyBHcsO8biAoRsO2cmRlcnNjaHdlcnB1bmt0IEjDtnJlbikgLyBQaW5rIChGw7ZyZGVyc2Nod2VycHVua3QgU2VoZW4pLiA=
+    type: text
+    enabled: true
+  -
+    id: lukznc20
+    images:
+      -
+        id: VV4xVUSw
+        image: geschichte_meilensteine_33.jpg
+    type: images
+    enabled: true
+  -
+    id: lukz4pi9
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '2024 '
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Aargauer Sehhilfe neu unter dem Dach des Landenhofs'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ab Januar 2024 werden die Dienstleistungen der Aargauer Sehhilfe unter dem Dach des Landenhofs angeboten. Mit der Integration der Aargauer Sehhilfe ergänzt der Landenhof sein ambulantes Angebot mit der umfassenden Beratung von Menschen mit einer Sehbeeinträchtigung und führt nebst der Beratung für Schwerhörige und Gehörlose (BFSUG) Aargau Solothurn neu eine zweite Beratungsstelle. '
+    type: text
+    enabled: true
+  -
+    id: lukz99od
+    images:
+      -
+        id: VV4xVUSw
+        image: geschichte_meilensteine_34.jpg
+    type: images
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1688558568
+updated_at: 1712220230
 ---
