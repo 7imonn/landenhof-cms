@@ -1371,7 +1371,6 @@ components:
     images:
       -
         id: VV4xVUSw
-        image: geschichte_meilensteine_34.jpg
     type: images
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
