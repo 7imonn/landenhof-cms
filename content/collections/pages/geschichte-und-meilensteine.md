@@ -1304,12 +1304,33 @@ components:
         content:
           -
             type: text
-            text: 'Neues Logo, neue Farben! Seit dem 1. März 2023 hat der Landenhof einen neuen (Web-)Auftritt. '
+            text: 'Neues Logo, neue Farben! '
           -
             type: hard_break
           -
             type: text
-            text: !!binary RHVyY2ggZGllIEVyd2VpdGVydW5nIHVtIGRlbiBGw7ZyZGVyAnNjaHdlcnB1bmt0IFNlaGVuIHd1cmRlbiBhdWNoIEFucGFzAnN1bmdlbiBpbiBkZXIgKHZpc3VlbGxlbikgS29tbXVuaWthdGlvbiBuw7Z0aWcsIHVtIGRlbiBCZWTDvHJmbmlzc2VuIHZvbiBNZW5zY2hlbiBtaXQgZWluZXIgU2VoYmVlaW50csOkY2h0aWd1bmcgZ2VyZWNodCB6dSB3ZXJkZW4uIERhYmVpIGdhbHQgZXMgaW5zAmJlc29uZGVyZSwgZGVyIFdhaGwgZGVyIEZhcmJlbiB1bmQgZGVyIFNjaHJpZnQgZWluIGJlc29uZGVyZXMgQXVnZW5tZXJrIHp1IHNjaGVua2VuLiBEZXIgQXVmdHJpdHQgZGVzIExhbmRlbmhvZnMgaXN0IG5ldSBkcmVpZmFyYmlnOiBCbGF1IChMYW5kZW5ob2Ygw7xiZXJnZW9yZG5ldCkgLyBHcsO8biAoRsO2cmRlcnNjaHdlcnB1bmt0IEjDtnJlbikgLyBQaW5rIChGw7ZyZGVyc2Nod2VycHVua3QgU2VoZW4pLiA=
+            text: !!binary U2VpdCBkZW0gMS4gTcOkcnogMjAyMyBoYXQgZGVyIExhbmRlbmhvZiBlaW5lbiBuZXVlbiAoV2ViLSlBdWZ0cml0dC4gRHVyY2ggZGllIEVyd2VpdGVydW5nIHVtIGRlbiBGw7ZyZGVyAnNjaHdlcnB1bmt0IFNlaGVuIHd1cmRlbiBhdWNoIEFucGFzAnN1bmdlbiBpbiBkZXIgKHZpc3VlbGxlbikgS29tbXVuaWthdGlvbiBuw7Z0aWcsIHVtIGRlbiBCZWTDvHJmbmlzc2VuIHZvbiBNZW5zY2hlbiBtaXQgZWluZXIgU2VoYmVlaW50csOkY2h0aWd1bmcgZ2VyZWNodCB6dSB3ZXJkZW4uIERhYmVpIGdhbHQgZXMgaW5zAmJlc29uZGVyZSwgZGVyIFdhaGwgZGVyIEZhcmJlbiB1bmQgZGVyIFNjaHJpZnQgZWluIGJlc29uZGVyZXMgQXVnZW5tZXJrIHp1IHNjaGVua2VuLiA=
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Der Auftritt des Landenhofs ist neu dreifarbig: '
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Blau - Landenhof übergeordnet'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Grün - Förderschwerpunkt Hören'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Pink - Förderschwerpunkt Sehen '
     type: text
     enabled: true
   -
@@ -1358,5 +1379,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1712220230
+updated_at: 1712220536
 ---
