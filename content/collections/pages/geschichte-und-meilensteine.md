@@ -1338,7 +1338,6 @@ components:
     images:
       -
         id: VV4xVUSw
-        image: geschichte_meilensteine_33.jpg
     type: images
     enabled: true
   -
