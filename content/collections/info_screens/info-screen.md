@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712738454
+updated_at: 1712749327
 art: box
 color_theme: blue
 current:
@@ -64,7 +64,7 @@ on_visit:
         content:
           -
             type: text
-            text: '22.04 – 03.05.2024: Schnupperschülerin in der 1. Sekundarschule b, Chlini Gigante – Herzlich willkommen!'
+            text: '22.04. – 03.05.2024: Schnupperschülerin in der 1. Sekundarschule b, Chlini Gigante – Herzlich willkommen!'
       -
         type: paragraph
         content:
@@ -80,7 +80,7 @@ on_visit:
         content:
           -
             type: text
-            text: '13.20 – 14.50 Uhr: Hospitation in der 3. Klasse – Herzlich willkommen!'
+            text: '13.20 – 14.50 Uhr: Besuch in der 3. Klasse – Herzlich willkommen!'
   -
     id: lutjljh8
     from: '2024-04-25'
@@ -106,7 +106,7 @@ on_visit:
         content:
           -
             type: text
-            text: '08.50 – 12.00 Uhr: Schulzahnprophylaxe 3.-6. Klasse, im Klassenzimmer'
+            text: '08.50 – 12.15 Uhr: Schulzahnprophylaxe 3.-6. Klasse, im Klassenzimmer'
       -
         type: paragraph
         content:
