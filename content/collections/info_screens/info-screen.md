@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712749408
+updated_at: 1712749683
 art: box
 color_theme: blue
 current:
@@ -23,7 +23,7 @@ current_events:
         content:
           -
             type: text
-            text: '22.04 – 24.05.2024: Leistungscheck S3, 9. Klasse – Viel Glück!'
+            text: '22.04. – 24.05.2024: Leistungscheck S3, 9. Klasse – Viel Glück!'
   -
     id: lutjk2my
     from: '2024-04-24'
