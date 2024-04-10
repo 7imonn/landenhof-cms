@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712737419
+updated_at: 1712738454
 art: box
 color_theme: blue
 current:
@@ -44,6 +44,16 @@ current_events:
           -
             type: text
             text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen'
+  -
+    id: lutjv7kl
+    from: '2024-04-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.00 – 12.15 Uhr / 13.30 – 15.00 Uhr: Basic Check 8. Klasse, S108 – Viel Glück!'
 on_visit:
   -
     id: lutjkwhs
@@ -70,7 +80,7 @@ on_visit:
         content:
           -
             type: text
-            text: '13.20 – 14.50 Uhr: Hospitation in der P3 – Herzlich willkommen!'
+            text: '13.20 – 14.50 Uhr: Hospitation in der 3. Klasse – Herzlich willkommen!'
   -
     id: lutjljh8
     from: '2024-04-25'
@@ -103,6 +113,16 @@ on_visit:
           -
             type: text
             text: "\_"
+  -
+    id: lutk12rv
+    from: '2024-04-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
@@ -135,16 +155,6 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lutjh4tb
-    from: '2024-04-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.00 – 12.15 Uhr / 13.30 – 15.00 Uhr: Basic Check, 8. Klasse, S108 – Viel Glück!'
   -
     id: lutjiic5
     from: '2024-04-26'
