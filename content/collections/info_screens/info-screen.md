@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712749327
+updated_at: 1712749408
 art: box
 color_theme: blue
 current:
@@ -33,7 +33,7 @@ current_events:
         content:
           -
             type: text
-            text: '15.15 – 20.00 Uhr: Austrittsgruppe 9. Klasse, Abschlussevent – Viel Vergnügen!'
+            text: '15.15 – 20.00 Uhr: Austrittsgruppe 9. Klasse, Abschlussevent in Aarau – Viel Vergnügen!'
   -
     id: lutjkeun
     from: '2024-04-25'
