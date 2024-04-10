@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712559908
+updated_at: 1712737419
 art: box
 color_theme: blue
 current:
@@ -15,48 +15,99 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: ltpws5h1
-    from: '2024-03-28'
+    id: lutjjf7c
+    from: '2024-04-22'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: "Wir wünschen euch\_frohe Ostern\_und erholsame Feiertage!"
+            text: '22.04 – 24.05.2024: Leistungscheck S3, 9. Klasse – Viel Glück!'
   -
-    id: ltyjb66z
-    from: '2024-03-27'
+    id: lutjk2my
+    from: '2024-04-24'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '16.15 – 17.15 Uhr: Austrittsgruppe 9. Klasse, Hilfsmittel, Gruppe A – Viel Vergnügen!'
+            text: '15.15 – 20.00 Uhr: Austrittsgruppe 9. Klasse, Abschlussevent – Viel Vergnügen!'
   -
-    id: lu9ymvfs
-    from: '2024-04-03'
+    id: lutjkeun
+    from: '2024-04-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '09.00 – ca. 15.00 Uhr: Austrittsgruppe 9. Klasse, Besuch der BSFH Oerlikon – Viel Vergnügen!'
+            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen'
+on_visit:
   -
-    id: lu9ynle6
-    from: '2024-04-05'
+    id: lutjkwhs
+    from: '2024-04-22'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen euch allen schöne Frühlingsferien – Viel Spass!'
+            text: '22.04 – 03.05.2024: Schnupperschülerin in der 1. Sekundarschule b, Chlini Gigante – Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
   -
-    id: lu9zr5d2
-    from: '2024-04-02'
+    id: lutjl84v
+    from: '2024-04-23'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.20 – 14.50 Uhr: Hospitation in der P3 – Herzlich willkommen!'
+  -
+    id: lutjljh8
+    from: '2024-04-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.50 – 12.15 Uhr: Schulzahnprophylaxe Kiga-2. Klasse, im Klassenzimmer'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: lutjm0ic
+    from: '2024-04-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.50 – 12.00 Uhr: Schulzahnprophylaxe 3.-6. Klasse, im Klassenzimmer'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+show_decoration: false
+infos:
+  -
+    id: lutjecge
+    from: '2024-04-22'
     text:
       -
         type: paragraph
@@ -65,98 +116,8 @@ current_events:
             type: text
             text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
-    id: lu9zrwth
-    from: '2024-04-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: Nach Stundenplan, spätestens um 15.00 Uhr'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 22. April 2024, 10.00 Uhr'
-  -
-    id: lu9zwmxq
-    from: '2024-04-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel Pädagogik für Schwerhörige und Gehörlose, Aula – Viel Vergnügen!'
-on_visit:
-  -
-    id: ltyjd4qx
-    from: '2024-03-27'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.45 – 15.45 Uhr: Besuch Esme mit Begleitung - Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lu9ynw69
-    from: '2024-04-02'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.15 – ca. 17.00 Uhr: Hospitation in der P2b und Sek b – Herzlich willkommen!'
-  -
-    id: lu9yoai9
-    from: '2024-04-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 11.15 Uhr: Besuch Serafine mit Begleitung - Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: luigmu5x
-    from: '2024-04-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.40 – 10.40 Uhr: Besuch Jan mit Begleitung - Herzlich willkommen!'
-  -
-    id: luqlwoee
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '22.04 – 03.05.2024: Schnupperschülerin in der S1b, Chlini Gigante – Herzlich willkommen!'
-show_decoration: false
-infos:
-  -
-    id: ltyj8h0b
-    from: '2024-03-27'
+    id: lutjfzbj
+    from: '2024-04-23'
     text:
       -
         type: paragraph
@@ -165,24 +126,8 @@ infos:
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
-    id: ltyj975j
-    from: '2024-03-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: nach Stundenplan, spätestens um 15.00 Uhr.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Dienstag, 2. April 2024, 10.00 Uhr'
-  -
-    id: lu9ykjau
-    from: '2024-04-02'
+    id: lutjgpas
+    from: '2024-04-24'
     text:
       -
         type: paragraph
@@ -191,18 +136,18 @@ infos:
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
-    id: lu9ykyhe
-    from: '2024-04-03'
+    id: lutjh4tb
+    from: '2024-04-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+            text: '10.00 – 12.15 Uhr / 13.30 – 15.00 Uhr: Basic Check, 8. Klasse, S108 – Viel Glück!'
   -
-    id: lu9yli3p
-    from: '2024-04-05'
+    id: lutjiic5
+    from: '2024-04-26'
     text:
       -
         type: paragraph
