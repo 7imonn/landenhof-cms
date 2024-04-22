@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1712749824
+updated_at: 1713769874
 art: box
 color_theme: blue
 current:
@@ -123,6 +123,16 @@ on_visit:
           -
             type: text
             text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
+  -
+    id: lvam9hrc
+    from: '2024-04-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '22.04. – 26.04.2024: Schnupperschülerin im Brückenjahr, Haus Blau – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
