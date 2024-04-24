@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1713966429
+updated_at: 1713967078
 art: box
 color_theme: blue
 current:
@@ -113,7 +113,7 @@ current_events:
         content:
           -
             type: text
-            text: '29.04. – 24.05.2024: Leistungstest Check P5, 5. Klasse – Viel Glück!'
+            text: '29.04. – 24.05.2024: Leistungstest Check 5. Klasse – Viel Glück!'
 on_visit:
   -
     id: lutjljh8
@@ -260,7 +260,7 @@ infos:
         content:
           -
             type: text
-            text: '10.00 – 15.00 Uhr: Basic check 8. Klassen, Informatikraum – Viel Glück!'
+            text: '10.00 – 15.00 Uhr: Basic check 8. Klasse, Informatikraum – Viel Glück!'
   -
     id: lvdua2mr
     from: '2024-05-03'
