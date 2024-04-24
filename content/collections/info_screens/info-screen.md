@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1713967420
+updated_at: 1713969474
 art: box
 color_theme: blue
 current:
@@ -53,7 +53,7 @@ current_events:
         content:
           -
             type: text
-            text: '18.00 – 20.00 Uhr: Gebärdensprachkurs Anfänger, S308 – Viel Vergnügen!'
+            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs Anfänger, S308 – Viel Vergnügen!'
   -
     id: lvdv5jp8
     from: '2024-04-30'
@@ -73,7 +73,7 @@ current_events:
         content:
           -
             type: text
-            text: '13.30 – 17.00 Uhr: Einführungskurs Brandschutzkurs, Aula – Viel Vergnügen!'
+            text: '13.30 – 17.00 Uhr: Einführungskurs Brandschutz, Aula – Viel Vergnügen!'
   -
     id: lvdv7r42
     from: '2024-05-01'
@@ -83,7 +83,7 @@ current_events:
         content:
           -
             type: text
-            text: '08.30 – 12.00 Uhr: Einführungskurs Brandschutzkurs, Aula – Viel Vergnügen!'
+            text: '08.30 – 12.00 Uhr: Einführungskurs Brandschutz, Aula – Viel Vergnügen!'
   -
     id: lvdv8z3d
     from: '2024-05-03'
@@ -176,7 +176,7 @@ on_visit:
         content:
           -
             type: text
-            text: '29.04. + 03.05.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
+            text: '29.04. - 03.05.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
       -
         type: paragraph
         content:
@@ -244,7 +244,7 @@ infos:
         content:
           -
             type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
       -
         type: paragraph
         content:
@@ -270,7 +270,7 @@ infos:
         content:
           -
             type: text
-            text: '10.00 – 15.00 Uhr: Basic check 8. Klasse, Informatikraum – Viel Glück!'
+            text: '10.00 – 15.00 Uhr: Basic Check 8. Klasse, Informatikraum – Viel Glück!'
   -
     id: lvdua2mr
     from: '2024-05-03'
