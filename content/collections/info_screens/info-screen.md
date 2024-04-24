@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1713967078
+updated_at: 1713967420
 art: box
 color_theme: blue
 current:
@@ -193,6 +193,16 @@ on_visit:
           -
             type: text
             text: '10.10 – 12.00 Uhr: Besuch Aurela mit Begleitung - Herzlich willkommen!'
+  -
+    id: lvdvxt1n
+    from: '2024-05-01'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.15 – 12.00 Uhr: Hospitation in der Sekundarschule – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
