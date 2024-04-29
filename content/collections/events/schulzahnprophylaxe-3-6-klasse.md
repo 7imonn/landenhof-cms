@@ -1,5 +1,6 @@
 ---
 id: bc4f86ee-4fa7-4279-a383-f1b6f2de6de1
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Schulzahnprophylaxe 3.-6. Klasse'
