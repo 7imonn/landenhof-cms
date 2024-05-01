@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714546754
+updated_at: 1714546898
 art: box
 color_theme: blue
 current:
@@ -15,48 +15,18 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lutjk2my
-    from: '2024-04-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '15.15 – 20.00 Uhr: Austrittsgruppe 9. Klasse, Abschlussevent in Aarau – Viel Vergnügen!'
-  -
-    id: lutjkeun
-    from: '2024-04-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen!'
-  -
-    id: lutjv7kl
-    from: '2024-04-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.00 – 12.15 Uhr / 13.30 – 15.00 Uhr: Basic Check 8. Klasse, S108 – Viel Glück!'
-  -
     id: lvdusbc7
-    from: '2024-04-29'
+    from: '2024-05-07'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs Anfänger, S308 – Viel Vergnügen!'
+            text: '16.20 – 17.40 Uhr: QZ- Berufswahl, Aula'
   -
     id: lvdv5jp8
-    from: '2024-04-30'
+    from: '2024-05-07'
     text:
       -
         type: paragraph
@@ -66,14 +36,20 @@ current_events:
             text: '09.00 – 10.30 Uhr: BFSUG Standortbestimmungskurs für Schutzsuchende, S307 – Herzlich willkommen!'
   -
     id: lvdv6iig
-    from: '2024-04-30'
+    from: '2024-05-08'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '13.30 – 17.00 Uhr: Einführungskurs Brandschutz, Aula – Viel Vergnügen!'
+            text: 'Schulschluss: spätestens um 15.00 Uhr'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn: Montag, 13. Mai 2024 um 10.00 Uhr'
   -
     id: lvdv7r42
     from: '2024-05-01'
@@ -113,7 +89,7 @@ current_events:
         content:
           -
             type: text
-            text: '29.04. – 24.05.2024: Leistungstest Check 5. Klasse – Viel Glück!'
+            text: 'Wir wünschen allen eine schöne Auffahrt!'
 on_visit:
   -
     id: lutjljh8
