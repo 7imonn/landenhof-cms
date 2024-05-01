@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714546898
+updated_at: 1714546980
 art: box
 color_theme: blue
 current:
@@ -82,7 +82,7 @@ current_events:
             text: 'Wir wünschen allen ein schönes Wochenende!'
   -
     id: lvdvcbm3
-    from: '2024-04-29'
+    from: '2024-05-08'
     text:
       -
         type: paragraph
@@ -92,83 +92,15 @@ current_events:
             text: 'Wir wünschen allen eine schöne Auffahrt!'
 on_visit:
   -
-    id: lutjljh8
-    from: '2024-04-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.50 – 12.15 Uhr: Schulzahnprophylaxe Kiga-2. Klasse, im Klassenzimmer'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lutjm0ic
-    from: '2024-04-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.50 – 12.15 Uhr: Schulzahnprophylaxe 3.-6. Klasse, im Klassenzimmer'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lvdv9ouv
-    from: '2024-04-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
-  -
-    id: lvdva5sv
-    from: '2024-04-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.50 – 12.00 Uhr: Besuch Anna mit Begleitung - Herzlich willkommen!'
-  -
-    id: lvdvaq3h
-    from: '2024-04-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '29.04. - 03.05.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
     id: lvdvbbh7
-    from: '2024-04-30'
+    from: '2024-05-08'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.10 – 12.00 Uhr: Besuch Aurela mit Begleitung - Herzlich willkommen!'
+            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung – Herzlich willkommen!'
   -
     id: lvdvxt1n
     from: '2024-05-01'
