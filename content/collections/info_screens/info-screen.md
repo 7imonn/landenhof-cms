@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714544712
+updated_at: 1714546754
 art: box
 color_theme: blue
 current:
@@ -217,17 +217,7 @@ show_decoration: false
 infos:
   -
     id: lutjgpas
-    from: '2024-04-24'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lutjiic5
-    from: '2024-04-26'
+    from: '2024-05-08'
     text:
       -
         type: paragraph
@@ -237,7 +227,7 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lvdu8cgx
-    from: '2024-04-29'
+    from: '2024-05-06'
     text:
       -
         type: paragraph
@@ -247,7 +237,7 @@ infos:
             text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
     id: lvdu8yko
-    from: '2024-04-30'
+    from: '2024-05-07'
     text:
       -
         type: paragraph
