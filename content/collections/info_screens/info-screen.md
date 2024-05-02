@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714643399
+updated_at: 1714643518
 art: box
 color_theme: blue
 current:
@@ -169,16 +169,6 @@ infos:
           -
             type: text
             text: "\_"
-  -
-    id: lvdu9ees
-    from: '2024-05-02'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Guten Tag'
   -
     id: lvdu9qqr
     from: '2024-05-02'
