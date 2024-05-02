@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714643518
+updated_at: 1714643618
 art: box
 color_theme: blue
 current:
@@ -194,10 +194,7 @@ galerie:
   - infoscreen/daniel_rieser_fertig.jpg
   - infoscreen/mathias_sager_fertig-1712039878.jpg
   - infoscreen/samuel_ruf_fertig.jpg
-  - infoscreen/0faa2fad-d710-4cb4-84dd-94b9f9b158f1.jpg
-  - infoscreen/31547f12-a460-4c18-8cfe-db1ad3727459.jpg
   - infoscreen/img_0007.jpeg
-  - infoscreen/img_0025.jpeg
   - infoscreen/img_0030.jpeg
   - infoscreen/img_0032.jpeg
   - infoscreen/img_0075.jpeg
