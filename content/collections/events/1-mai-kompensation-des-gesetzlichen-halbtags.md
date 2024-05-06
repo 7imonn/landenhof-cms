@@ -1,5 +1,6 @@
 ---
 id: 6305d837-e476-412f-82d6-3d1ea711cb6f
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: '1. Mai - Kompensation des gesetzlichen Halbtags'
