@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1715073793
+updated_at: 1715074418
 art: box
 color_theme: blue
 current:
@@ -69,7 +69,7 @@ current_events:
         content:
           -
             type: text
-            text: '11.00 – ca. 11.35 Uhr: Impfaktion HPV und Hepatitis B der Lungenliga mit Frau Dr. Doutaz, 7.+8. Klassen, S325'
+            text: '11.00 – 11.35 Uhr: Impfaktion HPV und Hepatitis B der Lungenliga mit Frau Dr. Doutaz, 7.+8. Klassen, S325'
   -
     id: lvw6kx19
     from: '2024-05-15'
@@ -89,7 +89,7 @@ current_events:
         content:
           -
             type: text
-            text: 'Schulschluss: Freitag, 7. Mai 2023, nach Stundenplan'
+            text: 'Schulschluss: Freitag, 17. Mai 2023, nach Stundenplan'
       -
         type: paragraph
         content:
