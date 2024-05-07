@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1714643618
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1715073793
 art: box
 color_theme: blue
 current:
@@ -51,55 +51,57 @@ current_events:
             type: text
             text: 'Schulbeginn: Montag, 13. Mai 2024 um 10.00 Uhr'
   -
-    id: lvdv7r42
-    from: '2024-05-01'
+    id: lvw6ior4
+    from: '2024-05-14'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '08.30 – 12.00 Uhr: Einführungskurs Brandschutz, Aula – Viel Vergnügen!'
+            text: '07.00 – 17.00 Uhr: B&B Tagung VPD, Aula – Herzlich willkommen!'
   -
-    id: lvnh4ehg
-    from: '2024-05-03'
+    id: lvw6kfqm
+    from: '2024-05-14'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.10 Uhr: Eröffnung Wald- und Bergzimmer – Viel Vergnügen!'
+            text: '11.00 – ca. 11.35 Uhr: Impfaktion HPV und Hepatitis B der Lungenliga mit Frau Dr. Doutaz, 7.+8. Klassen, S325'
   -
-    id: lvdv8z3d
-    from: '2024-05-03'
+    id: lvw6kx19
+    from: '2024-05-15'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Schulschluss spätestens um 12.00 Uhr. Das Sekretariat bleibt am Nachmittag geschlossen!'
+            text: 'ca. 09.00 – 19.00 Uhr: Aargauer Schulfussballmeisterschaft, 6. – 9. Klasse – Viel Vergnügen!'
   -
-    id: lvdv98hf
-    from: '2024-05-03'
+    id: lvw6lhgs
+    from: '2024-05-17'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen allen ein schönes Wochenende!'
-  -
-    id: lvdvcbm3
-    from: '2024-05-08'
-    text:
+            text: 'Schulschluss: Freitag, 7. Mai 2023, nach Stundenplan'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen allen eine schöne Auffahrt!'
+            text: 'Schulbeginn: Dienstag, 21. Mai 2024, 10.00 Uhr'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
 on_visit:
   -
     id: lvdvbbh7
@@ -112,25 +114,25 @@ on_visit:
             type: text
             text: '18.00 – 21.00 Uhr: Stiftungsratssitzung – Herzlich willkommen!'
   -
-    id: lvdvxt1n
-    from: '2024-05-01'
+    id: lvw6mhc9
+    from: '2024-05-13'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '09.15 – 12.00 Uhr: Hospitation in der Sekundarschule – Herzlich willkommen!'
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
   -
-    id: lvdx6e3l
-    from: '2024-05-02'
+    id: lvw6mrtk
+    from: '2024-05-14'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '09.10 – 11.00 Uhr: Besuch Lian mit Begleitung - Herzlich willkommen!'
+            text: '09.00 – 10.30 Uhr: Standortbestimmungskurs für Schutzsuchende, S307 – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
@@ -143,16 +145,6 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lvdu8cgx
-    from: '2024-05-06'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
     id: lvdu8yko
     from: '2024-05-07'
@@ -170,18 +162,18 @@ infos:
             type: text
             text: "\_"
   -
-    id: lvdu9qqr
-    from: '2024-05-02'
+    id: lvw6gvhi
+    from: '2024-05-13'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.00 – 15.00 Uhr: Basic Check 8. Klasse, Informatikraum – Viel Glück!'
+            text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
-    id: lvdua2mr
-    from: '2024-05-03'
+    id: lvw6h7ll
+    from: '2024-05-14'
     text:
       -
         type: paragraph
@@ -189,6 +181,46 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lvw6hmwb
+    from: '2024-05-15'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lvw6hugp
+    from: '2024-05-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen schönen Donnerstag!'
+  -
+    id: lvw6i8d0
+    from: '2024-05-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lvw6ndbt
+    from: '2024-05-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch schöne Pfingsten!'
 galerie:
   - infoscreen/beatrice_grob_fertig.jpg
   - infoscreen/daniel_rieser_fertig.jpg
