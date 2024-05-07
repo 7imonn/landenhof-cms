@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1715074418
+updated_at: 1715083568
 art: box
 color_theme: blue
 current:
@@ -102,6 +102,26 @@ current_events:
           -
             type: text
             text: "\_"
+  -
+    id: lvwcfz3s
+    from: '2024-05-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'ab 09.00 Uhr: Input Fahrer:innen Firma Gautschi – Herzlich willkommen!'
+  -
+    id: lvwcgw17
+    from: '2024-05-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch schöne Pfingsten!'
 on_visit:
   -
     id: lvdvbbh7
@@ -211,16 +231,6 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lvw6ndbt
-    from: '2024-05-17'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch schöne Pfingsten!'
 galerie:
   - infoscreen/beatrice_grob_fertig.jpg
   - infoscreen/daniel_rieser_fertig.jpg
