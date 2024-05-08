@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1715170795
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1715171658
 art: box
 color_theme: blue
 current:
@@ -163,6 +163,16 @@ on_visit:
           -
             type: text
             text: '13.05. – 17.05.2024: Schnupperschülerin, 2. Real a, Chlini Gigante'
+  -
+    id: lvxswofw
+    from: '2024-05-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.20 – 12.00 Uhr: Besuch Jacob mit Begleitung - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
