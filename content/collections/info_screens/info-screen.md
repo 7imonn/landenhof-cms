@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1715665751
+updated_at: 1715667341
 art: box
 color_theme: blue
 current:
@@ -102,16 +102,6 @@ current_events:
           -
             type: text
             text: "\_"
-  -
-    id: lvwcfz3s
-    from: '2024-05-16'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'ab 09.00 Uhr: Input Fahrer:innen Firma Gautschi – Herzlich willkommen!'
   -
     id: lvwcgw17
     from: '2024-05-17'
