@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1715688045
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1715774381
 art: box
 color_theme: blue
 current:
@@ -14,62 +14,6 @@ current:
         type: text
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
-  -
-    id: lvdusbc7
-    from: '2024-05-07'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16.20 – 17.40 Uhr: QZ- Berufswahl, Aula'
-  -
-    id: lvdv5jp8
-    from: '2024-05-07'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 10.30 Uhr: BFSUG Standortbestimmungskurs für Schutzsuchende, S307 – Herzlich willkommen!'
-  -
-    id: lvdv6iig
-    from: '2024-05-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulschluss: spätestens um 15.00 Uhr'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Montag, 13. Mai 2024 um 10.00 Uhr'
-  -
-    id: lvw6ior4
-    from: '2024-05-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 17.00 Uhr: B&U Tagung VPD, Aula – Herzlich willkommen!'
-  -
-    id: lvw6kfqm
-    from: '2024-05-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '11.00 – 11.35 Uhr: Impfaktion HPV und Hepatitis B der Lungenliga mit Frau Dr. Doutaz, 7.+8. Klassen, S325'
   -
     id: lvw6kx19
     from: '2024-05-15'
@@ -112,108 +56,9 @@ current_events:
           -
             type: text
             text: 'Wir wünschen euch schöne Pfingsten!'
-on_visit:
   -
-    id: lvdvbbh7
-    from: '2024-05-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung – Herzlich willkommen!'
-  -
-    id: lvw6mhc9
-    from: '2024-05-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S240 – Herzlich willkommen!'
-  -
-    id: lvw6mrtk
-    from: '2024-05-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 10.30 Uhr: Standortbestimmungskurs für Schutzsuchende, S307 – Herzlich willkommen!'
-  -
-    id: lvxse21u
-    from: '2024-05-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '13.05. – 17.05.2024: Schnupperschülerin, 2. Real a, Chlini Gigante'
-  -
-    id: lvxvumbq
-    from: '2024-05-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09.00 – 10.40 Uhr: Besuch Fabian mit Begleitung - Herzlich willkommen!'
-  -
-    id: lvxswofw
-    from: '2024-05-14'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.20 – 12.00 Uhr: Besuch Jacob mit Begleitung - Herzlich willkommen!'
-  -
-    id: lw4l4zwf
-    from: '2024-05-13'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schnupperlernender im technischen Dienst - Herzlich willkommen!'
-show_decoration: false
-infos:
-  -
-    id: lutjgpas
-    from: '2024-05-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lvdu8yko
-    from: '2024-05-07'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lvw6gvhi
-    from: '2024-05-13'
+    id: lw7rmge0
+    from: '2024-05-21'
     text:
       -
         type: paragraph
@@ -222,15 +67,50 @@ infos:
             type: text
             text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
-    id: lvw6h7ll
-    from: '2024-05-14'
+    id: lw7rn0oe
+    from: '2024-05-23'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+            text: 'Heimattag – Viel Vergnügen!'
+on_visit:
+  -
+    id: lw7rr3kk
+    from: '2024-05-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '21.05 – 24.05.2024: Schnupperschüler im Brückenjahr – Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+  -
+    id: lw7rrc0e
+    from: '2024-05-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '21.05 – 31.05.2024: Schnupperschüler in der 1. Bezirksschule b, Chlini Gigante – Herzlich willkommen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\_"
+show_decoration: false
+infos:
   -
     id: lvw6hmwb
     from: '2024-05-15'
@@ -254,6 +134,36 @@ infos:
   -
     id: lvw6i8d0
     from: '2024-05-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lw7rloba
+    from: '2024-05-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lw7rlwqk
+    from: '2024-05-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lw7rm2e0
+    from: '2024-05-24'
     text:
       -
         type: paragraph
