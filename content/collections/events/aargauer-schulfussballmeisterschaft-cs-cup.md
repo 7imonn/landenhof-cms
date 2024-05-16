@@ -1,5 +1,6 @@
 ---
 id: ac1d7156-ae08-465d-b7cc-f25e678ece84
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Aargauer Schulfussballmeisterschaft, CS Cup'
