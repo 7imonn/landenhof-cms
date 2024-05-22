@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1716359499
+updated_at: 1716359638
 art: box
 color_theme: blue
 current:
@@ -16,56 +16,30 @@ current:
 current_events:
   -
     id: lvw6kx19
-    from: '2024-05-15'
+    from: '2024-05-27'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'ca. 09.00 – 19.00 Uhr: Aargauer Schulfussballmeisterschaft, 6. – 9. Klasse – Viel Vergnügen!'
+            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S 308 – Viel Vergnügen!'
   -
     id: lvw6lhgs
-    from: '2024-05-17'
+    from: '2024-05-30'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Schulschluss: Freitag, 17. Mai 2023, nach Stundenplan'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn: Dienstag, 21. Mai 2024, 10.00 Uhr'
+            text: 'Wir wünschen euch einen schönen Donnerstag!'
       -
         type: paragraph
         content:
           -
             type: text
             text: "\_"
-  -
-    id: lvwcgw17
-    from: '2024-05-17'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch schöne Pfingsten!'
-  -
-    id: lw7rmge0
-    from: '2024-05-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen guten Start in die Woche!'
   -
     id: lw7rn0oe
     from: '2024-05-23'
