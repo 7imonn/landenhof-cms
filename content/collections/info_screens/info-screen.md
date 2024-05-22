@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1716276759
+updated_at: 1716359499
 art: box
 color_theme: blue
 current:
@@ -113,7 +113,7 @@ show_decoration: false
 infos:
   -
     id: lvw6hmwb
-    from: '2024-05-15'
+    from: '2024-05-29'
     text:
       -
         type: paragraph
@@ -123,27 +123,17 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lvw6hugp
-    from: '2024-05-16'
+    from: '2024-05-28'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen schönen Donnerstag!'
+            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
   -
     id: lvw6i8d0
-    from: '2024-05-17'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lw7rloba
-    from: '2024-05-21'
+    from: '2024-05-31'
     text:
       -
         type: paragraph
