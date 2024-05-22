@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1716359638
+updated_at: 1716359676
 art: box
 color_theme: blue
 current:
@@ -53,30 +53,14 @@ current_events:
 on_visit:
   -
     id: lw7rr3kk
-    from: '2024-05-21'
+    from: '2024-05-27'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '21.05 – 24.05.2024: Schnupperschüler im Brückenjahr – Herzlich willkommen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lw7rrc0e
-    from: '2024-05-21'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '21.05 – 31.05.2024: Schnupperschüler in der 1. Bezirksschule b, Chlini Gigante – Herzlich willkommen!'
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius, S 240 – Herzlich willkommen!'
       -
         type: paragraph
         content:
