@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1716986522
+updated_at: 1716988824
 art: box
 color_theme: blue
 current:
@@ -39,7 +39,7 @@ current_events:
         content:
           -
             type: text
-            text: 'Jugendmeeting Leichtathletik Fünfkampf SGSV, Zofingen – Viel Vergnügen'
+            text: 'Jugendmeeting Leichtathletik Fünfkampf SGSV, Zofingen – Viel Vergnügen!'
   -
     id: lwrteih5
     from: '2024-06-08'
@@ -59,7 +59,8 @@ on_visit:
         content:
           -
             type: text
-            text: '15.00 – 17.00 Uhr: Besuch Frau Schuler B1, S240 – Herzlich willkommen!'
+            text: '15.00 – 17.00 Uhr: Besuch Frau Schuler, Agroimage, B1, S240 – Herzlich willkommen!'
+    from: '2024-06-04'
 show_decoration: false
 infos:
   -
