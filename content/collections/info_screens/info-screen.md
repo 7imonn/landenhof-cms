@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1716988824
+updated_at: 1717599523
 art: box
 color_theme: blue
 current:
@@ -15,32 +15,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lvw6lhgs
-    from: '2024-05-30'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen schönen Donnerstag!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
-  -
-    id: lwrte6ik
-    from: '2024-06-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Jugendmeeting Leichtathletik Fünfkampf SGSV, Zofingen – Viel Vergnügen!'
-  -
     id: lwrteih5
     from: '2024-06-08'
     text:
@@ -50,65 +24,28 @@ current_events:
           -
             type: text
             text: 'Kindertreffen APD – Herzlich willkommen!'
-on_visit:
   -
-    id: lwrtf5sk
+    id: lx1ydewn
+    from: '2024-06-10'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '15.00 – 17.00 Uhr: Besuch Frau Schuler, Agroimage, B1, S240 – Herzlich willkommen!'
-    from: '2024-06-04'
+            text: '10.06. – 12.06.24: Abschlusstage 9. Klasse – Viel Vergnügen!'
+  -
+    id: lx1ydtg6
+    from: '2024-06-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '13.06. – 14.06.24: Aufnahmetage Brückenjahr – Viel Vergnügen!'
 show_decoration: false
 infos:
-  -
-    id: lvw6hmwb
-    from: '2024-05-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lvw6i8d0
-    from: '2024-05-31'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lwrtal5t
-    from: '2024-06-03'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
-  -
-    id: lwrtavur
-    from: '2024-06-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "\_"
   -
     id: lwrtbbd4
     from: '2024-06-05'
@@ -122,6 +59,46 @@ infos:
   -
     id: lwrtbo71
     from: '2024-06-07'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lx1yawwc
+    from: '2024-06-10'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Wochenstart!'
+  -
+    id: lx1yb8ex
+    from: '2024-06-11'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lx1ycpls
+    from: '2024-06-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lx1ycx5n
+    from: '2024-06-14'
     text:
       -
         type: paragraph
