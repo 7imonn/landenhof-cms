@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1717599523
+updated_at: 1717677133
 art: box
 color_theme: blue
 current:
@@ -44,6 +44,37 @@ current_events:
           -
             type: text
             text: '13.06. – 14.06.24: Aufnahmetage Brückenjahr – Viel Vergnügen!'
+  -
+    id: lx38kusx
+    from: '2024-06-10'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.15 – 20.00: Gebärdensprachkurs, S308 – Herzlich willkommen!'
+  -
+    id: lx38ljlq
+    from: '2024-06-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Tag der offenen Tür, Aargauer Sehhilfe – Herzlich willkommen!'
+on_visit:
+  -
+    id: lx38lwga
+    from: '2024-06-10'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schuel Quadrius – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
