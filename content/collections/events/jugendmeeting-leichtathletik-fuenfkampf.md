@@ -1,5 +1,6 @@
 ---
 id: 79ac6d16-cbe8-4389-b062-6e01574877b7
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Jugendmeeting Leichtathletik Fünfkampf'
@@ -20,5 +21,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1711532282
+updated_at: 1717739858
 ---
