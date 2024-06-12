@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1718092889
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1718203243
 art: box
 color_theme: blue
 current:
@@ -15,26 +15,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lwrteih5
-    from: '2024-06-08'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Kindertreffen APD – Herzlich willkommen!'
-  -
-    id: lx1ydewn
-    from: '2024-06-10'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.06. – 12.06.24: Abschlusstage 9. Klasse – Viel Vergnügen!'
-  -
     id: lx1ydtg6
     from: '2024-06-13'
     text:
@@ -45,16 +25,6 @@ current_events:
             type: text
             text: '13.06. – 14.06.24: Aufnahmetage Brückenjahr – Viel Vergnügen!'
   -
-    id: lx38kusx
-    from: '2024-06-10'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.15 – 20.00 Uhr: Gebärdensprachkurs, S308 – Herzlich willkommen!'
-  -
     id: lx38ljlq
     from: '2024-06-12'
     text:
@@ -64,17 +34,27 @@ current_events:
           -
             type: text
             text: 'Tag der offenen Tür, Aargauer Sehhilfe – Herzlich willkommen!'
-on_visit:
   -
-    id: lx38lwga
-    from: '2024-06-10'
+    id: lxbxsv1s
+    from: '2024-06-19'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
+            text: '13.30 – 16.00 Uhr: Einführung in die Sehbehindertenpädagogik, Aula – Viel Vergnügen!'
+  -
+    id: lxbxtb0h
+    from: '2024-06-22'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '14.00 – 17.30 Uhr: Familienanlass VPD – Herzlich willkommen!'
+on_visit:
   -
     id: lx931mun
     from: '2024-06-12'
@@ -85,48 +65,18 @@ on_visit:
           -
             type: text
             text: '09.15 – ca. 12.00 Uhr: Hospitation am Landenhof - Herzlich willkommen!'
+  -
+    id: lxbxtnnw
+    from: '2024-06-17'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.15 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
 show_decoration: false
 infos:
-  -
-    id: lwrtbbd4
-    from: '2024-06-05'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lwrtbo71
-    from: '2024-06-07'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lx1yawwc
-    from: '2024-06-10'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen euch einen tollen Wochenstart!'
-  -
-    id: lx1yb8ex
-    from: '2024-06-11'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lx1ycpls
     from: '2024-06-12'
@@ -147,6 +97,46 @@ infos:
           -
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lxbxr50r
+    from: '2024-06-18'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lxbxr9ny
+    from: '2024-06-19'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lxbxrawm
+    from: '2024-06-21'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lxbxryql
+    from: '2024-06-20'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen tollen Donnerstag!'
 galerie:
   - infoscreen/schulsport_1.png
   - infoscreen/schulsport_2.png
