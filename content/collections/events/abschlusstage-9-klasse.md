@@ -1,5 +1,6 @@
 ---
 id: a1ece4e1-92b8-42d8-983f-6a6fe09e0f83
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Abschlusstage 9. Klasse'
