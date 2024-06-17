@@ -1,5 +1,6 @@
 ---
 id: f1b9d8dc-c632-478e-852f-407a13a114e9
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Aufnahmetage Brückenjahr'
