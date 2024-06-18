@@ -3,3 +3,7 @@ roles:
   - editor
 id: dba7e432-21e6-46ca-b155-fec6087e7924
 password_hash: $2y$10$IoN8tZFkEsOqaUS/zxBAk.lc1OXxTukkjLWmJ/i6GmE0.9DdHtM62
+preferences:
+  collections:
+    blog_posts:
+      per_page: 100
