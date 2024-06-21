@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1718954384
+updated_at: 1718954633
 art: box
 color_theme: blue
 current:
@@ -33,7 +33,7 @@ current_events:
         content:
           -
             type: text
-            text: 'ab 18.00 Uhr: Abschlussessen – Viel Vergnügen!'
+            text: 'ab 18.30 Uhr: Abschlussessen – Viel Vergnügen!'
 on_visit:
   -
     id: lxob1lni
