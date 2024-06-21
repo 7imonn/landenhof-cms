@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1718954633
+updated_at: 1718961153
 art: box
 color_theme: blue
 current:
@@ -65,6 +65,16 @@ on_visit:
           -
             type: text
             text: '24.06. – 27.06.2024: Schnupperschülerin im Brückenjahr – Herzlich willkommen!'
+  -
+    id: lxoh2wh6
+    from: '2024-06-24'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '24.06. - 26.06.2024: Schnupperschülerin in der 2. Klasse b – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
@@ -86,7 +96,7 @@ infos:
         content:
           -
             type: text
-            text: '08.30 – 16.30 Uhr: Praxis Dr. A. Bass geöffnet!'
+            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
   -
     id: lxoctu0a
     from: '2024-06-26'
