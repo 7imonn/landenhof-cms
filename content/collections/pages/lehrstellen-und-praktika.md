@@ -38,22 +38,6 @@ components:
             type: text
             text: 'Als Lernende:r Fachmann/Fachfrau Betriebsunterhalt arbeiten Sie hauptsächlich im Technischen Dienst. Sie helfen beim Unterhalt der Gebäude und der Grünanlage mit, führen Reparaturen aus, lösen technische Probleme, warten Maschinen und stellen die Infrastruktur für Anlässe bereit. Weiter absolvieren Sie regelmässige Einsätze im Reinigungsteam und bei einem Landschaftsgärtner.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::a38f6421-0bac-4117-ae88-5dc5482e0f5f'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Lehrstelle frei ab August 2024'
-      -
         type: heading
         attrs:
           level: 3
@@ -254,5 +238,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1716299067
+updated_at: 1719218148
 ---
