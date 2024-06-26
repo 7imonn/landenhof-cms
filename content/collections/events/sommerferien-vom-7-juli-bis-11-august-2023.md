@@ -3,8 +3,8 @@ id: 15ea1039-8bde-4a34-b3aa-bbeca54ceab7
 published: false
 blueprint: event
 event_card_layout: as_accordion
-title: 'Sommerferien: Vom 7. Juli bis 11. August 2023'
-event_date: '2023-07-07'
+title: 'Sommerferien: Vom 5. Juli bis 9. August 2024'
+event_date: '2024-07-05'
 time: Ganztags
 file: lottie/event-uebergeordnet.json
 lead:
@@ -22,13 +22,13 @@ lead:
     content:
       -
         type: text
-        text: '1. Ferienwoche : Montag - Donnerstag, 10. - 13. Juli 2023, 08.30 - 11.30 Uhr '
+        text: '1. Ferienwoche : Montag - Donnerstag, 8. - 11. Juli 2024, 08.30 - 11.30 Uhr '
   -
     type: paragraph
     content:
       -
         type: text
-        text: '2. Ferienwoche: Montag - Donnerstag, 17. - 20. Juli 2023, 08.30 - 11.30 Uhr'
+        text: '2. Ferienwoche: Montag - Donnerstag, 15. - 18. Juli 2024, 08.30 - 11.30 Uhr'
   -
     type: paragraph
     content:
@@ -40,7 +40,7 @@ lead:
     content:
       -
         type: text
-        text: '5. Ferienwoche: Montag - Freitag, 7. - 11. August 2023, 08.30-11.30 Uhr'
+        text: '5. Ferienwoche: Montag - Freitag, 5. - 9. August 2024, 08.30-11.30 Uhr'
   -
     type: paragraph
     content:
@@ -51,7 +51,7 @@ lead:
         marks:
           -
             type: bold
-        text: 'Beginn Schuljahr 2023/24'
+        text: 'Beginn Schuljahr 2024/25'
       -
         type: hard_break
         marks:
@@ -67,7 +67,7 @@ lead:
         marks:
           -
             type: bold
-        text: 'Montag, 14. August 2023, 10.00 Uhr'
+        text: 'Montag, 12. August 2024, 10.00 Uhr'
   -
     type: paragraph
     content:
@@ -82,6 +82,6 @@ categories:
   - landenhof-uebergeordnet
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
-updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1692609717
+updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
+updated_at: 1719388971
 ---
