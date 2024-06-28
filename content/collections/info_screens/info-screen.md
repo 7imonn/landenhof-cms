@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1719566098
+updated_at: 1719566161
 art: box
 color_theme: blue
 current:
@@ -44,6 +44,26 @@ current_events:
           -
             type: text
             text: '16:30 Uhr: Abschlussfussballspiel Schüler:innen gegen Erwachsene – Viel Vergnügen!'
+  -
+    id: lxyh9kj8
+    from: '2024-07-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09:00 – 11.00 Uhr: Abschlussfeier und Apéro – Viel Vergnügen!'
+  -
+    id: lxyha4sd
+    from: '2024-07-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ab 11:00 Uhr: Sommerferien – Wir wünschen allen schöne Ferien!'
 on_visit:
   -
     id: lxob1lni
