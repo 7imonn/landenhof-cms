@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1719565039
+updated_at: 1719566098
 art: box
 color_theme: blue
 current:
@@ -16,14 +16,14 @@ current:
 current_events:
   -
     id: lxbxtb0h
-    from: '2024-06-22'
+    from: '2024-07-02'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '14.00 – 17.30 Uhr: Familienanlass VPD – Herzlich willkommen!'
+            text: '10.30 Uhr: Jubiläen und Verabschiedungen – Viel Vergnügen!'
   -
     id: lxocvk3m
     from: '2024-06-28'
@@ -34,6 +34,16 @@ current_events:
           -
             type: text
             text: 'ab 18.30 Uhr: Abschlussessen – Viel Vergnügen!'
+  -
+    id: lxyh8pgs
+    from: '2024-07-02'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '16:30 Uhr: Abschlussfussballspiel Schüler:innen gegen Erwachsene – Viel Vergnügen!'
 on_visit:
   -
     id: lxob1lni
