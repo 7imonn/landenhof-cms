@@ -1,6 +1,5 @@
 ---
 id: 15ea1039-8bde-4a34-b3aa-bbeca54ceab7
-published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Sommerferien: Vom 5. Juli bis 9. August 2024'
@@ -83,5 +82,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1719388971
+updated_at: 1719907442
 ---
