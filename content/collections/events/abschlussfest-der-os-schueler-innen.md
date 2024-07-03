@@ -1,5 +1,6 @@
 ---
 id: 5053a925-5386-450c-9d5e-a1e70b82cfe8
+published: false
 blueprint: event
 event_card_layout: as_accordion
 title: 'Abschlussanlass der OS-Schüler:innen'
