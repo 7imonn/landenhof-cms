@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1720621603
+updated_at: 1720621994
 art: box
 color_theme: blue
 current:
@@ -23,7 +23,7 @@ current_events:
         content:
           -
             type: text
-            text: 'Ab 10.00 Uhr: Schuljahresauftakt in der Arena mit Eltern – Viel Vergnügen!'
+            text: 'Ab 10.00 Uhr: Schulbeginn – Guten Start!'
   -
     id: lyfxgl5s
     from: '2024-08-14'
