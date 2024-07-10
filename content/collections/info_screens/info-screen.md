@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
-updated_at: 1720621994
+updated_at: 1720622007
 art: box
 color_theme: blue
 current:
@@ -33,7 +33,7 @@ current_events:
         content:
           -
             type: text
-            text: '18.00 – 21.00 Uhr: Sommergrill BFSUG – Viel Vergnügen'
+            text: '18.00 – 21.00 Uhr: Sommergrill BFSUG – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
