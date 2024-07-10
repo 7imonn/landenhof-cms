@@ -2,8 +2,8 @@
 id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
-updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1719566225
+updated_by: 63992bf4-309d-497c-9ce4-8515ba91de04
+updated_at: 1720621603
 art: box
 color_theme: blue
 current:
@@ -15,111 +15,60 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lxbxtb0h
-    from: '2024-07-02'
+    id: lyfxfz3i
+    from: '2024-08-12'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.30 Uhr: Jubiläen und Verabschiedungen – Viel Vergnügen!'
+            text: 'Ab 10.00 Uhr: Schuljahresauftakt in der Arena mit Eltern – Viel Vergnügen!'
   -
-    id: lxocvk3m
-    from: '2024-06-28'
+    id: lyfxgl5s
+    from: '2024-08-14'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'ab 18.30 Uhr: Abschlussessen – Viel Vergnügen!'
-  -
-    id: lxyh8pgs
-    from: '2024-07-02'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '16:30 Uhr: Abschlussfussballspiel Schüler:innen gegen Erwachsene – Viel Vergnügen!'
-  -
-    id: lxyh9kj8
-    from: '2024-07-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '09:00 – 11.00 Uhr: Abschlussfeier und Apéro – Viel Vergnügen!'
-  -
-    id: lxyha4sd
-    from: '2024-07-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ab 11:00 Uhr: Sommerferien – Wir wünschen allen schöne Ferien!'
-on_visit:
-  -
-    id: lxob1lni
-    from: '2024-07-01'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '17.00 – 20.00 Uhr: Stiftungsratssitzung – Herzlich willkommen!'
+            text: '18.00 – 21.00 Uhr: Sommergrill BFSUG – Viel Vergnügen'
 show_decoration: false
 infos:
   -
-    id: lxbxrawm
-    from: '2024-07-03'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lxoctden
-    from: '2024-07-04'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schuljahresbeginn ist am Montag, 12. August 2024!'
-  -
-    id: lxoctu0a
-    from: '2024-06-26'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
-    id: lxocucna
-    from: '2024-06-28'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
-  -
     id: lxocuwv1
-    from: '2024-06-27'
+    from: '2024-08-13'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lyfxd4i2
+    from: '2024-08-14'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lyfxd9c7
+    from: '2024-08-16'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: lyfxewgl
+    from: '2024-08-15'
     text:
       -
         type: paragraph
