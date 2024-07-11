@@ -12,14 +12,14 @@ heading:
 file: lottie/stufe1-hoeren-sehen.json
 is_white: true
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1720686456
+updated_at: 1720686490
 lead:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Bereich stehen Leitungspersonen vor, die die/den Geschäftsführer:in in der operativen Leitung unterstützen.'
+        text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Bereich stehen Leitungspersonen vor, welche die/den Geschäftsführer:in in der operativen Leitung unterstützen.'
 with_filter: false
 link_text: 'Offene Stellen'
 link: 'entry::84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7'
