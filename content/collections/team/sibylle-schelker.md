@@ -2,7 +2,7 @@
 id: 213e8dff-a8ce-43fa-af20-156f8e0dfbfa
 blueprint: team_member
 title: 'Sibylle Schelker'
-portrait: team/sibylle-schelker.jpg
+portrait: team/team_schelker_sibylle.jpg
 email: sibylle.schelker@landenhof.ch
 phone: '+41 79 618 90 98'
 functions:
