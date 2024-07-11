@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1720686365
+updated_at: 1720686525
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -238,7 +238,7 @@ components:
         content:
           -
             type: text
-            text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Bereich stehen Leitungspersonen vor, die die/den Geschäftsführer:in in der operativen Leitung unterstützen. Die/Der Geschäftsführer:in und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
+            text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Bereich stehen Leitungspersonen vor, welche die/den Geschäftsführer:in in der operativen Leitung unterstützen. Die/Der Geschäftsführer:in und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
       -
         type: heading
         attrs:
