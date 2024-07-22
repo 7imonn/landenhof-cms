@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1720678022
+updated_at: 1721644485
 art: box
 color_theme: blue
 current:
@@ -34,6 +34,16 @@ current_events:
           -
             type: text
             text: 'Ab 18.00 Uhr: Sommergrill BFSUG – Viel Vergnügen!'
+  -
+    id: lywumvr6
+    from: '2024-08-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 - 11.15 Uhr: Informationsveranstaltung für die Eltern der neu eintretenden Schüler:innen, Aula - Herzlich willkommen!'
 show_decoration: false
 infos:
   -
