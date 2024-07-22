@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1721644601
+updated_at: 1721644675
 art: box
 color_theme: blue
 current:
@@ -23,7 +23,7 @@ current_events:
         content:
           -
             type: text
-            text: 'Ab 10.00 Uhr: Schulbeginn – Guten Start!'
+            text: '10.00 Uhr: Besammlung aller Schüler:innen in ihren Klassen – Guten Start!'
   -
     id: lyfxgl5s
     from: '2024-08-14'
