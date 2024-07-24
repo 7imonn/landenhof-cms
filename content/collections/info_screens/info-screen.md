@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1721644675
+updated_at: 1721828939
 art: box
 color_theme: blue
 current:
@@ -97,9 +97,6 @@ infos:
             type: text
             text: 'Wir wünschen euch einen tollen Donnerstag!'
 galerie:
-  - infoscreen/simona_de_gottardi_fertig.jpg
-  - infoscreen/ann_kathrin_schmid_fertig.jpg
-  - infoscreen/beatrice_grob_fertig.jpg
   - infoscreen/img_0007.jpeg
   - infoscreen/img_0030.jpeg
   - infoscreen/img_0032.jpeg
