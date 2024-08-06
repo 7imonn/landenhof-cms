@@ -8,7 +8,6 @@ email: stefan.buchmueller@landenhof.ch
 updated_by: 8fd6c8cb-46ee-4cad-bc66-a69f940d8a9d
 updated_at: 1676466476
 phone: '+41 62 737 05 05'
-portrait: team/team_buchmueller_stefan.jpg
 functions:
   - geschaeftsfuehrung
 is_gl_member: true
