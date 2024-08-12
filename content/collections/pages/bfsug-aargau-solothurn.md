@@ -139,29 +139,10 @@ components:
     person: 53c21c8b-7611-4aeb-a7e5-34d800908068
     type: contact_teaser
     enabled: true
-  -
-    id: lee315xa
-    slides:
-      -
-        id: XkyHciDW
-        image: seiten_hoeren/hoeren_beraten/bfsug_agso/bfsug_agso_team_2021.jpg
-        positioning: imageIsRight
-        heading: 'BFSUG Aargau Solothurn'
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Erfahren Sie mehr über die Beratung für Schwerhörige und Gehörlose und ihre regionalen Angebote.'
-        link_text: 'Website BFSUG Aargau Solothurn'
-        link: 'https://www.bfsug.ch/beratungsstellen/region-aargau-solothurn/'
-    type: teaser_large_slider
-    enabled: true
 parent: 1f3a19ad-12e3-41e5-8df6-33a9051e47d3
 color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1684822519
+updated_at: 1723463192
 ---
