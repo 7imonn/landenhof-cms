@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1723614918
+updated_at: 1723720235
 art: box
 color_theme: blue
 current:
@@ -16,49 +16,45 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-08-12'
+    from: '2024-08-21'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.00 Uhr: Besammlung aller Schüler:innen in ihren Klassen – Guten Start!'
+            text: 'Sommernachtsfest – Viel Vergnügen!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Schulbeginn am Donnerstag, 22. August 2024 um 08.50 Uhr'
   -
     id: lywumvr6
-    from: '2024-08-12'
+    from: '2024-08-23'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.15 - 11.15 Uhr: Informationsveranstaltung für die Eltern der neu eintretenden Schüler:innen, Aula - Herzlich willkommen!'
-  -
-    id: lywupgtf
-    from: '2024-08-12'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '11.30 Uhr: Gemeinsamer Schuljahresauftakt auf dem neuen Wendeplatz mit allen Schüler:innen und Eltern'
+            text: 'Wir wünschen allen ein schönes Wochenende!'
 show_decoration: false
 infos:
   -
     id: lxocuwv1
-    from: '2024-08-13'
+    from: '2024-08-20'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
   -
     id: lyfxd4i2
-    from: '2024-08-14'
+    from: '2024-08-21'
     text:
       -
         type: paragraph
