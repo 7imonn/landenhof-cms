@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1724230533
+updated_at: 1724230832
 art: box
 color_theme: blue
 current:
@@ -40,18 +40,28 @@ current_events:
           -
             type: text
             text: 'Wir wünschen allen ein schönes Wochenende!'
-show_decoration: false
-infos:
   -
-    id: lxocuwv1
-    from: '2024-08-20'
+    id: m03mhjth
+    from: '2024-08-28'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
+            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula – Herzlich willkommen!'
+show_decoration: false
+infos:
+  -
+    id: lxocuwv1
+    from: '2024-08-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxd4i2
     from: '2024-08-21'
@@ -64,7 +74,7 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxd9c7
-    from: '2024-08-16'
+    from: '2024-08-28'
     text:
       -
         type: paragraph
@@ -74,14 +84,14 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxewgl
-    from: '2024-08-15'
+    from: '2024-08-30'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen tollen Donnerstag!'
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
   - infoscreen/nathalie_fischer_fertig.jpg
   - infoscreen/patricia_ruetimann_fertig.jpg
@@ -105,4 +115,15 @@ galerie:
   - infoscreen/max_mandre_fertig.jpg
   - infoscreen/melanie_apaloo_fertig.jpg
   - infoscreen/mirjam_troendle_fertig.jpg
+on_visit:
+  -
+    id: m03mhvml
+    from: '2024-08-30'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.30 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
 ---
