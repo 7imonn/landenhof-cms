@@ -21,7 +21,7 @@ color_theme: green
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1712061759
+updated_at: 1724227152
 components:
   -
     id: lefnuu3x
@@ -63,7 +63,7 @@ components:
         content:
           -
             type: text
-            text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zylus 1, 2 und 3) Mittagstische in Kleingruppen an. '
+            text: 'Ihre Mittagspause und Freizeit verbringen die Schüler:innen im Tageshort. Wir bieten auf unseren drei Tageshortgruppen (Zyklus 1, 2 und 3) Mittagstische in Kleingruppen an. '
       -
         type: paragraph
         content:
