@@ -96,9 +96,16 @@ tree:
             id: dfd7cdca-0d9d-4352-b8f9-7a10b3914467
             entry: 46d5a954-f15f-445e-b6f5-290d902eb1dd
       -
+        id: 2102c584-ea93-4e87-bc4b-e9c9f9d3b715
+        title: Schule
+        url: 'https://www.landenhof.ch/sehen/schule-sehen'
+      -
         id: 05123d6d-6bb2-482f-a445-01814728bb56
         entry: 6a3dccf0-98b4-42de-b107-e10f25db7c83
         children:
+          -
+            id: 18476c03-c84c-4497-8819-ab28f725578a
+            entry: 17c9036a-48aa-4fe9-aa25-cbad51e71261
           -
             id: d6532262-ade4-437b-ade1-a592f58972be
             entry: 2d7858e7-6836-4575-a821-7a7ed749a1bd
