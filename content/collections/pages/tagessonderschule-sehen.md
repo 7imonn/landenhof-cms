@@ -321,42 +321,15 @@ components:
           -
             type: text
             text: 'Haben Sie Fragen zu unserem Schulangebot Zyklus 1 & 2 (Primarstufe) oder Zyklus 3 (Oberstufe)? Gerne berate ich Sie persönlich.'
-    person: 552efae4-ef74-4aac-a517-e6c1ac5f4b65
+    person: 257b92cd-b7a6-42a0-bbac-4a63a314d70f
     type: contact_teaser
     enabled: true
-  -
-    id: leououd2
-    icon_cards:
-      -
-        id: leovgkso
-        color_theme: pink
-        icon: icons/multiple_eyes.svg
-        title: Low-Vision-Abklärung
-        text: 'Zeigt ein Kind Auffälligkeiten in der visuellen Entwicklung oder Wahrnehmung, klärt der VPD ab, ob eine Sehbeeinträchtigung vorliegt.'
-        links:
-          -
-            id: leovib10
-            link_title: 'Erfahren Sie mehr.'
-            link: 'entry::46777538-aec1-4527-b6f4-69909d9b26d1'
-      -
-        id: 4WBx6v9E
-        color_theme: pink
-        icon: icons/eye.svg
-        title: 'Beratung Lehrpersonen'
-        text: 'Der VPD sensibilisiert Lehrpersonen & Mitschüler:innen für die Bedürfnisse sehbeeinträchtigter Menschen.'
-        links:
-          -
-            id: leouvlfj
-            link_title: 'Erfahren Sie mehr.'
-            link: 'entry::12bc0c34-36e0-4efe-9843-3edbf3d3e6bb'
-    type: icon_cards
-    enabled: false
 parent: 6a3dccf0-98b4-42de-b107-e10f25db7c83
 color_theme: pink
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1724165468
+updated_at: 1724228704
 lead:
   -
     type: paragraph
