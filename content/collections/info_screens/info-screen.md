@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1724320576
+updated_at: 1724320825
 art: box
 color_theme: blue
 current:
@@ -94,6 +94,7 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
 galerie:
   - infoscreen/nathalie_fischer_fertig.jpg
+  - infoscreen/carolina_fierz_fertig-1724320801.jpg
   - infoscreen/melanie_apaloo_fertig_2.jpg
   - infoscreen/patricia_ruetimann_fertig.jpg
   - infoscreen/nicole_hengartner_fertig.jpg
