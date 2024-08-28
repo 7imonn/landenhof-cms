@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1724320825
+updated_at: 1724825076
 art: box
 color_theme: blue
 current:
@@ -16,30 +16,14 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-08-21'
+    from: '2024-08-29'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Sommernachtsfest – Viel Vergnügen!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Schulbeginn am Donnerstag, 22. August 2024 um 08.50 Uhr'
-  -
-    id: lywumvr6
-    from: '2024-08-23'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir wünschen allen ein schönes Wochenende!'
+            text: '12.15 Uhr: Pizzaessen – Viel Vergnügen!'
   -
     id: m03mhjth
     from: '2024-08-28'
@@ -127,4 +111,14 @@ on_visit:
           -
             type: text
             text: '10.15 – 13.30 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
+  -
+    id: m0dgb1rr
+    from: '2024-08-29'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '29.08. – 6.09.2024: Kurzpraktikum in der Sozialpädagogik – Herzlich willkommen!'
 ---
