@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1724910613
+updated_at: 1724910640
 art: box
 color_theme: blue
 current:
@@ -80,7 +80,6 @@ galerie:
   - infoscreen/nancy_spaeni_fertig.jpg
   - infoscreen/agnieszka_klann_fertig.jpg
   - infoscreen/andrina_petrig_fertig.jpg
-  - infoscreen/natalie_scheidegger_fertig.jpg
   - infoscreen/stefanie_urech_fertig.jpg
   - infoscreen/sophie_minnig_fertig.jpg
   - infoscreen/nathalie_fischer_fertig.jpg
@@ -96,6 +95,7 @@ galerie:
   - infoscreen/sophia_martinato_fertig.jpg
   - infoscreen/benjamin_vujic_fertig.jpg
   - infoscreen/cornelia_waelti_fertig.jpg
+  - infoscreen/natalie_scheidegger_fertig.jpg
   - infoscreen/leandra_bieri_fertig.jpg
   - infoscreen/loris_ruffino_fertig.jpg
   - infoscreen/max_mandre_fertig.jpg
