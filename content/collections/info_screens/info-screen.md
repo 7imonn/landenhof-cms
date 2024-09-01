@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725192335
+updated_at: 1725192391
 art: box
 color_theme: blue
 current:
@@ -133,7 +133,7 @@ galerie:
 on_visit:
   -
     id: m03mhvml
-    from: '2024-08-30'
+    from: '2024-09-06'
     text:
       -
         type: paragraph
@@ -141,14 +141,4 @@ on_visit:
           -
             type: text
             text: '10.15 – 13.30 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
-  -
-    id: m0dgb1rr
-    from: '2024-08-29'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '29.08. – 6.09.2024: Kurzpraktikum in der Sozialpädagogik – Herzlich willkommen!'
 ---
