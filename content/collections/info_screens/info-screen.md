@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725192173
+updated_at: 1725192335
 art: box
 color_theme: blue
 current:
@@ -16,24 +16,54 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-08-29'
+    from: '2024-09-02'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '12.15 Uhr: Pizzaessen – Viel Vergnügen!'
+            text: '11.30 – 12.15 Uhr: Austrittsgruppe Auftaktveranstaltung, Aula – Viel Vergnügen!'
   -
     id: m03mhjth
-    from: '2024-08-28'
+    from: '2024-09-03'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '18.00 – 21.00 Uhr: Stiftungsratssitzung, Aula – Herzlich willkommen!'
+            text: '03.09. – 05.09.2024: Berufs-Infomesse BIM AareLand, Olten'
+  -
+    id: m0jixoah
+    from: '2024-09-04'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '04.09. – 05.09.2024: Teamevent Quartalswanderung vom Brückenjahr – Viel Vergnügen!'
+  -
+    id: m0jiy5so
+    from: '2024-09-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.00 – 12.30 Uhr: Einführung für neue Mitarbeiter:innen, Teil 2, Aula – Viel Vergnügen!'
+  -
+    id: m0jiypgb
+    from: '2024-09-06'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '08.30 – 16.00 Uhr: Fachtagung "Gehörlose und Schwerhörige erfolgreich in den Arbeitsmarkt integrieren", Aula – Viel Vergnügen!'
 show_decoration: false
 infos:
   -
@@ -68,7 +98,7 @@ infos:
             text: '02.09. – 13.09.2024: Leistungstest Check P3 – Viel Glück!'
   -
     id: lyfxewgl
-    from: '2024-08-30'
+    from: '2024-09-06'
     text:
       -
         type: paragraph
