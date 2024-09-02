@@ -7,7 +7,6 @@ heros:
     id: O5YVjaDl
     type: hero_default
     heading: 'Tagessonderschule für Sehbeeinträchtigte'
-    file: seiten_sehen/sehen_schule/taso_sehen_titelbild.JPG
     enabled: true
 components:
   -
