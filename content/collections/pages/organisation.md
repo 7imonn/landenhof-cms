@@ -570,7 +570,7 @@ components:
         id: ldunuzo0
         name: 'Stiftungsurkunde Landenhof'
         open_in_tab: true
-        file: downloads/lh_stiftungsurkunde.pdf
+        file: ueber_den_landenhof/organisation/lh_stiftungsurkunde.pdf
       -
         id: lisr1l6h
         name: Organigramm
