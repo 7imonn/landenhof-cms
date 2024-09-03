@@ -23,3 +23,6 @@ preferences:
       after_save: continue_editing
     categories:
       after_save: create_another
+  assets:
+    assets:
+      mode: grid
