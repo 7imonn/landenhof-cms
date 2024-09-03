@@ -18,7 +18,7 @@ heros:
     enabled: true
 parent: f4ffc5d4-9147-42f3-be41-1d773ffacc48
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1725364990
+updated_at: 1725365249
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 lead:
@@ -238,7 +238,7 @@ components:
         content:
           -
             type: text
-            text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Bereich stehen Leitungspersonen vor, welche die/den Geschäftsführer:in in der operativen Leitung unterstützen. Die/Der Geschäftsführer:in und die Bereichsleitenden bilden zusammen die Geschäftsleitung.'
+            text: 'Die operative Führung des Landenhofs obliegt dem/der Geschäftsführer:in (Stelle vakant) und deren/dessen Stellvertreter:in. Jedem Geschäftsfeld stehen Leitungspersonen vor, welche die/den Geschäftsführer:in in der operativen Leitung unterstützen. Die/Der Geschäftsführer:in und die Geschäftsfeldleitenden bilden zusammen die Geschäftsleitung.'
       -
         type: heading
         attrs:
@@ -256,17 +256,6 @@ components:
               -
                 type: bold
             text: 'Hans-Ruedi Hottiger '
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Daniela Hediger '
       -
         type: paragraph
         content:
@@ -277,17 +266,12 @@ components:
             marks:
               -
                 type: bold
-            text: 'Leitung Tagessonderschule Hören'
+            text: 'Leitung Tagessonderschule Hören & Sehen'
           -
             type: hard_break
           -
             type: text
-            text: 'Ralph Bitterli, Leiter Primarschule'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Daniela Hediger, Leiterin Oberstufe & Brückenjahr'
+            text: 'Daniela Hediger'
       -
         type: paragraph
         content:
@@ -310,17 +294,12 @@ components:
             marks:
               -
                 type: bold
-            text: 'Leitung Audiopädagogischer Dienst'
+            text: 'Leitung Ambulante Dienste Hören'
           -
             type: hard_break
           -
             type: text
-            text: 'Monica Vonder Mühll, Leiterin Vorschulbereich'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Regula Fürderer, Leitung Schulbereich & Stützpunkt Gymnasium/Mittelschule'
+            text: 'Sarah Arquint'
       -
         type: paragraph
         content:
@@ -329,12 +308,15 @@ components:
             marks:
               -
                 type: bold
-            text: 'Leitung Pädaudiologischer Dienst'
+            text: 'Leitung Ambulante Dienste Sehen'
           -
             type: hard_break
+            marks:
+              -
+                type: bold
           -
             type: text
-            text: 'Marion Ingold'
+            text: 'Margrit Meier'
       -
         type: paragraph
         content:
@@ -343,31 +325,7 @@ components:
             marks:
               -
                 type: bold
-            text: 'Leitung Visiopädagogischer Dienst'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Margrit Meier, Leiterin Heilpädagogische Früherziehung'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Sibylle Schelker, Co-Leiterin Beratung & Begleitung'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Daniela Lüscher, Co-Leiterin Beratung & Begleitung'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Leitung Verwaltung'
+            text: 'Leitung Dienste'
           -
             type: hard_break
             marks:
@@ -375,32 +333,9 @@ components:
                 type: bold
           -
             type: text
-            text: 'Denise Williams'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Leitung Ökonomie'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Rahel Nufer Scharwächter'
+            text: 'Suren Duraisamy (ab 1. Dezember 2024)'
     type: text
     enabled: true
-  -
-    id: lekf5470
-    heading: 'GL-Kolleg:in gesucht!'
-    entries:
-      - 84e9fa3c-6594-4ad9-ae73-2fffff6ab4c7
-      - ef081c1e-889d-481c-a465-c26868ed5ea2
-    type: slider
-    enabled: false
-    button_text: 'Mehr anzeigen'
   -
     id: lekdvrzr
     text:
