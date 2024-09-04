@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725429695
+updated_at: 1725430315
 art: box
 color_theme: blue
 current:
@@ -16,14 +16,14 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-09-02'
+    from: '2024-09-04'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '11.30 – 12.15 Uhr: Austrittsgruppe Auftaktveranstaltung, Aula – Viel Vergnügen!'
+            text: '17.00 - 19.00 Uhr: Weiterbildung "Sehbeeinträchtigte Kinder im Unterricht", Aula - Herzlich willkommen!'
   -
     id: m03mhjth
     from: '2024-09-03'
