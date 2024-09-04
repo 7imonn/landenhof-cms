@@ -27,7 +27,7 @@ components:
         content:
           -
             type: text
-            text: '1800'
+            text: 1800-1899
       -
         type: paragraph
         content:
@@ -149,7 +149,7 @@ components:
         content:
           -
             type: text
-            text: '1900'
+            text: 1900-1929
       -
         type: paragraph
         content:
@@ -232,7 +232,7 @@ components:
         content:
           -
             type: text
-            text: '1930'
+            text: 1930-1939
       -
         type: paragraph
         content:
@@ -279,7 +279,7 @@ components:
         content:
           -
             type: text
-            text: '1940'
+            text: 1940-1949
       -
         type: paragraph
         content:
@@ -362,7 +362,7 @@ components:
         content:
           -
             type: text
-            text: '1950'
+            text: 1950-1959
     type: text
     enabled: true
   -
@@ -386,7 +386,7 @@ components:
         content:
           -
             type: text
-            text: '1960'
+            text: 1960-1969
     type: text
     enabled: true
   -
@@ -439,7 +439,7 @@ components:
         content:
           -
             type: text
-            text: '1970'
+            text: 1970-1979
       -
         type: paragraph
         content:
@@ -514,7 +514,7 @@ components:
         content:
           -
             type: text
-            text: '1980'
+            text: 1980-1989
       -
         type: paragraph
         content:
@@ -590,7 +590,7 @@ components:
         content:
           -
             type: text
-            text: '1990'
+            text: 1990-1999
       -
         type: paragraph
         content:
@@ -715,7 +715,7 @@ components:
             type: hard_break
           -
             type: text
-            text: '2000'
+            text: 2000-2009
       -
         type: paragraph
         content:
@@ -887,7 +887,7 @@ components:
         content:
           -
             type: text
-            text: '2010'
+            text: 2010-2019
       -
         type: paragraph
         content:
@@ -1170,7 +1170,7 @@ components:
         content:
           -
             type: text
-            text: '2020'
+            text: 2020-2024
       -
         type: paragraph
         content:
@@ -1379,5 +1379,5 @@ color_theme: blue
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 04e1ae9a-6ef8-4ba0-931b-7cd69cc0d3a2
-updated_at: 1712221757
+updated_at: 1725447498
 ---
