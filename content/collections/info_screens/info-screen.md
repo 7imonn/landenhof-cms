@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725192391
+updated_at: 1725429695
 art: box
 color_theme: blue
 current:
@@ -141,4 +141,14 @@ on_visit:
           -
             type: text
             text: '10.15 – 13.30 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
+  -
+    id: m0nga3j5
+    from: '2024-09-05'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.30 – 11.30 Uhr: Besuch Leon mit Begleitung – Herzlich willkommen!'
 ---
