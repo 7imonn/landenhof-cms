@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725430315
+updated_at: 1725516675
 art: box
 color_theme: blue
 current:
@@ -68,7 +68,17 @@ show_decoration: false
 infos:
   -
     id: lxocuwv1
-    from: '2024-09-04'
+    from: '2024-09-09'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir wünschen euch einen schönen Montag!'
+  -
+    id: lyfxd4i2
+    from: '2024-09-10'
     text:
       -
         type: paragraph
@@ -77,28 +87,28 @@ infos:
             type: text
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
-    id: lyfxd4i2
-    from: '2024-09-03'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '08.30 – 17.00 Uhr: Praxis Dr. A. Bass geöffnet!'
-  -
     id: lyfxd9c7
-    from: '2024-09-02'
+    from: '2024-09-11'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '02.09. – 13.09.2024: Leistungstest Check P3 – Viel Glück!'
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxewgl
     from: '2024-09-06'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+  -
+    id: m0ow2ft3
+    from: '2024-09-13'
     text:
       -
         type: paragraph
