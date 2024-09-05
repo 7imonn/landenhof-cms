@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725516675
+updated_at: 1725516794
 art: box
 color_theme: blue
 current:
@@ -16,34 +16,34 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-09-04'
+    from: '2024-09-11'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '17.00 - 19.00 Uhr: Weiterbildung "Sehbeeinträchtigte Kinder im Unterricht", Aula - Herzlich willkommen!'
+            text: '13.30 – 16.45 Uhr: Defibrillatorkurse Refresher, Aula – Viel Vergnügen!'
   -
     id: m03mhjth
-    from: '2024-09-03'
+    from: '2024-09-12'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '03.09. – 05.09.2024: Berufs-Infomesse BIM AareLand, Olten'
+            text: '10.00 – 15.00 Uhr: Basic Check, 9. Klasse, Informatikraum 108 – Viel Erfolg!'
   -
     id: m0jixoah
-    from: '2024-09-04'
+    from: '2024-09-12'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '04.09. – 05.09.2024: Teamevent Quartalswanderung vom Brückenjahr – Viel Vergnügen!'
+            text: '16.20 – 17.40 Uhr: Q-Zirkel ASS, Aula – Viel Vergnügen!'
   -
     id: m0jiy5so
     from: '2024-09-05'
@@ -64,6 +64,16 @@ current_events:
           -
             type: text
             text: '08.30 – 16.00 Uhr: Fachtagung "Gehörlose und Schwerhörige erfolgreich in den Arbeitsmarkt integrieren", Aula – Viel Vergnügen!'
+  -
+    id: m0ow4tfd
+    from: '2024-09-12'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Aargauer Sehhilfe - Ausflug Skulpturenausstellung in Bad Ragaz'
 show_decoration: false
 infos:
   -
