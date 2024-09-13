@@ -19,8 +19,8 @@ lead:
       -
         type: text
         text: 'Schulbeginn: Montag, 14. Oktober 2024, 10.00 Uhr'
-  -
-    type: paragraph
+      -
+        type: hard_break
   -
     type: paragraph
     content:
@@ -57,5 +57,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1726217410
+updated_at: 1726217537
 ---
