@@ -1,5 +1,6 @@
 ---
 id: 9dee4e45-10f1-4884-8cca-f39ba33fe439
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Basis Check 9. Klasse und Brückenjahr'
@@ -15,5 +16,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1721825327
+updated_at: 1726207047
 ---
