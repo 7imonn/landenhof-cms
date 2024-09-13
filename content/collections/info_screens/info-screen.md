@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1725516794
+updated_at: 1726215752
 art: box
 color_theme: blue
 current:
@@ -78,17 +78,17 @@ show_decoration: false
 infos:
   -
     id: lxocuwv1
-    from: '2024-09-09'
+    from: '2024-09-17'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Wir wünschen euch einen schönen Montag!'
+            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxd4i2
-    from: '2024-09-10'
+    from: '2024-09-18'
     text:
       -
         type: paragraph
@@ -98,17 +98,17 @@ infos:
             text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
   -
     id: lyfxd9c7
-    from: '2024-09-11'
+    from: '2024-09-19'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '10.25 - 10.45 Uhr: PAD Sprechstunde'
+            text: 'Wir wünschen euch einen schönen Donnerstag!'
   -
     id: lyfxewgl
-    from: '2024-09-06'
+    from: '2024-09-20'
     text:
       -
         type: paragraph
