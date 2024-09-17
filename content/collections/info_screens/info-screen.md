@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1726215929
+updated_at: 1726552635
 art: box
 color_theme: blue
 current:
@@ -26,14 +26,14 @@ current_events:
             text: '13.30 – 16.45 Uhr: Defibrillatorkurs Refresher, Aula – Viel Vergnügen!'
   -
     id: m03mhjth
-    from: '2024-09-16'
+    from: '2024-09-17'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '16.15 – 17.45 Uhr: QZ-Berufswahl, Aula – Viel Vergnügen!'
+            text: '17.30 – 20.30 Uhr: Kindergarten-Lehrpersonen, Weiterbildung VPD, Aula – Herzlich willkommen!'
   -
     id: m0jixoah
     from: '2024-09-21'
