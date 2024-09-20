@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1726812632
+updated_at: 1726812810
 art: box
 color_theme: blue
 current:
@@ -15,16 +15,6 @@ current:
         text: 'Wir wünschen allen einen schönen Tag!'
 current_events:
   -
-    id: lyfxfz3i
-    from: '2024-09-25'
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '18.00 – 20.30 Uhr: BFSUG Treffpunkt für Schwerhörige, Aula – Herzlich willkommen!'
-  -
     id: m03mhjth
     from: '2024-09-25'
     text:
@@ -34,6 +24,16 @@ current_events:
           -
             type: text
             text: '13.30 – 17.00 Uhr: Weiterbildung APD, Aula – Viel Vergnügen!'
+  -
+    id: lyfxfz3i
+    from: '2024-09-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.00 – 20.30 Uhr: BFSUG Treffpunkt für Schwerhörige, Aula – Herzlich willkommen!'
   -
     id: m0jixoah
     from: '2024-09-21'
