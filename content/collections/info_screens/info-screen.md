@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1726812476
+updated_at: 1726812585
 art: box
 color_theme: blue
 current:
@@ -16,24 +16,24 @@ current:
 current_events:
   -
     id: lyfxfz3i
-    from: '2024-09-18'
+    from: '2024-09-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '13.30 – 16.45 Uhr: Defibrillatorkurs Refresher, Aula – Viel Vergnügen!'
+            text: '18.00 – 20.30 Uhr: BFSUG Treffpunkt für Schwerhörige, Aula – Herzlich willkommen!'
   -
     id: m03mhjth
-    from: '2024-09-17'
+    from: '2024-09-25'
     text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '17.30 – 20.30 Uhr: Kindergarten-Lehrpersonen, Weiterbildung VPD, Aula – Herzlich willkommen!'
+            text: '13.30 – 17.00 Uhr: Weiterbildung APD, Aula – Viel Vergnügen!'
   -
     id: m0jixoah
     from: '2024-09-21'
@@ -44,6 +44,36 @@ current_events:
           -
             type: text
             text: 'Familientreffen APD – Herzlich willkommen!'
+  -
+    id: m1ablkk2
+    from: '2024-09-25'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '18.00 – 20.30 Uhr: Yoga für Hörbeeinträchtigte, Bühne – Viel Vergnügen!'
+  -
+    id: m1ablz4o
+    from: '2024-09-26'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '09.00 – 15.00 Uhr: Besuch Aargauische Sprachheilschule – Herzlich willkommen!'
+  -
+    id: m1abmefr
+    from: '2024-09-27'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '10.15 – 13.30 Uhr: Besuch Schule Quadrius – Herzlich willkommen!'
 show_decoration: false
 infos:
   -
