@@ -1,5 +1,6 @@
 ---
 id: 311be84a-e4e3-4669-87d4-929d659a0a15
+published: false
 blueprint: event
 event_card_layout: as_card
 title: 'Spezialwoche 7.-9. Klasse'
@@ -13,5 +14,5 @@ categories:
 seo_description_default: 'Der Landenhof unterstützt hör- und sehbeeinträchtigte Kinder & Jugendliche in ihrem selbstbestimmten Leben durch Förderung ihrer Fähigkeiten & Entwicklung'
 seo_hidden: false
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1721825444
+updated_at: 1727417753
 ---
