@@ -468,7 +468,7 @@ components:
       -
         id: ljr1q017
         name: 'Ferientermine bis 2026'
-        file: downloads/ferientermine_bis_2026.pdf
+        file: downloads/ferientermine_bis_2028.pdf
         open_in_tab: true
     button_text: 'Mehr anzeigen'
     type: downloads
