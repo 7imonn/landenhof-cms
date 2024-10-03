@@ -17,7 +17,7 @@ components:
       -
         id: lth992l8
         name: 'Jahresbericht 2022/23'
-        file: downloads/lh_jahresbericht_2022_23.pdf
+        file: downloads/jahresberichte/lh_jahresbericht_2022_23.pdf
         open_in_tab: true
       -
         id: lgqc9hcv
