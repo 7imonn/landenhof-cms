@@ -1,4 +1,8 @@
 title: Blog
+sites:
+  - default
+  - de-plain
+propagate: false
 template: default
 layout: layout
 mount: 8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d
