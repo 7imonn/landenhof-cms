@@ -1,8 +1,4 @@
 title: Seiten
-sites:
-  - default
-  - de-plain
-propagate: false
 template: default
 layout: layout
 revisions: false

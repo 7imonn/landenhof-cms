@@ -1,8 +1,4 @@
 title: Events
-sites:
-  - default
-  - de-plain
-propagate: false
 template: default
 layout: layout
 mount: 3de3de24-dda7-4c6f-afb0-4eb25597ee51

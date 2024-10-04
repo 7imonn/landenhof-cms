@@ -1,8 +1,4 @@
 title: Team
-sites:
-  - default
-  - de-plain
-propagate: false
 template: default
 layout: layout
 mount: f6bcab1b-725d-4004-8126-a5dc29e57696
