@@ -3,7 +3,7 @@ id: b7e06d5c-0ccc-4d17-b365-14c9c14bc351
 blueprint: info_screen
 title: 'Info Screen'
 updated_by: 685e5b8a-1ba7-40cb-b5da-6f92d040030b
-updated_at: 1728026272
+updated_at: 1728030679
 art: box
 color_theme: blue
 current:
@@ -97,5 +97,5 @@ on_visit:
         content:
           -
             type: text
-            text: 'Ab 18.00 Uhr: VPD- Anlass, Aula - Herzlich willkommen!'
+            text: 'Ab 18.00 Uhr: VPD-Anlass, Aula - Herzlich willkommen!'
 ---
