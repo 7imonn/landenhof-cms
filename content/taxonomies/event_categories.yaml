@@ -1,4 +1,7 @@
 title: 'Event Kategorien'
+sites:
+  - default
+  - de-plain
 preview_targets:
   -
     label: Term

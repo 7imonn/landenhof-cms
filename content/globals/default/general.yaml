@@ -1,0 +1,22 @@
+address_title: Adresse
+address: |-
+  Landenhof
+  Zentrum für Hören und Sehen
+  Landenhofweg 25
+  5035 Unterentfelden
+address_link: 'https://www.google.com/maps/place/Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige/@47.374816,8.044452,15z/data=!4m2!3m1!1s0x0:0x12bacb2c2362dd3e?sa=X&ved=2ahUKEwiQ75Tr4pr8AhWSLewKHSW_BkAQ_BJ6BAh8EAg'
+latitude: '47.3748152404601,'
+longitude: '8.04445145346212'
+phone: '+41 62 737 05 05'
+email: info@landenhof.ch
+pc_account: 'CH23 0900 0000 5000 1067 6'
+public_transport_title: 'Anreise mit ÖV'
+public_transport_text: |-
+  Ab Bahnhof Aarau: S14 Richtung Schöftland, bis Distelberg.
+  Von der Haltestelle Distelberg geht ein Fussweg durch den Wald zum Landenhof, Gehzeit ca. 7 Minuten.
+public_transport_link_title: 'SBB Fahrplanauskunft'
+public_transport_link: 'https://www.sbb.ch/de'
+private_transport_title: 'Anreise mit dem Auto'
+private_transport_text: 'Navigation: Landenhofweg 25, 5035 Unterentfelden als Ziel eingeben.'
+private_transport_link_title: 'Routenplaner Googlemaps'
+private_transport_link: 'https://www.google.com/maps/dir//Landenhof+%E2%80%93+Zentrum+und+Schweizerische+Schule+fu%CC%88r+Schwerh%C3%B6rige,+Landenhofweg+25,+5035+Unterentfelden/@47.3748196,8.0422633,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47903b90399376c3:0x12bacb2c2362dd3e!2m2!1d8.044452!2d47.374816!3e0'

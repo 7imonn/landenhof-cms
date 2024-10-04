@@ -1,4 +1,7 @@
 title: Funktionen
+sites:
+  - default
+  - de-plain
 preview_targets:
   -
     label: Term
