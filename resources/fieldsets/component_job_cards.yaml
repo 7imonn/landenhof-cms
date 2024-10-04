@@ -12,6 +12,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: manual
     field:
@@ -24,6 +25,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: jobs
     field:
@@ -40,6 +42,7 @@ fields:
       always_save: false
       if:
         manual: 'equals true'
+      localizable: true
   -
     handle: button_text
     field:
@@ -66,3 +69,4 @@ fields:
       visibility: visible
       always_save: false
       default: 'entry::c0a53f6a-b1db-4743-8846-000e71cc87a1'
+      localizable: true

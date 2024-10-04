@@ -17,6 +17,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: text
     field:
@@ -52,3 +53,4 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true

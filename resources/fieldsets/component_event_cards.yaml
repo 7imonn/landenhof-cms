@@ -12,6 +12,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: show_all_events
     field:
@@ -23,6 +24,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: true
+      localizable: true
   -
     handle: events
     field:
@@ -39,3 +41,4 @@ fields:
         show_all_events: 'equals false'
       collections:
         - events
+      localizable: true

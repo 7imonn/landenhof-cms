@@ -15,6 +15,7 @@ fields:
       visibility: visible
       always_save: false
       width: 50
+      localizable: true
   -
     handle: link
     field:
@@ -26,3 +27,4 @@ fields:
       visibility: visible
       always_save: false
       width: 50
+      localizable: true

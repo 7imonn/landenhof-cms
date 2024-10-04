@@ -14,6 +14,7 @@ fields:
       always_save: false
       validate:
         - required
+      localizable: true
   -
     import: file
   -

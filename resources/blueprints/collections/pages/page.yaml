@@ -17,6 +17,7 @@ sections:
           always_save: false
           input_type: text
           antlers: false
+          localizable: true
       -
         handle: hero_section
         field:
@@ -27,6 +28,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: hero_home
       -
@@ -39,6 +41,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: components
   sidebar:

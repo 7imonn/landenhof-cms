@@ -13,6 +13,7 @@ fields:
       visibility: visible
       always_save: false
       default: 'Weitere Blogbeiträge'
+      localizable: true
   -
     handle: load_automatically
     field:
@@ -26,6 +27,7 @@ fields:
       visibility: visible
       always_save: false
       width: 50
+      localizable: true
   -
     handle: amount_blog_posts
     field:
@@ -45,6 +47,7 @@ fields:
         load_automatically: 'equals true'
       validate:
         - 'min:1'
+      localizable: true
   -
     handle: blog_posts
     field:
@@ -62,6 +65,7 @@ fields:
         load_automatically: 'equals false'
       collections:
         - blog_posts
+      localizable: true
   -
     handle: button_text
     field:
@@ -76,6 +80,7 @@ fields:
       visibility: visible
       always_save: false
       default: 'Zur Übersicht'
+      localizable: true
   -
     handle: button_link
     field:
@@ -88,3 +93,4 @@ fields:
       visibility: visible
       always_save: false
       default: 'entry::8e1e8a71-0dc7-4248-84e7-ab40f4e0a88d'
+      localizable: true

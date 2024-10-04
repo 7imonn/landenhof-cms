@@ -11,5 +11,6 @@ fields:
       visibility: visible
       always_save: false
       instructions: 'Hier werden alle Blogbeiträge, aus der Blog-Sammlung chronologisch angezeigt. Der Blog-Filter wird automatisch angezeigt.'
+      localizable: true
   -
     import: lead

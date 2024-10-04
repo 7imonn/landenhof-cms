@@ -19,6 +19,7 @@ sections:
           visibility: visible
           always_save: false
           instructions: 'Definiert das Verhalten der Eventkarte, welche mit diesem Event verlinkt ist.'
+          localizable: true
       -
         handle: title
         field:
@@ -26,6 +27,7 @@ sections:
           required: true
           validate:
             - required
+          localizable: true
       -
         handle: event_date
         field:
@@ -43,6 +45,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: time
         field:
@@ -55,6 +58,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: location
         field:
@@ -66,6 +70,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: file
       -
@@ -78,6 +83,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: lead
       -
@@ -92,6 +98,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: component_contact_teaser
   sidebar:

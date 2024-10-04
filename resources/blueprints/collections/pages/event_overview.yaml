@@ -10,6 +10,7 @@ sections:
           required: true
           validate:
             - required
+          localizable: true
       -
         handle: hero_section
         field:
@@ -20,6 +21,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: hero_small
       -

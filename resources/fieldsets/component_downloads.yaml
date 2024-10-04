@@ -121,6 +121,7 @@ fields:
       visibility: visible
       always_save: false
       default: 'Mehr anzeigen'
+      localizable: true
   -
     handle: link
     field:
@@ -132,3 +133,4 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true

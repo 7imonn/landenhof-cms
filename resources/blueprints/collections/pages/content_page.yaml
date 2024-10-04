@@ -17,6 +17,7 @@ sections:
           always_save: false
           input_type: text
           antlers: false
+          localizable: true
       -
         import: heros
       -
@@ -29,6 +30,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: lead
       -

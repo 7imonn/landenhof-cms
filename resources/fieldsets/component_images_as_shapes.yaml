@@ -16,6 +16,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: overlap_top
     field:
@@ -48,3 +49,4 @@ fields:
       visibility: visible
       always_save: false
       width: 50
+      localizable: true

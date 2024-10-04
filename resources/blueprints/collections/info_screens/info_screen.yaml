@@ -10,6 +10,7 @@ sections:
           required: true
           validate:
             - required
+          localizable: true
       -
         handle: galerie
         field:
@@ -26,6 +27,7 @@ sections:
           visibility: visible
           always_save: false
           folder: infoscreen
+          localizable: true
       -
         handle: show_decoration
         field:
@@ -38,6 +40,7 @@ sections:
           visibility: visible
           always_save: false
           instructions: 'Wenn aktiviert wird links vom Bild ein weisses Dekorationselement angezeigt'
+          localizable: true
       -
         handle: info_header
         field:
@@ -48,6 +51,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: art
         field:
@@ -62,6 +66,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: info_text
         field:
@@ -101,6 +106,7 @@ sections:
           always_save: false
           if:
             art: 'equals text'
+          localizable: true
       -
         handle: infos
         field:
@@ -119,6 +125,7 @@ sections:
           add_row: 'Info hinzufügen'
           if:
             art: 'equals box'
+          localizable: true
       -
         handle: today
         field:
@@ -129,6 +136,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: current_events
         field:
@@ -145,6 +153,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: on_visit
         field:
@@ -161,6 +170,7 @@ sections:
           visibility: visible
           always_save: false
           add_row: 'Besuch hinzufügen'
+          localizable: true
       -
         handle: current
         field:
@@ -199,6 +209,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
   sidebar:
     display: Sidebar
     fields:
@@ -221,7 +232,6 @@ sections:
             - info_screens
           max_items: 1
           listable: false
-          localizable: true
           instructions_position: above
           visibility: read_only
           always_save: false

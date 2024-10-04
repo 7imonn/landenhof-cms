@@ -16,10 +16,15 @@ return [
     'sites' => [
 
         'default' => [
-            'name' => config('app.name'),
+            'name' => 'Deutsch',
             'lang' => 'de',
             'locale' => 'de',
             'url' => config('app.frontend_url'),
+        ],
+        "de-plain" => [
+            'name' => 'Deutsch - Einfache Sprache',
+            'locale' => 'de',
+            'url' => config('app.frontend_url') . '/plain',
         ],
 
     ],

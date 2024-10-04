@@ -24,6 +24,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: overlay_image
     field:

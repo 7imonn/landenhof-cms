@@ -13,6 +13,7 @@ fields:
       visibility: visible
       always_save: false
       default: 'Entdecke mehr'
+      localizable: true
   -
     handle: entries
     field:
@@ -28,6 +29,7 @@ fields:
       instructions: 'Wähle die Inhaltsseiten aus, die im Slider angezeigt werden sollen.'
       collections:
         - pages
+      localizable: true
   -
     handle: button_text
     field:
@@ -42,6 +44,7 @@ fields:
       visibility: visible
       always_save: false
       default: 'Mehr anzeigen'
+      localizable: true
   -
     handle: button_link
     field:
@@ -53,3 +56,4 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true

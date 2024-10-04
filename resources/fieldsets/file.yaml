@@ -19,3 +19,4 @@ fields:
       instructions: 'Es kann entweder eine Lottie (.json) oder Bild Datei hochgeladen werden.'
       validate:
         - required
+      localizable: true

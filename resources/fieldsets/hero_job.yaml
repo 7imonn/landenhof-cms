@@ -30,6 +30,7 @@ fields:
       buttons:
         - removeformat
       instructions: 'Zeilenumbruch wird berücksichtigt.'
+      localizable: true
   -
     handle: file
     field:
@@ -51,6 +52,7 @@ fields:
         - required
         - 'mimes:json'
       folder: lottie
+      localizable: true
   -
     handle: items
     field:
@@ -111,3 +113,4 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true

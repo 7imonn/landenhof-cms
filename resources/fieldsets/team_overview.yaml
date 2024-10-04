@@ -11,6 +11,7 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     handle: with_filter
     field:
@@ -46,5 +47,6 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      localizable: true
   -
     import: lead

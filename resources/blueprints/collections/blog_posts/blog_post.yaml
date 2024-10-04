@@ -10,6 +10,7 @@ sections:
           required: true
           validate:
             - required
+          localizable: true
       -
         handle: blog_date
         field:
@@ -27,6 +28,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: author
         field:
@@ -39,6 +41,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: image
         field:
@@ -55,6 +58,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: content_section
         field:
@@ -65,6 +69,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: lead
       -
@@ -79,6 +84,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         handle: show_blog_slider
         field:
@@ -90,6 +96,7 @@ sections:
           instructions_position: above
           visibility: visible
           always_save: false
+          localizable: true
       -
         import: component_blog_slider
         prefix: slider_

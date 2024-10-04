@@ -42,6 +42,7 @@ fields:
       instructions_position: above
       visibility: hidden
       always_save: false
+      localizable: true
   -
     handle: seo_image
     field:

@@ -91,3 +91,4 @@ fields:
             always_save: false
         -
           import: link
+      localizable: true

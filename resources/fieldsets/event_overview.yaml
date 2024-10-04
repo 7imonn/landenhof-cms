@@ -11,5 +11,6 @@ fields:
       visibility: visible
       always_save: false
       instructions: 'Hier werden alle Events die in der Event Sammlung erfasst sind chronologisch angezeigt. Die Filter werden darüber angezeigt.'
+      localizable: true
   -
     import: lead
