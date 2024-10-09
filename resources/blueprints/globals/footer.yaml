@@ -7,7 +7,7 @@ sections:
         field:
           input_type: text
           antlers: false
-          default: '© die Mobiliar'
+          default: 'Landenhof'
           display: Name
           type: text
           icon: text
